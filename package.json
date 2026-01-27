@@ -1,0 +1,27 @@
+{
+  "name": "awesome-clawdbot-skills",
+  "version": "1.0.0",
+  "description": "A collection of 565+ community-built skills for Clawdbot, categorized for easy discovery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksksrbiz-arch/awesome-clawdbot-skills.git"
+  },
+  "keywords": [
+    "clawdbot",
+    "skills",
+    "ai",
+    "awesome",
+    "awesome-list"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksksrbiz-arch/awesome-clawdbot-skills/issues"
+  },
+  "homepage": "https://github.com/ksksrbiz-arch/awesome-clawdbot-skills#readme",
+  "devDependencies": {}
+}
