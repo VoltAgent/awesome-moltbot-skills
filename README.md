@@ -45,6 +45,7 @@ Download and install a skill directly from GitHub without any CLI tools:
 SKILL_PATH="steipete/discord"
 SKILL_NAME="discord"
 mkdir -p ~/.clawdbot/skills/${SKILL_NAME}
+# The --strip-components=4 removes the GitHub archive prefix: skills-main/skills/author/skill-name -> files
 curl -L "https://github.com/clawdbot/skills/archive/refs/heads/main.tar.gz" | \
   tar -xz --strip-components=4 -C ~/.clawdbot/skills/${SKILL_NAME} "skills-main/skills/${SKILL_PATH}"
 ```
@@ -55,6 +56,7 @@ curl -L "https://github.com/clawdbot/skills/archive/refs/heads/main.tar.gz" | \
 SKILL_PATH="steipete/discord"
 SKILL_NAME="discord"
 mkdir -p ~/.clawdbot/skills/${SKILL_NAME}
+# The --strip-components=4 removes the GitHub archive prefix: skills-main/skills/author/skill-name -> files
 wget -qO- "https://github.com/clawdbot/skills/archive/refs/heads/main.tar.gz" | \
   tar -xz --strip-components=4 -C ~/.clawdbot/skills/${SKILL_NAME} "skills-main/skills/${SKILL_PATH}"
 ```
@@ -72,6 +74,7 @@ git config core.sparseCheckout true
 echo "skills/${SKILL_PATH}/*" >> .git/info/sparse-checkout
 git pull origin main
 mv skills/${SKILL_PATH}/* .
+# Remove git files to keep installation clean (omit this line to preserve git history)
 rm -rf skills .git
 ```
 
