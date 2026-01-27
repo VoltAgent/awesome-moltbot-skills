@@ -68,7 +68,7 @@ Priority: Workspace > Local > Bundled
 - [Marketing & Sales](#marketing--sales) (36)
 - [Productivity & Tasks](#productivity--tasks) (33)
 - [AI & LLMs](#ai--llms) (31)
-- [Finance & Crypto](#finance--crypto) (30)
+- [Finance & Crypto](#finance--crypto) (31)
 - [Media & Streaming](#media--streaming) (27)
 - [Notes & PKM](#notes--pkm) (26)
 - [iOS & macOS Development](#ios--macos-development) (13)
@@ -417,6 +417,7 @@ Priority: Workspace > Local > Bundled
 - [crypto-price](https://github.com/moltbot/skills/tree/main/skills/evgyur/crypto-price/SKILL.md) - Get cryptocurrency token price and generate candlestick charts via CoinGecko API.
 - [crypto-tracker](https://github.com/moltbot/skills/tree/main/skills/dbhurley/crypto-tracker/SKILL.md) - Track crypto prices, set alerts, and search coins via CoinGecko API.
 - [harvey](https://github.com/moltbot/skills/tree/main/skills/udiedrichsen/harvey/SKILL.md) - Harvey is an imaginary friend and conversation companion.
+- [heurist-mesh](https://github.com/moltbot/skills/tree/main/skills/wjw12/heurist-mesh/SKILL.md) - Web3 intelligence via 30+ specialized crypto analytics agents - token search, trending tokens, Twitter intelligence, wallet analysis, technical indicators and more.
 - [ibkr-trading](https://github.com/moltbot/skills/tree/main/skills/flokiew/ibkr-trader/SKILL.md) - Interactive Brokers (IBKR) trading automation via Client Portal API.
 - [idea](https://github.com/moltbot/skills/tree/main/skills/andrewjiang/idea/SKILL.md) - Launch background Claude sessions to explore and analyze business ideas.
 - [just-fucking-cancel](https://github.com/moltbot/skills/tree/main/skills/chipagosfinest/just-fucking-cancel/SKILL.md) - Analyze bank transaction CSVs to find recurring charges, categorize subscriptions.
