@@ -8,16 +8,16 @@ on:
 jobs:
   install-dependencies:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      
+
       - name: Cache dependencies
         uses: actions/cache@v3
         with:
@@ -27,18 +27,19 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
-      
+
       - name: Install dependencies
         run: |
           if [ -f package.json ]; then
             echo "Installing npm dependencies..."
             npm ci || npm install
           else
-            echo "No package.json found. Creating basic package.json for future use."
+            echo "No package.json found."
+            echo "Creating basic package.json for future use."
             npm init -y
             echo "Installed npm successfully."
           fi
-      
+
       - name: Verify installation
         run: |
           echo "Node version: $(node --version)"
