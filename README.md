@@ -35,15 +35,57 @@ These skills follow the Agent Skill convention develop by Anthropic, an open sta
 
 ## Installation
 
-### ClawdHub CLI
+### Option 1: Direct Download (No CLI Required)
+
+Download and install a skill directly from GitHub without any CLI tools:
+
+**Using curl:**
+```bash
+# Example: Installing the 'discord' skill by steipete
+SKILL_PATH="steipete/discord"
+SKILL_NAME="discord"
+mkdir -p ~/.clawdbot/skills/${SKILL_NAME}
+curl -L "https://github.com/clawdbot/skills/archive/refs/heads/main.tar.gz" | \
+  tar -xz --strip-components=4 -C ~/.clawdbot/skills/${SKILL_NAME} "skills-main/skills/${SKILL_PATH}"
+```
+
+**Using wget:**
+```bash
+# Example: Installing the 'discord' skill by steipete
+SKILL_PATH="steipete/discord"
+SKILL_NAME="discord"
+mkdir -p ~/.clawdbot/skills/${SKILL_NAME}
+wget -qO- "https://github.com/clawdbot/skills/archive/refs/heads/main.tar.gz" | \
+  tar -xz --strip-components=4 -C ~/.clawdbot/skills/${SKILL_NAME} "skills-main/skills/${SKILL_PATH}"
+```
+
+**Using git (sparse checkout):**
+```bash
+# Example: Installing the 'discord' skill by steipete
+SKILL_PATH="steipete/discord"
+SKILL_NAME="discord"
+mkdir -p ~/.clawdbot/skills/${SKILL_NAME}
+cd ~/.clawdbot/skills/${SKILL_NAME}
+git init
+git remote add origin https://github.com/clawdbot/skills.git
+git config core.sparseCheckout true
+echo "skills/${SKILL_PATH}/*" >> .git/info/sparse-checkout
+git pull origin main
+mv skills/${SKILL_PATH}/* .
+rm -rf skills .git
+```
+
+> **Note:** Replace `SKILL_PATH` with the author/skill-name path (e.g., `steipete/discord`). You can find these paths by clicking on any skill link in the list below.
+
+### Option 2: ClawdHub CLI (Requires Node.js)
 
 ```bash
 npx clawdhub@latest install <skill-slug>
 ```
 
-### Manual Installation
+### Installation Locations
 
-Copy the skill folder to one of these locations:
+Skills should be placed in one of these locations:
 
 | Location | Path |
 |----------|------|
