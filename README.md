@@ -75,7 +75,7 @@ Priority: Workspace > Local > Bundled
 - [Transportation](#transportation) (34)
 - [Personal Development](#personal-development) (27)
 - [Health & Fitness](#health--fitness) (26)
-- [Communication](#communication) (26)
+- [Communication](#communication) (27)
 - [Speech & Transcription](#speech--transcription) (21)
 - [Smart Home & IoT](#smart-home--iot) (31)
 - [Shopping & E-commerce](#shopping--e-commerce) (22)
@@ -767,6 +767,7 @@ Priority: Workspace > Local > Bundled
 - [gram](https://github.com/moltbot/skills/tree/main/skills/arein/gram/SKILL.md) - Instagram CLI: feeds, posts, profiles, engagement.
 - [reddit-cli](https://github.com/moltbot/skills/tree/main/skills/kelsia14/reddit-cli/SKILL.md) - Reddit CLI for browsing posts and subreddits.
 - [discord-voice](https://github.com/moltbot/skills/tree/main/skills/avatarneil/discord-voice/SKILL.md) - Real-time voice conversations in Discord with Claude AI.
+- [kweenkl](https://github.com/antoinedelorme/kweenkl-mcp) - Send instant push notifications to iPhone via kweenkl. One API call, one token, zero complexity. MCP server included.
 
 </details>
 
