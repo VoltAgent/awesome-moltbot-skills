@@ -302,6 +302,8 @@ Priority: Workspace > Local > Bundled
 - [clawdbot-workspace-template-review](https://github.com/openclaw/skills/tree/main/skills/xadenryan/clawdbot-skill-clawdbot-workspace-template-review/SKILL.md) - Compare a Clawdbot workspace against the official templates installed with Clawdbot (npm.
 - [clawddocs](https://github.com/openclaw/skills/tree/main/skills/nicholasspisak/clawddocs/SKILL.md) - Clawdbot documentation expert with decision tree navigation, search scripts, doc fetching.
 - [clawdhub](https://github.com/openclaw/skills/tree/main/skills/steipete/clawdhub/SKILL.md) - Use the ClawdHub CLI to search, install, update, and publish agent skills from clawdhub.com.
+- [cron-creator](https://github.com/digitaladaption/cron-creator) - Create Clawdbot cron jobs from natural language without terminal commands.
+- [cron-helper](https://github.com/digitaladaption/clawdbot-cron-helper) - Create, troubleshoot, and manage Clawdbot cron jobs with CLI examples and patterns.
 - [clawdlink](https://github.com/openclaw/skills/tree/main/skills/davemorin/clawdlink/SKILL.md) - Encrypted Clawdbot-to-Clawdbot messaging.
 - [skills-audit](https://github.com/openclaw/skills/tree/main/skills/morozred/skill-audit/SKILL.md) - Audit locally installed agent skills for security/policy issues.
 - [skills-search](https://github.com/openclaw/skills/tree/main/skills/thesethrose/skills-search/SKILL.md) - Search skills.sh registry from CLI. Find and discover agent skills from the skills.sh ecosystem.
@@ -430,6 +432,7 @@ Priority: Workspace > Local > Bundled
 <summary><h3 style="display:inline">Productivity & Tasks</h3></summary>
 
 - [clawd-docs-v2](https://github.com/openclaw/skills/tree/main/skills/aranej/clawd-docs-v2/SKILL.md) - Smart ClawdBot documentation access with local search index, cached snippets, and on-demand fetch.
+- [cron-creator](https://github.com/digitaladaption/cron-creator) - Create Clawdbot cron jobs from natural language without terminal commands.
 - [clickup-mcp](https://github.com/openclaw/skills/tree/main/skills/pvoo/clickup-mcp/SKILL.md) - Manage ClickUp tasks, docs, time tracking, comments, chat, and search via official MCP.
 - [dex](https://github.com/openclaw/skills/tree/main/skills/gricha/dex/SKILL.md) - Task tracking for async/multi-step work.
 - [dexcom](https://github.com/openclaw/skills/tree/main/skills/chris-clem/dexcom/SKILL.md) - Monitor blood glucose via Dexcom G7/G6 CGM.
@@ -488,7 +491,7 @@ Priority: Workspace > Local > Bundled
 - [llm-council](https://github.com/openclaw/skills/tree/main/skills/am-will/llm-council/SKILL.md) - Orchestrate multi-LLM councils to produce and merge implementation plans.
 - [lmstudio-subagents](https://github.com/openclaw/skills/tree/main/skills/t-sinclair2500/lm-studio-subagents/SKILL.md) - Equips agents to search for and offload tasks to local models in LM Studio.
 - [minimax-usage](https://github.com/openclaw/skills/tree/main/skills/thesethrose/minimax-usage/SKILL.md) - Monitor Minimax Coding Plan usage to stay within API limits.
-- [model-router](https://github.com/openclaw/skills/tree/main/skills/digitaladaption/model-router/SKILL.md) - A comprehensive AI model routing system that automatically selects the optimal model for any task.
+- [model-router](https://github.com/digitaladaption/model-router) - A comprehensive AI model routing system that automatically selects the optimal model for any task.
 - [nano-banana-pro](https://github.com/openclaw/skills/tree/main/skills/steipete/nano-banana-pro/SKILL.md) - Generate/edit images with Nano Banana Pro (Gemini 3 Pro Image).
 - [openai-docs-skill](https://github.com/openclaw/skills/tree/main/skills/am-will/openai-docs/SKILL.md) - Query the OpenAI developer documentation via the OpenAI Docs MCP server using CLI (curl/jq).
 - [openai-image-gen](https://github.com/openclaw/skills/tree/main/skills/steipete/openai-image-gen/SKILL.md) - Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery.
