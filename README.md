@@ -70,7 +70,7 @@ Priority: Workspace > Local > Bundled
 - [Marketing & Sales](#marketing--sales) (42)
 - [Productivity & Tasks](#productivity--tasks) (41)
 - [AI & LLMs](#ai--llms) (38)
-- [Finance](#finance) (29)
+- [Finance](#finance) (30)
 - [Media & Streaming](#media--streaming) (29)
 - [Notes & PKM](#notes--pkm) (44)
 - [iOS & macOS Development](#ios--macos-development) (13)
@@ -549,6 +549,7 @@ Priority: Workspace > Local > Bundled
 - [refund-radar](https://github.com/openclaw/skills/tree/main/skills/andreolf/refund-radar/SKILL.md) - Scan bank statements for recurring charges and draft refund requests.
 - [expense-tracker-pro](https://github.com/openclaw/skills/tree/main/skills/jhillin8/expense-tracker-pro/SKILL.md) - Track expenses via natural language with budget summaries.
 - [financial-market-analysis](https://github.com/openclaw/skills/tree/main/skills/seyhunak/financial-market-analysis/SKILL.md) - Stock and market sentiment analysis via Yahoo Finance.
+- [polyclaw](https://github.com/chainstacklabs/polyclaw) - Trade on Polymarket via split + CLOB execution. Browse markets, track positions with P&L, discover hedges via LLM.
 
 </details>
 
