@@ -266,6 +266,7 @@ Priority: Workspace > Local > Bundled
 - [brave-search](https://github.com/openclaw/skills/tree/main/skills/steipete/brave-search/SKILL.md) - Web search and content extraction via Brave Search API.
 - [brightdata](https://github.com/openclaw/skills/tree/main/skills/meirkad/bright-data/SKILL.md) - Web scraping and search via Bright Data API.
 - [clawdbot-logs](https://github.com/openclaw/skills/tree/main/skills/satriapamudji/clawdbot-logs/SKILL.md) - Analyze Clawdbot logs and diagnostics. Use when the user asks about bot performance.
+- [community-scout](https://github.com/rockywuest/community-scout) - AI dev community intelligence. Monitors Hacker News, GitHub Trending, Reddit, X/Twitter — agent analyzes and delivers what matters.
 - [exa](https://github.com/openclaw/skills/tree/main/skills/fardeenxyz/exa/SKILL.md) - Neural web search and code context via Exa AI API. Requires EXA_API_KEY.
 - [kagi-search](https://github.com/openclaw/skills/tree/main/skills/silversteez/kagi-search/SKILL.md) - Web search using Kagi Search API. Use when you need to search the web.
 - [literature-review](https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/literature-review/SKILL.md) - Assistance with writing literature reviews by searching for academic sources.
@@ -294,6 +295,7 @@ Priority: Workspace > Local > Bundled
 
 - [agent-browser](https://github.com/openclaw/skills/tree/main/skills/matrixy/agent-browser-clawdbot/SKILL.md) - Headless browser automation CLI optimized for AI agents with accessibility tree snapshots.
 - [auto-updater](https://github.com/openclaw/skills/tree/main/skills/maximeprades/auto-updater/SKILL.md) - Automatically update Clawdbot and all installed skills once daily.
+- [bookend-skill](https://github.com/rockywuest/bookend-skill) - Structured memory and state management for OpenClaw agents. Morning briefings, EOD checkpoints, daily logs — never lose context again.
 - [claude-code-usage](https://github.com/openclaw/skills/tree/main/skills/azaidi94/claude-code-usage/SKILL.md) - Check Claude Code OAuth usage limits (session & weekly quotas).
 - [claude-connect](https://github.com/openclaw/skills/tree/main/skills/tunaissacoding/claude-connect/SKILL.md) - Connect Claude to Clawdbot instantly and keep it connected 24/7.
 - [clawd-modifier](https://github.com/openclaw/skills/tree/main/skills/masonc15/clawd-modifier/SKILL.md) - Modify Clawd, the Claude Code mascot. Use this skill when users want to customize Clawd's.
@@ -338,6 +340,7 @@ Priority: Workspace > Local > Bundled
 - [portable-tools](https://github.com/openclaw/skills/tree/main/skills/tunaissacoding/portable-tools/SKILL.md) - Build cross-device tools without hardcoding paths or account names.
 - [post-at](https://github.com/openclaw/skills/tree/main/skills/krausefx/post-at/SKILL.md) - Manage Austrian Post (post.at) deliveries - list packages, check delivery status.
 - [process-watch](https://github.com/openclaw/skills/tree/main/skills/dbhurley/process-watch/SKILL.md) - Monitor system processes - CPU, memory, disk I/O, network, open files, ports.
+- [reminder-helper](https://github.com/rockywuest/reminder-helper) - Bulletproof date/time calculator for AI agents. Solves the LLM date-math problem with deterministic timestamps from natural language (German & English).
 - [sag](https://github.com/openclaw/skills/tree/main/skills/steipete/sag/SKILL.md) - ElevenLabs text-to-speech with mac-style say UX.
 - [shorten](https://github.com/openclaw/skills/tree/main/skills/kesslerio/shorten/SKILL.md) - Shorten URLs using is.gd (no auth required). Returns a permanent short link.
 - [simple-backup](https://github.com/openclaw/skills/tree/main/skills/vacinc/simple-backup/SKILL.md) - Backup agent brain (workspace) and body (state) to local folder.
@@ -713,7 +716,6 @@ Priority: Workspace > Local > Bundled
 <details>
 <summary><h3 style="display:inline">Health & Fitness</h3></summary>
 
-- [coach](https://github.com/openclaw/skills/tree/main/skills/shiv19/clawd-coach/SKILL.md) - Create personalized triathlon, marathon, and ultra-endurance training plans.
 - [endurance-coach](https://github.com/openclaw/skills/tree/main/skills/shiv19/endurance-coach/SKILL.md) - Create personalized triathlon, marathon, and ultra-endurance training plans.
 - [fitbit](https://github.com/openclaw/skills/tree/main/skills/mjrussell/fitbit/SKILL.md) - Query Fitbit health data including sleep, heart rate, activity, SpO2, and breathing rate.
 - [fitbit-analytics](https://github.com/openclaw/skills/tree/main/skills/kesslerio/fitbit-analytics/SKILL.md) - Fitbit health and fitness data integration.
@@ -818,6 +820,7 @@ Priority: Workspace > Local > Bundled
 - [nest-devices](https://github.com/openclaw/skills/tree/main/skills/amogower/nest-devices/SKILL.md) - Control Nest smart home devices (thermostat, cameras, doorbell) via the Device Access API.
 - [openhue](https://github.com/openclaw/skills/tree/main/skills/steipete/openhue/SKILL.md) - Control Philips Hue lights/scenes via the OpenHue CLI.
 - [pihole](https://github.com/openclaw/skills/tree/main/skills/baanish/pihole/SKILL.md) - pihole
+- [pidog-embodiment](https://github.com/rockywuest/pidog-embodiment) - Give your AI agent a physical robot body. Brain/Body architecture with voice control, face recognition, autonomous behaviors, and LLM-powered conversation for SunFounder PiDog.
 - [printer](https://github.com/openclaw/skills/tree/main/skills/dhvanilpatel/printer/SKILL.md) - Manage printers via CUPS on macOS (discover, add, print, queue, status, wake).
 - [voicemonkey](https://github.com/openclaw/skills/tree/main/skills/jayakumark/voicemonkey/SKILL.md) - Control Alexa devices via VoiceMonkey API v2 - make announcements, trigger routines, start flows.
 - [tesla-fleet-api](https://github.com/openclaw/skills/tree/main/skills/odrobnik/tesla-fleet-api/SKILL.md) - Tesla Fleet API: HVAC, charge controls, wake vehicle, OAuth flows.
