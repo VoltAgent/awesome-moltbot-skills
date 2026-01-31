@@ -70,7 +70,7 @@ Priority: Workspace > Local > Bundled
 - [Marketing & Sales](#marketing--sales) (42)
 - [Productivity & Tasks](#productivity--tasks) (41)
 - [AI & LLMs](#ai--llms) (38)
-- [Finance](#finance) (29)
+- [Finance](#finance) (30)
 - [Media & Streaming](#media--streaming) (29)
 - [Notes & PKM](#notes--pkm) (44)
 - [iOS & macOS Development](#ios--macos-development) (13)
@@ -547,6 +547,7 @@ Priority: Workspace > Local > Bundled
 - [card-optimizer](https://github.com/openclaw/skills/tree/main/skills/scottfo/card-optimizer/SKILL.md) - Credit card rewards optimizer for cashback, points, and miles.
 - [watch-my-money](https://github.com/openclaw/skills/tree/main/skills/andreolf/watch-my-money/SKILL.md) - Analyze bank transactions, categorize spending, track budgets.
 - [refund-radar](https://github.com/openclaw/skills/tree/main/skills/andreolf/refund-radar/SKILL.md) - Scan bank statements for recurring charges and draft refund requests.
+- [revolut](https://github.com/christianhaberl/revolut-openclaw-skill) - Revolut Business API CLI — accounts, balances, transactions, counterparties, payments, FX exchange, CSV export. Auto-refreshes OAuth tokens.
 - [expense-tracker-pro](https://github.com/openclaw/skills/tree/main/skills/jhillin8/expense-tracker-pro/SKILL.md) - Track expenses via natural language with budget summaries.
 - [financial-market-analysis](https://github.com/openclaw/skills/tree/main/skills/seyhunak/financial-market-analysis/SKILL.md) - Stock and market sentiment analysis via Yahoo Finance.
 
