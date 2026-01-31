@@ -72,7 +72,7 @@ Priority: Workspace > Local > Bundled
 - [AI & LLMs](#ai--llms) (38)
 - [Finance](#finance) (29)
 - [Media & Streaming](#media--streaming) (29)
-- [Notes & PKM](#notes--pkm) (44)
+- [Notes & PKM](#notes--pkm) (45)
 - [iOS & macOS Development](#ios--macos-development) (13)
 - [Transportation](#transportation) (34)
 - [Personal Development](#personal-development) (27)
@@ -634,6 +634,7 @@ Priority: Workspace > Local > Bundled
 - [news-summary](https://github.com/openclaw/skills/tree/main/skills/joargp/news-summary/SKILL.md) - This skill should be used when the user asks for news updates, daily briefings.
 - [newsletter-digest](https://github.com/openclaw/skills/tree/main/skills/jhillin8/newsletter-digest/SKILL.md) - Summarize newsletters and articles, extract key insights, create reading lists.
 - [orf-digest](https://github.com/openclaw/skills/tree/main/skills/cpojer/orf/SKILL.md) - On-demand ORF news digest in German. Use when the user says 'orf', 'pull orf', or 'orf 10'.
+- [vestige](https://github.com/openclaw/skills/tree/main/skills/belkouche/vestige/SKILL.md) - Cognitive memory with FSRS-6 spaced repetition. Memories fade naturally.
 
 </details>
 
