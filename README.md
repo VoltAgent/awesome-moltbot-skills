@@ -66,7 +66,7 @@ Priority: Workspace > Local > Bundled
 - [Apple Apps & Services](#apple-apps--services) (14)
 - [Search & Research](#search--research) (23)
 - [Clawdbot Tools](#clawdbot-tools) (17)
-- [CLI Utilities](#cli-utilities) (41)
+- [CLI Utilities](#cli-utilities) (42)
 - [Marketing & Sales](#marketing--sales) (42)
 - [Productivity & Tasks](#productivity--tasks) (41)
 - [AI & LLMs](#ai--llms) (38)
@@ -316,6 +316,7 @@ Priority: Workspace > Local > Bundled
 <summary><h3 style="display:inline">CLI Utilities</h3></summary>
 
 - [bible](https://github.com/openclaw/skills/tree/main/skills/dbhurley/bible-votd/SKILL.md) - Get the Bible.com Verse of the Day with shareable image.
+- [boggle](https://github.com/christianhaberl/boggle-openclaw-skill) - Boggle board solver — trie-based DFS, 1.7M words (DE+EN), Qu-tile support, <5ms solve time.
 - [camsnap](https://github.com/openclaw/skills/tree/main/skills/steipete/camsnap/SKILL.md) - Capture frames or clips from RTSP/ONVIF cameras.
 - [canvas-lms](https://github.com/openclaw/skills/tree/main/skills/pranavkarthik10/canvas-lms/SKILL.md) - Access Canvas LMS (Instructure) for course data, assignments, grades, and submissions.
 - [Cat Fact](https://github.com/openclaw/skills/tree/main/skills/thesethrose/catfact/SKILL.md) - Random cat facts and breed information from catfact.ninja (free, no API key).
