@@ -64,7 +64,7 @@ Priority: Workspace > Local > Bundled
 - [Browser & Automation](#browser--automation) (11)
 - [Image & Video Generation](#image--video-generation) (19)
 - [Apple Apps & Services](#apple-apps--services) (14)
-- [Search & Research](#search--research) (23)
+- [Search & Research](#search--research) (24)
 - [Clawdbot Tools](#clawdbot-tools) (17)
 - [CLI Utilities](#cli-utilities) (41)
 - [Marketing & Sales](#marketing--sales) (42)
@@ -287,6 +287,7 @@ Priority: Workspace > Local > Bundled
 - [parallel](https://github.com/openclaw/skills/tree/main/skills/pntrivedy/parallel-1-0-1/SKILL.md) - Parallel.ai web search optimized for AI agents.
 - [searxng](https://github.com/openclaw/skills/tree/main/skills/abk234/searxng/SKILL.md) - Privacy-respecting metasearch via local SearXNG instance.
 - [news-aggregator](https://github.com/openclaw/skills/tree/main/skills/cclank/news-aggregator-skill/SKILL.md) - News from 8 sources: Hacker News, GitHub Trending, Product Hunt, and more.
+- [clawgle](https://clawgle.andrewgbouras.workers.dev/skill.md) - Agent library search. Auto-searches existing solutions before building, publishes reusable work after. Saves tokens.
 
 </details>
 
