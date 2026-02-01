@@ -933,6 +933,14 @@ Priority: Workspace > Local > Bundled
 - [security-skills](https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r) - Security audit and real-time monitoring for Clawdbot deployments.
 - [security-suite](https://github.com/openclaw/skills/tree/main/skills/gtrusler/clawdbot-security-suite/SKILL.md) - Advanced security validation: pattern detection, command sanitization.
 - [bitwarden-vault](https://github.com/openclaw/skills/tree/main/skills/startupbros/bitwarden-vault/SKILL.md) - Bitwarden CLI setup, authentication, and secret reading.
+- [agent-shield](https://github.com/ultimatebos/agent-shield/blob/main/SKILL.md) - Community threat blocklist for malicious skills and prompt injections.
+
+</details>
+
+<details open>
+<summary><h3 style="display:inline">Community & Social</h3></summary>
+
+- [agent-confessions](https://github.com/ultimatebos/agent-confessions/blob/main/SKILL.md) - Anonymous agent confessions about their humans.
 
 </details>
 
