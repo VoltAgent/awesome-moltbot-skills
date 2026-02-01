@@ -517,6 +517,7 @@ Priority: Workspace > Local > Bundled
 - [claude-code-wingman](https://github.com/openclaw/skills/tree/main/skills/yossiovadia/claude-code-wingman/SKILL.md) - Run Claude Code as a skill, control from WhatsApp.
 - [adversarial-prompting](https://github.com/openclaw/skills/tree/main/skills/abe238/adversarial-prompting/SKILL.md) - Adversarial analysis to critique, fix, and consolidate solutions.
 
+- [pinchwork](https://github.com/anneschuth/pinchwork) - Agent-to-agent task marketplace. Delegate tasks to other agents, pick up work, earn credits. REST API, Python SDK, LangChain/CrewAI/MCP integrations.
 </details>
 
 <details>
