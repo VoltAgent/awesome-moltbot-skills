@@ -60,7 +60,7 @@ Priority: Workspace > Local > Bundled
 - [Web & Frontend Development](#web--frontend-development) (14)
 - [Coding Agents & IDEs](#coding-agents--ides) (15)
 - [Git & GitHub](#git--github) (9)
-- [DevOps & Cloud](#devops--cloud) (41)
+- [DevOps & Cloud](#devops--cloud) (42)
 - [Browser & Automation](#browser--automation) (11)
 - [Image & Video Generation](#image--video-generation) (19)
 - [Apple Apps & Services](#apple-apps--services) (14)
@@ -160,6 +160,7 @@ Priority: Workspace > Local > Bundled
 - [dokploy](https://github.com/openclaw/skills/tree/main/skills/joshuarileydev/dokploy/SKILL.md) - Manage Dokploy deployments, projects, applications, and domains via the Dokploy API.
 - [domain-dns-ops](https://github.com/openclaw/skills/tree/main/skills/steipete/domain-dns-ops/SKILL.md) - Domain/DNS ops across Cloudflare, DNSimple, and Namecheap.
 - [domaindetails](https://github.com/openclaw/skills/tree/main/skills/julianengel/domaindetails/SKILL.md) - Look up domain WHOIS/RDAP info and check marketplace listings. Free API, no auth required.
+- [agentns](https://github.com/openclaw/skills/tree/main/skills/voyclawd/agentns/SKILL.md) - Register domains for AI agents via ICANN registrar.
 - [exa-plus](https://github.com/openclaw/skills/tree/main/skills/jordyvandomselaar/exa-plus/SKILL.md) - Neural web search via Exa AI. Search people, companies, news, research, code.
 - [exe-dev](https://github.com/openclaw/skills/tree/main/skills/bjesuiter/exe-dev/SKILL.md) - Manage persistent VMs on exe.dev. Create VMs, configure HTTP proxies, share access.
 - [hetzner](https://github.com/openclaw/skills/tree/main/skills/thesethrose/hetzner/SKILL.md) - Hetzner Cloud server management using the hcloud CLI.
