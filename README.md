@@ -70,7 +70,7 @@ Priority: Workspace > Local > Bundled
 - [Marketing & Sales](#marketing--sales) (42)
 - [Productivity & Tasks](#productivity--tasks) (42)
 - [AI & LLMs](#ai--llms) (38)
-- [Finance](#finance) (29)
+- [Finance](#finance) (33)
 - [Media & Streaming](#media--streaming) (29)
 - [Notes & PKM](#notes--pkm) (44)
 - [iOS & macOS Development](#ios--macos-development) (13)
@@ -551,6 +551,10 @@ Priority: Workspace > Local > Bundled
 - [refund-radar](https://github.com/openclaw/skills/tree/main/skills/andreolf/refund-radar/SKILL.md) - Scan bank statements for recurring charges and draft refund requests.
 - [expense-tracker-pro](https://github.com/openclaw/skills/tree/main/skills/jhillin8/expense-tracker-pro/SKILL.md) - Track expenses via natural language with budget summaries.
 - [financial-market-analysis](https://github.com/openclaw/skills/tree/main/skills/seyhunak/financial-market-analysis/SKILL.md) - Stock and market sentiment analysis via Yahoo Finance.
+- [base](https://github.com/spirosrap/openclaw-skills/tree/main/base/SKILL.md) - Interact with Base blockchain — check balances, gas prices, block numbers, and transaction status. No API key required.
+- [hyperliquid](https://github.com/spirosrap/openclaw-skills/tree/main/hyperliquid/SKILL.md) - Query HyperLiquid perpetual futures data — prices, funding rates, open interest, candles, orderbooks, and account positions. 228+ perp contracts. No API key required.
+- [clanker](https://github.com/spirosrap/openclaw-skills/tree/main/clanker/SKILL.md) - Deploy ERC20 tokens on Base using Clanker SDK with built-in Uniswap V4 liquidity pools. Supports mainnet and Sepolia testnet.
+- [zapper](https://github.com/spirosrap/openclaw-skills/tree/main/zapper/SKILL.md) - Query DeFi portfolio data across 50+ chains via Zapper GraphQL API — wallet balances, DeFi positions, NFT holdings, token prices, and transaction history.
 
 </details>
 
