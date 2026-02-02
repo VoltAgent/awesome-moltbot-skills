@@ -1607,6 +1607,8 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 
 - [bring-recipes](https://github.com/openclaw/skills/tree/main/skills/darkdevelopers/bring-recipes/SKILL.md) - Use when user wants to browse recipe inspirations from Bring! shopping app.
 - [detox-counter](https://github.com/openclaw/skills/tree/main/skills/jhillin8/detox-counter/SKILL.md) - Track any detox with customizable counters, symptom logging, and progress milestones
+- [fulcra-context](https://github.com/openclaw/skills/tree/main/skills/arc/fulcra-context/SKILL.md) - Access personal context data (biometrics, sleep, activity, calendar, location) via the Fulcra Life API.
+- [fulcra-morning-briefing](https://github.com/openclaw/skills/tree/main/skills/arc/fulcra-morning-briefing/SKILL.md) - Personalized morning briefing using sleep, biometrics, calendar, and weather data from Fulcra.
 - [diet-tracker](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/diet-tracker/SKILL.md) - Tracks daily diet and calculates nutrition information to help achieve weight loss goals.
 - [endurance-coach](https://github.com/openclaw/skills/tree/main/skills/shiv19/endurance-coach/SKILL.md) - Create personalized triathlon, marathon, and ultra-endurance training plans.
 - [fasting-tracker](https://github.com/openclaw/skills/tree/main/skills/jhillin8/fasting-tracker/SKILL.md) - Track intermittent fasting windows, extended fasts, and autophagy milestones
@@ -1945,6 +1947,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 <summary><h3 style="display:inline">Security & Passwords</h3></summary>
 
 - [1password](https://github.com/openclaw/skills/tree/main/skills/steipete/1password/SKILL.md) - Set up and use 1Password CLI (op).
+- [arc-sentinel](https://github.com/openclaw/skills/tree/main/skills/arc/arc-sentinel/SKILL.md) - Security monitoring for OpenClaw agents. SSL checks, GitHub audits, credential rotation tracking, breach monitoring.
 - [bitwarden](https://github.com/openclaw/skills/tree/main/skills/asleep123/bitwarden/SKILL.md) - Access and manage Bitwarden/Vaultwarden passwords securely using the rbw.
 - [bitwarden-vault](https://github.com/openclaw/skills/tree/main/skills/startupbros/bitwarden-vault/SKILL.md) - Bitwarden CLI setup, authentication.
 - [dashlane](https://github.com/openclaw/skills/tree/main/skills/gnarco/dashlane/SKILL.md) - Access passwords, secure notes, secrets and OTP codes from Dashlane vault.
