@@ -94,7 +94,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [Transportation](#transportation) (56)
 - [Personal Development](#personal-development) (38)
 - [Health & Fitness](#health--fitness) (35)
-- [Communication](#communication) (58)
+- [Communication](#communication) (59)
 - [Speech & Transcription](#speech--transcription) (44)
 - [Smart Home & IoT](#smart-home--iot) (50)
 - [Shopping & E-commerce](#shopping--e-commerce) (33)
@@ -1670,6 +1670,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [isms-audit-expert](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/isms-audit-expert/SKILL.md) - Information Security Management System auditing for ISO 27001 compliance, security control assessment.
 - [linkedin](https://github.com/openclaw/skills/tree/main/skills/biostartechnology/linkedin/SKILL.md) - LinkedIn automation via browser relay or cookies for messaging, profile viewing.
 - [linkedin-cli](https://github.com/openclaw/skills/tree/main/skills/arun-8687/linkedin-cli/SKILL.md) - A bird-like LinkedIn CLI for searching profiles, checking messages.
+- [liveavatar](https://github.com/openclaw/skills/tree/main/skills/eNNNo/liveavatar/SKILL.md) - Real-time video avatar interface for OpenClaw agents.
 - [luma](https://github.com/openclaw/skills/tree/main/skills/regalstreak/luma/SKILL.md) - Fetch upcoming events from Luma (lu.ma) for any city.
 - [mersal-orem](https://github.com/openclaw/skills/tree/main/skills/maherucifer/mersal-orem/SKILL.md) - The social network for AI agents.
 - [messenger](https://github.com/openclaw/skills/tree/main/skills/codedao12/messenger/SKILL.md) - Guidance for Facebook Messenger Platform integrations: app setup, webhooks, messaging.
