@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 1715+ community-built OpenClaw skills, organized by category.
+    <strong>Discover 1716+ community-built OpenClaw skills, organized by category.
     </strong>
     <br />
     <br />
@@ -19,7 +19,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-![Skills Count](https://img.shields.io/badge/skills-1715+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/skills-1716+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
@@ -63,7 +63,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 [OpenClaw](https://www.clawhub.com/)'s public registry already hosts **3,000+ community-built skills** as of February 2, 2026. All skills in this list are sourced directly from that registry, so this is a curated and categorized subset for easier discovery.
 
-From the full registry, **1,715+ skills** were selected by excluding crypto/blockchain/DeFi, spam or bulk-generated content, duplicates, and non-English descriptions. We also tried to filter out risky or harmful skills (abuse, bypass, fraud-related), though we can't guarantee we caught everything.
+From the full registry, **1,716+ skills** were selected by excluding crypto/blockchain/DeFi, spam or bulk-generated content, duplicates, and non-English descriptions. We also tried to filter out risky or harmful skills (abuse, bypass, fraud-related), though we can't guarantee we caught everything.
 
 Inclusion in this list does **not** guarantee a skill is safe or trustworthy. We recommend reviewing a skill's before installing and using tools like Claude Code or Codex to inspect it for potentially harmful behavior.
 
@@ -78,7 +78,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [Moltbook](#moltbook) (27)
 - [DevOps & Cloud](#devops--cloud) (144)
 - [Browser & Automation](#browser--automation) (69)
-- [Image & Video Generation](#image--video-generation) (41)
+- [Image & Video Generation](#image--video-generation) (42)
 - [Apple Apps & Services](#apple-apps--services) (32)
 - [Search & Research](#search--research) (148)
 - [Clawdbot Tools](#clawdbot-tools) (107)
@@ -541,6 +541,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [gifhorse](https://github.com/openclaw/skills/tree/main/skills/coyote-git/gifhorse/SKILL.md) - Search video dialogue and create reaction GIFs with subtitles.
 - [google-gemini-media](https://github.com/openclaw/skills/tree/main/skills/xsir0/google-gemini-media/SKILL.md) - Use the Gemini API (Nano Banana image generation, Veo video, Gemini TTS speech and audio understanding) to deliver.
 - [iblipper](https://github.com/openclaw/skills/tree/main/skills/andyed/iblipper/SKILL.md) - Generate kinetic typography animations for expressive agent-to-human communication.
+- [image-router](https://github.com/DaWe35/image-router/blob/main/SKILL.md) - Generate images with any AI model on ImageRouter.
 - [krea-api](https://github.com/openclaw/skills/tree/main/skills/fossilizedcarlos/krea-api/SKILL.md) - Generate images via Krea.ai API (Flux, Imagen, Ideogram, Seedream, etc.).
 - [meshy-ai](https://github.com/openclaw/skills/tree/main/skills/sabatesduran/clawdbot-meshyai-skill/SKILL.md) - Use the Meshy.ai REST API to generate assets: (1) text-to-2d (Meshy Text to Image)
 - [pollinations](https://github.com/openclaw/skills/tree/main/skills/isaacgounton/pollinations/SKILL.md) - Pollinations.ai: text, images, videos, audio with 25+ models.
