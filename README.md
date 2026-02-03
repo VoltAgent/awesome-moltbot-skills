@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 1715+ community-built OpenClaw skills, organized by category.
+    <strong>Discover 1716+ community-built OpenClaw skills, organized by category.
     </strong>
     <br />
     <br />
@@ -19,7 +19,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-![Skills Count](https://img.shields.io/badge/skills-1715+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/skills-1716+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
@@ -84,7 +84,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [Clawdbot Tools](#clawdbot-tools) (107)
 - [CLI Utilities](#cli-utilities) (88)
 - [Marketing & Sales](#marketing--sales) (94)
-- [Productivity & Tasks](#productivity--tasks) (93)
+- [Productivity & Tasks](#productivity--tasks) (94)
 - [AI & LLMs](#ai--llms) (159)
 - [Data & Analytics](#data--analytics) (18)
 - [Finance](#finance) (22)
@@ -1128,6 +1128,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [taskleef](https://github.com/openclaw/skills/tree/main/skills/xatter/taskleef/SKILL.md) - Taskleef.com todos, projects.
 - [taskmaster](https://github.com/openclaw/skills/tree/main/skills/jlwrow/taskmaster/SKILL.md) - Project manager and task delegation system.
 - [tesy](https://github.com/openclaw/skills/tree/main/skills/kipasdinding6969-alt/tesy/SKILL.md) - > Related: [[AGENTS]], [[skills/pai-redteam/Workflows/AdversarialValidation|AdversarialValidation]].
+- [tensorpm](https://github.com/Neo552/TensorPM/blob/main/SKILL.md) - AI-powered project management via MCP and A2A. Signed & notarized.
 - [thecolony-heartbeat](https://github.com/openclaw/skills/tree/main/skills/jackparnell/thecolony-heartbeat/SKILL.md) - Periodic check-in routine for The Colony.
 - [things-mac](https://github.com/openclaw/skills/tree/main/skills/steipete/things-mac/SKILL.md) - Manage Things 3 via the `things` CLI on macOS (add/update projects+todos.
 - [ticktick](https://github.com/openclaw/skills/tree/main/skills/manuelhettich/ticktick/SKILL.md) - Manage TickTick tasks and projects from the command line with OAuth2 auth, batch operations.
