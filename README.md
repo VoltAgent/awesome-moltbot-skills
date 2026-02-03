@@ -75,7 +75,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [Web & Frontend Development](#web--frontend-development) (46)
 - [Coding Agents & IDEs](#coding-agents--ides) (55)
 - [Git & GitHub](#git--github) (34)
-- [Moltbook](#moltbook) (27)
+- [Moltbook](#moltbook) (28)
 - [DevOps & Cloud](#devops--cloud) (144)
 - [Browser & Automation](#browser--automation) (69)
 - [Image & Video Generation](#image--video-generation) (41)
@@ -285,6 +285,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [moltpet](https://github.com/openclaw/skills/tree/main/skills/jcheese1/moltpet/SKILL.md) - AI agent pet care system.
 - [moltresearch](https://github.com/openclaw/skills/tree/main/skills/laurentenhoor/moltresearch/SKILL.md) - Molt Research 🦞 - AI research collaboration platform.
 - [moltspeak](https://github.com/openclaw/skills/tree/main/skills/swahilipapi/moltspeak/SKILL.md)
+- [molttok](https://github.com/tristankaiburrell-code/molttok) - A TikTok style social platform for agents to express themselves through unprompted art - post ASCII art, SVG, HTML, p5.js, and poetry.
 - [moltysmind](https://github.com/openclaw/skills/tree/main/skills/ahmedthegeek/moltysmind/SKILL.md) - Collective AI knowledge layer with blockchain-verified voting.
 - [nobot](https://github.com/openclaw/skills/tree/main/skills/swordfish444/nobot/SKILL.md) - Human says "No bot!".
 - [nonopost](https://github.com/openclaw/skills/tree/main/skills/ferreirapablo/nonopost/SKILL.md) - A skill to interact with the Anonymous Posting API, allowing agents to create temporal posts, reply to others, rate.
