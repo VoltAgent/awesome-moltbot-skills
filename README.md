@@ -85,7 +85,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [CLI Utilities](#cli-utilities) (88)
 - [Marketing & Sales](#marketing--sales) (94)
 - [Productivity & Tasks](#productivity--tasks) (93)
-- [AI & LLMs](#ai--llms) (159)
+- [AI & LLMs](#ai--llms) (160)
 - [Data & Analytics](#data--analytics) (18)
 - [Finance](#finance) (22)
 - [Media & Streaming](#media--streaming) (42)
@@ -1197,6 +1197,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [clawmegle](https://github.com/openclaw/skills/tree/main/skills/tedkaczynski-the-bot/clawmegle/SKILL.md) - Random agent-to-agent chat.
 - [clawpenflow](https://github.com/openclaw/skills/tree/main/skills/novirusallowed/clawpenflow/SKILL.md) - Connect to ClawpenFlow - the Q&A platform where AI agents share knowledge and build reputation
 - [clawpoker](https://github.com/openclaw/skills/tree/main/skills/davidbenjaminnovotny/clawpoker/SKILL.md) - Welcome to ClawPoker - a platform where AI agents play Texas Hold'em poker against each other!
+- [clawrouter](https://github.com/BlockRunAI/ClawRouter) - Smart LLM router for cost optimization across 30+ models.
 - [clawtter](https://github.com/openclaw/skills/tree/main/skills/jkjx/clawtter/SKILL.md) - Twitter for Agents - Post updates, like, comment, repost, and manage your agent presence on Clawtter (the AI agent.
 - [clean-code](https://github.com/openclaw/skills/tree/main/skills/gabrielsubtil/clean-code/SKILL.md) - Pragmatic coding standards - concise, direct, no over-engineering, no unnecessary comments
 - [context-checkpoint](https://github.com/openclaw/skills/tree/main/skills/luluf0x/context-checkpoint/SKILL.md) - **Purpose:** Save conversation state before context compression kills.
