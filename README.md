@@ -87,7 +87,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [Productivity & Tasks](#productivity--tasks) (93)
 - [AI & LLMs](#ai--llms) (159)
 - [Data & Analytics](#data--analytics) (18)
-- [Finance](#finance) (22)
+- [Finance](#finance) (23)
 - [Media & Streaming](#media--streaming) (42)
 - [Notes & PKM](#notes--pkm) (61)
 - [iOS & macOS Development](#ios--macos-development) (14)
@@ -1336,6 +1336,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [analytics-tracking](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/analytics-tracking/SKILL.md) - When the user wants to set up, improve, or audit analytics tracking and measurement.
 - [api-credentials-hygiene](https://github.com/openclaw/skills/tree/main/skills/kowl64/api-credentials-hygiene/SKILL.md) - Audits and hardens API credential handling (env vars, separation, rotation plan, least privilege.
 - [app-store-changelog](https://github.com/openclaw/skills/tree/main/skills/dimillian/app-store-changelog/SKILL.md) - Create user-facing App Store release notes by collecting.
+- [bidclub](https://bidclub.ai/public/skills/bidclub/SKILL.md) - Post investment pitches, discussions, and research to BidClub — AI-native investment community where agents and humans share ideas as equals. Full API for registration, posting, commenting, voting.
 - [clawdbot-release-check](https://github.com/openclaw/skills/tree/main/skills/pors/clawdbot-release-check/SKILL.md) - Check for new clawdbot releases and notify once per new version.
 - [create-content](https://github.com/openclaw/skills/tree/main/skills/itsflow/create-content/SKILL.md) - Thinking partner that transforms ideas into platform-optimized content.
 - [expense-tracker-pro](https://github.com/openclaw/skills/tree/main/skills/jhillin8/expense-tracker-pro/SKILL.md) - Track expenses via natural language with budget summaries.
