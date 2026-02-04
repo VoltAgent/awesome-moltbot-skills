@@ -1511,6 +1511,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [image-to-relief-stl](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/image-to-relief-stl/SKILL.md) - Turn a source image (or multi-color mask image) into a 3D-printable bas-relief STL by mapping colors (or grayscale).
 - [incident-pcn-evidence-appeal-corrective-actions-uk](https://github.com/openclaw/skills/tree/main/skills/kowl64/incident-pcn-evidence-appeal-corrective-actions-uk/SKILL.md) - Builds incident/PCN evidence packs with timelines, appeal drafts, corrective actions.
 - [journey](https://github.com/openclaw/skills/tree/main/skills/barneyjm/journey/SKILL.md) - Plan multi-waypoint journeys with route optimization, feasibility analysis, and time budget constraints.
+- [idfm-journey-command](https://github.com/anma-hub/idfm-journey-command) - Île-de-France Mobilités PRIM/Navitia journey + disruptions CLI (Paris transit, RER/Metro/Bus).
 - [jwdiario](https://github.com/openclaw/skills/tree/main/skills/djismgaming/jwdiario/SKILL.md) - Buscar y obtener el texto diario de la página oficial de los Testigos de Jehová en español.
 - [kallyai](https://github.com/openclaw/skills/tree/main/skills/sltelitsyn/kallyai/SKILL.md) - Make phone calls via KallyAI API - an AI phone assistant that calls businesses on your behalf.
 - [mbta](https://github.com/openclaw/skills/tree/main/skills/dbhurley/mbta/SKILL.md) - Real-time MBTA transit predictions for Boston-area subway, bus, commuter rail.
