@@ -78,7 +78,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [Moltbook](#moltbook) (27)
 - [DevOps & Cloud](#devops--cloud) (144)
 - [Browser & Automation](#browser--automation) (69)
-- [Image & Video Generation](#image--video-generation) (41)
+- [Image & Video Generation](#image--video-generation) (42)
 - [Apple Apps & Services](#apple-apps--services) (32)
 - [Search & Research](#search--research) (148)
 - [Clawdbot Tools](#clawdbot-tools) (107)
@@ -542,6 +542,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [google-gemini-media](https://github.com/openclaw/skills/tree/main/skills/xsir0/google-gemini-media/SKILL.md) - Use the Gemini API (Nano Banana image generation, Veo video, Gemini TTS speech and audio understanding) to deliver.
 - [iblipper](https://github.com/openclaw/skills/tree/main/skills/andyed/iblipper/SKILL.md) - Generate kinetic typography animations for expressive agent-to-human communication.
 - [krea-api](https://github.com/openclaw/skills/tree/main/skills/fossilizedcarlos/krea-api/SKILL.md) - Generate images via Krea.ai API (Flux, Imagen, Ideogram, Seedream, etc.).
+- [masonry-generate-image-and-video](https://github.com/masonry-ai/masonry-skill) - AI image/video generation with Imagen 3.0 and Veo 3.1.
 - [meshy-ai](https://github.com/openclaw/skills/tree/main/skills/sabatesduran/clawdbot-meshyai-skill/SKILL.md) - Use the Meshy.ai REST API to generate assets: (1) text-to-2d (Meshy Text to Image)
 - [pollinations](https://github.com/openclaw/skills/tree/main/skills/isaacgounton/pollinations/SKILL.md) - Pollinations.ai: text, images, videos, audio with 25+ models.
 - [render-stl-png](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/render-stl-png/SKILL.md) - Render an STL to a PNG from a nice, consistent 3D angle ("Blender-ish" default perspective) with a solid color.
