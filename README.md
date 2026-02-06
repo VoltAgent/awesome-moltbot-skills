@@ -495,6 +495,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [phantombuster](https://github.com/openclaw/skills/tree/main/skills/andrewdmwalker/phantombuster/SKILL.md) - Control PhantomBuster automation agents via API.
 - [playwright-cli](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/playwright-cli/SKILL.md) - Browser automation via Playwright CLI for testing and scraping.
 - [proxy-scrap](https://github.com/openclaw/skills/tree/main/skills/danman60/proxy-scrap/SKILL.md) - High-Performance Proxy Harvesting - Automatically scrape, validate, and export working SOCKS5, SOCKS4.
+- [qodercli-integration](https://github.com/openclaw/skills/tree/main/skills/qodercli-integration/SKILL.md) - 通过QoderCLI进行终端编程和代码开发的集成技能。
 - [qiuqiu-helper](https://github.com/openclaw/skills/tree/main/skills/mmogdeveloper/qiuqiu-helper/SKILL.md) - This is a multi-purpose helper skill for Jesse, designed to automate common workspace tasks.
 - [roon-controller](https://github.com/openclaw/skills/tree/main/skills/puterjam/roon-controller/SKILL.md) - Control Roon music player through Roon API with automatic Core discovery and zone filtering.
 - [safe-exec](https://github.com/openclaw/skills/tree/main/skills/ottttto/safe-exec/SKILL.md) - Safe command execution for OpenClaw Agents with automatic danger pattern detection, risk assessment, user approval.
