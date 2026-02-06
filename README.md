@@ -410,6 +410,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [remarkable](https://github.com/openclaw/skills/tree/main/skills/nickian/remarkable/SKILL.md) - Send files and web articles to a reMarkable e-ink tablet via the reMarkable Cloud.
 - [sec-filing-watcher](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/sec-filing-watcher/SKILL.md) - Monitor SEC EDGAR for new filings and get Telegram/Slack summaries via Clawdbot.
 - [security-audit](https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r/security-audit/SKILL.md) - Comprehensive security auditing for Clawdbot deployments.
+- [openclaw-self-healing](https://github.com/Ramsbaby/openclaw-self-healing) - 4-tier autonomous self-healing system for OpenClaw Gateway with Claude Code as emergency doctor.
 - [security-monitor](https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r/security-monitor/SKILL.md) - Real-time security monitoring for Clawdbot.
 - [Send Me My Files - R2 upload with short lived signed urls](https://github.com/openclaw/skills/tree/main/skills/julianengel/r2-upload/SKILL.md) - Upload files to Cloudflare R2, AWS S3, or any S3-compatible storage.
 - [senior-devops](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-devops/SKILL.md) - Comprehensive DevOps skill for CI/CD, infrastructure automation, containerization, and cloud platforms (AWS, GCP,.
