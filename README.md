@@ -202,12 +202,14 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [logseq](https://github.com/openclaw/skills/tree/main/skills/juanirm/logseq/SKILL.md) - Provide commands for interacting with a local Logseq instance through its Plugin API.
 - [mcp-builder](https://github.com/openclaw/skills/tree/main/skills/seanphan/mcp-builder/SKILL.md) - Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external servi.
 - [model-usage](https://github.com/openclaw/skills/tree/main/skills/steipete/model-usage/SKILL.md) - Use CodexBar CLI local cost usage to summarize per-model usage for Codex.
+- [mini-piv](https://github.com/SmokeAlot420/ftw) - Lightweight discovery-driven Plan-Implement-Validate builder with independent validation loops — no PRD needed.
 - [multi-coding-agent](https://github.com/openclaw/skills/tree/main/skills/kesslerio/multi-coding-agent/SKILL.md) - Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.
 - [noir-developer](https://github.com/openclaw/skills/tree/main/skills/jp4g/noir-developer/SKILL.md) - Develop Noir (.nr) codebases.
 - [opencode-acp-control](https://github.com/openclaw/skills/tree/main/skills/bjesuiter/opencode-acp-control/SKILL.md) - Control OpenCode directly via the Agent Client Protocol (ACP).
 - [openspec](https://github.com/openclaw/skills/tree/main/skills/jcorrego/openspec/SKILL.md) - Spec-driven development with OpenSpec.
 - [perry-coding-agents](https://github.com/openclaw/skills/tree/main/skills/gricha/perry-coding-agents/SKILL.md) - Dispatch coding tasks to OpenCode or Claude Code on Perry workspaces.
 - [perry-workspaces](https://github.com/openclaw/skills/tree/main/skills/gricha/perry-workspaces/SKILL.md) - Create and manage isolated Docker workspaces on your tailnet with Claude.
+- [piv](https://github.com/SmokeAlot420/ftw) - Full multi-phase Plan-Implement-Validate orchestrator with fresh-context agents and independent validation loops.
 - [pro](https://github.com/openclaw/skills/tree/main/skills/jash2368-collab/pro/SKILL.md) - Guide for creating effective skills.
 - [prompt-log](https://github.com/openclaw/skills/tree/main/skills/thesash/prompt-log/SKILL.md) - Extract conversation transcripts from AI coding session logs (Clawdbot, Claude Code, Codex).
 - [pulse-editor](https://github.com/openclaw/skills/tree/main/skills/shellishack/pulse-editor/SKILL.md) - Generate and build Pulse Apps using the Vibe Dev Flow API.
