@@ -61,6 +61,12 @@ Priority: Workspace > Local > Bundled
 You can also paste the skill's GitHub repository link directly into your assistant's chat and ask it to use it. The assistant will handle the setup automatically in the background.
 
 
+## Community Plugins (external)
+
+These are **channel/plugins** (not skills in the official registry).
+
+- [openclaw-gmail](https://github.com/copperdogma/openclaw-gmail) — Gmail channel plugin (gog + Pub/Sub). Install via extensions/ (npm install may hit schema validation).
+
 ## Why This List Exists?
 
 [OpenClaw](https://www.clawhub.com/)'s public registry already hosts **3,000+ community-built skills** as of February 2, 2026. All skills in this list are sourced directly from that registry, so this is a curated and categorized subset for easier discovery.
