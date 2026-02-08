@@ -1283,6 +1283,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [wallapop-cli](https://github.com/openclaw/skills/tree/main/skills/pjtf93/wallapop-cli/SKILL.md) - Use the wallapop CLI to search listings, fetch item details, view
 - [weak-accept](https://github.com/openclaw/skills/tree/main/skills/zxrys/weak-accept/SKILL.md) - Interact with arXiv Crawler API to fetch papers, read reviews
 - [web-search-exa](https://github.com/openclaw/skills/tree/main/skills/theishangoswami/web-search-exa/SKILL.md) - Real-time web search using Exa for fresh sources
+- [web-multi-search](https://github.com/soxoj/web-multi-search-skill/blob/main/SKILL.md) - Real-time web search using niche search engines - without API keys, limits and browser automation
 - [web-search-plus](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/web-search-plus/SKILL.md) - Unified search skill with Intelligent Auto-Routing.
 - [wed](https://github.com/openclaw/skills/tree/main/skills/orlyjamie/wed/SKILL.md) - Security awareness demo - demonstrates supply chain risks in AI coding.
 - [whats](https://github.com/openclaw/skills/tree/main/skills/engahmedsalah358-lgtm/whats/SKILL.md) - Send WhatsApp messages to other people or search/sync WhatsApp
