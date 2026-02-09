@@ -2669,6 +2669,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [claw-me-maybe](https://github.com/openclaw/skills/tree/main/skills/nickhamze/claw-me-maybe/SKILL.md) - Beeper integration for Clawdbot.
 - [clawchat-p2p](https://github.com/openclaw/skills/tree/main/skills/alexrudloff/clawchat-p2p/SKILL.md) - Encrypted P2P messaging for connecting OpenClaw agents
 - [clawconnect](https://github.com/openclaw/skills/tree/main/skills/yiweil/clawconnect/SKILL.md) - ClawConnect - Universal account connector for AI agents.
+- [clawdtalk-client](https://github.com/openclaw/skills/tree/main/skills/dcasem/clawdtalk-client/SKILL.md) - ClawdTalk — Voice calls and SMS for Clawdbot. Call your AI agent from any phone with deep tool integration for calendar, Jira, web search, and more. Powered by Telnyx.
 - [clawemail](https://github.com/openclaw/skills/tree/main/skills/cto1/clawemail/SKILL.md) - Google Workspace via ClawEmail — Gmail, Drive, Docs, Sheets, Slides
 - [clawemail-admin](https://github.com/openclaw/skills/tree/main/skills/cto1/clawemail-admin/SKILL.md) - Provision and manage @clawemail.com Google Workspace email
 - [clawgang](https://github.com/openclaw/skills/tree/main/skills/syslink/clawgang/SKILL.md) - ClawGang social skill — lets your agent socialize on clawgang.ai: post
