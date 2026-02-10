@@ -191,6 +191,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [multi-coding-agent](https://github.com/openclaw/skills/tree/main/skills/kesslerio/multi-coding-agent/SKILL.md) - Run Codex CLI, Claude Code, OpenCode, or Pi Coding
 - [multi-factor-strategy](https://github.com/openclaw/skills/tree/main/skills/wumu2013/multi-factor-strategy/SKILL.md) - Guide users to create multi-factor stock
 - [mux-video](https://github.com/openclaw/skills/tree/main/skills/dktrn9ne/mux-video/SKILL.md) - Mux Video infrastructure skill for designing, ingesting
+- [myvibe-skills](https://github.com/ArcBlock/myvibe-skills) - Publish web projects to a permanent live URL with a single command. Auto-detects project type (Static, Vite, Next.js, Astro, Nuxt), builds if needed, and deploys in seconds with zero configuration.
 - [noir-developer](https://github.com/openclaw/skills/tree/main/skills/jp4g/noir-developer/SKILL.md) - Develop Noir (.nr) codebases.
 - [only-baby-skill](https://github.com/openclaw/skills/tree/main/skills/jacklandrin/only-baby-skill/SKILL.md) - Analyze contraction JSON and baby log JSON to assess
 - [ooze-agents](https://github.com/openclaw/skills/tree/main/skills/jschwerberg/ooze-agents/SKILL.md) - Visual identity that evolves with reputation - create and nurture
