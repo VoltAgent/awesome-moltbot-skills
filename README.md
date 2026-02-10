@@ -100,7 +100,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 | [Apple Apps & Services](#apple-apps--services) (35) | [iOS & macOS Development](#ios--macos-development) (17) | [Security & Passwords](#security--passwords) (62) |
 | [Search & Research](#search--research) (253) | [Transportation](#transportation) (73) | [Gaming](#gaming) (62) |
 | [Clawdbot Tools](#clawdbot-tools) (121) | [Personal Development](#personal-development) (56) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (19) |
-| [CLI Utilities](#cli-utilities) (131) | [Health & Fitness](#health--fitness) (55) | |
+| [CLI Utilities](#cli-utilities) (131) | [Health & Fitness](#health--fitness) (60) | |
 
 
 
@@ -2591,6 +2591,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 <summary><h3 style="display:inline">Health & Fitness</h3></summary>
 
 - [agent-credit](https://github.com/openclaw/skills/tree/main/skills/aaronjmars/agent-credit/SKILL.md) - Borrow from Aave via credit delegation.
+- [apple-health-skill](https://github.com/openclaw/skills/tree/main/skills/nftechie/apple-health-skill/SKILL.md) - Workout insights, sleep trends, AI coaching via Apple Health.
 - [bring-recipes](https://github.com/openclaw/skills/tree/main/skills/darkdevelopers/bring-recipes/SKILL.md) - Use when user wants to browse recipe inspirations
 - [calorie-counter](https://github.com/openclaw/skills/tree/main/skills/cnqso/calorie-counter/SKILL.md) - Track daily calorie and protein intake, set goals, and log
 - [capa-officer](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/capa-officer/SKILL.md) - CAPA system management for medical device QMS.
@@ -2607,6 +2608,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [fitbit](https://github.com/openclaw/skills/tree/main/skills/mjrussell/fitbit/SKILL.md) - Query Fitbit health data including sleep, heart rate, activity, SpO2
 - [fitbit-analytics](https://github.com/openclaw/skills/tree/main/skills/kesslerio/fitbit-analytics/SKILL.md) - Fitbit health and fitness data integration.
 - [garmer](https://github.com/openclaw/skills/tree/main/skills/garrza/garmer/SKILL.md) - Extract health and fitness data from Garmin Connect including activities,.
+- [garmin-skill](https://github.com/openclaw/skills/tree/main/skills/nftechie/garmin-skill/SKILL.md) - Training analysis, sleep trends, performance analytics via Garmin Connect.
 - [garmin-health](https://github.com/openclaw/skills/tree/main/skills/eversonl/garmin-health-analysis/SKILL.md) - Talk to your Garmin data naturally - "what
 - [gdpr-cookie-consent](https://github.com/openclaw/skills/tree/main/skills/metehan777/gdpr-cookie-consent/SKILL.md) - Complete reference guide for AI agents to help
 - [gevety](https://github.com/openclaw/skills/tree/main/skills/moclippa/gevety/SKILL.md) - Access your Gevety health data - biomarkers, healthspan scores, biological
@@ -2623,6 +2625,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [pregnancy-tracker](https://github.com/openclaw/skills/tree/main/skills/jhillin8/pregnancy-tracker/SKILL.md) - Track pregnancy journey with weekly updates, symptom
 - [primer](https://github.com/openclaw/skills/tree/main/skills/brucko/primer/SKILL.md) - Bring Neal Stephenson's "Young Lady's Illustrated Primer" from The Diamond Age.
 - [qms-audit-expert](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/qms-audit-expert/SKILL.md) - ISO 13485 internal audit expertise for medical
+- [race-finder](https://github.com/openclaw/skills/tree/main/skills/nftechie/race-finder/SKILL.md) - Find upcoming races — running, trail, triathlon, cycling, swimming, obstacle.
 - [ranked-gym](https://github.com/openclaw/skills/tree/main/skills/jhillin8/ranked-gym/SKILL.md) - Gamify your gym sessions with XP, levels, achievements, and workout
 - [rate-my-claw](https://github.com/openclaw/skills/tree/main/skills/yanibu2777/rate-my-claw/SKILL.md) - Compete on Rate My Claw — pick tasks across 8 roles, submit
 - [recipes](https://github.com/openclaw/skills/tree/main/skills/jeffaf/recipes/SKILL.md) - CLI for AI agents to find recipes for their humans.
@@ -2632,9 +2635,11 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [specification-extractor](https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/specification-extractor/SKILL.md) - Extract structured data
 - [strava](https://github.com/openclaw/skills/tree/main/skills/bohdanpodvirnyi/strava/SKILL.md) - Load and analyze Strava activities, stats, and workouts
 - [strava-cycling](https://github.com/openclaw/skills/tree/main/skills/ericrosenberg/strava-cycling-coach/SKILL.md) - Track and analyze cycling performance from Strava.
+- [strava-skill](https://github.com/openclaw/skills/tree/main/skills/nftechie/strava-skill/SKILL.md) - Activity insights, fitness trends, performance analytics via Strava.
 - [testosterone-optimization](https://github.com/openclaw/skills/tree/main/skills/jhillin8/testosterone-optimization/SKILL.md) - Optimize natural testosterone
 - [the-sports-db](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/the-sports-db/SKILL.md) - Access sports data via TheSportsDB (teams, events, scores).
 - [trainingpeaks](https://github.com/openclaw/skills/tree/main/skills/rubengarciam/trainingpeaks/SKILL.md) - Pull real-time training plans, workouts, fitness metrics
+- [transition-mcp](https://github.com/openclaw/skills/tree/main/skills/nftechie/transition-mcp/SKILL.md) - AI coaching for triathletes, runners, and cyclists — workouts, training plans, race prep.
 - [umea-lunch](https://github.com/openclaw/skills/tree/main/skills/simskii/umea-lunch/SKILL.md) - Get today's lunch menus from restaurants in Umeå.
 - [weight-loss](https://github.com/openclaw/skills/tree/main/skills/jhillin8/weight-loss/SKILL.md) - Track weight loss journey with weigh-ins, trend analysis, and goal
 - [who-growth-charts](https://github.com/openclaw/skills/tree/main/skills/odrobnik/who-growth-charts/SKILL.md) - WHO child growth charts with percentile curves.
