@@ -2762,6 +2762,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [telegram-pairing-customization](https://github.com/openclaw/skills/tree/main/skills/crazypeace/telegram-pairing-customization/SKILL.md) - Modify OpenClaw's Telegram
 - [telegram-pairing-message-customization](https://github.com/openclaw/skills/tree/main/skills/crazypeace/telegram-pairing-message-customization/SKILL.md) - Add custom messages
 - [telegram-usage](https://github.com/openclaw/skills/tree/main/skills/c-drew/telegram-usage/SKILL.md) - Display session usage statistics
+- [tgcli](https://github.com/dgrr/tgcli) - Telegram CLI for syncing, searching, sending messages, and managing chats. Pure Rust implementation with no TDLib dependency. Supports multi-account setups, local FTS5 search, media download, scheduled messages, and real-time daemon mode.
 - [temp-mail](https://github.com/openclaw/skills/tree/main/skills/techwithanirudh/temp-mail/SKILL.md) - Temporary email helper backed by Vortex (vortex.email).
 - [test-google-chat](https://github.com/openclaw/skills/tree/main/skills/darconada/test-google-chat/SKILL.md) - Test skill for Google Chat messaging
 - [test-wa](https://github.com/openclaw/skills/tree/main/skills/fianabates1/test-wa/SKILL.md) - Send WhatsApp messages to other people or search/sync WhatsApp history
