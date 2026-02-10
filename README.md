@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1873" height="827" alt="image" src="https://github.com/user-attachments/assets/67a1434c-c335-49cb-93aa-c70c75967344" /><div align="center">
 
 <a href="https://github.com/VoltAgent/voltagent">
 <img width="1500" height="500" alt="social" src="https://github.com/user-attachments/assets/a6f310af-8fed-4766-9649-b190575b399d" />
@@ -3183,6 +3183,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [openclaw-skills-security-checker](https://github.com/openclaw/skills/tree/main/skills/digitaladaption/openclaw-skills-security-checker/SKILL.md) - Security scanner
 - [pdauth](https://github.com/openclaw/skills/tree/main/skills/g9pedro/pdauth/SKILL.md) - Dynamic OAuth for AI agents via Pipedream.
 - [samma-suit](https://clawhub.ai/OneZeroEight-ai/samma-suit) - Add 8 security governance layers to your OpenClaw agent — budget controls, permissions, audit logging, kill switch, identity signing, skill vetting, and process isolation.
+- [scam-guards](https://clawhub.ai/y01026350884-cyber/scam-guards) - Real-time AI agent security guardian with skill scanning, URL verification, and behavior monitoring
 - [secureclaw](https://github.com/openclaw/skills/tree/main/skills/alonx2/secureclaw/SKILL.md) - Community-driven security intelligence for AI agents.
 - [security-heuristics](https://github.com/openclaw/skills/tree/main/skills/luluf0x/security-heuristics/SKILL.md) - Mental checklist before installing ANY external
 - [security-sentinel](https://github.com/openclaw/skills/tree/main/skills/autogame-17/security-sentinel/SKILL.md) - Scan the workspace for security vulnerabilities
