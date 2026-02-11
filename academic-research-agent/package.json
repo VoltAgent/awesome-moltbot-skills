@@ -1,0 +1,33 @@
+{
+  "name": "academic-research-agent",
+  "version": "1.0.0",
+  "description": "Automated agent for downloading, analyzing, and generating research ideas from marketing journals",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "download": "node src/modules/downloader.js",
+    "analyze": "node src/modules/analyzer.js",
+    "generate-ideas": "node src/modules/idea-generator.js"
+  },
+  "keywords": [
+    "academic",
+    "research",
+    "automation",
+    "ai",
+    "marketing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.0.0",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "pdf-parse": "^1.1.1",
+    "sqlite3": "^5.1.7",
+    "openai": "^4.28.0",
+    "dotenv": "^16.4.1",
+    "natural": "^6.10.2",
+    "compromise": "^14.11.0"
+  }
+}
