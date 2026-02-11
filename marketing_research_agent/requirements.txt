@@ -1,0 +1,25 @@
+# Marketing Research Agent - Dependencies
+# Core
+requests>=2.28.0
+urllib3>=1.26.0
+
+# PDF Processing
+PyMuPDF>=1.23.0
+
+# NLP & Text Processing
+nltk>=3.8.0
+
+# Browser Automation (for authenticated PDF downloads)
+selenium>=4.15.0
+
+# Data Processing
+pandas>=1.5.0
+
+# OpenAI (optional - for LLM-powered analysis)
+openai>=1.0.0
+
+# Rate limiting
+ratelimit>=2.2.1
+
+# Rich CLI output
+rich>=13.0.0
