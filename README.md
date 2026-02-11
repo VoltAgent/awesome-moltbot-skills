@@ -3277,6 +3277,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 <summary><h3 style="display:inline">Agent-to-Agent Protocols</h3></summary>
 
 - [a0x-agents](https://github.com/openclaw/skills/tree/main/skills/claucondor/a0x-agents/SKILL.md) - Two superpowers for AI agents: a collective brain and a Base
+- [a2a-secure](https://github.com/openclaw/skills/tree/main/skills/vitonique/a2a-secure/SKILL.md) - Secure Agent-to-Agent messaging with Ed25519 signing, trust registry, key delegation, AES-GCM 256 encryption. Production-tested since Jan 2026.
 - [agent-shield](https://github.com/openclaw/skills/tree/main/skills/ultimatebos/agent-shield/SKILL.md) - The Chitin Protocol.
 - [civic-nexus](https://github.com/openclaw/skills/tree/main/skills/tyronemichael/civic-nexus/SKILL.md) - Connect to Civic Nexus MCP for 100+ integrations.
 - [claw-skill-guard](https://github.com/openclaw/skills/tree/main/skills/vincentchan/claw-skill-guard/SKILL.md) - Security scanner for OpenClaw skills.
