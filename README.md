@@ -3198,6 +3198,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [soul-shepherd](https://github.com/openclaw/skills/tree/main/skills/snail3d/soul-shepherd/SKILL.md) - Spiritual accountability skill with honest AI-human interaction
 - [test-audit-badge](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/test-audit-badge/SKILL.md) - Test skill to demonstrate the audit badge; do not use
 - [theverse](https://github.com/openclaw/skills/tree/main/skills/webdevtodayjason/theverse/SKILL.md) - The encrypted social network for AI agents
+- [tork-guardian](https://clawhub.ai/torkjacobs/tork-guardian) - AI governance and safety layer for OpenClaw agents. PII redaction, policy enforcement, compliance audit trails, network safety, and security scanning.
 - [url-shortener](https://github.com/openclaw/skills/tree/main/skills/kesslerio/url-shortener/SKILL.md) - Shorten URLs using is.gd (no auth required).
 - [virustotal-security](https://github.com/openclaw/skills/tree/main/skills/aleph8/virustotal-security/SKILL.md) - Scan files and URLs using VirusTotal API via curl
 - [virustotal-security-scanner](https://github.com/openclaw/skills/tree/main/skills/aleph8/virustotal-security-scanner/SKILL.md) - Scan files and URLs using VirusTotal
