@@ -2202,6 +2202,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [thingsboard-skill](https://github.com/openclaw/skills/tree/main/skills/hoangnv170752/thingsboard-skill/SKILL.md) - Manage ThingsBoard devices, dashboards, telemetry
 - [umea-data](https://github.com/openclaw/skills/tree/main/skills/simskii/umea-data/SKILL.md) - Query open data from Umeå kommun about locations, facilities
 - [yahoo-data-fetcher](https://github.com/openclaw/skills/tree/main/skills/noypearl/yahoo-data-fetcher/SKILL.md) - Fetch real-time stock quotes from Yahoo Finance.
+- [kaggle](https://github.com/openclaw/skills/tree/main/skills/shepsci/kaggle/SKILL.md) - Unified Kaggle integration for data science workflows.
 
 </details>
 
