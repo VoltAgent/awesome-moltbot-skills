@@ -2186,6 +2186,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [hyperliquid](https://github.com/openclaw/skills/tree/main/skills/k0nkupa/hyperliquid/SKILL.md) - Read-only Hyperliquid market data assistant (perps + spot optional)
 - [ipinfo](https://github.com/openclaw/skills/tree/main/skills/tiagom101/ipinfo/SKILL.md) - Perform IP geolocation lookups using ipinfo.io API.
 - [kradleverse-cleanup](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleverse-cleanup/SKILL.md) - Remove all stored Kradleverse sessions
+- [kaggle-skill](https://github.com/shepsci/kaggle-skill) - Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection. Install: `npx skills add shepsci/kaggle-skill`
 - [linkdapi](https://github.com/openclaw/skills/tree/main/skills/foontinz/linkdapi/SKILL.md) - Work with LinkdAPI Python SDK for accessing LinkedIn professional profile
 - [longevity-bio-dashboard](https://github.com/openclaw/skills/tree/main/skills/kunoiiv/longevity-bio-dashboard/SKILL.md) - Longevity tracker dashboard
 - [netlify](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/netlify/SKILL.md) - Use the Netlify CLI (netlify) to create/link Netlify sites and set up CI/CD.
