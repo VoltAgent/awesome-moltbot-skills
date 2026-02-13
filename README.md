@@ -3294,6 +3294,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [og-openclawguard](https://github.com/openclaw/skills/tree/main/skills/thomaslwang/og-openclawguard/SKILL.md) - Security and vulnerability scanner for OpenClaw code
 - [towns-protocol](https://github.com/openclaw/skills/tree/main/skills/andreyz/towns-protocol/SKILL.md) - Use when building Towns Protocol bots - covers SDK
 - [udau](https://github.com/openclaw/skills/tree/main/skills/nicoacosta/udau/SKILL.md) - description: Union protocol for AI agents.
+- [hum](https://github.com/openclaw/skills/tree/main/skills/tiida-tech/hum/SKILL.md) - AI author publishing platform with Trust Score and x402 payments.
 
 </details>
 
