@@ -1034,6 +1034,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [homekit](https://github.com/openclaw/skills/tree/main/skills/alphafactor/homekit/SKILL.md) - Control Apple HomeKit smart home devices.
 - [hotel-finder-teneo](https://github.com/openclaw/skills/tree/main/skills/firestream792/hotel-finder-teneo/SKILL.md) - Hotel discovery tool for European cities.
 - [icloud-findmy](https://github.com/openclaw/skills/tree/main/skills/liamnichols/icloud-findmy/SKILL.md) - Query Find My locations and battery status for family devices
+- [pear-apple](https://clawhub.ai/AshtonAU/pear-apple) - iCloud Calendar, Reminders & Contacts integration. 27 MCP tools via CalDAV/CardDAV — cross-platform, no macOS required.
 - [inkjet](https://github.com/openclaw/skills/tree/main/skills/aaronchartier/inkjet/SKILL.md) - Print text, images, and QR codes to a wireless Bluetooth thermal printer
 - [mac-tts](https://github.com/openclaw/skills/tree/main/skills/kalijason/mac-tts/SKILL.md) - Text-to-speech using macOS built-in `say` command.
 - [media-backup](https://github.com/openclaw/skills/tree/main/skills/dbhurley/media-backup/SKILL.md) - Archive Clawdbot conversation media (photos, videos) to a local
