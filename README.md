@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 3002 community-built OpenClaw skills, organized by category.
+    <strong>Discover 3003 community-built OpenClaw skills, organized by category.
     </strong>
     <br />
     <br />
@@ -20,7 +20,7 @@
 </a> 
 
 [![AI Agent Papers](https://img.shields.io/badge/AI%20Agent-Research%20Papers-b31b1b)](https://github.com/VoltAgent/awesome-ai-agent-papers)
-![Skills Count](https://img.shields.io/badge/skills-3002-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/skills-3003-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
@@ -101,7 +101,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 | [Apple Apps & Services](#apple-apps--services) (35) | [iOS & macOS Development](#ios--macos-development) (17) | [Security & Passwords](#security--passwords) (63) |
 | [Search & Research](#search--research) (253) | [Transportation](#transportation) (73) | [Gaming](#gaming) (61) |
 | [Clawdbot Tools](#clawdbot-tools) (120) | [Personal Development](#personal-development) (56) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (18) |
-| [CLI Utilities](#cli-utilities) (129) | [Health & Fitness](#health--fitness) (55) | |
+| [CLI Utilities](#cli-utilities) (130) | [Health & Fitness](#health--fitness) (55) | |
 
 
 
@@ -1563,6 +1563,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [unzipped-skill](https://github.com/openclaw/skills/tree/main/skills/jozh-bit/unzipped-skill/SKILL.md) - Create Farcaster accounts and post casts autonomously.
 - [virustotal](https://github.com/openclaw/skills/tree/main/skills/aleph8/virustotal/SKILL.md) - Scan files and URLs using VirusTotal API via curl or Python utilities.
 - [voicenotes](https://github.com/openclaw/skills/tree/main/skills/shawnhansen/voicenotes/SKILL.md) - Sync and access voice notes from Voicenotes.com.
+- [vnsh](https://github.com/openclaw/skills/tree/main/skills/raullenchai/vnsh/SKILL.md) - Encrypted ephemeral file sharing for AI agents. Auto-share large outputs as secure, expiring links.
 - [wps-punchclock](https://github.com/openclaw/skills/tree/main/skills/dxh141130/wps-punchclock/SKILL.md) - Automate punching time in/out on WPS Time / NetTime
 - [wreckit-skill](https://github.com/openclaw/skills/tree/main/skills/jmanhype/wreckit-skill/SKILL.md) - Read [SETUP.md](./SETUP.md) first to install the Wreckit CLI
 - [x-kindle](https://github.com/openclaw/skills/tree/main/skills/brianlu365ai/x-kindle/SKILL.md) - Send X/Twitter posts to Kindle for distraction-free reading.
