@@ -1422,6 +1422,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [stranger-danger](https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/stranger-danger/SKILL.md) - Give your AI agent a safe word.
 - [swiggy](https://github.com/openclaw/skills/tree/main/skills/regalstreak/swiggy/SKILL.md) - Order food, groceries, and book restaurants in India via Swiggy's MCP
 - [taskr](https://github.com/openclaw/skills/tree/main/skills/echo-of-machines/taskr/SKILL.md) - Remote task memory & tracking for OpenClaw.
+- [token-panel-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/token-panel-ultimate/SKILL.md) - Track AI usage across Claude Max, Gemini, and Manus in real-time. Rolling windows, rate limits, credit balances, webchat widget.
 - [treelisty-openclaw-skill](https://github.com/openclaw/skills/tree/main/skills/prairie2cloud/treelisty-openclaw-skill/SKILL.md) - Hierarchical project decomposition
 - [triple-memory](https://github.com/openclaw/skills/tree/main/skills/ktpriyatham/triple-memory/SKILL.md) - LanceDB + Git-Notes + file-based memory system.
 - [ultrahuman-openclaw](https://github.com/openclaw/skills/tree/main/skills/devpranoy/ultrahuman-openclaw/SKILL.md) - Fetch and summarize Ultrahuman Ring/CGM metrics
@@ -2326,6 +2327,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 <details>
 <summary><h3 style="display:inline">Notes & PKM</h3></summary>
 
+- [agent-memory-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-memory-ultimate/SKILL.md) - Production-ready memory system — daily logs, sleep consolidation, SQLite + FTS5, WhatsApp/ChatGPT/VCF importers. Human-inspired architecture.
 - [agents-structured-memory](https://github.com/openclaw/skills/tree/main/skills/singhcoder/agents-structured-memory/SKILL.md) - Chat-native structured memory for agents
 - [alexandrie](https://github.com/openclaw/skills/tree/main/skills/eth3rnit3/alexandrie/SKILL.md) - Interact with Alexandrie note-taking app
 - [anki-connect](https://github.com/openclaw/skills/tree/main/skills/gyroninja/anki-connect/SKILL.md) - Interact with Anki flashcard decks via the AnkiConnect REST API.
@@ -2784,6 +2786,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [webchat-audio-notifications](https://ClawHub.com/brokemac79/webchat-audio-notifications) - Browser audio notifications for webchat with 5...
 - [wechat](https://github.com/openclaw/skills/tree/main/skills/alphafactor/wechat/SKILL.md) - Read WeChat local data from SQLite databases.
 - [whatsapp-styler](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/whatsapp-styler/SKILL.md) - Skill to ensure all messages sent to WhatsApp follow
+- [whatsapp-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/whatsapp-ultimate/SKILL.md) - Complete WhatsApp integration — messages, media, polls, stickers, voice notes, reactions, FTS5 history search, voice transcription. Native Baileys, zero Docker.
 - [whatsapp-video-mockup](https://github.com/openclaw/skills/tree/main/skills/danpeg/whatsapp-video-mockup/SKILL.md) - whatsapp-video-mockup
 - [zalo](https://github.com/openclaw/skills/tree/main/skills/codedao12/zalo/SKILL.md) - Guidance for integrating Zalo (Zalo OA/ZNS): flows, API usage, webhooks
 - [zero-trust](https://github.com/openclaw/skills/tree/main/skills/doonot/zero-trust/SKILL.md) - Security-first behavioral guidelines for cautious agent operation.
@@ -3199,6 +3202,8 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [senior-secops](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-secops/SKILL.md) - Comprehensive SecOps skill for application security
 - [shadow-strike-security](https://github.com/openclaw/skills/tree/main/skills/malvex007/shadow-strike-security/SKILL.md) - Elite penetration testing platform with 600+
 - [skill-guard](https://github.com/openclaw/skills/tree/main/skills/jamesouttake/skill-guard/SKILL.md) - Scan ClawHub skills for security vulnerabilities
+- [agent-boundaries-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-boundaries-ultimate/SKILL.md) - Safety & ethics framework — beyond Asimov's Three Laws. Authorization, privacy, OPSEC, inter-agent etiquette for multi-user environments.
+- [shell-security-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/shell-security-ultimate/SKILL.md) - Classify shell commands by risk level (SAFE→CRITICAL). Color-coded output, audit logging, enforcement scripts.
 - [skill-security-audit](https://github.com/openclaw/skills/tree/main/skills/kylehuan/skill-security-audit/SKILL.md) - Conduct comprehensive security audits
 - [soul-shepherd](https://github.com/openclaw/skills/tree/main/skills/snail3d/soul-shepherd/SKILL.md) - Spiritual accountability skill with honest AI-human interaction
 - [test-audit-badge](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/test-audit-badge/SKILL.md) - Test skill to demonstrate the audit badge; do not use
