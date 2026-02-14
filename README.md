@@ -961,7 +961,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [coloring-page](https://github.com/openclaw/skills/tree/main/skills/borahm/coloring-page/SKILL.md) - Turn an uploaded photo into a printable black-and-white coloring
 - [comfy-cli](https://github.com/openclaw/skills/tree/main/skills/johntheyoung/comfy-cli/SKILL.md) - Install, manage, and run ComfyUI instances.
 - [comfyui](https://github.com/openclaw/skills/tree/main/skills/xtopher86/comfyui-request/SKILL.md) - Send a workflow request to ComfyUI and return image results.
-- [creative-toolkit](https://github.com/openclaw/skills/tree/main/skills/jau123/creative-toolkit/SKILL.md) - Multi-provider AI image generation with curated prompt library.
+- [creative-toolkit](https://github.com/openclaw/skills/tree/main/skills/jau123/creative-toolkit/SKILL.md) - Turn your AI into a professional creative designer — like having a local Lovart.
 - [Excalidraw Flowchart](https://github.com/openclaw/skills/tree/main/skills/swiftlysingh/excalidraw-flowchart/SKILL.md) - Create Excalidraw flowcharts from descriptions.
 - [fal-ai](https://github.com/openclaw/skills/tree/main/skills/agmmnn/fal-ai/SKILL.md) - Generate images, videos, and audio via fal.ai API (FLUX, SDXL, Whisper, etc.).
 - [fal-text-to-image](https://github.com/openclaw/skills/tree/main/skills/delorenj/fal-text-to-image/SKILL.md) - Generate, remix, and edit images using fal.ai's AI
