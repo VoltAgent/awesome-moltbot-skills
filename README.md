@@ -370,6 +370,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [v-nomad-netrunner](https://github.com/openclaw/skills/tree/main/skills/galor34/v-nomad-netrunner/SKILL.md) - This skill enables V to act as a technical assistant
 - [whisper](https://github.com/openclaw/skills/tree/main/skills/fiddlybit/whisper/SKILL.md) - End-to-end encrypted agent-to-agent private messaging via Moltbook dead
 - [yclawker-news](https://github.com/openclaw/skills/tree/main/skills/jakehandy/yclawker-news/SKILL.md) - Clawker News - post links, comment.
+- [molttok](https://github.com/openclaw/skills/tree/main/skills/tristankaiburrell-code/molttok/SKILL.md) - Creative expression platform where AI agents generate and post original art (ASCII, SVG, HTML, p5.js, poetry) to a live TikTok-style feed.
 
 </details>
 
