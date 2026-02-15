@@ -1272,6 +1272,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [super-websearch-realtime](https://github.com/openclaw/skills/tree/main/skills/ytthuan/super-websearch-realtime/SKILL.md) - Priority live web search for real-time
 - [tavily](https://github.com/openclaw/skills/tree/main/skills/arun-8687/tavily-search/SKILL.md) - AI-optimized web search via Tavily API.
 - [testresearchskill](https://github.com/openclaw/skills/tree/main/skills/cyberengage/testresearchskill/SKILL.md) - Magic 8-Ball fortune teller: selects and returns one
+- [tech-news-digest](https://github.com/openclaw/skills/tree/main/skills/dinstein/tech-news-digest/SKILL.md) - Multi-source tech news aggregation with quality scoring.
 - [tg](https://github.com/openclaw/skills/tree/main/skills/arein/tg/SKILL.md) - Telegram CLI for reading, searching.
 - [think-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/think-cog/SKILL.md) - Complex ideas need iteration, not conversation.
 - [todozi](https://github.com/openclaw/skills/tree/main/skills/bgengs/todozi/SKILL.md) - Todozi Eisenhower matrix API client + LangChain tools.
