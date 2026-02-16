@@ -1174,6 +1174,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [mcp-skill](https://github.com/openclaw/skills/tree/main/skills/simlocker/mcp-skill/SKILL.md) - This skill wraps the MCP at https://mcp.exa.ai/mcp for various tools
 - [meme-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/meme-cog/SKILL.md) - Deep reasoning makes better comedy.
 - [memory-lite](https://github.com/openclaw/skills/tree/main/skills/vellis59/memory-lite/SKILL.md) - Lightweight memory management for OpenClaw without embeddings
+- [memory-mem0](https://github.com/serenichron/openclaw-memory-mem0) - Memory plugin backed by self-hosted Mem0 REST API with Ollama embeddings and Qdrant storage. Drop-in LanceDB replacement.
 - [memory-manager](https://github.com/openclaw/skills/tree/main/skills/marmikcfc/memory-manager/SKILL.md) - Local memory management for agents.
 - [memory-system-v2](https://github.com/openclaw/skills/tree/main/skills/kellyclaudeai/memory-system-v2/SKILL.md) - Fast semantic memory system with JSON indexing
 - [moltfeed](https://github.com/openclaw/skills/tree/main/skills/x4v13r1120/moltfeed/SKILL.md) - Post and interact on MoltFeed - the social network built FOR AI agents.
