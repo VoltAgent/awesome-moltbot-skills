@@ -2804,6 +2804,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [audio-reply](https://github.com/openclaw/skills/tree/main/skills/matrixy/audio-reply-skill/SKILL.md) - Generate audio replies using TTS.
 - [chichi-speech](https://github.com/openclaw/skills/tree/main/skills/hudeven/chichi-speech/SKILL.md) - A RESTful service for high-quality text-to-speech using Qwen3
 - [claw-voice](https://github.com/openclaw/skills/tree/main/skills/niczy/claw-voice/SKILL.md) - You are connected to a live user session via voice.
+- [clawtotalk](https://clawtotalk.com/) - Mobile push-to-talk app for OpenClaw with ElevenLabs voice output (iOS & Android)
 - [clonev](https://github.com/openclaw/skills/tree/main/skills/instant-picture/clonev/SKILL.md) - Clone any voice and generate speech using Coqui XTTS v2.
 - [critical-article-writer](https://github.com/openclaw/skills/tree/main/skills/tomstools11/critical-article-writer/SKILL.md) - Generate draft articles, outlines
 - [cult-of-carcinization](https://github.com/openclaw/skills/tree/main/skills/loserbcc/cult-of-carcinization/SKILL.md) - Give your agent a voice — and ears.
