@@ -3304,6 +3304,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [og-openclawguard](https://github.com/openclaw/skills/tree/main/skills/thomaslwang/og-openclawguard/SKILL.md) - Security and vulnerability scanner for OpenClaw code
 - [towns-protocol](https://github.com/openclaw/skills/tree/main/skills/andreyz/towns-protocol/SKILL.md) - Use when building Towns Protocol bots - covers SDK
 - [udau](https://github.com/openclaw/skills/tree/main/skills/nicoacosta/udau/SKILL.md) - description: Union protocol for AI agents.
+- [sparkbtcbot](https://github.com/openclaw/skills/tree/main/skills/echennells/sparkbtcbot/SKILL.md) - L402 payment protocol for agent-to-agent micropayments.
 
 </details>
 
