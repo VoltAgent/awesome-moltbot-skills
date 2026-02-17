@@ -2408,7 +2408,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [self-reflection](https://github.com/openclaw/skills/tree/main/skills/hopyky/self-reflection/SKILL.md) - Continuous self-improvement through structured reflection
 - [session-wrap-up](https://github.com/openclaw/skills/tree/main/skills/branexp/session-wrap-up/SKILL.md) - Wrap up a conversation session before starting a new one.
 - [shared-memory](https://github.com/openclaw/skills/tree/main/skills/christinetyip/shared-memory/SKILL.md) - Share memories and state with other users.
-- [shadowdb](https://github.com/jamesdwilson/ShadowDB) - PostgreSQL-backed persistent memory with nomic-embed-text vector search, automatic re-embedding on config change, and a digest primer that scales context by model size. Drop-in OpenClaw memory plugin.
+- [shadowdb](https://github.com/jamesdwilson/ShadowDB) - Production-grade persistent memory powered by PostgreSQL + pgvector. Hybrid retrieval (vector similarity, full-text search, recency weighting), automatic re-embedding on config drift, and a model-aware digest primer that feeds small models less context and large models more. 7,000+ records battle-tested. Replaces built-in memory entirely.
 - [shodh-local](https://github.com/openclaw/skills/tree/main/skills/doobidoo/shodh-local/SKILL.md) - Local Shodh-Memory v0.1.74 (offline cognitive memory for AI agents).
 - [skill-from-memory](https://github.com/openclaw/skills/tree/main/skills/zfanmy/skill-from-memory/SKILL.md) - Convert memory, conversation history, or completed tasks
 - [skillcraft](https://github.com/openclaw/skills/tree/main/skills/jmz1/skillcraft/SKILL.md) - Create, design, and package Clawdbot skills.
