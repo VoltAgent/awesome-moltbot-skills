@@ -2036,6 +2036,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [mcp-registry-manager](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/mcp-registry-manager/SKILL.md) - Centralized discovery and quality scoring
 - [media-converter](https://github.com/openclaw/skills/tree/main/skills/autogame-17/media-converter/SKILL.md) - Detects media file types via magic bytes and fixes file
 - [memory-baidu-embedding-db](https://github.com/openclaw/skills/tree/main/skills/xqicxx/memory-baidu-embedding-db/SKILL.md) - Semantic memory system using Baidu
+- [memoclaw](https://github.com/openclaw/skills/tree/main/skills/anajuliabit/memoclaw/SKILL.md) - Persistent cloud memory for AI agents with semantic search.
 - [meta-video-ad-analyzer](https://github.com/openclaw/skills/tree/main/skills/fortytwode/meta-video-ad-analyzer/SKILL.md) - Extract and analyze content from video ads
 - [mind-blow](https://github.com/openclaw/skills/tree/main/skills/autogame-17/mind-blow/SKILL.md) - Deliver "mind-blowing" insights, paradoxes.
 - [minimax-usage](https://github.com/openclaw/skills/tree/main/skills/thesethrose/minimax-usage/SKILL.md) - Monitor Minimax Coding Plan usage to stay within API limits.
