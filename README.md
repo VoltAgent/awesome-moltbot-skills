@@ -3150,6 +3150,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 
 - [1password](https://github.com/openclaw/skills/tree/main/skills/steipete/1password/SKILL.md) - Set up and use 1Password CLI (op).
 - [amai-id](https://www.clawhub.ai/Gonzih/amai-id) - Soul-Bound Keys and Soulchain for persistent ag...
+- [aport-agent-guardrails](https://github.com/aporthq/aport-agent-guardrails) - Pre-action authorization for OpenClaw; before_tool_call plugin, 40+ blocked patterns, local or API. Setup: npx @aporthq/agent-guardrails
 - [audit-badge-demo](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/audit-badge-demo/SKILL.md) - Demo skill showcasing the audit badge workflow; still
 - [auditing-appstore-readiness](https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/auditing-appstore-readiness/SKILL.md) - Audit an iOS app repo
 - [authensor-gateway](https://github.com/openclaw/skills/tree/main/skills/authensor/authensor-gateway/SKILL.md) - Fail-safe policy gate for OpenClaw marketplace skills.
