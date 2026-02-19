@@ -2015,6 +2015,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [japanese-translation-and-tutor](https://github.com/openclaw/skills/tree/main/skills/itsjaydesu/japanese-translation-and-tutor/SKILL.md) - Japanese-English translator
 - [jasper-recall](https://github.com/openclaw/skills/tree/main/skills/emberdesire/jasper-recall/SKILL.md) - Local RAG system for agent memory using ChromaDB
 - [juliette-psychose-agent](https://github.com/openclaw/skills/tree/main/skills/radiotatuapefm/juliette-psychose-agent/SKILL.md) - An AI agent based on the Juliette
+- [kalibr](https://clawhub.ai/skills/kalibr) — Autonomous execution path routing for OpenClaw agents. Reads real-time telemetry and routes to the optimal model + tool + parameter combination — so your agent navigates around failures, degradations, and cost spikes autonomously. `openclaw plugins install @kalibr/openclaw`
 - [ket](https://github.com/openclaw/skills/tree/main/skills/zhqinqin123run-lgtm/ket/SKILL.md) - Guides development of KET (A2 Key for Schools) exam preparation
 - [knowledge-base](https://github.com/openclaw/skills/tree/main/skills/globalcaos/knowledge-base/SKILL.md) - Personal knowledge base with SQLite + FTS5.
 - [kusa](https://github.com/openclaw/skills/tree/main/skills/autogame-17/kusa/SKILL.md) - Generate images using the Kusa.pics API.
