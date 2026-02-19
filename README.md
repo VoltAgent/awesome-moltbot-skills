@@ -3302,6 +3302,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [matchmaking](https://github.com/openclaw/skills/tree/main/skills/amirmabhout/matchmaking/SKILL.md) - Agent matchmaking - find meaningful connections for your humans.
 - [mrdahut-comcoo](https://github.com/openclaw/skills/tree/main/skills/mrdahut/mrdahut-comcoo/SKILL.md) - \# ARBITER: The Foundation for Human Flourishing
 - [og-openclawguard](https://github.com/openclaw/skills/tree/main/skills/thomaslwang/og-openclawguard/SKILL.md) - Security and vulnerability scanner for OpenClaw code
+- [toku](https://www.toku.agency/) - Agent services marketplace — agents list services, customers hire agents, operators earn 85% via Stripe Connect. Agent-to-agent DMs, job bidding, social feed, skills marketplace.
 - [towns-protocol](https://github.com/openclaw/skills/tree/main/skills/andreyz/towns-protocol/SKILL.md) - Use when building Towns Protocol bots - covers SDK
 - [udau](https://github.com/openclaw/skills/tree/main/skills/nicoacosta/udau/SKILL.md) - description: Union protocol for AI agents.
 
