@@ -7,6 +7,17 @@
 <br/>
 <br/>
 
+<!-- Keep these links. Translations will automatically update with the README. -->
+[Deutsch](https://zdoc.app/de/VoltAgent/awesome-openclaw-skills) | 
+[English](https://zdoc.app/en/VoltAgent/awesome-openclaw-skills) | 
+[Español](https://zdoc.app/es/VoltAgent/awesome-openclaw-skills) | 
+[français](https://zdoc.app/fr/VoltAgent/awesome-openclaw-skills) | 
+[日本語](https://zdoc.app/ja/VoltAgent/awesome-openclaw-skills) | 
+[한국어](https://zdoc.app/ko/VoltAgent/awesome-openclaw-skills) | 
+[Português](https://zdoc.app/pt/VoltAgent/awesome-openclaw-skills) | 
+[Русский](https://zdoc.app/ru/VoltAgent/awesome-openclaw-skills) | 
+[中文](https://zdoc.app/zh/VoltAgent/awesome-openclaw-skills)
+
 <div align="center">
     <strong>Discover 3002 community-built OpenClaw skills, organized by category.
     </strong>
