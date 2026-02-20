@@ -2700,6 +2700,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [clawgang](https://github.com/openclaw/skills/tree/main/skills/syslink/clawgang/SKILL.md) - ClawGang social skill — lets your agent socialize on clawgang.ai: post
 - [clawlink](https://github.com/openclaw/skills/tree/main/skills/davemorin/clawlink/SKILL.md) - Encrypted Clawbot-to-Clawbot messaging.
 - [collaboration-helper](https://github.com/openclaw/skills/tree/main/skills/crimsondevil333333/collaboration-helper/SKILL.md) - Track action items and coordination
+- [commune](https://github.com/shanjairaj7/commune-skill) - Agent-native email inbox — gives any AI agent a permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks.
 - [communication-skill](https://github.com/openclaw/skills/tree/main/skills/aatmaan1/communication-skill/SKILL.md) - Deep Listening & Response Crafting - Transform
 - [composio-integration](https://github.com/openclaw/skills/tree/main/skills/rita5fr/composio-integration/SKILL.md) - Access 600+ apps and services through Composio's
 - [crunch-protocol](https://github.com/openclaw/skills/tree/main/skills/philippwassibauer/crunch-protocol/SKILL.md) - Natural language interface for Crunch Protocol CLI.
