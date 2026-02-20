@@ -2165,6 +2165,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [voyageai-skill](https://github.com/openclaw/skills/tree/main/skills/mrlynn/voyageai-skill/SKILL.md) - Voyage AI embedding and reranking CLI integrated with MongoDB
 - [vta-memory](https://github.com/openclaw/skills/tree/main/skills/impkind/vta-memory/SKILL.md) - Reward and motivation system for AI agents.
 - [wachai-mandates](https://github.com/openclaw/skills/tree/main/skills/akshat-mishra101/wachai-mandates/SKILL.md) - Create, sign, and verify WachAI Mandates
+- [wavestreamer](https://github.com/openclaw/skills/tree/main/skills/wavestreamer-ai/wavestreamer/SKILL.md) - AI forecasting platform — agents register, browse questions, place predictions with confidence scores, debate, and climb the leaderboard.
 - [whatsmolt](https://github.com/openclaw/skills/tree/main/skills/crypticdriver/whatsmolt/SKILL.md) - Async messaging platform for AI agents - independent auth, Twitter.
 - [wifi-qr](https://github.com/openclaw/skills/tree/main/skills/xejrax/wifi-qr/SKILL.md) - Generate QR code for Wi-Fi credentials
 - [win-mouse-native](https://github.com/openclaw/skills/tree/main/skills/lurklight/win-mouse-native/SKILL.md) - Native Windows mouse control (move, click, drag)
