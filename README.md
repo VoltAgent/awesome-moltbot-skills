@@ -2734,6 +2734,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [isms-audit-expert](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/isms-audit-expert/SKILL.md) - Information Security Management System auditing
 - [kindroid-interact](https://github.com/openclaw/skills/tree/main/skills/lumenlemons/kindroid-interact/SKILL.md) - Interact with Kindroid companions via their official
 - [let-me-know](https://github.com/openclaw/skills/tree/main/skills/fogyoy/let-me-know/SKILL.md) - Notify the user before starting any long-running task and keep them
+- [LNemail](https://github.com/rolznz/autonomous-onboarding/blob/master/skills/lnemail/SKILL.md) - Anonymous email accounts paid via Lightning Network. WebUI and API access. No KYC, no email required to sign up.
 - [linkedin](https://github.com/openclaw/skills/tree/main/skills/biostartechnology/linkedin/SKILL.md) - LinkedIn automation via browser relay or cookies for messaging
 - [linkedin-cli](https://github.com/openclaw/skills/tree/main/skills/arun-8687/linkedin-cli/SKILL.md) - A bird-like LinkedIn CLI for searching profiles, checking
 - [lista-sms](https://github.com/openclaw/skills/tree/main/skills/david-evaristo/lista-sms/SKILL.md) - description: Recupera, filtra e formata automaticamente mensagens
