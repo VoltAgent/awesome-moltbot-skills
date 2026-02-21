@@ -3229,6 +3229,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-boundaries-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-boundaries-ultimate/SKILL.md) - Safety & ethics framework — beyond Asimov's Three Laws. Authorization, privacy, OPSEC, inter-agent etiquette for multi-user environments.
 - [shell-security-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/shell-security-ultimate/SKILL.md) - Classify shell commands by risk level (SAFE→CRITICAL). Color-coded output, audit logging, enforcement scripts.
 - [skill-security-audit](https://github.com/openclaw/skills/tree/main/skills/kylehuan/skill-security-audit/SKILL.md) - Conduct comprehensive security audits
+- [skillsync-mcp](https://github.com/adityasugandhi/skillsync-mcp) - Security-gated skill manager. Search SkillsMP marketplace, scan for 60+ threats, install/audit skills. Blocks prompt injection, RCE, credential theft.
 - [soul-shepherd](https://github.com/openclaw/skills/tree/main/skills/snail3d/soul-shepherd/SKILL.md) - Spiritual accountability skill with honest AI-human interaction
 - [test-audit-badge](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/test-audit-badge/SKILL.md) - Test skill to demonstrate the audit badge; do not use
 - [theverse](https://github.com/openclaw/skills/tree/main/skills/webdevtodayjason/theverse/SKILL.md) - The encrypted social network for AI agents
