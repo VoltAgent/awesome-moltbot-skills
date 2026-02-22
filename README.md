@@ -1396,6 +1396,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [lark-integration](https://github.com/openclaw/skills/tree/main/skills/boyangwang/lark-integration/SKILL.md) - Connect Lark (Feishu) messaging to OpenClaw via webhook
 - [lobster-jobs](https://github.com/openclaw/skills/tree/main/skills/kesslerio/lobster-jobs/SKILL.md) - Transform OpenClaw cron jobs into Lobster workflows.
 - [luma-event-manager](https://github.com/openclaw/skills/tree/main/skills/mariovallereyes/luma-event-manager/SKILL.md) - Luma Event Manager for Clawdbot — Discover
+- [manifest](https://github.com/mnfst/manifest/blob/main/skills/manifest/SKILL.md) - Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage. Self-hosted with OTLP ingestion. ([GitHub](https://github.com/mnfst/manifest) | [Website](https://manifest.build))
 - [mcporter-skill](https://github.com/openclaw/skills/tree/main/skills/livvux/mcporter-skill/SKILL.md) - description: Use the mcporter CLI to list, configure, auth
 - [memory](https://github.com/openclaw/skills/tree/main/skills/rosepuppy/memory/SKILL.md) - Complete memory system for OpenClaw agents.
 - [memory-complete](https://github.com/openclaw/skills/tree/main/skills/rosepuppy/memory-complete/SKILL.md) - Complete memory system for OpenClaw agents.
