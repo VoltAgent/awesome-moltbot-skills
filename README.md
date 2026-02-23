@@ -112,7 +112,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Browser & Automation](#browser--automation) (139) | [Media & Streaming](#media--streaming) (80) | [PDF & Documents](#pdf--documents) (67) |
 | [Image & Video Generation](#image--video-generation) (60) | [Notes & PKM](#notes--pkm) (100) | [Self-Hosted & Automation](#self-hosted--automation) (25) |
 | [Apple Apps & Services](#apple-apps--services) (35) | [iOS & macOS Development](#ios--macos-development) (17) | [Security & Passwords](#security--passwords) (64) |
-| [Search & Research](#search--research) (253) | [Transportation](#transportation) (72) | [Gaming](#gaming) (61) |
+| [Search & Research](#search--research) (254) | [Transportation](#transportation) (72) | [Gaming](#gaming) (61) |
 | [Clawdbot Tools](#clawdbot-tools) (120) | [Personal Development](#personal-development) (56) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (18) |
 | [CLI Utilities](#cli-utilities) (129) | [Health & Fitness](#health--fitness) (55) | |
 
@@ -1073,6 +1073,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 <details>
 <summary><h3 style="display:inline">Search & Research</h3></summary>
+
+- [github-trending-analyzer](https://github.com/jackjin1997/ClawForge/tree/main/skills/github-trending-analyzer) - Fetch, categorize, and summarize GitHub Trending projects across daily, weekly, and monthly spans.
 
 - [1](https://github.com/openclaw/skills/tree/main/skills/nastrology/1/SKILL.md) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [2233researchskill](https://github.com/openclaw/skills/tree/main/skills/cyberengage/2233researchskill/SKILL.md) - Magic 8-Ball fortune teller: selects and returns one
