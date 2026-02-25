@@ -113,7 +113,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
  Setup, hosting, and deployment providers for OpenClaw agents.
 
-**Sponsor spots are reserved for hosting, deployment, and setup providers serving OpenClaw developers — sponsoring helps sustain this open-source project.**
+**Sponsor spots are reserved for hosting, deployment, and setup providers serving OpenClaw developers & users.**
 
 <br/>
 
