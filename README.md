@@ -2432,6 +2432,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [wheels-router](https://github.com/openclaw/skills/tree/main/skills/anscg/wheels-router/SKILL.md) - Public transit planning globally via Transitous.
 - [wienerlinien](https://github.com/openclaw/skills/tree/main/skills/hjanuschka/wienerlinien/SKILL.md) - Vienna public transport (Wiener Linien) real-time.
 
+- [daolv-hotel-booking](https://github.com/openclaw/skills/tree/main/skills/cnchenkai/daolv-hotel-booking/SKILL.md) - Hotel search, room-rate comparison, and booking handoff via AIGoHotel.
+
 </details>
 
 <details>
