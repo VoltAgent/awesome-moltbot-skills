@@ -115,6 +115,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 **Sponsor spots are reserved for hosting, deployment, and setup providers serving OpenClaw developers & users.**
 
+📩 For sponsorship inquiries, reach out at necati@voltagent.dev
+
 <br/>
 
 <div align="center">
