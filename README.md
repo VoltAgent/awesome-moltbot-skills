@@ -3227,6 +3227,11 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 <br/>
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=VoltAgent/awesome-openclaw-skills&type=Date)](https://star-history.com/#VoltAgent/awesome-openclaw-skills&Date)
+
 ## 🤝 Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
