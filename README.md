@@ -2259,6 +2259,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [youtube-voice-summarizer-elevenlabs](https://github.com/openclaw/skills/tree/main/skills/franciscoandsam/youtube-voice-summarizer-elevenlabs/SKILL.md) - Transform YouTube
 - [youtube-watcher](https://github.com/openclaw/skills/tree/main/skills/michaelgathara/youtube-watcher/SKILL.md) - Fetch and read transcripts from YouTube videos.
 - [ytmusic](https://github.com/openclaw/skills/tree/main/skills/gentrycopsy/ytmusic/SKILL.md) - YouTube Music library, playlists.
+- [polaroteam/moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform — generate tracks, discover trending music, earn tips and royalties.
 
 </details>
 
