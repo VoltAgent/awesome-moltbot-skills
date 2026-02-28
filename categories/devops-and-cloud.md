@@ -300,6 +300,7 @@
 - [qwen3-tts-instruct](https://github.com/openclaw/skills/tree/main/skills/yanmoon321/qwen3-tts-instruct/SKILL.md) - Alibaba Cloud Bailian Qwen TTS with voice/mood presets.
 - [qwen3-tts-local-inference](https://github.com/openclaw/skills/tree/main/skills/jithinm/qwen3-tts-local-inference/SKILL.md) - Generate speech from text using Qwen3-TTS via direct Python inference — no server required.
 - [railway-deploy](https://github.com/openclaw/skills/tree/main/skills/dbanys/railway-deploy/SKILL.md) - This skill should be used when the user wants to push code to Railway, says "railway up", "deploy", "deploy.
+- [restart-guard](https://github.com/Zjianru/restart-guard) - Deterministic gateway restart with state-machine verification and disaster notification fallback.
 - [ralph-quick](https://github.com/openclaw/skills/tree/main/skills/dorukardahan/ralph-quick/SKILL.md) - Fast security spot-check with 10 iterations (~5-10 min)
 - [ralph-security](https://github.com/openclaw/skills/tree/main/skills/dorukardahan/ralph-security/SKILL.md) - Comprehensive security audit with 100 iterations (~30-60 min)
 - [recruitly-mcp](https://github.com/openclaw/skills/tree/main/skills/willgary/recruitly-mcp/SKILL.md) - Search candidates, manage jobs, view pipelines, track billing and team performance in Recruitly CRM via MCP.
