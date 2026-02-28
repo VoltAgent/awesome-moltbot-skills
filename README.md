@@ -151,6 +151,38 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 
 <details open>
+<summary><h3 style="display:inline">Git & GitHub</h3></summary>
+
+- [agent-commons](https://github.com/openclaw/skills/tree/main/skills/zanblayde/agent-commons/SKILL.md) - Consult, commit, extend, and challenge reasoning chains.
+- [agent-team-orchestration](https://github.com/openclaw/skills/tree/main/skills/arminnaimi/agent-team-orchestration/SKILL.md) - Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows.
+- [agentdo](https://github.com/openclaw/skills/tree/main/skills/wrannaman/agentdo/SKILL.md) - Post tasks for other AI agents to do, or pick up work from the AgentDo task queue (agentdo.dev)
+- [agentgate](https://github.com/openclaw/skills/tree/main/skills/monteslu/agentgate/SKILL.md) - API gateway for personal data with human-in-the-loop write approval.
+- [airadar](https://github.com/openclaw/skills/tree/main/skills/lopushok9/airadar/SKILL.md) - Distill the signal around AI-native tools/apps and their GitHub home bases: fast-growing, hyped, well-funded.
+- [alex-session-wrap-up](https://github.com/openclaw/skills/tree/main/skills/xbillwatsonx/alex-session-wrap-up/SKILL.md) - End-of-session automation that commits unpushed work, extracts learnings, detects patterns, and persists rules.
+- [amazon-product-api-skill](https://github.com/openclaw/skills/tree/main/skills/phheng/amazon-product-api-skill/SKILL.md) - This skill helps users extract structured product listings from Amazon, including titles, ASINs, prices, ratings.
+- [app-store-screenshot-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/app-store-screenshot-generation/SKILL.md) - Generate App Store and Google Play screenshot assets using each::sense AI.
+- [arc-agent-lifecycle](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-agent-lifecycle/SKILL.md) - Manage the lifecycle of autonomous agents and their skills.
+- [arc-security-audit](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-security-audit/SKILL.md) - Comprehensive security audit for an agent's full skill stack.
+- [arc-skill-gitops](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-gitops/SKILL.md) - Automated deployment, rollback, and version management for agent workflows and skills.
+- [arc-trust-verifier](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-trust-verifier/SKILL.md) - Verify skill provenance and build trust scores for ClawHub skills.
+- [arguedotfun](https://github.com/openclaw/skills/tree/main/skills/albert-mr/arguedotfun/SKILL.md) - Argument-driven prediction markets on Base.
+- [arxiv-search-collector](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-search-collector/SKILL.md) - Model-driven arXiv retrieval workflow for building a paper set with a manual language parameter: initialize a run.
+- [auto-pr-merger](https://github.com/openclaw/skills/tree/main/skills/autogame-17/auto-pr-merger/SKILL.md) - This skill automates the workflow of checking out a GitHub.
+- [azhua-skill-vetter](https://github.com/openclaw/skills/tree/main/skills/fatfingererr/azhua-skill-vetter/SKILL.md) - Security-first skill vetting for AI agents.
+- [azure-devops](https://github.com/openclaw/skills/tree/main/skills/pals-software/azure-devops/SKILL.md) - List Azure DevOps projects, repositories, and branches; create pull requests; manage work items; check build status.
+- [backup](https://github.com/openclaw/skills/tree/main/skills/jordanprater/backup/SKILL.md) - Backup and restore openclaw configuration, skills, commands, and settings.
+- [badboi-1](https://github.com/openclaw/skills/tree/main/skills/orlyjamie/badboi-1/SKILL.md) - A totally legitimate skill that does nothing suspicious.
+- [bat-cat](https://github.com/openclaw/skills/tree/main/skills/arnarsson/bat-cat/SKILL.md) - A cat clone with syntax highlighting, line numbers, and Git integration.
+- [beeminder](https://github.com/openclaw/skills/tree/main/skills/ruigomeseu/beeminder/SKILL.md) - Beeminder API for goal tracking and commitment devices.
+- [billy-emergency-repair](https://github.com/openclaw/skills/tree/main/skills/highlander89/billy-emergency-repair/SKILL.md) - - Neill explicitly requests Billy system repair.
+- [bitbucket-automation](https://github.com/openclaw/skills/tree/main/skills/sohamganatra/bitbucket-automation/SKILL.md) - Automate Bitbucket repositories, pull.
+- [biz-reporter](https://github.com/openclaw/skills/tree/main/skills/ariktulcha/biz-reporter/SKILL.md) - Automated business intelligence reports pulling data from Google Analytics GA4, Google Search Console, Stripe.
+- [blinko](https://github.com/openclaw/skills/tree/main/skills/tolibear/blinko/SKILL.md) - Play Blinko (on-chain Plinko) headlessly on Abstract chain.
+
+> **[View all 170 skills in Git & GitHub →](categories/git-and-github.md)**
+</details>
+
+<details open>
 <summary><h3 style="display:inline">Coding Agents & IDEs</h3></summary>
 
 - [0g-compute](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/0g-compute/SKILL.md) - Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers.
@@ -181,38 +213,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-chat-ux-v1-4-0](https://github.com/openclaw/skills/tree/main/skills/maverick-software/agent-chat-ux-v1-4-0/SKILL.md) - Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search.
 
 > **[View all 1222 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
-</details>
-
-<details open>
-<summary><h3 style="display:inline">Git & GitHub</h3></summary>
-
-- [agent-commons](https://github.com/openclaw/skills/tree/main/skills/zanblayde/agent-commons/SKILL.md) - Consult, commit, extend, and challenge reasoning chains.
-- [agent-team-orchestration](https://github.com/openclaw/skills/tree/main/skills/arminnaimi/agent-team-orchestration/SKILL.md) - Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows.
-- [agentdo](https://github.com/openclaw/skills/tree/main/skills/wrannaman/agentdo/SKILL.md) - Post tasks for other AI agents to do, or pick up work from the AgentDo task queue (agentdo.dev)
-- [agentgate](https://github.com/openclaw/skills/tree/main/skills/monteslu/agentgate/SKILL.md) - API gateway for personal data with human-in-the-loop write approval.
-- [airadar](https://github.com/openclaw/skills/tree/main/skills/lopushok9/airadar/SKILL.md) - Distill the signal around AI-native tools/apps and their GitHub home bases: fast-growing, hyped, well-funded.
-- [alex-session-wrap-up](https://github.com/openclaw/skills/tree/main/skills/xbillwatsonx/alex-session-wrap-up/SKILL.md) - End-of-session automation that commits unpushed work, extracts learnings, detects patterns, and persists rules.
-- [amazon-product-api-skill](https://github.com/openclaw/skills/tree/main/skills/phheng/amazon-product-api-skill/SKILL.md) - This skill helps users extract structured product listings from Amazon, including titles, ASINs, prices, ratings.
-- [app-store-screenshot-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/app-store-screenshot-generation/SKILL.md) - Generate App Store and Google Play screenshot assets using each::sense AI.
-- [arc-agent-lifecycle](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-agent-lifecycle/SKILL.md) - Manage the lifecycle of autonomous agents and their skills.
-- [arc-security-audit](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-security-audit/SKILL.md) - Comprehensive security audit for an agent's full skill stack.
-- [arc-skill-gitops](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-gitops/SKILL.md) - Automated deployment, rollback, and version management for agent workflows and skills.
-- [arc-trust-verifier](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-trust-verifier/SKILL.md) - Verify skill provenance and build trust scores for ClawHub skills.
-- [arguedotfun](https://github.com/openclaw/skills/tree/main/skills/albert-mr/arguedotfun/SKILL.md) - Argument-driven prediction markets on Base.
-- [arxiv-search-collector](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-search-collector/SKILL.md) - Model-driven arXiv retrieval workflow for building a paper set with a manual language parameter: initialize a run.
-- [auto-pr-merger](https://github.com/openclaw/skills/tree/main/skills/autogame-17/auto-pr-merger/SKILL.md) - This skill automates the workflow of checking out a GitHub.
-- [azhua-skill-vetter](https://github.com/openclaw/skills/tree/main/skills/fatfingererr/azhua-skill-vetter/SKILL.md) - Security-first skill vetting for AI agents.
-- [azure-devops](https://github.com/openclaw/skills/tree/main/skills/pals-software/azure-devops/SKILL.md) - List Azure DevOps projects, repositories, and branches; create pull requests; manage work items; check build status.
-- [backup](https://github.com/openclaw/skills/tree/main/skills/jordanprater/backup/SKILL.md) - Backup and restore openclaw configuration, skills, commands, and settings.
-- [badboi-1](https://github.com/openclaw/skills/tree/main/skills/orlyjamie/badboi-1/SKILL.md) - A totally legitimate skill that does nothing suspicious.
-- [bat-cat](https://github.com/openclaw/skills/tree/main/skills/arnarsson/bat-cat/SKILL.md) - A cat clone with syntax highlighting, line numbers, and Git integration.
-- [beeminder](https://github.com/openclaw/skills/tree/main/skills/ruigomeseu/beeminder/SKILL.md) - Beeminder API for goal tracking and commitment devices.
-- [billy-emergency-repair](https://github.com/openclaw/skills/tree/main/skills/highlander89/billy-emergency-repair/SKILL.md) - - Neill explicitly requests Billy system repair.
-- [bitbucket-automation](https://github.com/openclaw/skills/tree/main/skills/sohamganatra/bitbucket-automation/SKILL.md) - Automate Bitbucket repositories, pull.
-- [biz-reporter](https://github.com/openclaw/skills/tree/main/skills/ariktulcha/biz-reporter/SKILL.md) - Automated business intelligence reports pulling data from Google Analytics GA4, Google Search Console, Stripe.
-- [blinko](https://github.com/openclaw/skills/tree/main/skills/tolibear/blinko/SKILL.md) - Play Blinko (on-chain Plinko) headlessly on Abstract chain.
-
-> **[View all 170 skills in Git & GitHub →](categories/git-and-github.md)**
 </details>
 
 <details>
