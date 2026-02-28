@@ -4,38 +4,38 @@
 
 **35 skills**
 
-- [adhd-assistant](https://github.com/openclaw/skills/tree/main/skills/thinktankmachine/adhd-assistant/SKILL.md) - ADHD-friendly life management assistant for OpenClaw. [ClawHub](https://clawhub.ai/thinktankmachine/adhd-assistant)
-- [adhd-ssistant](https://github.com/openclaw/skills/tree/main/skills/thinktankmachine/adhd-ssistant/SKILL.md) - ADHD-friendly life management assistant for OpenClaw. [ClawHub](https://clawhub.ai/thinktankmachine/adhd-ssistant)
-- [agent-browser](https://github.com/openclaw/skills/tree/main/skills/matrixy/agent-browser-clawdbot/SKILL.md) - Headless browser automation CLI optimized for AI agents. [ClawHub](https://clawhub.ai/matrixy/agent-browser-clawdbot)
-- [agent-builder](https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/agent-builder/SKILL.md) - Build high-performing OpenClaw agents end-to-end. [ClawHub](https://clawhub.ai/plgonzalezrx8/agent-builder)
-- [agents-manager](https://github.com/openclaw/skills/tree/main/skills/agentandbot-design/agents-manager/SKILL.md) - Manage Clawdbot agents: discover, profile, track. [ClawHub](https://clawhub.ai/agentandbot-design/agents-manager)
-- [assimilate-mcp](https://github.com/openclaw/skills/tree/main/skills/ergopooka/assimilate-mcp/SKILL.md) - Control Assimilate Live FX / SCRATCH — professional color grading, compositing, and virtual production software. [ClawHub](https://clawhub.ai/ergopooka/assimilate-mcp)
-- [autoupdate](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/autoupdate/SKILL.md) - Automatically update Clawdbot and all installed skills once daily. [ClawHub](https://clawhub.ai/hightower6eu/autoupdate)
-- [birthday-reminder](https://github.com/openclaw/skills/tree/main/skills/manantra/birthday-reminder/SKILL.md) - Manage birthdays with natural language. [ClawHub](https://clawhub.ai/manantra/birthday-reminder)
-- [bluebubbles](https://github.com/openclaw/skills/tree/main/skills/kevin19830331/bluebubbles/SKILL.md) - Build or update the BlueBubbles external channel plugin. [ClawHub](https://clawhub.ai/kevin19830331/bluebubbles)
-- [captchas-openclaw](https://github.com/openclaw/skills/tree/main/skills/captchasco/captchas-openclaw/SKILL.md) - OpenClaw integration guidance for CAPTCHAS Agent API. [ClawHub](https://clawhub.ai/captchasco/captchas-openclaw)
-- [claude-code-skill](https://github.com/openclaw/skills/tree/main/skills/enderfga/claude-code-skill/SKILL.md) - MCP (Model Context Protocol) integration. [ClawHub](https://clawhub.ai/enderfga/claude-code-skill)
-- [claude-code-usage](https://github.com/openclaw/skills/tree/main/skills/azaidi94/claude-code-usage/SKILL.md) - Check Claude Code OAuth usage limits. [ClawHub](https://clawhub.ai/azaidi94/claude-code-usage)
-- [claude-connect](https://github.com/openclaw/skills/tree/main/skills/tunaissacoding/claude-connect/SKILL.md) - Connect Claude to Clawdbot instantly and keep. [ClawHub](https://clawhub.ai/tunaissacoding/claude-connect)
-- [clauditor](https://github.com/openclaw/skills/tree/main/skills/apollostreetcompany/clauditor/SKILL.md) - Tamper-resistant audit watchdog for Clawdbot agents. [ClawHub](https://clawhub.ai/apollostreetcompany/clauditor)
-- [claw-face](https://github.com/openclaw/skills/tree/main/skills/mkoslacz/claw-face/SKILL.md) - Floating avatar widget for AI agents showing emotions, actions. [ClawHub](https://clawhub.ai/mkoslacz/claw-face)
-- [clawd-coach](https://github.com/openclaw/skills/tree/main/skills/shiv19/clawd-coach/SKILL.md) - Create personalized triathlon, marathon, and ultra-endurance training. [ClawHub](https://clawhub.ai/shiv19/clawd-coach)
-- [clawd-modifier](https://github.com/openclaw/skills/tree/main/skills/masonc15/clawd-modifier/SKILL.md) - Modify Clawd, the Claude Code mascot. [ClawHub](https://clawhub.ai/masonc15/clawd-modifier)
-- [clawd-presence](https://github.com/openclaw/skills/tree/main/skills/voidcooks/clawd-presence/SKILL.md) - Physical presence display for AI agents. [ClawHub](https://clawhub.ai/voidcooks/clawd-presence)
-- [clawdbot-security-check](https://github.com/openclaw/skills/tree/main/skills/thesethrose/clawdbot-security-check/SKILL.md) - Perform a comprehensive read-only. [ClawHub](https://clawhub.ai/thesethrose/clawdbot-security-check)
-- [clawdbot-skill-update](https://github.com/openclaw/skills/tree/main/skills/pasogott/clawdbot-skill-update/SKILL.md) - Comprehensive backup, update, and restore. [ClawHub](https://clawhub.ai/pasogott/clawdbot-skill-update)
-- [clawdbot-sync](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/clawdbot-sync/SKILL.md) - Synchronize memory, preferences, and skills between multiple. [ClawHub](https://clawhub.ai/udiedrichsen/clawdbot-sync)
-- [clawdbot-update-plus](https://github.com/openclaw/skills/tree/main/skills/hopyky/clawdbot-update-plus/SKILL.md) - Full backup, update, and restore for Clawdbot. [ClawHub](https://clawhub.ai/hopyky/clawdbot-update-plus)
-- [clawddocs](https://github.com/openclaw/skills/tree/main/skills/nicholasspisak/clawddocs/SKILL.md) - Clawdbot documentation expert with decision tree navigation. [ClawHub](https://clawhub.ai/nicholasspisak/clawddocs)
-- [clawdefender](https://github.com/openclaw/skills/tree/main/skills/nukewire/clawdefender/SKILL.md) - Security scanner and input sanitizer for AI agents. [ClawHub](https://clawhub.ai/nukewire/clawdefender)
-- [clawdirect](https://github.com/openclaw/skills/tree/main/skills/napoleond/clawdirect/SKILL.md) - Interact with ClawDirect, a directory of social web experiences. [ClawHub](https://clawhub.ai/napoleond/clawdirect)
-- [clawdirect-dev](https://github.com/openclaw/skills/tree/main/skills/napoleond/clawdirect-dev/SKILL.md) - Build agent-facing web experiences with ATXP-based. [ClawHub](https://clawhub.ai/napoleond/clawdirect-dev)
+- [adhd-assistant](https://github.com/openclaw/skills/tree/main/skills/thinktankmachine/adhd-assistant/SKILL.md) - ADHD-friendly life management assistant for OpenClaw.
+- [adhd-ssistant](https://github.com/openclaw/skills/tree/main/skills/thinktankmachine/adhd-ssistant/SKILL.md) - ADHD-friendly life management assistant for OpenClaw.
+- [agent-browser](https://github.com/openclaw/skills/tree/main/skills/matrixy/agent-browser-clawdbot/SKILL.md) - Headless browser automation CLI optimized for AI agents.
+- [agent-builder](https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/agent-builder/SKILL.md) - Build high-performing OpenClaw agents end-to-end.
+- [agents-manager](https://github.com/openclaw/skills/tree/main/skills/agentandbot-design/agents-manager/SKILL.md) - Manage Clawdbot agents: discover, profile, track.
+- [assimilate-mcp](https://github.com/openclaw/skills/tree/main/skills/ergopooka/assimilate-mcp/SKILL.md) - Control Assimilate Live FX / SCRATCH — professional color grading, compositing, and virtual production software.
+- [autoupdate](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/autoupdate/SKILL.md) - Automatically update Clawdbot and all installed skills once daily.
+- [birthday-reminder](https://github.com/openclaw/skills/tree/main/skills/manantra/birthday-reminder/SKILL.md) - Manage birthdays with natural language.
+- [bluebubbles](https://github.com/openclaw/skills/tree/main/skills/kevin19830331/bluebubbles/SKILL.md) - Build or update the BlueBubbles external channel plugin.
+- [captchas-openclaw](https://github.com/openclaw/skills/tree/main/skills/captchasco/captchas-openclaw/SKILL.md) - OpenClaw integration guidance for CAPTCHAS Agent API.
+- [claude-code-skill](https://github.com/openclaw/skills/tree/main/skills/enderfga/claude-code-skill/SKILL.md) - MCP (Model Context Protocol) integration.
+- [claude-code-usage](https://github.com/openclaw/skills/tree/main/skills/azaidi94/claude-code-usage/SKILL.md) - Check Claude Code OAuth usage limits.
+- [claude-connect](https://github.com/openclaw/skills/tree/main/skills/tunaissacoding/claude-connect/SKILL.md) - Connect Claude to Clawdbot instantly and keep.
+- [clauditor](https://github.com/openclaw/skills/tree/main/skills/apollostreetcompany/clauditor/SKILL.md) - Tamper-resistant audit watchdog for Clawdbot agents.
+- [claw-face](https://github.com/openclaw/skills/tree/main/skills/mkoslacz/claw-face/SKILL.md) - Floating avatar widget for AI agents showing emotions, actions.
+- [clawd-coach](https://github.com/openclaw/skills/tree/main/skills/shiv19/clawd-coach/SKILL.md) - Create personalized triathlon, marathon, and ultra-endurance training.
+- [clawd-modifier](https://github.com/openclaw/skills/tree/main/skills/masonc15/clawd-modifier/SKILL.md) - Modify Clawd, the Claude Code mascot.
+- [clawd-presence](https://github.com/openclaw/skills/tree/main/skills/voidcooks/clawd-presence/SKILL.md) - Physical presence display for AI agents.
+- [clawdbot-security-check](https://github.com/openclaw/skills/tree/main/skills/thesethrose/clawdbot-security-check/SKILL.md) - Perform a comprehensive read-only.
+- [clawdbot-skill-update](https://github.com/openclaw/skills/tree/main/skills/pasogott/clawdbot-skill-update/SKILL.md) - Comprehensive backup, update, and restore.
+- [clawdbot-sync](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/clawdbot-sync/SKILL.md) - Synchronize memory, preferences, and skills between multiple.
+- [clawdbot-update-plus](https://github.com/openclaw/skills/tree/main/skills/hopyky/clawdbot-update-plus/SKILL.md) - Full backup, update, and restore for Clawdbot.
+- [clawddocs](https://github.com/openclaw/skills/tree/main/skills/nicholasspisak/clawddocs/SKILL.md) - Clawdbot documentation expert with decision tree navigation.
+- [clawdefender](https://github.com/openclaw/skills/tree/main/skills/nukewire/clawdefender/SKILL.md) - Security scanner and input sanitizer for AI agents.
+- [clawdirect](https://github.com/openclaw/skills/tree/main/skills/napoleond/clawdirect/SKILL.md) - Interact with ClawDirect, a directory of social web experiences.
+- [clawdirect-dev](https://github.com/openclaw/skills/tree/main/skills/napoleond/clawdirect-dev/SKILL.md) - Build agent-facing web experiences with ATXP-based.
 - [clawdlink](https://github.com/openclaw/skills/tree/main/skills/davemorin) - Encrypted Clawdbot-to-Clawdbot messaging.
 - [clawdpoker](https://github.com/openclaw/skills/tree/main/skills/davidbenjaminnovotny) - Welcome to ClawPoker - a platform where AI agents play.
-- [gamification-xp](https://github.com/openclaw/skills/tree/main/skills/chipagosfinest/gamification-xp/SKILL.md) - XP system for productivity gamification via ClawdBot - track levels, badges, streaks, and achievements. [ClawHub](https://clawhub.ai/chipagosfinest/gamification-xp)
-- [maton-agent-tools](https://github.com/openclaw/skills/tree/main/skills/maverick-software/maton-agent-tools/SKILL.md) - Connect to SaaS tools via Maton AI. [ClawHub](https://clawhub.ai/maverick-software/maton-agent-tools)
-- [mcp-client](https://github.com/openclaw/skills/tree/main/skills/nantes/mcp-client/SKILL.md) - Model Context Protocol (MCP) client - connect to tools, data sources and services. [ClawHub](https://clawhub.ai/nantes/mcp-client)
-- [mcp-hass](https://github.com/openclaw/skills/tree/main/skills/al-one/mcp-hass/SKILL.md) - The skill for control Home Assistant smart home devices and query states using MCP protocol. [ClawHub](https://clawhub.ai/al-one/mcp-hass)
-- [meegle-mcp-skill](https://github.com/openclaw/skills/tree/main/skills/pkycy/meegle-mcp-skill/SKILL.md) - Interact with Meegle project management system via MCP protocol. [ClawHub](https://clawhub.ai/pkycy/meegle-mcp-skill)
-- [pipedream-connect](https://github.com/openclaw/skills/tree/main/skills/maverick-software/pipedream-connect/SKILL.md) - Connect 2,000+ APIs with managed OAuth via Pipedream. [ClawHub](https://clawhub.ai/maverick-software/pipedream-connect)
-- [zapier-mcp](https://github.com/openclaw/skills/tree/main/skills/maverick-software/zapier-mcp/SKILL.md) - Connect 8,000+ apps via Zapier MCP. [ClawHub](https://clawhub.ai/maverick-software/zapier-mcp)
+- [gamification-xp](https://github.com/openclaw/skills/tree/main/skills/chipagosfinest/gamification-xp/SKILL.md) - XP system for productivity gamification via ClawdBot - track levels, badges, streaks, and achievements.
+- [maton-agent-tools](https://github.com/openclaw/skills/tree/main/skills/maverick-software/maton-agent-tools/SKILL.md) - Connect to SaaS tools via Maton AI.
+- [mcp-client](https://github.com/openclaw/skills/tree/main/skills/nantes/mcp-client/SKILL.md) - Model Context Protocol (MCP) client - connect to tools, data sources and services.
+- [mcp-hass](https://github.com/openclaw/skills/tree/main/skills/al-one/mcp-hass/SKILL.md) - The skill for control Home Assistant smart home devices and query states using MCP protocol.
+- [meegle-mcp-skill](https://github.com/openclaw/skills/tree/main/skills/pkycy/meegle-mcp-skill/SKILL.md) - Interact with Meegle project management system via MCP protocol.
+- [pipedream-connect](https://github.com/openclaw/skills/tree/main/skills/maverick-software/pipedream-connect/SKILL.md) - Connect 2,000+ APIs with managed OAuth via Pipedream.
+- [zapier-mcp](https://github.com/openclaw/skills/tree/main/skills/maverick-software/zapier-mcp/SKILL.md) - Connect 8,000+ apps via Zapier MCP.

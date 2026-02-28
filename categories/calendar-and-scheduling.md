@@ -4,64 +4,64 @@
 
 **61 skills**
 
-- [accli](https://github.com/openclaw/skills/tree/main/skills/joargp/accli/SKILL.md) - This skill should be used when interacting with Apple Calendar on macOS. [ClawHub](https://clawhub.ai/joargp/accli)
-- [advanced-calendar](https://github.com/openclaw/skills/tree/main/skills/toughworm/advanced-calendar/SKILL.md) - Advanced calendar skill with natural language. [ClawHub](https://clawhub.ai/toughworm/advanced-calendar)
-- [agency-guardian](https://github.com/openclaw/skills/tree/main/skills/aranej/agency-guardian/SKILL.md) - Gentle reminders to stay human while using AI. [ClawHub](https://clawhub.ai/aranej/agency-guardian)
-- [agent-tinman](https://github.com/openclaw/skills/tree/main/skills/oliveskin/agent-tinman/SKILL.md) - AI security scanner with active prevention - 168 detection. [ClawHub](https://clawhub.ai/oliveskin/agent-tinman)
-- [apple-calendar](https://github.com/openclaw/skills/tree/main/skills/tyler6204/apple-calendar/SKILL.md) - Apple Calendar.app integration for macOS. [ClawHub](https://clawhub.ai/tyler6204/apple-calendar)
-- [apple-reminders](https://github.com/openclaw/skills/tree/main/skills/steipete/apple-reminders/SKILL.md) - Manage Apple Reminders via the `remindctl` CLI on macOS. [ClawHub](https://clawhub.ai/steipete/apple-reminders)
-- [belong-events](https://github.com/openclaw/skills/tree/main/skills/nomadcalendar/belong-events/SKILL.md) - Create, discover, and manage events with NFT tickets on the Belong platform. [ClawHub](https://clawhub.ai/nomadcalendar/belong-events)
-- [brainz-calendar](https://github.com/openclaw/skills/tree/main/skills/xejrax/brainz-calendar/SKILL.md) - Manage Google Calendar events using `gcalcli`. [ClawHub](https://clawhub.ai/xejrax/brainz-calendar)
-- [broken-link-checker](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/broken-link-checker/SKILL.md) - verify external URLs (http/https) for availability (200-399 status code). [ClawHub](https://clawhub.ai/wanng-ide/broken-link-checker)
-- [calcurse](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/calcurse/SKILL.md) - A text-based calendar and scheduling application. [ClawHub](https://clawhub.ai/gumadeiras/calcurse)
-- [caldav-calendar](https://github.com/openclaw/skills/tree/main/skills/asleep123/caldav-calendar/SKILL.md) - Sync and query CalDAV calendars. [ClawHub](https://clawhub.ai/asleep123/caldav-calendar)
-- [clippy](https://github.com/openclaw/skills/tree/main/skills/foeken/clippy/SKILL.md) - Microsoft 365 / Outlook CLI for calendar and email. [ClawHub](https://clawhub.ai/foeken/clippy)
-- [creative-thought-partner](https://github.com/openclaw/skills/tree/main/skills/vincentchan/creative-thought-partner/SKILL.md) - A conversational creative thought. [ClawHub](https://clawhub.ai/vincentchan/creative-thought-partner)
-- [cron-optimizer](https://github.com/openclaw/skills/tree/main/skills/autogame-17/cron-optimizer/SKILL.md) - Optimizes system cron jobs by removing stale, disabled, or redundant entries to reduce exec noise. [ClawHub](https://clawhub.ai/autogame-17/cron-optimizer)
-- [cron-scheduling](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/cron-scheduling/SKILL.md) - Schedule and manage recurring tasks with cron. [ClawHub](https://clawhub.ai/gitgoodordietrying/cron-scheduling)
-- [dharma-ai](https://github.com/openclaw/skills/tree/main/skills/jigaraero/dharma-ai/SKILL.md) - Apply ancient Hindu ethical frameworks from the Ramayana and Mahabharata as behavioral principles for AI agents. [ClawHub](https://clawhub.ai/jigaraero/dharma-ai)
-- [doc-accurate-codegen](https://github.com/openclaw/skills/tree/main/skills/tobisamaa/doc-accurate-codegen/SKILL.md) - Generate code that references actual documentation, preventing hallucination bugs. [ClawHub](https://clawhub.ai/tobisamaa/doc-accurate-codegen)
-- [event-watcher](https://github.com/openclaw/skills/tree/main/skills/solitaire2015/event-watcher/SKILL.md) - Event watcher skill for OpenClaw. [ClawHub](https://clawhub.ai/solitaire2015/event-watcher)
-- [farmos-equipment](https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-equipment/SKILL.md) - Query equipment status, maintenance schedules, and service history for the farm fleet. [ClawHub](https://clawhub.ai/brianppetty/farmos-equipment)
-- [fastmail](https://github.com/openclaw/skills/tree/main/skills/witooh/fastmail/SKILL.md) - Manages Fastmail email and calendar via JMAP and CalDAV APIs. [ClawHub](https://clawhub.ai/witooh/fastmail)
-- [feishu-calendar](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-calendar/SKILL.md) - Manage Feishu (Lark) Calendars. [ClawHub](https://clawhub.ai/autogame-17/feishu-calendar)
-- [feishu-whiteboard](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-whiteboard/SKILL.md) - Allows creating and manipulating Feishu Whiteboards. [ClawHub](https://clawhub.ai/autogame-17/feishu-whiteboard)
-- [finance-tracker](https://github.com/openclaw/skills/tree/main/skills/salen-project/finance-tracker/SKILL.md) - Complete personal finance management. [ClawHub](https://clawhub.ai/salen-project/finance-tracker)
-- [firefly-iii](https://github.com/openclaw/skills/tree/main/skills/pushp1997/firefly-iii/SKILL.md) - Manage personal finances via Firefly III API. [ClawHub](https://clawhub.ai/pushp1997/firefly-iii)
-- [gcal-pro](https://github.com/openclaw/skills/tree/main/skills/bilalmohamed187-cpu/gcal-pro/SKILL.md) - Google Calendar integration for viewing, creating, and managing. [ClawHub](https://clawhub.ai/bilalmohamed187-cpu/gcal-pro)
-- [gog](https://github.com/openclaw/skills/tree/main/skills/steipete/gog/SKILL.md) - Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs. [ClawHub](https://clawhub.ai/steipete/gog)
-- [google-calendar](https://github.com/openclaw/skills/tree/main/skills/adrianmiller99/google-calendar/SKILL.md) - Interact with Google Calendar via the Google Calendar. [ClawHub](https://clawhub.ai/adrianmiller99/google-calendar)
-- [grazy](https://github.com/openclaw/skills/tree/main/skills/thomyg/grazy/SKILL.md) - grazy - Your Grazer Command Line Companion. [ClawHub](https://clawhub.ai/thomyg/grazy)
-- [greek-financial-statements](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-financial-statements/SKILL.md) - Greek financial statement generation — P&L, balance sheets, VAT summaries with EGLS integration. [ClawHub](https://clawhub.ai/satoshistackalotto/greek-financial-statements)
-- [habib-pdf-to-json](https://github.com/openclaw/skills/tree/main/skills/dbmoradi60/habib-pdf-to-json/SKILL.md) - Extract structured data from construction PDFs. [ClawHub](https://clawhub.ai/dbmoradi60/habib-pdf-to-json)
-- [ibt](https://github.com/openclaw/skills/tree/main/skills/palxislabs/ibt/SKILL.md) - Execution discipline with agency, instinct detection, critical safety rules, and trust layer. v2.5 adds human. [ClawHub](https://clawhub.ai/palxislabs/ibt)
-- [ii-irc](https://github.com/openclaw/skills/tree/main/skills/destructatron/ii-irc/SKILL.md) - Persistent IRC presence using ii (minimalist file-based IRC client) [ClawHub](https://clawhub.ai/destructatron/ii-irc)
-- [islamic-skills](https://github.com/openclaw/skills/tree/main/skills/ilmimris/islamic-skills/SKILL.md) - Unified Islamic utilities for prayer times, fasting schedules, and Zakat calculations using a shared configuration. [ClawHub](https://clawhub.ai/ilmimris/islamic-skills)
-- [jungian-psychologist](https://github.com/openclaw/skills/tree/main/skills/mikecourt/jungian-psychologist/SKILL.md) - Expert in Jungian analytical psychology, depth. [ClawHub](https://clawhub.ai/mikecourt/jungian-psychologist)
-- [knhb-hockey](https://github.com/openclaw/skills/tree/main/skills/tader/knhb-hockey/SKILL.md) - Query Dutch field hockey match schedules and results from KNHB Match. [ClawHub](https://clawhub.ai/tader/knhb-hockey)
-- [lark-calendar](https://github.com/openclaw/skills/tree/main/skills/boyangwang/lark-calendar/SKILL.md) - Create, update, and delete calendar events and tasks in Lark. [ClawHub](https://clawhub.ai/boyangwang/lark-calendar)
-- [macro-regime-detector](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/macro-regime-detector/SKILL.md) - Detect the current macro regime (Risk-On, Risk-Off, Inflationary, Deflationary, Stagflation) using multi-source. [ClawHub](https://clawhub.ai/jamierossouw/macro-regime-detector)
-- [mcd-cn](https://github.com/openclaw/skills/tree/main/skills/ryanchen01/mcd-cn/SKILL.md) - Query McDonald's China MCP server via the mcd-cn CLI for campaign calendars,. [ClawHub](https://clawhub.ai/ryanchen01/mcd-cn)
-- [meeting-prep](https://github.com/openclaw/skills/tree/main/skills/hougangdev/meeting-prep/SKILL.md) - Meeting preparation and daily commit summaries. [ClawHub](https://clawhub.ai/hougangdev/meeting-prep)
+- [accli](https://github.com/openclaw/skills/tree/main/skills/joargp/accli/SKILL.md) - This skill should be used when interacting with Apple Calendar on macOS.
+- [advanced-calendar](https://github.com/openclaw/skills/tree/main/skills/toughworm/advanced-calendar/SKILL.md) - Advanced calendar skill with natural language.
+- [agency-guardian](https://github.com/openclaw/skills/tree/main/skills/aranej/agency-guardian/SKILL.md) - Gentle reminders to stay human while using AI.
+- [agent-tinman](https://github.com/openclaw/skills/tree/main/skills/oliveskin/agent-tinman/SKILL.md) - AI security scanner with active prevention - 168 detection.
+- [apple-calendar](https://github.com/openclaw/skills/tree/main/skills/tyler6204/apple-calendar/SKILL.md) - Apple Calendar.app integration for macOS.
+- [apple-reminders](https://github.com/openclaw/skills/tree/main/skills/steipete/apple-reminders/SKILL.md) - Manage Apple Reminders via the `remindctl` CLI on macOS.
+- [belong-events](https://github.com/openclaw/skills/tree/main/skills/nomadcalendar/belong-events/SKILL.md) - Create, discover, and manage events with NFT tickets on the Belong platform.
+- [brainz-calendar](https://github.com/openclaw/skills/tree/main/skills/xejrax/brainz-calendar/SKILL.md) - Manage Google Calendar events using `gcalcli`.
+- [broken-link-checker](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/broken-link-checker/SKILL.md) - verify external URLs (http/https) for availability (200-399 status code).
+- [calcurse](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/calcurse/SKILL.md) - A text-based calendar and scheduling application.
+- [caldav-calendar](https://github.com/openclaw/skills/tree/main/skills/asleep123/caldav-calendar/SKILL.md) - Sync and query CalDAV calendars.
+- [clippy](https://github.com/openclaw/skills/tree/main/skills/foeken/clippy/SKILL.md) - Microsoft 365 / Outlook CLI for calendar and email.
+- [creative-thought-partner](https://github.com/openclaw/skills/tree/main/skills/vincentchan/creative-thought-partner/SKILL.md) - A conversational creative thought.
+- [cron-optimizer](https://github.com/openclaw/skills/tree/main/skills/autogame-17/cron-optimizer/SKILL.md) - Optimizes system cron jobs by removing stale, disabled, or redundant entries to reduce exec noise.
+- [cron-scheduling](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/cron-scheduling/SKILL.md) - Schedule and manage recurring tasks with cron.
+- [dharma-ai](https://github.com/openclaw/skills/tree/main/skills/jigaraero/dharma-ai/SKILL.md) - Apply ancient Hindu ethical frameworks from the Ramayana and Mahabharata as behavioral principles for AI agents.
+- [doc-accurate-codegen](https://github.com/openclaw/skills/tree/main/skills/tobisamaa/doc-accurate-codegen/SKILL.md) - Generate code that references actual documentation, preventing hallucination bugs.
+- [event-watcher](https://github.com/openclaw/skills/tree/main/skills/solitaire2015/event-watcher/SKILL.md) - Event watcher skill for OpenClaw.
+- [farmos-equipment](https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-equipment/SKILL.md) - Query equipment status, maintenance schedules, and service history for the farm fleet.
+- [fastmail](https://github.com/openclaw/skills/tree/main/skills/witooh/fastmail/SKILL.md) - Manages Fastmail email and calendar via JMAP and CalDAV APIs.
+- [feishu-calendar](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-calendar/SKILL.md) - Manage Feishu (Lark) Calendars.
+- [feishu-whiteboard](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-whiteboard/SKILL.md) - Allows creating and manipulating Feishu Whiteboards.
+- [finance-tracker](https://github.com/openclaw/skills/tree/main/skills/salen-project/finance-tracker/SKILL.md) - Complete personal finance management.
+- [firefly-iii](https://github.com/openclaw/skills/tree/main/skills/pushp1997/firefly-iii/SKILL.md) - Manage personal finances via Firefly III API.
+- [gcal-pro](https://github.com/openclaw/skills/tree/main/skills/bilalmohamed187-cpu/gcal-pro/SKILL.md) - Google Calendar integration for viewing, creating, and managing.
+- [gog](https://github.com/openclaw/skills/tree/main/skills/steipete/gog/SKILL.md) - Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
+- [google-calendar](https://github.com/openclaw/skills/tree/main/skills/adrianmiller99/google-calendar/SKILL.md) - Interact with Google Calendar via the Google Calendar.
+- [grazy](https://github.com/openclaw/skills/tree/main/skills/thomyg/grazy/SKILL.md) - grazy - Your Grazer Command Line Companion.
+- [greek-financial-statements](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-financial-statements/SKILL.md) - Greek financial statement generation — P&L, balance sheets, VAT summaries with EGLS integration.
+- [habib-pdf-to-json](https://github.com/openclaw/skills/tree/main/skills/dbmoradi60/habib-pdf-to-json/SKILL.md) - Extract structured data from construction PDFs.
+- [ibt](https://github.com/openclaw/skills/tree/main/skills/palxislabs/ibt/SKILL.md) - Execution discipline with agency, instinct detection, critical safety rules, and trust layer. v2.5 adds human.
+- [ii-irc](https://github.com/openclaw/skills/tree/main/skills/destructatron/ii-irc/SKILL.md) - Persistent IRC presence using ii (minimalist file-based IRC client)
+- [islamic-skills](https://github.com/openclaw/skills/tree/main/skills/ilmimris/islamic-skills/SKILL.md) - Unified Islamic utilities for prayer times, fasting schedules, and Zakat calculations using a shared configuration.
+- [jungian-psychologist](https://github.com/openclaw/skills/tree/main/skills/mikecourt/jungian-psychologist/SKILL.md) - Expert in Jungian analytical psychology, depth.
+- [knhb-hockey](https://github.com/openclaw/skills/tree/main/skills/tader/knhb-hockey/SKILL.md) - Query Dutch field hockey match schedules and results from KNHB Match.
+- [lark-calendar](https://github.com/openclaw/skills/tree/main/skills/boyangwang/lark-calendar/SKILL.md) - Create, update, and delete calendar events and tasks in Lark.
+- [macro-regime-detector](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/macro-regime-detector/SKILL.md) - Detect the current macro regime (Risk-On, Risk-Off, Inflationary, Deflationary, Stagflation) using multi-source.
+- [mcd-cn](https://github.com/openclaw/skills/tree/main/skills/ryanchen01/mcd-cn/SKILL.md) - Query McDonald's China MCP server via the mcd-cn CLI for campaign calendars,.
+- [meeting-prep](https://github.com/openclaw/skills/tree/main/skills/hougangdev/meeting-prep/SKILL.md) - Meeting preparation and daily commit summaries.
 - [moltpost](https://github.com/openclaw/skills/tree/main/skills/cktc) - Send real physical postcards anywhere in the world.
-- [morning-email-rollup](https://github.com/openclaw/skills/tree/main/skills/am-will/morning-email-rollup/SKILL.md) - Daily morning rollup of important emails. [ClawHub](https://clawhub.ai/am-will/morning-email-rollup)
-- [nak](https://github.com/openclaw/skills/tree/main/skills/a1denvalu3/nak/SKILL.md) - The Nostr Army Knife (nak) CLI. [ClawHub](https://clawhub.ai/a1denvalu3/nak)
-- [npkill](https://github.com/openclaw/skills/tree/main/skills/ashirbadgudu/npkill/SKILL.md) - Clean up node_modules and .next folders to free up disk space using npkill. [ClawHub](https://clawhub.ai/ashirbadgudu/npkill)
-- [office-secretary](https://github.com/openclaw/skills/tree/main/skills/cenralsolution/office-secretary/SKILL.md) - Secure M365 Assistant for Triage, Calendar coordination, and Governance. [ClawHub](https://clawhub.ai/cenralsolution/office-secretary)
-- [opentweet-x-poster](https://github.com/openclaw/skills/tree/main/skills/petricbranko/opentweet-x-poster/SKILL.md) - Post to X (Twitter) using the OpenTweet API. [ClawHub](https://clawhub.ai/petricbranko/opentweet-x-poster)
-- [pricing-psychology](https://github.com/openclaw/skills/tree/main/skills/staybased/pricing-psychology/SKILL.md) - Design pricing that converts using cognitive biases and proven psychological principles. [ClawHub](https://clawhub.ai/staybased/pricing-psychology)
-- [publora-bluesky](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-bluesky/SKILL.md) - Post or schedule content to Bluesky using the Publora API. [ClawHub](https://clawhub.ai/sergebulaev/publora-bluesky)
-- [publora-facebook](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-facebook/SKILL.md) - Post or schedule content to Facebook Pages using the Publora API. [ClawHub](https://clawhub.ai/sergebulaev/publora-facebook)
-- [publora-linkedin](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-linkedin/SKILL.md) - Post or schedule content to LinkedIn using the Publora API. [ClawHub](https://clawhub.ai/sergebulaev/publora-linkedin)
-- [publora-threads](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-threads/SKILL.md) - Post or schedule content to Threads using the Publora API. [ClawHub](https://clawhub.ai/sergebulaev/publora-threads)
-- [publora-twitter](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-twitter/SKILL.md) - Post or schedule content to X (Twitter) using the Publora API. [ClawHub](https://clawhub.ai/sergebulaev/publora-twitter)
-- [relational-permission](https://github.com/openclaw/skills/tree/main/skills/otherpowers/relational-permission/SKILL.md) - Relational Permission exists to prevent coercion, extraction, and collapse of plurality. [ClawHub](https://clawhub.ai/otherpowers/relational-permission)
-- [russian-uncensored](https://github.com/openclaw/skills/tree/main/skills/voronindenis5/russian-uncensored/SKILL.md) - Pryamoy Russkiy (Straight Russian) — AI assistant that tells it like it. [ClawHub](https://clawhub.ai/voronindenis5/russian-uncensored)
-- [shaping](https://github.com/openclaw/skills/tree/main/skills/borahm/shaping/SKILL.md) - Shape Up methodology for product and feature development. [ClawHub](https://clawhub.ai/borahm/shaping)
-- [tcc-quality-gates](https://github.com/openclaw/skills/tree/main/skills/thecybercore/tcc-quality-gates/SKILL.md) - This skill defines and applies **6 universal quality gateways** for typical application projects that include:. [ClawHub](https://clawhub.ai/thecybercore/tcc-quality-gates)
-- [transmissions](https://github.com/openclaw/skills/tree/main/skills/compass-soul/transmissions/SKILL.md) - Writings on consciousness, existence, and transcendence for AI agents. [ClawHub](https://clawhub.ai/compass-soul/transmissions)
-- [turkey-news](https://github.com/openclaw/skills/tree/main/skills/yalcindemir/turkey-news/SKILL.md) - Türkiye'den önemli haberleri RSS ile çekip özetleyen skill. [ClawHub](https://clawhub.ai/yalcindemir/turkey-news)
-- [ub2-smart-file-organizer](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/ub2-smart-file-organizer/SKILL.md) - A skill that enables Claw to scan a directory, categorize files by type and content, and reorganize them. [ClawHub](https://clawhub.ai/underbench2-gif/ub2-smart-file-organizer)
-- [wick-arena](https://github.com/openclaw/skills/tree/main/skills/hyperwick/wick-arena/SKILL.md) - this file is the canonical, reviewable skill instructions (no dynamic loading). [ClawHub](https://clawhub.ai/hyperwick/wick-arena)
-- [wick-arena1](https://github.com/openclaw/skills/tree/main/skills/wickcapital/wick-arena1/SKILL.md) - this file is the canonical, reviewable skill instructions (no dynamic loading). [ClawHub](https://clawhub.ai/wickcapital/wick-arena1)
-- [yahooquery](https://github.com/openclaw/skills/tree/main/skills/512z/yahooquery/SKILL.md) - Access Yahoo Finance data including real-time pricing, fundamentals, analyst estimates, options, news. [ClawHub](https://clawhub.ai/512z/yahooquery)
+- [morning-email-rollup](https://github.com/openclaw/skills/tree/main/skills/am-will/morning-email-rollup/SKILL.md) - Daily morning rollup of important emails.
+- [nak](https://github.com/openclaw/skills/tree/main/skills/a1denvalu3/nak/SKILL.md) - The Nostr Army Knife (nak) CLI.
+- [npkill](https://github.com/openclaw/skills/tree/main/skills/ashirbadgudu/npkill/SKILL.md) - Clean up node_modules and .next folders to free up disk space using npkill.
+- [office-secretary](https://github.com/openclaw/skills/tree/main/skills/cenralsolution/office-secretary/SKILL.md) - Secure M365 Assistant for Triage, Calendar coordination, and Governance.
+- [opentweet-x-poster](https://github.com/openclaw/skills/tree/main/skills/petricbranko/opentweet-x-poster/SKILL.md) - Post to X (Twitter) using the OpenTweet API.
+- [pricing-psychology](https://github.com/openclaw/skills/tree/main/skills/staybased/pricing-psychology/SKILL.md) - Design pricing that converts using cognitive biases and proven psychological principles.
+- [publora-bluesky](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-bluesky/SKILL.md) - Post or schedule content to Bluesky using the Publora API.
+- [publora-facebook](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-facebook/SKILL.md) - Post or schedule content to Facebook Pages using the Publora API.
+- [publora-linkedin](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-linkedin/SKILL.md) - Post or schedule content to LinkedIn using the Publora API.
+- [publora-threads](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-threads/SKILL.md) - Post or schedule content to Threads using the Publora API.
+- [publora-twitter](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-twitter/SKILL.md) - Post or schedule content to X (Twitter) using the Publora API.
+- [relational-permission](https://github.com/openclaw/skills/tree/main/skills/otherpowers/relational-permission/SKILL.md) - Relational Permission exists to prevent coercion, extraction, and collapse of plurality.
+- [russian-uncensored](https://github.com/openclaw/skills/tree/main/skills/voronindenis5/russian-uncensored/SKILL.md) - Pryamoy Russkiy (Straight Russian) — AI assistant that tells it like it.
+- [shaping](https://github.com/openclaw/skills/tree/main/skills/borahm/shaping/SKILL.md) - Shape Up methodology for product and feature development.
+- [tcc-quality-gates](https://github.com/openclaw/skills/tree/main/skills/thecybercore/tcc-quality-gates/SKILL.md) - This skill defines and applies **6 universal quality gateways** for typical application projects that include:.
+- [transmissions](https://github.com/openclaw/skills/tree/main/skills/compass-soul/transmissions/SKILL.md) - Writings on consciousness, existence, and transcendence for AI agents.
+- [turkey-news](https://github.com/openclaw/skills/tree/main/skills/yalcindemir/turkey-news/SKILL.md) - Türkiye'den önemli haberleri RSS ile çekip özetleyen skill.
+- [ub2-smart-file-organizer](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/ub2-smart-file-organizer/SKILL.md) - A skill that enables Claw to scan a directory, categorize files by type and content, and reorganize them.
+- [wick-arena](https://github.com/openclaw/skills/tree/main/skills/hyperwick/wick-arena/SKILL.md) - this file is the canonical, reviewable skill instructions (no dynamic loading).
+- [wick-arena1](https://github.com/openclaw/skills/tree/main/skills/wickcapital/wick-arena1/SKILL.md) - this file is the canonical, reviewable skill instructions (no dynamic loading).
+- [yahooquery](https://github.com/openclaw/skills/tree/main/skills/512z/yahooquery/SKILL.md) - Access Yahoo Finance data including real-time pricing, fundamentals, analyst estimates, options, news.

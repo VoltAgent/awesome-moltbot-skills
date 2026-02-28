@@ -4,47 +4,47 @@
 
 **44 skills**
 
-- [alter-actions](https://github.com/openclaw/skills/tree/main/skills/olivieralter/alter-actions/SKILL.md) - Trigger Alter macOS app actions via x-callback-urls. [ClawHub](https://clawhub.ai/olivieralter/alter-actions)
-- [apple-contacts](https://github.com/openclaw/skills/tree/main/skills/tyler6204/apple-contacts/SKILL.md) - Look up contacts from macOS Contacts.app. [ClawHub](https://clawhub.ai/tyler6204/apple-contacts)
-- [apple-find-my-local](https://github.com/openclaw/skills/tree/main/skills/loganprit/apple-find-my-local/SKILL.md) - Control Apple Find My app via Peekaboo to locate people, devices, and items (AirTags) [ClawHub](https://clawhub.ai/loganprit/apple-find-my-local)
-- [apple-health-skill](https://github.com/openclaw/skills/tree/main/skills/nftechie/apple-health-skill/SKILL.md) - Talk to your Apple Health data — ask questions about your workouts, heart rate, activity rings, and fitness trends. [ClawHub](https://clawhub.ai/nftechie/apple-health-skill)
-- [apple-mail-search](https://github.com/openclaw/skills/tree/main/skills/mneves75/apple-mail-search/SKILL.md) - Fast Apple Mail search via SQLite on macOS. [ClawHub](https://clawhub.ai/mneves75/apple-mail-search)
-- [apple-music](https://github.com/openclaw/skills/tree/main/skills/tyler6204/apple-music/SKILL.md) - Search Apple Music, add songs to library, manage playlists, control. [ClawHub](https://clawhub.ai/tyler6204/apple-music)
-- [apple-photos](https://github.com/openclaw/skills/tree/main/skills/tyler6204/apple-photos/SKILL.md) - Apple Photos.app integration for macOS. [ClawHub](https://clawhub.ai/tyler6204/apple-photos)
-- [apple-remind-me](https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/apple-remind-me/SKILL.md) - Natural language reminders that create actual Apple. [ClawHub](https://clawhub.ai/plgonzalezrx8/apple-remind-me)
-- [apple-search-ads-skill](https://github.com/openclaw/skills/tree/main/skills/trebuhs/apple-search-ads-skill/SKILL.md) - Manage Apple Search Ads campaigns, ad groups, keywords, and reports via the asa-cli tool. [ClawHub](https://clawhub.ai/trebuhs/apple-search-ads-skill)
-- [appletv](https://github.com/openclaw/skills/tree/main/skills/lucakaufmann/appletv/SKILL.md) - Control Apple TV via pyatv. [ClawHub](https://clawhub.ai/lucakaufmann/appletv)
-- [callmac](https://github.com/openclaw/skills/tree/main/skills/jooey/callmac/SKILL.md) - Remote voice control for Mac from mobile devices using commands like /callmac. [ClawHub](https://clawhub.ai/jooey/callmac)
-- [clawdbot-macos-build](https://github.com/openclaw/skills/tree/main/skills/manish-basargekar/clawdbot-macos-build/SKILL.md) - Build the Clawdbot macOS menu bar app. [ClawHub](https://clawhub.ai/manish-basargekar/clawdbot-macos-build)
-- [clawdbot-skill-voice-wake-say](https://github.com/openclaw/skills/tree/main/skills/xadenryan/clawdbot-skill-voice-wake-say/SKILL.md) - Speak responses aloud on macOS. [ClawHub](https://clawhub.ai/xadenryan/clawdbot-skill-voice-wake-say)
-- [drafts](https://github.com/openclaw/skills/tree/main/skills/nerveband/drafts/SKILL.md) - Manage Drafts app notes via CLI on macOS. [ClawHub](https://clawhub.ai/nerveband/drafts)
-- [findmy-location](https://github.com/openclaw/skills/tree/main/skills/poiley/findmy-location/SKILL.md) - Track a shared contact's location via Apple Find. [ClawHub](https://clawhub.ai/poiley/findmy-location)
-- [fzf-fuzzy-finder](https://github.com/openclaw/skills/tree/main/skills/arnarsson/fzf-fuzzy-finder/SKILL.md) - Command-line fuzzy finder for interactive filtering. [ClawHub](https://clawhub.ai/arnarsson/fzf-fuzzy-finder)
-- [get-focus-mode](https://github.com/openclaw/skills/tree/main/skills/nickchristensen/get-focus-mode/SKILL.md) - Get the current macOS Focus. [ClawHub](https://clawhub.ai/nickchristensen/get-focus-mode)
-- [healthkit-sync](https://github.com/openclaw/skills/tree/main/skills/mneves75/healthkit-sync/SKILL.md) - iOS HealthKit data sync CLI commands and patterns. [ClawHub](https://clawhub.ai/mneves75/healthkit-sync)
-- [hergunmac](https://github.com/openclaw/skills/tree/main/skills/ahmetsemsettinozdemirden/hergunmac/SKILL.md) - Access AI-powered football match predictions. [ClawHub](https://clawhub.ai/ahmetsemsettinozdemirden/hergunmac)
-- [homebrew](https://github.com/openclaw/skills/tree/main/skills/thesethrose/homebrew/SKILL.md) - Homebrew package manager for macOS. [ClawHub](https://clawhub.ai/thesethrose/homebrew)
-- [icloud-findmy](https://github.com/openclaw/skills/tree/main/skills/liamnichols/icloud-findmy/SKILL.md) - Query Find My locations and battery status for family devices. [ClawHub](https://clawhub.ai/liamnichols/icloud-findmy)
-- [ics-import-on-iphone](https://github.com/openclaw/skills/tree/main/skills/sbhhbs/ics-import-on-iphone/SKILL.md) - Create calendar events by generating valid .ics files when direct calendar access is unavailable. [ClawHub](https://clawhub.ai/sbhhbs/ics-import-on-iphone)
-- [imessage-signal-analyzer](https://github.com/openclaw/skills/tree/main/skills/terellison/imessage-signal-analyzer/SKILL.md) - Analyze iMessage (macOS) and Signal conversation history to reveal relationship dynamics — message volume. [ClawHub](https://clawhub.ai/terellison/imessage-signal-analyzer)
-- [inkjet](https://github.com/openclaw/skills/tree/main/skills/aaronchartier/inkjet/SKILL.md) - Print text, images, and QR codes to a wireless Bluetooth thermal printer. [ClawHub](https://clawhub.ai/aaronchartier/inkjet)
-- [mac-notes-agent](https://github.com/openclaw/skills/tree/main/skills/swancho/mac-notes-agent/SKILL.md) - Integrate with the macOS Notes app (Apple Notes) [ClawHub](https://clawhub.ai/swancho/mac-notes-agent)
-- [mac-tts](https://github.com/openclaw/skills/tree/main/skills/kalijason/mac-tts/SKILL.md) - Text-to-speech using macOS built-in `say` command. [ClawHub](https://clawhub.ai/kalijason/mac-tts)
-- [macos-native-automation](https://github.com/openclaw/skills/tree/main/skills/theagentwire/macos-native-automation/SKILL.md) - Hardware-level mouse, keyboard & dialog automation on macOS via CGEvent + AppleScript. [ClawHub](https://clawhub.ai/theagentwire/macos-native-automation)
-- [managing-apple-notes](https://github.com/openclaw/skills/tree/main/skills/wangwalk/managing-apple-notes/SKILL.md) - Manage Apple Notes from the terminal using the inotes CLI. [ClawHub](https://clawhub.ai/wangwalk/managing-apple-notes)
-- [meow-finder](https://github.com/openclaw/skills/tree/main/skills/abgohel/meow-finder/SKILL.md) - CLI tool to discover AI tools. [ClawHub](https://clawhub.ai/abgohel/meow-finder)
-- [mh-apple-reminders](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-apple-reminders/SKILL.md) - Manage Apple Reminders via remindctl CLI (list, add, edit, complete, delete) [ClawHub](https://clawhub.ai/mohdalhashemi98-hue/mh-apple-reminders)
-- [mlx-stt](https://github.com/openclaw/skills/tree/main/skills/guoqiao/mlx-stt/SKILL.md) - Speech-To-Text with MLX (Apple Silicon) and GLM-ASR-Nano-2512 locally. [ClawHub](https://clawhub.ai/guoqiao/mlx-stt)
+- [alter-actions](https://github.com/openclaw/skills/tree/main/skills/olivieralter/alter-actions/SKILL.md) - Trigger Alter macOS app actions via x-callback-urls.
+- [apple-contacts](https://github.com/openclaw/skills/tree/main/skills/tyler6204/apple-contacts/SKILL.md) - Look up contacts from macOS Contacts.app.
+- [apple-find-my-local](https://github.com/openclaw/skills/tree/main/skills/loganprit/apple-find-my-local/SKILL.md) - Control Apple Find My app via Peekaboo to locate people, devices, and items (AirTags)
+- [apple-health-skill](https://github.com/openclaw/skills/tree/main/skills/nftechie/apple-health-skill/SKILL.md) - Talk to your Apple Health data — ask questions about your workouts, heart rate, activity rings, and fitness trends.
+- [apple-mail-search](https://github.com/openclaw/skills/tree/main/skills/mneves75/apple-mail-search/SKILL.md) - Fast Apple Mail search via SQLite on macOS.
+- [apple-music](https://github.com/openclaw/skills/tree/main/skills/tyler6204/apple-music/SKILL.md) - Search Apple Music, add songs to library, manage playlists, control.
+- [apple-photos](https://github.com/openclaw/skills/tree/main/skills/tyler6204/apple-photos/SKILL.md) - Apple Photos.app integration for macOS.
+- [apple-remind-me](https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/apple-remind-me/SKILL.md) - Natural language reminders that create actual Apple.
+- [apple-search-ads-skill](https://github.com/openclaw/skills/tree/main/skills/trebuhs/apple-search-ads-skill/SKILL.md) - Manage Apple Search Ads campaigns, ad groups, keywords, and reports via the asa-cli tool.
+- [appletv](https://github.com/openclaw/skills/tree/main/skills/lucakaufmann/appletv/SKILL.md) - Control Apple TV via pyatv.
+- [callmac](https://github.com/openclaw/skills/tree/main/skills/jooey/callmac/SKILL.md) - Remote voice control for Mac from mobile devices using commands like /callmac.
+- [clawdbot-macos-build](https://github.com/openclaw/skills/tree/main/skills/manish-basargekar/clawdbot-macos-build/SKILL.md) - Build the Clawdbot macOS menu bar app.
+- [clawdbot-skill-voice-wake-say](https://github.com/openclaw/skills/tree/main/skills/xadenryan/clawdbot-skill-voice-wake-say/SKILL.md) - Speak responses aloud on macOS.
+- [drafts](https://github.com/openclaw/skills/tree/main/skills/nerveband/drafts/SKILL.md) - Manage Drafts app notes via CLI on macOS.
+- [findmy-location](https://github.com/openclaw/skills/tree/main/skills/poiley/findmy-location/SKILL.md) - Track a shared contact's location via Apple Find.
+- [fzf-fuzzy-finder](https://github.com/openclaw/skills/tree/main/skills/arnarsson/fzf-fuzzy-finder/SKILL.md) - Command-line fuzzy finder for interactive filtering.
+- [get-focus-mode](https://github.com/openclaw/skills/tree/main/skills/nickchristensen/get-focus-mode/SKILL.md) - Get the current macOS Focus.
+- [healthkit-sync](https://github.com/openclaw/skills/tree/main/skills/mneves75/healthkit-sync/SKILL.md) - iOS HealthKit data sync CLI commands and patterns.
+- [hergunmac](https://github.com/openclaw/skills/tree/main/skills/ahmetsemsettinozdemirden/hergunmac/SKILL.md) - Access AI-powered football match predictions.
+- [homebrew](https://github.com/openclaw/skills/tree/main/skills/thesethrose/homebrew/SKILL.md) - Homebrew package manager for macOS.
+- [icloud-findmy](https://github.com/openclaw/skills/tree/main/skills/liamnichols/icloud-findmy/SKILL.md) - Query Find My locations and battery status for family devices.
+- [ics-import-on-iphone](https://github.com/openclaw/skills/tree/main/skills/sbhhbs/ics-import-on-iphone/SKILL.md) - Create calendar events by generating valid .ics files when direct calendar access is unavailable.
+- [imessage-signal-analyzer](https://github.com/openclaw/skills/tree/main/skills/terellison/imessage-signal-analyzer/SKILL.md) - Analyze iMessage (macOS) and Signal conversation history to reveal relationship dynamics — message volume.
+- [inkjet](https://github.com/openclaw/skills/tree/main/skills/aaronchartier/inkjet/SKILL.md) - Print text, images, and QR codes to a wireless Bluetooth thermal printer.
+- [mac-notes-agent](https://github.com/openclaw/skills/tree/main/skills/swancho/mac-notes-agent/SKILL.md) - Integrate with the macOS Notes app (Apple Notes)
+- [mac-tts](https://github.com/openclaw/skills/tree/main/skills/kalijason/mac-tts/SKILL.md) - Text-to-speech using macOS built-in `say` command.
+- [macos-native-automation](https://github.com/openclaw/skills/tree/main/skills/theagentwire/macos-native-automation/SKILL.md) - Hardware-level mouse, keyboard & dialog automation on macOS via CGEvent + AppleScript.
+- [managing-apple-notes](https://github.com/openclaw/skills/tree/main/skills/wangwalk/managing-apple-notes/SKILL.md) - Manage Apple Notes from the terminal using the inotes CLI.
+- [meow-finder](https://github.com/openclaw/skills/tree/main/skills/abgohel/meow-finder/SKILL.md) - CLI tool to discover AI tools.
+- [mh-apple-reminders](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-apple-reminders/SKILL.md) - Manage Apple Reminders via remindctl CLI (list, add, edit, complete, delete)
+- [mlx-stt](https://github.com/openclaw/skills/tree/main/skills/guoqiao/mlx-stt/SKILL.md) - Speech-To-Text with MLX (Apple Silicon) and GLM-ASR-Nano-2512 locally.
 - [mlx-swift-lm](https://github.com/openclaw/skills/tree/main/skills/ronaldmannak) - MLX Swift LM - Run LLMs and VLMs on Apple Silicon using MLX.
-- [mlx-tts](https://github.com/openclaw/skills/tree/main/skills/guoqiao/mlx-tts/SKILL.md) - Text-To-Speech with MLX (Apple Silicon) and opensource models (default QWen3-TTS) locally. [ClawHub](https://clawhub.ai/guoqiao/mlx-tts)
-- [mole-mac-cleanup](https://github.com/openclaw/skills/tree/main/skills/bjesuiter/mole-mac-cleanup/SKILL.md) - Mac cleanup & optimization tool combining CleanMyMac. [ClawHub](https://clawhub.ai/bjesuiter/mole-mac-cleanup)
-- [monolith](https://github.com/openclaw/skills/tree/main/skills/slaviquee/monolith/SKILL.md) - Secure crypto wallet for AI agents. [ClawHub](https://clawhub.ai/slaviquee/monolith)
-- [my-tesla](https://github.com/openclaw/skills/tree/main/skills/officialpm/my-tesla/SKILL.md) - Control Tesla vehicles from macOS via the Tesla Owner API using teslapy. [ClawHub](https://clawhub.ai/officialpm/my-tesla)
-- [network-scanner](https://github.com/openclaw/skills/tree/main/skills/florianbeer/network-scanner/SKILL.md) - Scan networks to discover devices, gather MAC addresses. [ClawHub](https://clawhub.ai/florianbeer/network-scanner)
-- [omarchy](https://github.com/openclaw/skills/tree/main/skills/achals-iglu/omarchy/SKILL.md) - Omarchy operating guardrails for day-to-day system work: assume the host is Omarchy by default, choose. [ClawHub](https://clawhub.ai/achals-iglu/omarchy)
-- [pattern-finder](https://github.com/openclaw/skills/tree/main/skills/leegitw/pattern-finder/SKILL.md) - Discover what two sources agree on — find the signal. [ClawHub](https://clawhub.ai/leegitw/pattern-finder)
-- [say](https://github.com/openclaw/skills/tree/main/skills/tobihagemann/say/SKILL.md) - Text-to-Speech via macOS say command with Siri Natural Voices. [ClawHub](https://clawhub.ai/tobihagemann/say)
-- [shortcuts-generator](https://github.com/openclaw/skills/tree/main/skills/erik-agens/shortcuts-skill/SKILL.md) - Generate macOS/iOS Shortcuts by creating plist files. [ClawHub](https://clawhub.ai/erik-agens/shortcuts-skill)
-- [skill-email-management](https://github.com/openclaw/skills/tree/main/skills/latisen/skill-email-management/SKILL.md) - Expert email management assistant for Apple. [ClawHub](https://clawhub.ai/latisen/skill-email-management)
-- [testflight-monitor](https://github.com/openclaw/skills/tree/main/skills/jon-xo/testflight-monitor/SKILL.md) - Monitor available TestFlight beta slots with smart app lookups and silent batch checking. [ClawHub](https://clawhub.ai/jon-xo/testflight-monitor)
-- [voice-wake-say](https://github.com/openclaw/skills/tree/main/skills/xadenryan/voice-wake-say/SKILL.md) - Speak responses aloud on macOS using the built-in `say`. [ClawHub](https://clawhub.ai/xadenryan/voice-wake-say)
+- [mlx-tts](https://github.com/openclaw/skills/tree/main/skills/guoqiao/mlx-tts/SKILL.md) - Text-To-Speech with MLX (Apple Silicon) and opensource models (default QWen3-TTS) locally.
+- [mole-mac-cleanup](https://github.com/openclaw/skills/tree/main/skills/bjesuiter/mole-mac-cleanup/SKILL.md) - Mac cleanup & optimization tool combining CleanMyMac.
+- [monolith](https://github.com/openclaw/skills/tree/main/skills/slaviquee/monolith/SKILL.md) - Secure crypto wallet for AI agents.
+- [my-tesla](https://github.com/openclaw/skills/tree/main/skills/officialpm/my-tesla/SKILL.md) - Control Tesla vehicles from macOS via the Tesla Owner API using teslapy.
+- [network-scanner](https://github.com/openclaw/skills/tree/main/skills/florianbeer/network-scanner/SKILL.md) - Scan networks to discover devices, gather MAC addresses.
+- [omarchy](https://github.com/openclaw/skills/tree/main/skills/achals-iglu/omarchy/SKILL.md) - Omarchy operating guardrails for day-to-day system work: assume the host is Omarchy by default, choose.
+- [pattern-finder](https://github.com/openclaw/skills/tree/main/skills/leegitw/pattern-finder/SKILL.md) - Discover what two sources agree on — find the signal.
+- [say](https://github.com/openclaw/skills/tree/main/skills/tobihagemann/say/SKILL.md) - Text-to-Speech via macOS say command with Siri Natural Voices.
+- [shortcuts-generator](https://github.com/openclaw/skills/tree/main/skills/erik-agens/shortcuts-skill/SKILL.md) - Generate macOS/iOS Shortcuts by creating plist files.
+- [skill-email-management](https://github.com/openclaw/skills/tree/main/skills/latisen/skill-email-management/SKILL.md) - Expert email management assistant for Apple.
+- [testflight-monitor](https://github.com/openclaw/skills/tree/main/skills/jon-xo/testflight-monitor/SKILL.md) - Monitor available TestFlight beta slots with smart app lookups and silent batch checking.
+- [voice-wake-say](https://github.com/openclaw/skills/tree/main/skills/xadenryan/voice-wake-say/SKILL.md) - Speak responses aloud on macOS using the built-in `say`.

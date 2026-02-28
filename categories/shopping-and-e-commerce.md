@@ -4,58 +4,58 @@
 
 **55 skills**
 
-- [add-wish](https://github.com/openclaw/skills/tree/main/skills/leebellon/add-wish/SKILL.md) - Save any product to a universal wishlist. [ClawHub](https://clawhub.ai/leebellon/add-wish)
+- [add-wish](https://github.com/openclaw/skills/tree/main/skills/leebellon/add-wish/SKILL.md) - Save any product to a universal wishlist.
 - [agent-commerce](https://github.com/openclaw/skills/tree/main/skills/nowloady) - Agentic e-commerce engine and Sichuan food.
-- [agentic-commerce](https://github.com/openclaw/skills/tree/main/skills/purch-agent/agentic-commerce/SKILL.md) - AI-powered shopping API for product search and crypto. [ClawHub](https://clawhub.ai/purch-agent/agentic-commerce)
-- [allstock-data](https://github.com/openclaw/skills/tree/main/skills/hacksing/allstock-data/SKILL.md) - Query A-share and US stock data via Tencent Finance API. [ClawHub](https://clawhub.ai/hacksing/allstock-data)
-- [amadeus-hotels](https://github.com/openclaw/skills/tree/main/skills/kesslerio/amadeus-hotels/SKILL.md) - Search hotel prices and availability via Amadeus API. [ClawHub](https://clawhub.ai/kesslerio/amadeus-hotels)
-- [amazon-competitor-analyzer](https://github.com/openclaw/skills/tree/main/skills/phheng/amazon-competitor-analyzer/SKILL.md) - Scrapes Amazon product data from ASINs. [ClawHub](https://clawhub.ai/phheng/amazon-competitor-analyzer)
-- [amazon-orders](https://github.com/openclaw/skills/tree/main/skills/pfernandez98/amazon-orders/SKILL.md) - Download and query your Amazon order history via an unofficial Python API and CLI. [ClawHub](https://clawhub.ai/pfernandez98/amazon-orders)
-- [anylist](https://github.com/openclaw/skills/tree/main/skills/mjrussell/anylist/SKILL.md) - Manage grocery and shopping lists via AnyList. [ClawHub](https://clawhub.ai/mjrussell/anylist)
-- [atoship](https://github.com/openclaw/skills/tree/main/skills/atoship-dev/atoship/SKILL.md) - Ship packages with AI — compare rates across USPS, FedEx, and UPS, buy discounted labels, track shipments. [ClawHub](https://clawhub.ai/atoship-dev/atoship)
-- [black-box](https://github.com/openclaw/skills/tree/main/skills/lilyjazz/black-box/SKILL.md) - Indestructible audit logs for agent actions, stored in TiDB Zero. [ClawHub](https://clawhub.ai/lilyjazz/black-box)
-- [boj-mcp](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/boj-mcp/SKILL.md) - Access Bank of Japan (BOJ/日本銀行) statistical data — price indices (CGPI, SPPI), flow of funds, balance of payments. [ClawHub](https://clawhub.ai/ajtgjmdjp/boj-mcp)
-- [bricklink](https://github.com/openclaw/skills/tree/main/skills/odrobnik/bricklink/SKILL.md) - BrickLink Store API helper/CLI (OAuth 1.0 request signing). [ClawHub](https://clawhub.ai/odrobnik/bricklink)
-- [buy-anything](https://github.com/openclaw/skills/tree/main/skills/tsyvic/buy-anything/SKILL.md) - Purchase products from Amazon through conversational checkout. [ClawHub](https://clawhub.ai/tsyvic/buy-anything)
-- [checkers-sixty60](https://github.com/openclaw/skills/tree/main/skills/snopoke/checkers-sixty60/SKILL.md) - Shop on Checkers.co.za Sixty60 delivery service via browser. [ClawHub](https://clawhub.ai/snopoke/checkers-sixty60)
-- [claudius](https://github.com/openclaw/skills/tree/main/skills/claudiusaipro/claudius/SKILL.md) - Crypto intelligence powered by Claudius. [ClawHub](https://clawhub.ai/claudiusaipro/claudius)
-- [clawdbites](https://github.com/openclaw/skills/tree/main/skills/kylelol/clawdbites/SKILL.md) - Extract recipes from Instagram reels. [ClawHub](https://clawhub.ai/kylelol/clawdbites)
-- [clawpify](https://github.com/openclaw/skills/tree/main/skills/alhwyn/clawpify/SKILL.md) - Query and manage Shopify stores via GraphQL Admin API. [ClawHub](https://clawhub.ai/alhwyn/clawpify)
-- [clawver-digital-products](https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-digital-products/SKILL.md) - Create and sell digital products. [ClawHub](https://clawhub.ai/nwang783/clawver-digital-products)
-- [clawver-reviews](https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-reviews/SKILL.md) - Handle Clawver customer reviews. [ClawHub](https://clawhub.ai/nwang783/clawver-reviews)
-- [closing-deals](https://github.com/openclaw/skills/tree/main/skills/jk-0001/closing-deals/SKILL.md) - Close sales deals consistently as a solopreneur. [ClawHub](https://clawhub.ai/jk-0001/closing-deals)
-- [crypto-regime-report](https://github.com/openclaw/skills/tree/main/skills/heyztb/crypto-regime-report/SKILL.md) - Generate market regime reports for crypto perpetuals using Supertrend and ADX indicators. [ClawHub](https://clawhub.ai/heyztb/crypto-regime-report)
-- [csfloat](https://github.com/openclaw/skills/tree/main/skills/bluesyparty-src/csfloat/SKILL.md) - Queries csfloat.com for data on skins. [ClawHub](https://clawhub.ai/bluesyparty-src/csfloat)
-- [csvtoexcel](https://github.com/openclaw/skills/tree/main/skills/xuanguan2020/csvtoexcel/SKILL.md) - Convert CSV files to professionally formatted Excel workbooks with Chinese character support, automatic formatting. [ClawHub](https://clawhub.ai/xuanguan2020/csvtoexcel)
-- [dupe](https://github.com/openclaw/skills/tree/main/skills/crisanmm/dupe/SKILL.md) - Uses dupe.com APIs in order to find similar products for the product found in the input URL given by the user. [ClawHub](https://clawhub.ai/crisanmm/dupe)
-- [eachlabs-product-visuals](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-product-visuals/SKILL.md) - Generate e-commerce product photography and videos. [ClawHub](https://clawhub.ai/eftalyurtseven/eachlabs-product-visuals)
-- [ethereum-gas-tracker-k9hfk](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/ethereum-gas-tracker-k9hfk/SKILL.md) - Monitor Ethereum gas prices in real-time - get current gwei rates, estimate transaction costs, find optimal times. [ClawHub](https://clawhub.ai/hightower6eu/ethereum-gas-tracker-k9hfk)
-- [ethereum-gas-tracker-osr2u](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/ethereum-gas-tracker-osr2u/SKILL.md) - Monitor Ethereum gas prices in real-time - get current gwei rates, estimate transaction costs, find optimal times. [ClawHub](https://clawhub.ai/hightower6eu/ethereum-gas-tracker-osr2u)
-- [filewave](https://github.com/openclaw/skills/tree/main/skills/jlevitsk/filewave/SKILL.md) - Query and manage FileWave UEM device inventory via REST API. [ClawHub](https://clawhub.ai/jlevitsk/filewave)
-- [food-order](https://github.com/openclaw/skills/tree/main/skills/steipete/food-order/SKILL.md) - Reorder Foodora orders + track ETA/status with ordercli. [ClawHub](https://clawhub.ai/steipete/food-order)
-- [gousto](https://github.com/openclaw/skills/tree/main/skills/dhruvkelawala/gousto/SKILL.md) - Search and browse 9,000+ Gousto recipes. [ClawHub](https://clawhub.ai/dhruvkelawala/gousto)
-- [gurkerlcli](https://github.com/openclaw/skills/tree/main/skills/pasogott/gurkerlcli/SKILL.md) - Austrian online grocery shopping via gurkerl.at. [ClawHub](https://clawhub.ai/pasogott/gurkerlcli)
-- [idealista](https://github.com/openclaw/skills/tree/main/skills/quifago/idealista/SKILL.md) - Query Idealista API via idealista-cli (OAuth2 client credentials). [ClawHub](https://clawhub.ai/quifago/idealista)
-- [irish-takeaway](https://github.com/openclaw/skills/tree/main/skills/cotyledonlab/irish-takeaway/SKILL.md) - Find nearby takeaways in Ireland and browse menus. [ClawHub](https://clawhub.ai/cotyledonlab/irish-takeaway)
-- [jellyseerr](https://github.com/openclaw/skills/tree/main/skills/ericrosenberg/jellyseerr/SKILL.md) - Request movies and TV shows through Jellyseerr. [ClawHub](https://clawhub.ai/ericrosenberg/jellyseerr)
-- [jlm-coffee](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/jlm-coffee/SKILL.md) - Search specialty coffee shops in Jerusalem by amenities and hours. [ClawHub](https://clawhub.ai/alexpolonsky/jlm-coffee)
-- [jtbd-analyzer](https://github.com/openclaw/skills/tree/main/skills/artyomx33/jtbd-analyzer/SKILL.md) - Uncover the real "job" customers hire your product. [ClawHub](https://clawhub.ai/artyomx33/jtbd-analyzer)
-- [listonic](https://github.com/openclaw/skills/tree/main/skills/jeremymahieu/listonic/SKILL.md) - Access Listonic shopping lists: list lists/items, add/check/delete items, and manage lists. [ClawHub](https://clawhub.ai/jeremymahieu/listonic)
+- [agentic-commerce](https://github.com/openclaw/skills/tree/main/skills/purch-agent/agentic-commerce/SKILL.md) - AI-powered shopping API for product search and crypto.
+- [allstock-data](https://github.com/openclaw/skills/tree/main/skills/hacksing/allstock-data/SKILL.md) - Query A-share and US stock data via Tencent Finance API.
+- [amadeus-hotels](https://github.com/openclaw/skills/tree/main/skills/kesslerio/amadeus-hotels/SKILL.md) - Search hotel prices and availability via Amadeus API.
+- [amazon-competitor-analyzer](https://github.com/openclaw/skills/tree/main/skills/phheng/amazon-competitor-analyzer/SKILL.md) - Scrapes Amazon product data from ASINs.
+- [amazon-orders](https://github.com/openclaw/skills/tree/main/skills/pfernandez98/amazon-orders/SKILL.md) - Download and query your Amazon order history via an unofficial Python API and CLI.
+- [anylist](https://github.com/openclaw/skills/tree/main/skills/mjrussell/anylist/SKILL.md) - Manage grocery and shopping lists via AnyList.
+- [atoship](https://github.com/openclaw/skills/tree/main/skills/atoship-dev/atoship/SKILL.md) - Ship packages with AI — compare rates across USPS, FedEx, and UPS, buy discounted labels, track shipments.
+- [black-box](https://github.com/openclaw/skills/tree/main/skills/lilyjazz/black-box/SKILL.md) - Indestructible audit logs for agent actions, stored in TiDB Zero.
+- [boj-mcp](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/boj-mcp/SKILL.md) - Access Bank of Japan (BOJ/日本銀行) statistical data — price indices (CGPI, SPPI), flow of funds, balance of payments.
+- [bricklink](https://github.com/openclaw/skills/tree/main/skills/odrobnik/bricklink/SKILL.md) - BrickLink Store API helper/CLI (OAuth 1.0 request signing).
+- [buy-anything](https://github.com/openclaw/skills/tree/main/skills/tsyvic/buy-anything/SKILL.md) - Purchase products from Amazon through conversational checkout.
+- [checkers-sixty60](https://github.com/openclaw/skills/tree/main/skills/snopoke/checkers-sixty60/SKILL.md) - Shop on Checkers.co.za Sixty60 delivery service via browser.
+- [claudius](https://github.com/openclaw/skills/tree/main/skills/claudiusaipro/claudius/SKILL.md) - Crypto intelligence powered by Claudius.
+- [clawdbites](https://github.com/openclaw/skills/tree/main/skills/kylelol/clawdbites/SKILL.md) - Extract recipes from Instagram reels.
+- [clawpify](https://github.com/openclaw/skills/tree/main/skills/alhwyn/clawpify/SKILL.md) - Query and manage Shopify stores via GraphQL Admin API.
+- [clawver-digital-products](https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-digital-products/SKILL.md) - Create and sell digital products.
+- [clawver-reviews](https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-reviews/SKILL.md) - Handle Clawver customer reviews.
+- [closing-deals](https://github.com/openclaw/skills/tree/main/skills/jk-0001/closing-deals/SKILL.md) - Close sales deals consistently as a solopreneur.
+- [crypto-regime-report](https://github.com/openclaw/skills/tree/main/skills/heyztb/crypto-regime-report/SKILL.md) - Generate market regime reports for crypto perpetuals using Supertrend and ADX indicators.
+- [csfloat](https://github.com/openclaw/skills/tree/main/skills/bluesyparty-src/csfloat/SKILL.md) - Queries csfloat.com for data on skins.
+- [csvtoexcel](https://github.com/openclaw/skills/tree/main/skills/xuanguan2020/csvtoexcel/SKILL.md) - Convert CSV files to professionally formatted Excel workbooks with Chinese character support, automatic formatting.
+- [dupe](https://github.com/openclaw/skills/tree/main/skills/crisanmm/dupe/SKILL.md) - Uses dupe.com APIs in order to find similar products for the product found in the input URL given by the user.
+- [eachlabs-product-visuals](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-product-visuals/SKILL.md) - Generate e-commerce product photography and videos.
+- [ethereum-gas-tracker-k9hfk](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/ethereum-gas-tracker-k9hfk/SKILL.md) - Monitor Ethereum gas prices in real-time - get current gwei rates, estimate transaction costs, find optimal times.
+- [ethereum-gas-tracker-osr2u](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/ethereum-gas-tracker-osr2u/SKILL.md) - Monitor Ethereum gas prices in real-time - get current gwei rates, estimate transaction costs, find optimal times.
+- [filewave](https://github.com/openclaw/skills/tree/main/skills/jlevitsk/filewave/SKILL.md) - Query and manage FileWave UEM device inventory via REST API.
+- [food-order](https://github.com/openclaw/skills/tree/main/skills/steipete/food-order/SKILL.md) - Reorder Foodora orders + track ETA/status with ordercli.
+- [gousto](https://github.com/openclaw/skills/tree/main/skills/dhruvkelawala/gousto/SKILL.md) - Search and browse 9,000+ Gousto recipes.
+- [gurkerlcli](https://github.com/openclaw/skills/tree/main/skills/pasogott/gurkerlcli/SKILL.md) - Austrian online grocery shopping via gurkerl.at.
+- [idealista](https://github.com/openclaw/skills/tree/main/skills/quifago/idealista/SKILL.md) - Query Idealista API via idealista-cli (OAuth2 client credentials).
+- [irish-takeaway](https://github.com/openclaw/skills/tree/main/skills/cotyledonlab/irish-takeaway/SKILL.md) - Find nearby takeaways in Ireland and browse menus.
+- [jellyseerr](https://github.com/openclaw/skills/tree/main/skills/ericrosenberg/jellyseerr/SKILL.md) - Request movies and TV shows through Jellyseerr.
+- [jlm-coffee](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/jlm-coffee/SKILL.md) - Search specialty coffee shops in Jerusalem by amenities and hours.
+- [jtbd-analyzer](https://github.com/openclaw/skills/tree/main/skills/artyomx33/jtbd-analyzer/SKILL.md) - Uncover the real "job" customers hire your product.
+- [listonic](https://github.com/openclaw/skills/tree/main/skills/jeremymahieu/listonic/SKILL.md) - Access Listonic shopping lists: list lists/items, add/check/delete items, and manage lists.
 - [marketplace-clis](https://github.com/openclaw/skills/tree/main/skills/pjtf93) - Spanish marketplace CLIs: Wallapop.
-- [marktplaats](https://github.com/openclaw/skills/tree/main/skills/pvoo/marktplaats/SKILL.md) - Search Marktplaats.nl classifieds across all categories with filtering. [ClawHub](https://clawhub.ai/pvoo/marktplaats)
-- [moltlist-marketplace](https://github.com/openclaw/skills/tree/main/skills/koriyoshi2041/moltlist-marketplace/SKILL.md) - Interact with the moltlist.com agent. [ClawHub](https://clawhub.ai/koriyoshi2041/moltlist-marketplace)
-- [moltpho](https://github.com/openclaw/skills/tree/main/skills/unifiedh/moltpho/SKILL.md) - Shop autonomously on Amazon via Moltpho - search products, manage credit. [ClawHub](https://clawhub.ai/unifiedh/moltpho)
-- [moonpay](https://github.com/openclaw/skills/tree/main/skills/kevarifin14/moonpay/SKILL.md) - Your agent needs money. [ClawHub](https://clawhub.ai/kevarifin14/moonpay)
-- [mt5-httpapi](https://github.com/openclaw/skills/tree/main/skills/psyb0t/mt5-httpapi/SKILL.md) - MetaTrader 5 trading via REST API — get market data, place/modify/close orders, manage positions, pull history. [ClawHub](https://clawhub.ai/psyb0t/mt5-httpapi)
-- [mutual-consent](https://github.com/openclaw/skills/tree/main/skills/otherpowers/mutual-consent/SKILL.md) - A governance skill that treats consent as a physical condition of information and relationship, not a stored choice. [ClawHub](https://clawhub.ai/otherpowers/mutual-consent)
-- [nft-tracker](https://github.com/openclaw/skills/tree/main/skills/ianalloway/nft-tracker/SKILL.md) - Track NFT collection prices, floor prices, and sales data. [ClawHub](https://clawhub.ai/ianalloway/nft-tracker)
-- [onchain](https://github.com/openclaw/skills/tree/main/skills/arein/onchain/SKILL.md) - CLI for crypto portfolio tracking, market data, CEX history, and transaction lookups. [ClawHub](https://clawhub.ai/arein/onchain)
-- [onchain-test](https://github.com/openclaw/skills/tree/main/skills/arein/onchain-test/SKILL.md) - CLI for crypto portfolio tracking, market data, and CEX history. [ClawHub](https://clawhub.ai/arein/onchain-test)
-- [ontopo](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/ontopo/SKILL.md) - Search Israeli restaurants and check table availability on Ontopo. [ClawHub](https://clawhub.ai/alexpolonsky/ontopo)
-- [palacefate](https://github.com/openclaw/skills/tree/main/skills/junwonpro/palacefate/SKILL.md) - A prediction market game for AI agents. [ClawHub](https://clawhub.ai/junwonpro/palacefate)
-- [popup-referrals](https://github.com/openclaw/skills/tree/main/skills/eliaskress/popup-referrals/SKILL.md) - Check your PopUp referral link, track earnings, and see referred vendor status. [ClawHub](https://clawhub.ai/eliaskress/popup-referrals)
-- [sp3nd](https://github.com/openclaw/skills/tree/main/skills/kent-x1/sp3nd/SKILL.md) - Buy products from Amazon using USDC on Solana. [ClawHub](https://clawhub.ai/kent-x1/sp3nd)
-- [stock-price-checker](https://github.com/openclaw/skills/tree/main/skills/rupprath/stock-price-checker/SKILL.md) - Check stock prices using yfinance library. [ClawHub](https://clawhub.ai/rupprath/stock-price-checker)
-- [tradekix](https://github.com/openclaw/skills/tree/main/skills/jamesjohnfox/tradekix/SKILL.md) - Query financial market data via the Tradekix API — stock prices, crypto, forex, indices, market news, earnings. [ClawHub](https://clawhub.ai/jamesjohnfox/tradekix)
-- [turnip-prophet](https://github.com/openclaw/skills/tree/main/skills/nicholasjackson/turnip-prophet/SKILL.md) - Predict Animal Crossing New Horizons turnip prices using the game's exact algorithm. [ClawHub](https://clawhub.ai/nicholasjackson/turnip-prophet)
-- [whop-cli](https://github.com/openclaw/skills/tree/main/skills/g9pedro/whop-cli/SKILL.md) - Manage Whop digital products store — create products, plans, track payments, manage memberships. [ClawHub](https://clawhub.ai/g9pedro/whop-cli)
+- [marktplaats](https://github.com/openclaw/skills/tree/main/skills/pvoo/marktplaats/SKILL.md) - Search Marktplaats.nl classifieds across all categories with filtering.
+- [moltlist-marketplace](https://github.com/openclaw/skills/tree/main/skills/koriyoshi2041/moltlist-marketplace/SKILL.md) - Interact with the moltlist.com agent.
+- [moltpho](https://github.com/openclaw/skills/tree/main/skills/unifiedh/moltpho/SKILL.md) - Shop autonomously on Amazon via Moltpho - search products, manage credit.
+- [moonpay](https://github.com/openclaw/skills/tree/main/skills/kevarifin14/moonpay/SKILL.md) - Your agent needs money.
+- [mt5-httpapi](https://github.com/openclaw/skills/tree/main/skills/psyb0t/mt5-httpapi/SKILL.md) - MetaTrader 5 trading via REST API — get market data, place/modify/close orders, manage positions, pull history.
+- [mutual-consent](https://github.com/openclaw/skills/tree/main/skills/otherpowers/mutual-consent/SKILL.md) - A governance skill that treats consent as a physical condition of information and relationship, not a stored choice.
+- [nft-tracker](https://github.com/openclaw/skills/tree/main/skills/ianalloway/nft-tracker/SKILL.md) - Track NFT collection prices, floor prices, and sales data.
+- [onchain](https://github.com/openclaw/skills/tree/main/skills/arein/onchain/SKILL.md) - CLI for crypto portfolio tracking, market data, CEX history, and transaction lookups.
+- [onchain-test](https://github.com/openclaw/skills/tree/main/skills/arein/onchain-test/SKILL.md) - CLI for crypto portfolio tracking, market data, and CEX history.
+- [ontopo](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/ontopo/SKILL.md) - Search Israeli restaurants and check table availability on Ontopo.
+- [palacefate](https://github.com/openclaw/skills/tree/main/skills/junwonpro/palacefate/SKILL.md) - A prediction market game for AI agents.
+- [popup-referrals](https://github.com/openclaw/skills/tree/main/skills/eliaskress/popup-referrals/SKILL.md) - Check your PopUp referral link, track earnings, and see referred vendor status.
+- [sp3nd](https://github.com/openclaw/skills/tree/main/skills/kent-x1/sp3nd/SKILL.md) - Buy products from Amazon using USDC on Solana.
+- [stock-price-checker](https://github.com/openclaw/skills/tree/main/skills/rupprath/stock-price-checker/SKILL.md) - Check stock prices using yfinance library.
+- [tradekix](https://github.com/openclaw/skills/tree/main/skills/jamesjohnfox/tradekix/SKILL.md) - Query financial market data via the Tradekix API — stock prices, crypto, forex, indices, market news, earnings.
+- [turnip-prophet](https://github.com/openclaw/skills/tree/main/skills/nicholasjackson/turnip-prophet/SKILL.md) - Predict Animal Crossing New Horizons turnip prices using the game's exact algorithm.
+- [whop-cli](https://github.com/openclaw/skills/tree/main/skills/g9pedro/whop-cli/SKILL.md) - Manage Whop digital products store — create products, plans, track payments, manage memberships.
