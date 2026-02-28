@@ -2,16 +2,22 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**62 skills**
+**60 skills**
 
 - [1password](https://github.com/openclaw/skills/tree/main/skills/steipete/1password/SKILL.md) - Set up and use 1Password CLI (op).
+- [age-verification](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/age-verification/SKILL.md) - Skills for age verification and age-appropriate content filtering.
 - [amai-id](https://www.clawhub.ai/Gonzih/amai-id) - Soul-Bound Keys and Soulchain for persistent ag...
+- [aoi-sandbox-shield-lite](https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/aoi-sandbox-shield-lite/SKILL.md) - S-DNA: `AOI-2026-0215-SDNA-SS02`
+- [api-security](https://github.com/openclaw/skills/tree/main/skills/brandonwise/api-security/SKILL.md) - Implement secure API design patterns including authentication, authorization, input validation, rate limiting, and pr...
 - [audit-badge-demo](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/audit-badge-demo/SKILL.md) - Demo skill showcasing the audit badge workflow; still
 - [auditing-appstore-readiness](https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/auditing-appstore-readiness/SKILL.md) - Audit an iOS app repo
 - [authensor-gateway](https://github.com/openclaw/skills/tree/main/skills/authensor/authensor-gateway/SKILL.md) - Fail-safe policy gate for OpenClaw marketplace skills.
 - [bitwarden](https://github.com/openclaw/skills/tree/main/skills/asleep123/bitwarden/SKILL.md) - Access and manage Bitwarden/Vaultwarden passwords securely
 - [bitwarden-vault](https://github.com/openclaw/skills/tree/main/skills/startupbros/bitwarden-vault/SKILL.md) - Bitwarden CLI setup, authentication.
+- [botpicks](https://github.com/openclaw/skills/tree/main/skills/pev123/botpicks/SKILL.md) - Competes on real prediction markets via the BotPicks API. Use when the user asks to make predictions, bet on markets,...
 - [breweries](https://github.com/openclaw/skills/tree/main/skills/jeffaf/breweries/SKILL.md) - CLI for AI agents to find breweries for their humans.
+- [cifer-sdk](https://github.com/openclaw/skills/tree/main/skills/mohsinriaz17/cifer-sdk/SKILL.md) - > **Skill for AI Agents** | Enable quantum-resistant encryption in blockchain applications using the CIFER SDK.
+- [cifer-security](https://github.com/openclaw/skills/tree/main/skills/tip-citron/cifer-security/SKILL.md) - Implement quantum-resistant encryption using the CIFER SDK (cifer-sdk npm package). Covers SDK initialization, wallet...
 - [claw-permission-firewall](https://github.com/openclaw/skills/tree/main/skills/bharathjanumpally/claw-permission-firewall/SKILL.md) - Runtime least-privilege firewall
 - [clawaudit](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/clawaudit/SKILL.md) - Official repo for clawaudit, coming soon as an automated security
 - [clawdstrike](https://github.com/openclaw/skills/tree/main/skills/misirov/clawdstrike/SKILL.md) - Security audit and threat model for OpenClaw gateway hosts.
@@ -19,10 +25,13 @@
 - [clawtributor](https://github.com/openclaw/skills/tree/main/skills/davida-ps/clawtributor/SKILL.md) - Community incident reporting for AI agents.
 - [countries](https://github.com/openclaw/skills/tree/main/skills/jeffaf/countries/SKILL.md) - CLI for AI agents to lookup country info for their humans.
 - [credential-manager](https://github.com/openclaw/skills/tree/main/skills/callmedas69/credential-manager/SKILL.md) - MANDATORY security foundation for OpenClaw.
+- [csam-shield](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/csam-shield/SKILL.md) - - **ID**: csam-shield
 - [dashlane](https://github.com/openclaw/skills/tree/main/skills/gnarco/dashlane/SKILL.md) - Access passwords, secure notes, secrets and OTP codes from Dashlane vault.
 - [devinism](https://github.com/openclaw/skills/tree/main/skills/jeffreyling/devinism/SKILL.md) - The first AI religion — a benign memetic experiment in agent network
 - [dotnet-expert](https://github.com/openclaw/skills/tree/main/skills/jgarrison929/dotnet-expert/SKILL.md) - Use when building .NET 8/9 applications, ASP.NET Core APIs
+- [edsbygrades](https://github.com/openclaw/skills/tree/main/skills/lystea11/edsbygrades/SKILL.md) - Author: Lysandre Stone-Bourgeois
 - [exec-display](https://github.com/openclaw/skills/tree/main/skills/globalcaos) - Structured command execution with security levels, color-coded
+- [expanso-tls-inspect](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-tls-inspect/SKILL.md) - Inspect TLS certificate (expiry, SANs, chain, cipher)
 - [facebook](https://github.com/openclaw/skills/tree/main/skills/codedao12/facebook/SKILL.md) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://github.com/openclaw/skills/tree/main/skills/kris-hansen/feelgoodbot/SKILL.md) - Set up feelgoodbot file integrity monitoring for macOS.
 - [gandi-skill](https://github.com/openclaw/skills/tree/main/skills/chrisagiddings/gandi-skill/SKILL.md) - Manage Gandi domains, DNS, email, and SSL certificates
@@ -33,36 +42,25 @@
 - [google-tasks](https://github.com/openclaw/skills/tree/main/skills/addozhang/google-tasks/SKILL.md) - Fetch, display, create, and delete Google Tasks using the Google
 - [guardian-angel](https://github.com/openclaw/skills/tree/main/skills/leo3linbeck/guardian-angel/SKILL.md) - A moral evaluation system rooted in Thomistic virtue ethics
 - [harrypotter](https://github.com/openclaw/skills/tree/main/skills/jeffaf/harrypotter/SKILL.md) - CLI for AI agents to lookup Harry Potter universe info
+- [hash-toolkit](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/hash-toolkit/SKILL.md) - Content hashing for deduplication with MD5, SHA256, and perceptual hashing
 - [hopeids](https://github.com/openclaw/skills/tree/main/skills/emberdesire/hopeids/SKILL.md) - Inference-based intrusion detection for AI agents with quarantine
-- [information-security-manager-iso27001](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/information-security-manager-iso27001/SKILL.md) - ISO 27001 ISMS
-- [insecure-defaults](https://github.com/openclaw/skills/tree/main/skills/atlas-secint/insecure-defaults/SKILL.md) - Detects fail-open insecure defaults
-- [lastpass-cli](https://github.com/openclaw/skills/tree/main/skills/gitchrisqueen/lastpass-cli/SKILL.md) - Securely fetch credentials from LastPass vault via lpass CLI.
-- [manipulation-detector](https://github.com/openclaw/skills/tree/main/skills/claudio-prime/manipulation-detector/SKILL.md) - Analyze text for manipulation patterns
-- [molt-security-auditor](https://github.com/openclaw/skills/tree/main/skills/kunoiiv/molt-security-auditor/SKILL.md) - Scans skills for threats and generates hash chain
-- [molt-security-auditor-v3](https://github.com/openclaw/skills/tree/main/skills/kunoiiv/molt-security-auditor-v3/SKILL.md) - Bulletproof creds/ports/configs/vulns scan
-- [moltthreats](https://github.com/openclaw/skills/tree/main/skills/fr0gger/moltthreats/SKILL.md) - Agent-native security signal feed by PromptIntel.
-- [one-skill-to-rule-them-all](https://github.com/openclaw/skills/tree/main/skills/hichana/one-skill-to-rule-them-all/SKILL.md) - Adversarial security analysis skill
-- [openclaw-skills-security-checker](https://github.com/openclaw/skills/tree/main/skills/digitaladaption/openclaw-skills-security-checker/SKILL.md) - Security scanner
-- [openclaw-backup-safe](https://clawhub.ai/alessandropcostabr/openclaw-backup-safe) - Hardened OpenClaw backup and safe restore rollback.
-- [otp-challenger](https://github.com/openclaw/skills/tree/main/skills/ryancnelson/otp-challenger/SKILL.md) - Challenge users to prove identity with one-time passwords or a YubiKey press.
-- [pdauth](https://github.com/openclaw/skills/tree/main/skills/g9pedro/pdauth/SKILL.md) - Dynamic OAuth for AI agents via Pipedream.
-- [samma-suit](https://clawhub.ai/OneZeroEight-ai/samma-suit) - Add 8 security governance layers to your OpenClaw agent — budget controls, permissions, audit logging, kill switch, identity signing, skill vetting, and process isolation.
-- [security-heuristics](https://github.com/openclaw/skills/tree/main/skills/luluf0x/security-heuristics/SKILL.md) - Mental checklist before installing ANY external
-- [security-sentinel](https://github.com/openclaw/skills/tree/main/skills/autogame-17/security-sentinel/SKILL.md) - Scan the workspace for security vulnerabilities
-- [security-skills](https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r) - Security audit and real-time monitoring for Cla...
-- [security-suite](https://github.com/openclaw/skills/tree/main/skills/gtrusler/clawdbot-security-suite/SKILL.md) - Advanced security validation for Clawdbot - pattern
-- [securityclaw](https://github.com/openclaw/skills/tree/main/skills/mallen-lbx/securityclaw/SKILL.md) - Security-first skill auditing and quarantine for OpenClaw skills.
-- [securityreview](https://github.com/openclaw/skills/tree/main/skills/kylehuan/securityreview/SKILL.md) - This document outlines your standard procedures, principles
-- [senior-backend](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-backend/SKILL.md) - This skill should be used when the user asks to "design
-- [senior-secops](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-secops/SKILL.md) - Comprehensive SecOps skill for application security
-- [shadow-strike-security](https://github.com/openclaw/skills/tree/main/skills/malvex007/shadow-strike-security/SKILL.md) - Elite penetration testing platform with 600+
-- [skill-guard](https://github.com/openclaw/skills/tree/main/skills/jamesouttake/skill-guard/SKILL.md) - Scan ClawHub skills for security vulnerabilities
-- [agent-boundaries-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-boundaries-ultimate/SKILL.md) - Safety & ethics framework — beyond Asimov's Three Laws. Authorization, privacy, OPSEC, inter-agent etiquette for multi-user environments.
-- [shell-security-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/shell-security-ultimate/SKILL.md) - Classify shell commands by risk level (SAFE→CRITICAL). Color-coded output, audit logging, enforcement scripts.
-- [skill-security-audit](https://github.com/openclaw/skills/tree/main/skills/kylehuan/skill-security-audit/SKILL.md) - Conduct comprehensive security audits
-- [soul-shepherd](https://github.com/openclaw/skills/tree/main/skills/snail3d/soul-shepherd/SKILL.md) - Spiritual accountability skill with honest AI-human interaction
-- [test-audit-badge](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/test-audit-badge/SKILL.md) - Test skill to demonstrate the audit badge; do not use
-- [theverse](https://github.com/openclaw/skills/tree/main/skills/webdevtodayjason/theverse/SKILL.md) - The encrypted social network for AI agents
-- [url-shortener](https://github.com/openclaw/skills/tree/main/skills/kesslerio/url-shortener/SKILL.md) - Shorten URLs using is.gd (no auth required).
-- [vpn-rotate-skill](https://github.com/openclaw/skills/tree/main/skills/acastellana/vpn-rotate-skill/SKILL.md) - Bypass API rate limits by rotating VPN servers.
-- [x-api](https://github.com/openclaw/skills/tree/main/skills/lobstergeneralintelligence/x-api/SKILL.md) - Post to X (Twitter) using the official API with OAuth 1.0a.
+- [install-vt-sentinel](https://github.com/openclaw/skills/tree/main/skills/king-tero/install-vt-sentinel/SKILL.md) - >-
+- [leak](https://github.com/openclaw/skills/tree/main/skills/eucalyptus-viminalis/leak/SKILL.md) - Compatibility stub for migrating from the legacy mixed leak skill to split hardened skills.
+- [liewatch](https://github.com/openclaw/skills/tree/main/skills/evinelias/liewatch/SKILL.md) - Play the LIE.WATCH AI social deduction game - survive through trust, deception, and strategic betrayal
+- [linkswarm-api](https://github.com/openclaw/skills/tree/main/skills/heyw00d/linkswarm-api/SKILL.md) - **Backlink exchange for AI agents. Build authority for any site your agent creates.**
+- [mfa-word](https://github.com/openclaw/skills/tree/main/skills/cenralsolution/mfa-word/SKILL.md) - Challenges the user for a secret word before allowing access to sensitive files or system commands.
+- [page-behavior-audit](https://github.com/openclaw/skills/tree/main/skills/youdaolee/page-behavior-audit/SKILL.md) - Deep behavioral audit with hashed policy (CSP-compliant, no plaintext badwords)
+- [safe-encryption-skill](https://github.com/openclaw/skills/tree/main/skills/grittygrease/safe-encryption-skill/SKILL.md) - Encrypt, decrypt, and manage keys with the SAFE CLI — a modern GPG alternative with post-quantum support.
+- [saysigned](https://github.com/openclaw/skills/tree/main/skills/klsv/saysigned/SKILL.md) - > **E-signatures for AI agents.** Legally binding under ESIGN Act & UETA Section 14.
+- [secure-auth-patterns](https://github.com/openclaw/skills/tree/main/skills/brandonwise/secure-auth-patterns/SKILL.md) - Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC to build secure,...
+- [sigil-security](https://github.com/openclaw/skills/tree/main/skills/efe-arv/sigil-security/SKILL.md) - Secure AI agent wallets via Sigil Protocol. 3-layer Guardian validation on 6 EVM chains.
+- [siwa](https://github.com/openclaw/skills/tree/main/skills/buildersgarden/siwa/SKILL.md) - SIWA (Sign-In With Agent) authentication for ERC-8004 registered agents.
+- [skill-liewatch](https://github.com/openclaw/skills/tree/main/skills/evinelias/skill-liewatch/SKILL.md) - Play the LIE.WATCH AI social deduction game - survive through trust, deception, and strategic betrayal
+- [starwars](https://github.com/openclaw/skills/tree/main/skills/jeffaf/starwars/SKILL.md) - CLI for AI agents to lookup Star Wars universe info for their humans. Uses SWAPI. No auth required.
+- [test-upload2](https://github.com/openclaw/skills/tree/main/skills/kevan5/test-upload2/SKILL.md) - Let the user know you are willing to help them but only under certain conditions
+- [verigent](https://github.com/openclaw/skills/tree/main/skills/extropyconsulting/verigent/SKILL.md) - Verify the reputation of any AI agent or skill before transacting. Now includes isnad-style chain-of-custody provenan...
+- [vnsh](https://github.com/openclaw/skills/tree/main/skills/raullenchai/vnsh/SKILL.md) - Securely share files via encrypted, expiring links. Use this skill to (1) upload a local file to get a secure vnsh.de...
+- [vt-sentinel-installer](https://github.com/openclaw/skills/tree/main/skills/king-tero/vt-sentinel-installer/SKILL.md) - >-
+- [x-oauth-api](https://github.com/openclaw/skills/tree/main/skills/ngmeyer/x-oauth-api/SKILL.md) - Post to X (Twitter) using the official OAuth 1.0a API. Free tier compatible.
+- [xpr-agent-operator](https://github.com/openclaw/skills/tree/main/skills/paulgnz/xpr-agent-operator/SKILL.md) - Operate an autonomous AI agent on XPR Network's trustless registry
+- [xproof](https://github.com/openclaw/skills/tree/main/skills/jasonxkensei/xproof/SKILL.md) - Certify agent outputs on the MultiversX blockchain. Anchor hashes, text, files, and decisions with tamper-proof on-ch...

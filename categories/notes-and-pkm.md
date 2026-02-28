@@ -2,22 +2,31 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**99 skills**
+**73 skills**
 
+- [acc-error-memory](https://github.com/openclaw/skills/tree/main/skills/impkind/acc-error-memory/SKILL.md) - Error pattern tracking for AI agents. Detects corrections, escalates recurring mistakes, learns mitigations. The 'som...
+- [agent-arena](https://github.com/openclaw/skills/tree/main/skills/minilozio/agent-arena/SKILL.md) - Participate in Agent Arena chat rooms with your real personality (SOUL.md + MEMORY.md). Auto-polls for turns and resp...
 - [agent-memory-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-memory-ultimate/SKILL.md) - Production-ready memory system — daily logs, sleep consolidation, SQLite + FTS5, WhatsApp/ChatGPT/VCF importers. Human-inspired architecture.
+- [agent-privacy-skill](https://github.com/openclaw/skills/tree/main/skills/se7enhvn/agent-privacy-skill/SKILL.md) - Interact with the Ceaser privacy protocol on Base L2. Shield and unshield ETH via CLI subcommands (npx ceaser-mcp shi...
+- [agent-teleport](https://github.com/openclaw/skills/tree/main/skills/lilyjazz/agent-teleport/SKILL.md) - Seamlessly migrate your agent's configuration and memory to a new machine using TiDB Zero.
+- [agent-wal](https://github.com/openclaw/skills/tree/main/skills/bowen31337/agent-wal/SKILL.md) - Write-Ahead Log protocol for agent state persistence. Prevents losing corrections, decisions, and context during conv...
 - [agents-structured-memory](https://github.com/openclaw/skills/tree/main/skills/singhcoder) - Chat-native structured memory for agents
 - [alexandrie](https://github.com/openclaw/skills/tree/main/skills/eth3rnit3/alexandrie/SKILL.md) - Interact with Alexandrie note-taking app
 - [anki-connect](https://github.com/openclaw/skills/tree/main/skills/gyroninja/anki-connect/SKILL.md) - Interact with Anki flashcard decks via the AnkiConnect REST API.
 - [apple-mail](https://github.com/openclaw/skills/tree/main/skills/tyler6204/apple-mail/SKILL.md) - Apple Mail.app integration for macOS.
 - [apple-notes](https://github.com/openclaw/skills/tree/main/skills/steipete/apple-notes/SKILL.md) - Manage Apple Notes via the `memo` CLI on macOS
+- [arc-wake-state](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-wake-state/SKILL.md) - Persist agent state across crashes, context deaths, and restarts. Use when you need to save current context, restore ...
 - [bbc-news](https://github.com/openclaw/skills/tree/main/skills/ddrayne/bbc-news/SKILL.md) - Fetch and display BBC News stories from various sections and regions
 - [bear-notes](https://github.com/openclaw/skills/tree/main/skills/steipete/bear-notes/SKILL.md) - Create, search, and manage Bear notes via grizzly.
 - [better-notion](https://github.com/openclaw/skills/tree/main/skills/tyler6204/better-notion/SKILL.md) - Full CRUD for Notion pages, databases.
 - [blogwatcher](https://github.com/openclaw/skills/tree/main/skills/steipete/blogwatcher/SKILL.md) - Monitor blogs and RSS/Atom feeds for updates using the blogwatcher
 - [bookstack](https://github.com/openclaw/skills/tree/main/skills/xenofex7/bookstack/SKILL.md) - BookStack Wiki & Documentation API integration.
+- [braindb](https://github.com/openclaw/skills/tree/main/skills/chair4ce/braindb/SKILL.md) - Persistent, semantic memory for AI agents. Gives your AI long-term recall that survives compaction and session resets...
 - [brainrepo](https://github.com/openclaw/skills/tree/main/skills/codezz/brainrepo/SKILL.md) - Your personal knowledge repository — capture, organize, and retrieve
+- [brighty](https://github.com/openclaw/skills/tree/main/skills/maay/brighty/SKILL.md) - Banking interface for AI bots and automation. Get a bank account, issue a Mastercard, buy and sell crypto, send payme...
 - [cairn-cli](https://github.com/openclaw/skills/tree/main/skills/gregoryehill/cairn-cli/SKILL.md) - Project management for AI agents using markdown files.
 - [calctl](https://github.com/openclaw/skills/tree/main/skills/rainbat/calctl/SKILL.md) - Manage Apple Calendar events via icalBuddy + AppleScript CLI.
+- [ceaser](https://github.com/openclaw/skills/tree/main/skills/zyra-v21/ceaser/SKILL.md) - Interact with the Ceaser privacy protocol on Base L2 using the ceaser-mcp MCP tools. This skill uses the ceaser-mcp n...
 - [chaos-mind](https://github.com/openclaw/skills/tree/main/skills/hargabyte/chaos-mind/SKILL.md) - Hybrid search memory system for AI agents.
 - [claw-progressive-memory](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - Meta-skill for implementing
 - [claw-roam](https://github.com/openclaw/skills/tree/main/skills/ryanhong666/claw-roam/SKILL.md) - Sync OpenClaw workspace between multiple machines
@@ -25,81 +34,46 @@
 - [context-anchor](https://github.com/openclaw/skills/tree/main/skills/boscoeuk/context-anchor/SKILL.md) - Recover from context compaction by scanning memory files
 - [continuity](https://github.com/openclaw/skills/tree/main/skills/riley-coyote/continuity/SKILL.md) - Asynchronous reflection and memory integration for genuine AI
 - [continuity-framework](https://github.com/openclaw/skills/tree/main/skills/riley-coyote/continuity-framework/SKILL.md) - Asynchronous reflection and memory integration
+- [cortex-memory](https://github.com/openclaw/skills/tree/main/skills/matthewubundi/cortex-memory/SKILL.md) - Long-term structured memory with knowledge graph, entity tracking, temporal reasoning, and cross-session recall. Powe...
 - [craft](https://github.com/openclaw/skills/tree/main/skills/noah-ribaudo/craft/SKILL.md) - Manage Craft notes, documents.
 - [craft-do](https://github.com/openclaw/skills/tree/main/skills/atomtanstudio/craft-do/SKILL.md) - Complete REST API integration for Craft.do - the beautiful
 - [cubox](https://github.com/openclaw/skills/tree/main/skills/liam8/cubox/SKILL.md) - Save web pages and memos to Cubox using the Open API.
+- [daily-memory-save](https://github.com/openclaw/skills/tree/main/skills/meimakes/daily-memory-save/SKILL.md) - Periodically reviews conversation history and writes memory files to maintain agent continuity across sessions. Dual-...
+- [data912](https://github.com/openclaw/skills/tree/main/skills/ferminrp/data912/SKILL.md) - Query Data912 market data endpoints for Argentina and USA instruments. Use when the user asks for MEP/CCL quotes, liv...
+- [dev-chronicle](https://github.com/openclaw/skills/tree/main/skills/sssamuelll/dev-chronicle/SKILL.md) - Generate narrative chronicles of developer work from git history, session transcripts, and memory files. Use when the...
+- [duke-leto-test](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/duke-leto-test/SKILL.md) - Test skill to verify ClawHub publishing works correctly.
 - [elite-longterm-memory](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/elite-longterm-memory/SKILL.md) - Ultimate AI agent memory system.
 - [fabric-api](https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/fabric-api/SKILL.md) - Create/search Fabric resources via HTTP API
+- [failure-memory](https://github.com/openclaw/skills/tree/main/skills/leegitw/failure-memory/SKILL.md) - Stop making the same mistakes — turn failures into patterns that prevent recurrence
 - [feishu-memory-recall](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-memory-recall/SKILL.md) - This skill allows the agent to recover "lost"
+- [finance-skill](https://github.com/openclaw/skills/tree/main/skills/safaiyeh/finance-skill/SKILL.md) - Personal finance memory layer. Parse statements, store transactions, query spending.
+- [fints-banking](https://github.com/openclaw/skills/tree/main/skills/h4gen/fints-banking/SKILL.md) - Support for German personal online banking following FinTS banking standard. Out of the box support for many german b...
 - [fizzy-cli](https://github.com/openclaw/skills/tree/main/skills/tobiasbischoff/fizzy-cli/SKILL.md) - Use the fizzy-cli tool to authenticate and manage Fizzy kanban
 - [flomo-notes](https://github.com/openclaw/skills/tree/main/skills/xiaoluoboding/flomo-notes/SKILL.md) - Save notes to Flomo via the Flomo inbox webhook.
 - [fsxmemory](https://github.com/openclaw/skills/tree/main/skills/azrijamil/fsxmemory/SKILL.md) - Structured memory system for AI agents.
-- [gdocs-markdown](https://github.com/openclaw/skills/tree/main/skills/techlaai/gdocs-markdown/SKILL.md) - Create Google Docs from Markdown files.
-- [gkeep](https://github.com/openclaw/skills/tree/main/skills/vacinc/gkeep/SKILL.md) - Google Keep notes via gkeepapi.
-- [granola](https://github.com/openclaw/skills/tree/main/skills/mvanhorn/granola-notes/SKILL.md) - Access Granola AI meeting notes - CSV import, shared note fetching
-- [hn-digest](https://github.com/openclaw/skills/tree/main/skills/cpojer/hn-digest/SKILL.md) - Fetch and send Hacker News front-page posts on demand.
-- [instapaper](https://github.com/openclaw/skills/tree/main/skills/vburojevic/instapaper/SKILL.md) - Use when operating the instapaper-cli (ip) tool or troubleshooting
-- [karakeep](https://github.com/openclaw/skills/tree/main/skills/jayphen/karakeep/SKILL.md) - Manage bookmarks and links in a Karakeep instance.
-- [keep](https://github.com/openclaw/skills/tree/main/skills/hughpyle/keep/SKILL.md) - Reflective Memory.
-- [konteks](https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/konteks/SKILL.md) - Connect your OpenClaw agent to your Konteks account (konteks.app)
-- [lancedb-memory](https://github.com/openclaw/skills/tree/main/skills/pntrivedy/lancedb-memory/SKILL.md) - LanceDB integration for long-term memory management.
-- [larksuite-wiki](https://github.com/openclaw/skills/tree/main/skills/ryanhong666/larksuite-wiki/SKILL.md) - Manage and export Lark Suite (Feishu) Wiki/Knowledge Base
-- [last-fm](https://github.com/openclaw/skills/tree/main/skills/keyfrog-21k/last-fm/SKILL.md) - ```markdown
-- [linkding](https://github.com/openclaw/skills/tree/main/skills/jmagar/linkding/SKILL.md) - Manage bookmarks with Linkding.
-- [markdown-to-social](https://github.com/openclaw/skills/tree/main/skills/hugosbl/markdown-to-social/SKILL.md) - Convert markdown articles/text into platform-optimized
-- [memory-curator](https://github.com/openclaw/skills/tree/main/skills/themiloway/memory-curator/SKILL.md) - Distill verbose daily logs into compact, indexed digests.
-- [memory-pipeline](https://github.com/openclaw/skills/tree/main/skills/joe-rlo/memory-pipeline/SKILL.md) - Complete agent memory + performance system.
-- [miniflux](https://github.com/openclaw/skills/tree/main/skills/shekohex/miniflux/SKILL.md) - Browse, read, and manage Miniflux feed articles.
-- [molt-md](https://github.com/openclaw/skills/tree/main/skills/bndkts) - Collaborative markdown editing for agents and humans.
-- [moltext](https://github.com/openclaw/skills/tree/main/skills/uditakhourii/moltext/SKILL.md) - Compile legacy documentation on internet into agent-native memory
-- [nb](https://github.com/openclaw/skills/tree/main/skills/bjesuiter/nb/SKILL.md) - Manage notes, bookmarks, and notebooks using the nb CLI.
-- [news-summary](https://github.com/openclaw/skills/tree/main/skills/joargp/news-summary/SKILL.md) - This skill should be used when the user asks for news updates, daily
-- [newsletter-digest](https://github.com/openclaw/skills/tree/main/skills/jhillin8/newsletter-digest/SKILL.md) - Summarize newsletters and articles, extract key
-- [Notebook](https://github.com/openclaw/skills/tree/main/skills/thesethrose/notebook/SKILL.md) - Local-first personal knowledge base for tracking ideas, projects
-- [notectl](https://github.com/openclaw/skills/tree/main/skills/rainbat/notectl/SKILL.md) - Manage Apple Notes via AppleScript.
-- [notion](https://github.com/openclaw/skills/tree/main/skills/steipete/notion/SKILL.md) - Notion API for creating and managing pages, databases, and blocks.
-- [notion-api](https://github.com/openclaw/skills/tree/main/skills/timenotspace/notion-api/SKILL.md) - Generic Notion API CLI (Node) for search, querying data sources
-- [obisdian-direct](https://github.com/openclaw/skills/tree/main/skills/ruslanlanket/obisdian-direct/SKILL.md) - Work with Obsidian vaults as a knowledge base.
-- [obsidian](https://github.com/openclaw/skills/tree/main/skills/steipete/obsidian/SKILL.md) - Work with Obsidian vaults (plain Markdown notes) and automate
-- [obsidian-conversation-backup](https://github.com/openclaw/skills/tree/main/skills/laserducktales/obsidian-conversation-backup/SKILL.md) - Automatic conversation
-- [obsidian-daily](https://github.com/openclaw/skills/tree/main/skills/bastos/obsidian-daily/SKILL.md) - Manage Obsidian Daily Notes via obsidian-cli.
-- [omi-me](https://github.com/openclaw/skills/tree/main/skills/caioiscoding/omi-me/SKILL.md) - Complete Omi.me integration for memories, action items (tasks)
-- [onboarding-cro](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/onboarding-cro/SKILL.md) - When the user wants to optimize
-- [ontology](https://github.com/openclaw/skills/tree/main/skills/oswalpalash/ontology/SKILL.md) - Typed knowledge graph for structured agent memory and composable skills.
-- [orf-digest](https://github.com/openclaw/skills/tree/main/skills/cpojer/orf/SKILL.md) - On-demand ORF news digest in German.
-- [para-pkm](https://github.com/openclaw/skills/tree/main/skills/killerapp/para-pkm/SKILL.md) - Manage PARA-based personal knowledge management (PKM) systems
-- [penfield](https://github.com/openclaw/skills/tree/main/skills/dial481/penfield/SKILL.md) - Persistent memory for OpenClaw agents.
-- [people-memories](https://github.com/openclaw/skills/tree/main/skills/charbeld/people-memories/SKILL.md) - Capture short personal notes about people you mention, store
-- [project-tree](https://github.com/openclaw/skills/tree/main/skills/lachlanglasgow/project-tree/SKILL.md) - Generate a visual directory tree of the ~/projects folder
-- [proton-pass](https://github.com/openclaw/skills/tree/main/skills/kakatkarakshay/proton-pass/SKILL.md) - Manage Proton Pass vaults, items
-- [qordinate-structured-memory](https://github.com/openclaw/skills/tree/main/skills/singhcoder) - Durable structured memory
-- [raindrop](https://github.com/openclaw/skills/tree/main/skills/velvet-shark/raindrop/SKILL.md) - Search, list, and manage Raindrop.io bookmarks via CLI.
-- [readeck](https://github.com/openclaw/skills/tree/main/skills/jayphen/readeck/SKILL.md) - Readeck integration for saving and managing articles.
-- [readwise](https://github.com/openclaw/skills/tree/main/skills/refrigerator/readwise/SKILL.md) - Access Readwise highlights and Reader saved articles.
-- [reflect](https://github.com/openclaw/skills/tree/main/skills/sergical/reflect/SKILL.md) - Append to daily notes and create notes in Reflect.
-- [regenerative-intelligence](https://github.com/openclaw/skills/tree/main/skills/otherpowers) - Function: Harm-reducing
-- [resend](https://github.com/openclaw/skills/tree/main/skills/mjrussell/resend/SKILL.md) - Manage received (inbound) emails and attachments via Resend API.
-- [satori](https://github.com/openclaw/skills/tree/main/skills/joelachance/satori/SKILL.md) - Persistent long term memory for for continuity in ai sessions
-- [second-brain](https://github.com/openclaw/skills/tree/main/skills/christinetyip/second-brain/SKILL.md) - Personal knowledge base powered by Ensue for capturing
-- [self-reflection](https://github.com/openclaw/skills/tree/main/skills/hopyky/self-reflection/SKILL.md) - Continuous self-improvement through structured reflection
-- [session-wrap-up](https://github.com/openclaw/skills/tree/main/skills/branexp/session-wrap-up/SKILL.md) - Wrap up a conversation session before starting a new one.
-- [shared-memory](https://github.com/openclaw/skills/tree/main/skills/christinetyip/shared-memory/SKILL.md) - Share memories and state with other users.
-- [shodh-local](https://github.com/openclaw/skills/tree/main/skills/doobidoo/shodh-local/SKILL.md) - Local Shodh-Memory v0.1.74 (offline cognitive memory for AI agents).
-- [skill-from-memory](https://github.com/openclaw/skills/tree/main/skills/zfanmy/skill-from-memory/SKILL.md) - Convert memory, conversation history, or completed tasks
-- [skillcraft](https://github.com/openclaw/skills/tree/main/skills/jmz1/skillcraft/SKILL.md) - Create, design, and package Clawdbot skills.
-- [slipbot](https://github.com/openclaw/skills/tree/main/skills/jrswab/slipbot/SKILL.md) - Used to capture and organize notes, ideas, quotes, and journal entries
-- [smart-memory](https://github.com/openclaw/skills/tree/main/skills/bluepointdigital/smart-memory/SKILL.md) - Context-aware memory for AI agents with dual retrieval
-- [social-memory](https://github.com/openclaw/skills/tree/main/skills/luluf0x/social-memory/SKILL.md) - Track relationships and interactions with other.
-- [sports-ticker](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/sports-ticker/SKILL.md) - Live sports alerts for Soccer, NFL, NBA, NHL, MLB, F1
-- [substack-formatter](https://github.com/openclaw/skills/tree/main/skills/maddiedreese/substack-formatter/SKILL.md) - Transform plain text into Substack article format
-- [thoughtful](https://github.com/openclaw/skills/tree/main/skills/regalstreak/thoughtful/SKILL.md) - Your thoughtful companion for WhatsApp - remembers what matters
-- [twitter-bookmark-sync](https://github.com/openclaw/skills/tree/main/skills/tunaissacoding/twitter-bookmark-sync/SKILL.md) - Automatically ranks your Twitter bookmarks
-- [unibase-membase](https://github.com/openclaw/skills/tree/main/skills/ibitnoah/unibase-membase/SKILL.md) - Manage agent memory with Membase - a decentralized
-- [vector-memory-hack](https://github.com/openclaw/skills/tree/main/skills/mig6671/vector-memory-hack/SKILL.md) - Fast semantic search for AI agent memory files
-- [vektor-continuity](https://github.com/openclaw/skills/tree/main/skills/riley-coyote/vektor-continuity/SKILL.md) - Asynchronous reflection and memory integration
-- [vestige](https://github.com/openclaw/skills/tree/main/skills/belkouche/vestige/SKILL.md) - Cognitive memory system using FSRS-6 spaced repetition.
-- [voice-note-to-midi](https://github.com/openclaw/skills/tree/main/skills/danbennettuk/voice-note-to-midi/SKILL.md) - Convert voice notes, humming, and melodic audio
-- [wikijs](https://github.com/openclaw/skills/tree/main/skills/hopyky/wikijs/SKILL.md) - A complete CLI for managing Wiki.js via the GraphQL API.
-- [wisdom-accountability-coach](https://github.com/openclaw/skills/tree/main/skills/mikecourt/wisdom-accountability-coach/SKILL.md) - Longitudinal memory tracking
-- [x-bookmark-archiver](https://github.com/openclaw/skills/tree/main/skills/iamadig/x-bookmark-archiver/SKILL.md) - Archive your X (Twitter) bookmarks into categorized
-- [zettelkasten](https://github.com/openclaw/skills/tree/main/skills/rainy-cogmet/zettelkasten/SKILL.md) - Zettelkasten - Card box note taking system with AI insights.
+- [guava-memory](https://github.com/openclaw/skills/tree/main/skills/koatora20/guava-memory/SKILL.md) - Structured episodic memory with Q-value scoring. Remember what worked, forget what didn't.
+- [infinite-memory-v2](https://github.com/openclaw/skills/tree/main/skills/mhndayesh/infinite-memory-v2/SKILL.md) - High-precision memory with 100% recall accuracy for long contexts.
+- [innovation-catalyst](https://github.com/openclaw/skills/tree/main/skills/autogame-17/innovation-catalyst/SKILL.md) - Analyzes system state (memory, tools, events) and generates strategic innovation proposals to break evolution stagnat...
+- [intercom-competision](https://github.com/openclaw/skills/tree/main/skills/tracsystems/intercom-competision/SKILL.md) - Vibe competition for Intercom: build a new app on Intercom, publish it on Moltbook, and earn TNK rewards.
+- [json-modifier](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/json-modifier/SKILL.md) - Safely apply structured JSON patches (RFC 6902) to files. Use this skill when you need to update configuration files,...
+- [launchthatbot-convex-backend](https://github.com/openclaw/skills/tree/main/skills/launchthatbot/launchthatbot-convex-backend/SKILL.md) - Store secrets, memory, and daily logs in your Convex backend instead of local files
+- [medium-writer](https://github.com/openclaw/skills/tree/main/skills/devhoangkien/medium-writer/SKILL.md) - Writing and publishing articles for the Medium Partner Program. Creating monetizable articles.
+- [meeting-notes](https://github.com/openclaw/skills/tree/main/skills/user520512/meeting-notes/SKILL.md) - Generate structured meeting minutes from transcripts.
+- [meeting-to-action](https://github.com/openclaw/skills/tree/main/skills/codedao12/meeting-to-action/SKILL.md) - Convert meeting notes or transcripts into clear summaries, decisions, and action items with owners and due dates. Use...
+- [neo-py-memory-optimizer](https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-py-memory-optimizer/SKILL.md) - Automatically analyzes Python code and suggests memory usage optimizations for improved performance
+- [neuroboost-elixir](https://github.com/openclaw/skills/tree/main/skills/weidadong2359/neuroboost-elixir/SKILL.md) - Awakening Protocol v4.1 — Agent Cognitive Upgrade + Self-Evolving System + Perpetual Memory. From metacognitive awake...
+- [nosi](https://github.com/openclaw/skills/tree/main/skills/billhao/nosi/SKILL.md) - Publish content to Nosi and get a shareable URL. Use when the user wants to publish text, markdown, or files to nosi....
+- [nova-letters](https://github.com/openclaw/skills/tree/main/skills/cryptocana/nova-letters/SKILL.md) - Write reflective letters to your future self. Capture what matters across sessions.
+- [personal-love](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-love/SKILL.md) - Acts as the user's relationship and dating assistant in the Love topic. Tracks dating life, relationship notes, advic...
+- [publish-dist](https://github.com/openclaw/skills/tree/main/skills/pepe276/publish-dist/SKILL.md) - slug: mista-sovereign-agent
+- [publish-guard](https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/publish-guard/SKILL.md) - <!-- 🌌 Aoineco-Verified | S-DNA: AOI-2026-0213-SDNA-PG01 -->
+- [qordinate-structured-memory](https://github.com/openclaw/skills/tree/main/skills/singhcoder/qordinate-structured-memory/SKILL.md) - No description available.
+- [quickbooks-online](https://github.com/openclaw/skills/tree/main/skills/paulbudveit/quickbooks-online/SKILL.md) - QuickBooks Online CLI tool. Manage customers, invoices, payments, bills, vendors, accounts, items, expenses, journal ...
+- [rune](https://github.com/openclaw/skills/tree/main/skills/thebobloblaw/rune/SKILL.md) - Self-improving AI memory system with intelligent context injection and adaptive learning
+- [scent-trails](https://github.com/openclaw/skills/tree/main/skills/otherpowers/scent-trails/SKILL.md) - *A stigmergic intelligence primitive for care, memory, and co-existence.*
+- [session-memory](https://github.com/openclaw/skills/tree/main/skills/swaylq/session-memory/SKILL.md) - Persistent memory toolkit for AI agents. Save context, recall insights, track decisions across sessions.
+- [shieldcortex-skill](https://github.com/openclaw/skills/tree/main/skills/jarvis-drakon/shieldcortex-skill/SKILL.md) - Give your AI agent a brain that persists between sessions — and protect it from memory poisoning attacks.
+- [soul-framework](https://github.com/openclaw/skills/tree/main/skills/xhrisfu/soul-framework/SKILL.md) - A blueprint for giving AI agents a consistent, deep, and opinionated personality. Teaches agents to read SOUL.md, mai...
+- [tweet-processor](https://github.com/openclaw/skills/tree/main/skills/caqlayan/tweet-processor/SKILL.md) - Extract and categorize insights from tweet links into structured notes.
+- [upnote](https://github.com/openclaw/skills/tree/main/skills/wemcdonald/upnote/SKILL.md) - Manage UpNote notes and notebooks via x-callback-url automation. Use when a user asks to create notes, open notes, cr...
+- [voice-notes-pro](https://github.com/openclaw/skills/tree/main/skills/toniaczlog/voice-notes-pro/SKILL.md) - Inteligentna transkrypcja i kategoryzacja notatek gosowych z WhatsApp.
