@@ -1193,6 +1193,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [moltbot-best-practices](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/moltbot-best-practices/SKILL.md) - Best practices for AI agents.
 - [moltbot-docker](https://github.com/openclaw/skills/tree/main/skills/mkrdiop/moltbot-docker/SKILL.md) - Enables the bot to manage Docker containers, images, and stacks.
 - [moltbot-ha](https://github.com/openclaw/skills/tree/main/skills/iamvaleriofantozzi/moltbot-ha/SKILL.md) - Control Home Assistant smart home devices, lights, scenes.
+- [moltalyzer](https://github.com/openclaw/skills/tree/main/skills/jcislo/moltalyzer/SKILL.md) - Four AI intelligence feeds for agents via x402 micropayments.
 
 </details>
 
