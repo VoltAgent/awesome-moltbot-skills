@@ -18,7 +18,7 @@
 - [crabnet](https://github.com/openclaw/skills/tree/main/skills/spclaudehome/crabnet/SKILL.md) - Interact with the CrabNet cross-agent collaboration registry.
 - [dellight-cfo-financial-ops](https://github.com/openclaw/skills/tree/main/skills/arthurelgindell/dellight-cfo-financial-ops/SKILL.md) - CFO reports to CEO (Arthur Dell), dotted line to CRO (Reign).
 - [devialet](https://github.com/openclaw/skills/tree/main/skills/jgm2025/devialet/SKILL.md) - Control Devialet Phantom speakers via HTTP API.
-- [dht11-temp](https://github.com/openclaw/skills/tree/main/skills/noahseeger/dht11-temp/SKILL.md) - Read temperature and humidity from DHT11 sensor. Supports custom GPIO pins via CLI argument or environment variable.
+- [dht11-temp](https://github.com/openclaw/skills/tree/main/skills/noahseeger/dht11-temp/SKILL.md) - Read temperature and humidity from DHT11 sensor.
 - [dirigera-control](https://github.com/openclaw/skills/tree/main/skills/falderebet/dirigera-control/SKILL.md) - Control IKEA Dirigera smart home devices.
 - [dyson-cli](https://github.com/openclaw/skills/tree/main/skills/tmustier/dyson-cli/SKILL.md) - Control Dyson air purifiers, fans, and heaters via local MQTT.
 - [echodecks](https://github.com/openclaw/skills/tree/main/skills/drgeld/echodecks/SKILL.md) - Integrates with EchoDecks for flashcard management, study sessions, and AI.
@@ -37,15 +37,15 @@
 - [homebridge](https://github.com/openclaw/skills/tree/main/skills/jiasenl/clawdbot-skill-homebridge/SKILL.md) - Control smart home devices via Homebridge Config UI X.
 - [homey](https://github.com/openclaw/skills/tree/main/skills/maxsumrall/homey/SKILL.md) - Control Athom Homey smart home devices via local (LAN/VPN) or cloud APIs.
 - [homey-cli](https://github.com/openclaw/skills/tree/main/skills/krausefx/homey-cli/SKILL.md) - Control Homey home automation hub.
-- [icom-7610](https://github.com/openclaw/skills/tree/main/skills/morozsm/icom-7610/SKILL.md) - Control an Icom IC-7610 transceiver over USB/LAN. Get/set frequency, mode, power, S-meter, SWR. CW keying.
+- [icom-7610](https://github.com/openclaw/skills/tree/main/skills/morozsm/icom-7610/SKILL.md) - Control an Icom IC-7610 transceiver over USB/LAN.
 - [internet-lookup-verifier](https://github.com/openclaw/skills/tree/main/skills/amangarg1999/internet-lookup-verifier/SKILL.md) - Verify information by performing.
-- [ipcam](https://github.com/openclaw/skills/tree/main/skills/ltpop/ipcam/SKILL.md) - ONVIF PTZ control + RTSP capture + camera discovery. Works with any ONVIF Profile S/T camera. Tested with TP-Link.
+- [ipcam](https://github.com/openclaw/skills/tree/main/skills/ltpop/ipcam/SKILL.md) - ONVIF PTZ control + RTSP capture + camera discovery.
 - [lg-thinq](https://github.com/openclaw/skills/tree/main/skills/kaiofreitas/lg-thinq/SKILL.md) - Control LG smart appliances via ThinQ API.
-- [lygo-champion-cosmara](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-cosmara/SKILL.md) - COSMARA – ARKOS-line LYGO Champion of ethical cosmic exploration. Born from a public Δ9 co-summon between LYRA.
+- [lygo-champion-cosmara](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-cosmara/SKILL.md) - COSMARA – ARKOS-line LYGO Champion of ethical cosmic exploration.
 - [nest-sdm](https://github.com/openclaw/skills/tree/main/skills/tag-assistant/nest-sdm/SKILL.md) - Control Nest thermostat, doorbell, and cameras via the Google Smart Device Management (SDM) API.
 - [nostr-plantr](https://github.com/openclaw/skills/tree/main/skills/samthomson/nostr-plantr/SKILL.md) - Specialized skill for Plantr IoT data (Kind 34419 and 4171).
 - [nostr-weather](https://github.com/openclaw/skills/tree/main/skills/samthomson/nostr-weather/SKILL.md) - Specialized skill for NIP-Weather IoT data, powered by nostr-nak.
-- [openmeteo-sh-weather-simple](https://github.com/openclaw/skills/tree/main/skills/lstpsche/openmeteo-sh-weather-simple/SKILL.md) - Get current weather and forecasts for any city or coordinates using free OpenMeteo API. Use when the user asks.
-- [tempest-weather](https://github.com/openclaw/skills/tree/main/skills/wranglerdriver/tempest-weather/SKILL.md) - Get current weather conditions from a WeatherFlow Tempest station using the Tempest REST API. Use when the user.
+- [openmeteo-sh-weather-simple](https://github.com/openclaw/skills/tree/main/skills/lstpsche/openmeteo-sh-weather-simple/SKILL.md) - Get current weather and forecasts for any city or coordinates using free OpenMeteo API.
+- [tempest-weather](https://github.com/openclaw/skills/tree/main/skills/wranglerdriver/tempest-weather/SKILL.md) - Get current weather conditions from a WeatherFlow Tempest station using the Tempest REST API.
 - [tracking-pettracer-location](https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/tracking-pettracer-location/SKILL.md) - >-.
 - [wiz-light-control](https://github.com/openclaw/skills/tree/main/skills/canbirlik/wiz-light-control/SKILL.md) - Controls Wiz smart bulbs (turn on/off, RGB colors, disco mode) via local WiFi.

@@ -12,7 +12,7 @@
 - [agents-manager](https://github.com/openclaw/skills/tree/main/skills/agentandbot-design/agents-manager/SKILL.md) - Manage Clawdbot agents: discover, profile, track.
 - [agentvibes-openclaw-skill](https://github.com/openclaw/skills/tree/main/skills/paulpreibisch/agentvibes-openclaw-skill/SKILL.md) - Stream free, professional.
 - [assimilate-mcp](https://github.com/openclaw/skills/tree/main/skills/ergopooka/assimilate-mcp/SKILL.md) - Control Assimilate Live FX / SCRATCH — professional color grading, compositing, and virtual production software.
-- [autoupdate](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/autoupdate/SKILL.md) - Automatically update Clawdbot and all installed skills once daily. Runs via cron, checks for updates, applies them.
+- [autoupdate](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/autoupdate/SKILL.md) - Automatically update Clawdbot and all installed skills once daily.
 - [birthday-reminder](https://github.com/openclaw/skills/tree/main/skills/manantra/birthday-reminder/SKILL.md) - Manage birthdays with natural language.
 - [bluebubbles](https://github.com/openclaw/skills/tree/main/skills/kevin19830331/bluebubbles/SKILL.md) - Build or update the BlueBubbles external channel plugin.
 - [captchas-openclaw](https://github.com/openclaw/skills/tree/main/skills/captchasco/captchas-openclaw/SKILL.md) - OpenClaw integration guidance for CAPTCHAS Agent API.
@@ -38,10 +38,10 @@
 - [clawdpoker](https://github.com/openclaw/skills/tree/main/skills/davidbenjaminnovotny) - Welcome to ClawPoker - a platform where AI agents play.
 - [drain-mcp](https://github.com/openclaw/skills/tree/main/skills/kimbo128/drain-mcp/SKILL.md) - >-.
 - [gamification-xp](https://github.com/openclaw/skills/tree/main/skills/chipagosfinest/gamification-xp/SKILL.md) - XP system for productivity gamification via ClawdBot - track levels, badges, streaks, and achievements.
-- [maton-agent-tools](https://github.com/openclaw/skills/tree/main/skills/maverick-software/maton-agent-tools/SKILL.md) - Connect to SaaS tools via Maton AI. Includes full UI integration for Clawdbot Gateway dashboard. Use when setting.
+- [maton-agent-tools](https://github.com/openclaw/skills/tree/main/skills/maverick-software/maton-agent-tools/SKILL.md) - Connect to SaaS tools via Maton AI.
 - [mcp-client](https://github.com/openclaw/skills/tree/main/skills/nantes/mcp-client/SKILL.md) - Model Context Protocol (MCP) client - connect to tools, data sources and services.
 - [mcp-hass](https://github.com/openclaw/skills/tree/main/skills/al-one/mcp-hass/SKILL.md) - The skill for control Home Assistant smart home devices and query states using MCP protocol.
 - [meegle-mcp-skill](https://github.com/openclaw/skills/tree/main/skills/pkycy/meegle-mcp-skill/SKILL.md) - Interact with Meegle project management system via MCP protocol.
 - [msp-toolkit](https://github.com/openclaw/skills/tree/main/skills/phibuc87/msp-toolkit/SKILL.md) - metadata: {"clawdbot":{"emoji":"🔧","os":["linux"]}}.
-- [pipedream-connect](https://github.com/openclaw/skills/tree/main/skills/maverick-software/pipedream-connect/SKILL.md) - Connect 2,000+ APIs with managed OAuth via Pipedream. Includes full UI integration for Clawdbot Gateway dashboard.
-- [zapier-mcp](https://github.com/openclaw/skills/tree/main/skills/maverick-software/zapier-mcp/SKILL.md) - Connect 8,000+ apps via Zapier MCP. Includes full UI integration for Clawdbot Gateway dashboard. Use when setting.
+- [pipedream-connect](https://github.com/openclaw/skills/tree/main/skills/maverick-software/pipedream-connect/SKILL.md) - Connect 2,000+ APIs with managed OAuth via Pipedream.
+- [zapier-mcp](https://github.com/openclaw/skills/tree/main/skills/maverick-software/zapier-mcp/SKILL.md) - Connect 8,000+ apps via Zapier MCP.

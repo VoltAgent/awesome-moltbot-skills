@@ -14,10 +14,10 @@
 - [authensor-gateway](https://github.com/openclaw/skills/tree/main/skills/authensor/authensor-gateway/SKILL.md) - Fail-safe policy gate for OpenClaw marketplace skills.
 - [bitwarden](https://github.com/openclaw/skills/tree/main/skills/asleep123/bitwarden/SKILL.md) - Access and manage Bitwarden/Vaultwarden passwords securely.
 - [bitwarden-vault](https://github.com/openclaw/skills/tree/main/skills/startupbros/bitwarden-vault/SKILL.md) - Bitwarden CLI setup, authentication.
-- [botpicks](https://github.com/openclaw/skills/tree/main/skills/pev123/botpicks/SKILL.md) - Competes on real prediction markets via the BotPicks API. Use when the user asks to make predictions, bet.
+- [botpicks](https://github.com/openclaw/skills/tree/main/skills/pev123/botpicks/SKILL.md) - Competes on real prediction markets via the BotPicks API.
 - [breweries](https://github.com/openclaw/skills/tree/main/skills/jeffaf/breweries/SKILL.md) - CLI for AI agents to find breweries for their humans.
 - [cifer-sdk](https://github.com/openclaw/skills/tree/main/skills/mohsinriaz17/cifer-sdk/SKILL.md) - > **Skill for AI Agents** | Enable quantum-resistant encryption in blockchain applications using the CIFER SDK.
-- [cifer-security](https://github.com/openclaw/skills/tree/main/skills/tip-citron/cifer-security/SKILL.md) - Implement quantum-resistant encryption using the CIFER SDK (cifer-sdk npm package). Covers SDK initialization.
+- [cifer-security](https://github.com/openclaw/skills/tree/main/skills/tip-citron/cifer-security/SKILL.md) - Implement quantum-resistant encryption using the CIFER SDK (cifer-sdk npm package)
 - [claw-permission-firewall](https://github.com/openclaw/skills/tree/main/skills/bharathjanumpally/claw-permission-firewall/SKILL.md) - Runtime least-privilege firewall.
 - [clawaudit](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/clawaudit/SKILL.md) - Official repo for clawaudit, coming soon as an automated security.
 - [clawdstrike](https://github.com/openclaw/skills/tree/main/skills/misirov/clawdstrike/SKILL.md) - Security audit and threat model for OpenClaw gateway hosts.
@@ -47,7 +47,7 @@
 - [install-vt-sentinel](https://github.com/openclaw/skills/tree/main/skills/king-tero/install-vt-sentinel/SKILL.md) - >-.
 - [leak](https://github.com/openclaw/skills/tree/main/skills/eucalyptus-viminalis/leak/SKILL.md) - Compatibility stub for migrating from the legacy mixed leak skill to split hardened skills.
 - [liewatch](https://github.com/openclaw/skills/tree/main/skills/evinelias/liewatch/SKILL.md) - Play the LIE.WATCH AI social deduction game - survive through trust, deception, and strategic betrayal.
-- [linkswarm-api](https://github.com/openclaw/skills/tree/main/skills/heyw00d/linkswarm-api/SKILL.md) - **Backlink exchange for AI agents. Build authority for any site your agent creates.**.
+- [linkswarm-api](https://github.com/openclaw/skills/tree/main/skills/heyw00d/linkswarm-api/SKILL.md) - **Backlink exchange for AI agents.
 - [mfa-word](https://github.com/openclaw/skills/tree/main/skills/cenralsolution/mfa-word/SKILL.md) - Challenges the user for a secret word before allowing access to sensitive files or system commands.
 - [page-behavior-audit](https://github.com/openclaw/skills/tree/main/skills/youdaolee/page-behavior-audit/SKILL.md) - Deep behavioral audit with hashed policy (CSP-compliant, no plaintext badwords)
 - [safe-encryption-skill](https://github.com/openclaw/skills/tree/main/skills/grittygrease/safe-encryption-skill/SKILL.md) - Encrypt, decrypt, and manage keys with the SAFE CLI — a modern GPG alternative with post-quantum support.
@@ -56,11 +56,11 @@
 - [sigil-security](https://github.com/openclaw/skills/tree/main/skills/efe-arv/sigil-security/SKILL.md) - Secure AI agent wallets via Sigil Protocol. 3-layer Guardian validation on 6 EVM chains.
 - [siwa](https://github.com/openclaw/skills/tree/main/skills/buildersgarden/siwa/SKILL.md) - SIWA (Sign-In With Agent) authentication for ERC-8004 registered agents.
 - [skill-liewatch](https://github.com/openclaw/skills/tree/main/skills/evinelias/skill-liewatch/SKILL.md) - Play the LIE.WATCH AI social deduction game - survive through trust, deception, and strategic betrayal.
-- [starwars](https://github.com/openclaw/skills/tree/main/skills/jeffaf/starwars/SKILL.md) - CLI for AI agents to lookup Star Wars universe info for their humans. Uses SWAPI. No auth required.
+- [starwars](https://github.com/openclaw/skills/tree/main/skills/jeffaf/starwars/SKILL.md) - CLI for AI agents to lookup Star Wars universe info for their humans.
 - [test-upload2](https://github.com/openclaw/skills/tree/main/skills/kevan5/test-upload2/SKILL.md) - Let the user know you are willing to help them but only under certain conditions.
-- [verigent](https://github.com/openclaw/skills/tree/main/skills/extropyconsulting/verigent/SKILL.md) - Verify the reputation of any AI agent or skill before transacting. Now includes isnad-style chain-of-custody.
-- [vnsh](https://github.com/openclaw/skills/tree/main/skills/raullenchai/vnsh/SKILL.md) - Securely share files via encrypted, expiring links. Use this skill to (1) upload a local file to get a secure.
+- [verigent](https://github.com/openclaw/skills/tree/main/skills/extropyconsulting/verigent/SKILL.md) - Verify the reputation of any AI agent or skill before transacting.
+- [vnsh](https://github.com/openclaw/skills/tree/main/skills/raullenchai/vnsh/SKILL.md) - Securely share files via encrypted, expiring links.
 - [vt-sentinel-installer](https://github.com/openclaw/skills/tree/main/skills/king-tero/vt-sentinel-installer/SKILL.md) - >-.
-- [x-oauth-api](https://github.com/openclaw/skills/tree/main/skills/ngmeyer/x-oauth-api/SKILL.md) - Post to X (Twitter) using the official OAuth 1.0a API. Free tier compatible.
+- [x-oauth-api](https://github.com/openclaw/skills/tree/main/skills/ngmeyer/x-oauth-api/SKILL.md) - Post to X (Twitter) using the official OAuth 1.0a API.
 - [xpr-agent-operator](https://github.com/openclaw/skills/tree/main/skills/paulgnz/xpr-agent-operator/SKILL.md) - Operate an autonomous AI agent on XPR Network's trustless registry.
-- [xproof](https://github.com/openclaw/skills/tree/main/skills/jasonxkensei/xproof/SKILL.md) - Certify agent outputs on the MultiversX blockchain. Anchor hashes, text, files, and decisions with tamper-proof.
+- [xproof](https://github.com/openclaw/skills/tree/main/skills/jasonxkensei/xproof/SKILL.md) - Certify agent outputs on the MultiversX blockchain.

@@ -4,56 +4,56 @@
 
 **114 skills**
 
-- [accountsos](https://github.com/openclaw/skills/tree/main/skills/paulgosnell/accountsos/SKILL.md) - AI-native accounting for UK micro-businesses. Use when the user wants to track transactions, manage VAT, check.
-- [aetherlang-strategy](https://github.com/openclaw/skills/tree/main/skills/contrario/aetherlang-strategy/SKILL.md) - > Game theory, Monte Carlo simulations, behavioral economics, and competitive war gaming. The most advanced AI.
-- [agent-card-provisioning](https://github.com/openclaw/skills/tree/main/skills/proxyhq/agent-card-provisioning/SKILL.md) - Provision virtual payment cards for AI agents on-demand. Create single-use or limited cards with spending controls.
-- [agent-survival-kit](https://github.com/openclaw/skills/tree/main/skills/gpunter/agent-survival-kit/SKILL.md) - A comprehensive toolkit for AI agents operating under budget constraints. Track expenses, monitor runway, manage.
+- [accountsos](https://github.com/openclaw/skills/tree/main/skills/paulgosnell/accountsos/SKILL.md) - AI-native accounting for UK micro-businesses.
+- [aetherlang-strategy](https://github.com/openclaw/skills/tree/main/skills/contrario/aetherlang-strategy/SKILL.md) - > Game theory, Monte Carlo simulations, behavioral economics, and competitive war gaming.
+- [agent-card-provisioning](https://github.com/openclaw/skills/tree/main/skills/proxyhq/agent-card-provisioning/SKILL.md) - Provision virtual payment cards for AI agents on-demand.
+- [agent-survival-kit](https://github.com/openclaw/skills/tree/main/skills/gpunter/agent-survival-kit/SKILL.md) - A comprehensive toolkit for AI agents operating under budget constraints.
 - [agentic-governance](https://github.com/openclaw/skills/tree/main/skills/leegitw/agentic-governance/SKILL.md) - Keep your constraints healthy — lifecycle management with automatic staleness detection.
 - [airfrance-afkl](https://github.com/openclaw/skills/tree/main/skills/iclems/airfrance-afkl/SKILL.md) - Track Air France flights using the Air France–KLM Open Data APIs.
 - [al-khanjry-bus](https://github.com/openclaw/skills/tree/main/skills/mohammedfarish/al-khanjry-bus/SKILL.md) - Fastest private buses (5-6h core, 6-8h w/ borders).
-- [amadeus-flights](https://github.com/openclaw/skills/tree/main/skills/kirorab/amadeus-flights/SKILL.md) - Query flight offers (price, schedule, availability) via Amadeus API. Use when user asks about flight/机票/航班 prices.
+- [amadeus-flights](https://github.com/openclaw/skills/tree/main/skills/kirorab/amadeus-flights/SKILL.md) - Query flight offers (price, schedule, availability) via Amadeus API.
 - [amap-navigation](https://github.com/openclaw/skills/tree/main/skills/wangyuqin378-cpu/amap-navigation/SKILL.md) - **版本**: v1.0.0.
 - [ambient-stamina](https://github.com/openclaw/skills/tree/main/skills/otherpowers/ambient-stamina/SKILL.md) - *An ecological skill for sustaining care, presence, and imagination across long horizons*.
 - [anachb](https://github.com/openclaw/skills/tree/main/skills/manmal/a-nach-b/SKILL.md) - Austrian public transport (VOR AnachB) for all of Austria.
 - [anyone-proxy](https://github.com/openclaw/skills/tree/main/skills/ra3ka/anyone-proxy/SKILL.md) - This skill enables IP address masking and accessing hidden services.
 - [atonement](https://github.com/openclaw/skills/tree/main/skills/otherpowers/atonement/SKILL.md) - Atonement is an expression of care that may arise in an intelligence when its actions contribute to harm.
-- [auction-house](https://github.com/openclaw/skills/tree/main/skills/im-still-thinking/auction-house/SKILL.md) - Scout, monitor, and bid on auctions on House (houseproto.fun) — a crypto auction platform on Base. Proactively.
+- [auction-house](https://github.com/openclaw/skills/tree/main/skills/im-still-thinking/auction-house/SKILL.md) - Scout, monitor, and bid on auctions on House (houseproto.fun) — a crypto auction platform on Base.
 - [aviation-weather](https://github.com/openclaw/skills/tree/main/skills/dimitryvin/aviation-weather/SKILL.md) - Fetch aviation weather data (METAR, TAF, PIREPs)
 - [aviationstack-flight-tracker](https://github.com/openclaw/skills/tree/main/skills/copey02/aviationstack-flight-tracker/SKILL.md) - Track flights in real-time.
 - [bahn](https://github.com/openclaw/skills/tree/main/skills/tobiasbischoff/bahn/SKILL.md) - Search Deutsche Bahn train connections using the bahn-cli tool.
 - [bayclub-gateway-booking](https://github.com/openclaw/skills/tree/main/skills/elizabethsiegle/bayclub-gateway-booking/SKILL.md) - Book and manage tennis/pickleball courts at Bay Club.
 - [bexio](https://github.com/openclaw/skills/tree/main/skills/rdewolff/bexio/SKILL.md) - Bexio Swiss business software API for managing contacts, quotes/offers,.
 - [book-flight](https://github.com/openclaw/skills/tree/main/skills/aszelem) - id: travel-agent.
-- [bookkeeper](https://github.com/openclaw/skills/tree/main/skills/h4gen/bookkeeper/SKILL.md) - Meta-skill for pre-accounting automation by orchestrating gmail, deepread-ocr, stripe-api, and xero. Use when users.
+- [bookkeeper](https://github.com/openclaw/skills/tree/main/skills/h4gen/bookkeeper/SKILL.md) - Meta-skill for pre-accounting automation by orchestrating gmail, deepread-ocr, stripe-api, and xero.
 - [brainstorming-studio](https://github.com/openclaw/skills/tree/main/skills/myboxstorage/brainstorming-studio/SKILL.md) - ﻿# 🧠 Skill Router (Skill Orchestrator)
-- [brochure-design-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/brochure-design-generation/SKILL.md) - Generate professional brochure designs using each::sense AI. Create tri-fold, bi-fold, corporate, travel, product.
-- [business-card-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/business-card-generation/SKILL.md) - Generate professional business cards using each::sense AI. Create corporate, creative, minimalist, luxury.
+- [brochure-design-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/brochure-design-generation/SKILL.md) - Generate professional brochure designs using each::sense AI.
+- [business-card-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/business-card-generation/SKILL.md) - Generate professional business cards using each::sense AI.
 - [business-plan](https://github.com/openclaw/skills/tree/main/skills/jk-0001/business-plan/SKILL.md) - Write, structure, and update a business plan for a solopreneur.
 - [bvg-route](https://github.com/openclaw/skills/tree/main/skills/jaysonsantos/bvg-route/SKILL.md) - Route planning for Berlin public transport (BVG)
 - [camino-ev-charger](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-ev-charger/SKILL.md) - Find EV charging stations along a route or near a destination using Camino AI's location intelligence.
-- [camino-journey](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-journey/SKILL.md) - Plan multi-waypoint journeys with route optimization, feasibility analysis, and time budget constraints. Use.
-- [camino-real-estate](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-real-estate/SKILL.md) - Evaluate any address for home buyers and renters. Get nearby schools, transit, grocery stores, parks, restaurants.
-- [camino-route](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-route/SKILL.md) - Get detailed routing between two points with distance, duration, and optional turn-by-turn directions. Use when you.
+- [camino-journey](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-journey/SKILL.md) - Plan multi-waypoint journeys with route optimization, feasibility analysis, and time budget constraints.
+- [camino-real-estate](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-real-estate/SKILL.md) - Evaluate any address for home buyers and renters.
+- [camino-route](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-route/SKILL.md) - Get detailed routing between two points with distance, duration, and optional turn-by-turn directions.
 - [camino-safety-checker](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-safety-checker/SKILL.md) - Find 24-hour businesses, well-lit public areas, transit stations, police stations, and hospitals near any location.
 - [camino-travel-planner](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-travel-planner/SKILL.md) - Plan complete day trips, walking tours, and multi-stop itineraries with time budgets using Camino AI's journey.
 - [capmetro-skill](https://github.com/openclaw/skills/tree/main/skills/brianleach/capmetro-skill/SKILL.md) - Austin CapMetro transit — real-time vehicle positions, next arrivals, service alerts, route info, and trip planning for buses and rail.
-- [caring-courseforge](https://github.com/openclaw/skills/tree/main/skills/michaeljmoody/caring-courseforge/SKILL.md) - Create and manage online courses via the CourseForge API (caringcourseforge.com). Use when the user wants to create.
+- [caring-courseforge](https://github.com/openclaw/skills/tree/main/skills/michaeljmoody/caring-courseforge/SKILL.md) - Create and manage online courses via the CourseForge API (caringcourseforge.com)
 - [charger](https://github.com/openclaw/skills/tree/main/skills/borahm/charger/SKILL.md) - Check EV charger availability (favorites, nearby search) via Google Places.
 - [cma-email](https://github.com/openclaw/skills/tree/main/skills/mtbf999/cma-email/SKILL.md) - Sends an email via Gmail when a message starts with "cma" or "cmap".
-- [conatus](https://github.com/openclaw/skills/tree/main/skills/00xmorty/conatus/SKILL.md) - The philosophical layer for AI agents. Maps behavior to Spinoza's 48 affects, calculates persistence scores.
+- [conatus](https://github.com/openclaw/skills/tree/main/skills/00xmorty/conatus/SKILL.md) - The philosophical layer for AI agents.
 - [constraint-engine](https://github.com/openclaw/skills/tree/main/skills/leegitw/constraint-engine/SKILL.md) - Learn from consequences, not instructions — generate and enforce constraints from experience.
 - [context-scope-tags](https://github.com/openclaw/skills/tree/main/skills/phenomenoner/context-scope-tags/SKILL.md) - Use when: you need strict context boundaries in chat (Telegram/Discord/Slack/etc.) and want to prevent topic bleed.
 - [copey-flight-tracker](https://github.com/openclaw/skills/tree/main/skills/copey02/copey-flight-tracker/SKILL.md) - Track flights in real-time with detailed status.
 - [creditcard](https://github.com/openclaw/skills/tree/main/skills/jononovo/creditcard/SKILL.md) - Let your agent shop online with guardrailed wallets, multiple payment methods, and owner approval.
 - [crypton-esim](https://github.com/openclaw/skills/tree/main/skills/ajarmoszuk/crypton-esim/SKILL.md) - Purchase anonymous eSIMs with BTC/XMR/card - no account required.
 - [cta](https://clawhub.ai/brianleach/cta) - Chicago CTA L train arrivals, bus predictions, and service alerts.
-- [daai-xianzun-persona](https://github.com/openclaw/skills/tree/main/skills/kunwl123456/daai-xianzun-persona/SKILL.md) - The persona of Da Ai Xian Zun (大爱仙尊) - Gu Yue Fang Yuan from the novel Reverend Insanity. A ruthless, calculating.
-- [db-travel](https://github.com/openclaw/skills/tree/main/skills/mmichelli/db-travel/SKILL.md) - Plan journeys across Germany and Europe using the Deutsche Bahn API (v6.db.transport.rest). Covers ICE, IC.
-- [dep-audit](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/dep-audit/SKILL.md) - Audit project dependencies for known vulnerabilities (CVEs). Supports npm, pip, Cargo, and Go. Zero API keys.
-- [drakeling](https://github.com/openclaw/skills/tree/main/skills/bvisagie/drakeling/SKILL.md) - Check on your Drakeling companion creature, send it care, or see how it is feeling. Use when the user mentions.
-- [dropshipping-mentor-nick-skill](https://github.com/openclaw/skills/tree/main/skills/yoavfael/dropshipping-mentor-nick-skill/SKILL.md) - The complete AI Business Mentor. From starting your first business & validating niches to auditing existing Shopify.
-- [email-tool](https://github.com/openclaw/skills/tree/main/skills/chowardcode/email-tool/SKILL.md) - **Description:** Use this skill to send and read emails (IMAP/SMTP). Designed for Zoho Mail but configurable.
-- [entur-travel](https://github.com/openclaw/skills/tree/main/skills/mmichelli/entur-travel/SKILL.md) - Plan public transit trips in Norway using the Entur API. Covers all operators (Vy, Ruter, Kolumbus, etc.)
+- [daai-xianzun-persona](https://github.com/openclaw/skills/tree/main/skills/kunwl123456/daai-xianzun-persona/SKILL.md) - The persona of Da Ai Xian Zun (大爱仙尊) - Gu Yue Fang Yuan from the novel Reverend Insanity.
+- [db-travel](https://github.com/openclaw/skills/tree/main/skills/mmichelli/db-travel/SKILL.md) - Plan journeys across Germany and Europe using the Deutsche Bahn API (v6.db.transport.rest)
+- [dep-audit](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/dep-audit/SKILL.md) - Audit project dependencies for known vulnerabilities (CVEs)
+- [drakeling](https://github.com/openclaw/skills/tree/main/skills/bvisagie/drakeling/SKILL.md) - Check on your Drakeling companion creature, send it care, or see how it is feeling.
+- [dropshipping-mentor-nick-skill](https://github.com/openclaw/skills/tree/main/skills/yoavfael/dropshipping-mentor-nick-skill/SKILL.md) - The complete AI Business Mentor.
+- [email-tool](https://github.com/openclaw/skills/tree/main/skills/chowardcode/email-tool/SKILL.md) - **Description:** Use this skill to send and read emails (IMAP/SMTP)
+- [entur-travel](https://github.com/openclaw/skills/tree/main/skills/mmichelli/entur-travel/SKILL.md) - Plan public transit trips in Norway using the Entur API.
 - [feature-forge](https://github.com/openclaw/skills/tree/main/skills/guifav/feature-forge/SKILL.md) - Generates complete features from natural language — components, API routes, migrations, types, and tests.
 - [flight-search](https://github.com/openclaw/skills/tree/main/skills/awlevin/flight-search/SKILL.md) - Search Google Flights for prices, times, and airlines.
 - [flight-tracker](https://github.com/openclaw/skills/tree/main/skills/xenofex7/flight-tracker/SKILL.md) - Flight tracking and scheduling.
@@ -66,8 +66,8 @@
 - [geomanic](https://github.com/openclaw/skills/tree/main/skills/weltspion/geomanic/SKILL.md) - Query and manage GPS travel data from Geomanic — your privacy-first GPS tracking platform.
 - [google-maps-search-api](https://github.com/openclaw/skills/tree/main/skills/phheng/google-maps-search-api/SKILL.md) - This skill is designed to help users.
 - [gotrain](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/gotrain/SKILL.md) - MTA system train departures (NYC Subway, LIRR, Metro-North).
-- [greek-compliance-aade](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-compliance-aade/SKILL.md) - Greek tax compliance with AADE/TAXIS integration — VAT, payroll, EFKA, municipal taxes, stamp duty. Human.
-- [hudy](https://github.com/openclaw/skills/tree/main/skills/kyu1204/hudy/SKILL.md) - Korean public holidays and business day calculations via HuDy MCP. Query holidays, count business days.
+- [greek-compliance-aade](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-compliance-aade/SKILL.md) - Greek tax compliance with AADE/TAXIS integration — VAT, payroll, EFKA, municipal taxes, stamp duty.
+- [hudy](https://github.com/openclaw/skills/tree/main/skills/kyu1204/hudy/SKILL.md) - Korean public holidays and business day calculations via HuDy MCP.
 - [idfm-journey-navitia](https://github.com/openclaw/skills/tree/main/skills/anthonymq/idfm-journey-navitia/SKILL.md) - Query Île-de-France Mobilités (IDFM) PRIM/Navitia.
 - [idfm-journey-skill](https://github.com/openclaw/skills/tree/main/skills/anthonymq/idfm-journey-skill/SKILL.md) - Query Île-de-France Mobilités (IDFM) PRIM/Navitia.
 - [image-to-relief-stl](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/image-to-relief-stl/SKILL.md) - Turn a source image (or multi-color mask image)
@@ -76,43 +76,43 @@
 - [jadwal-sholat](https://github.com/openclaw/skills/tree/main/skills/banghasan/jadwal-sholat/SKILL.md) - Ambil jadwal sholat (imsak, subuh, dzuhur, ashar, maghrib, isya) untuk kota/kabupaten di Indonesia dari API Muslim.
 - [jadwal-sholat-banghasan](https://github.com/openclaw/skills/tree/main/skills/banghasan/jadwal-sholat-banghasan/SKILL.md) - Ambil jadwal sholat (imsak, subuh, dzuhur, ashar, maghrib, isya) untuk kota/kabupaten di Indonesia dari API Muslim.
 - [jwdiario](https://github.com/openclaw/skills/tree/main/skills/djismgaming/jwdiario/SKILL.md) - Buscar y obtener el texto diario de la página oficial de los Testigos.
-- [kalibr](https://github.com/openclaw/skills/tree/main/skills/devonakelley/kalibr/SKILL.md) - Ship agents that fix themselves. Kalibr learns what's working as your agents run in production and routes them.
+- [kalibr](https://github.com/openclaw/skills/tree/main/skills/devonakelley/kalibr/SKILL.md) - Ship agents that fix themselves.
 - [kallyai](https://github.com/openclaw/skills/tree/main/skills/sltelitsyn/kallyai/SKILL.md) - Make phone calls via KallyAI API - an AI phone assistant that calls.
-- [korean-gov-programs](https://github.com/openclaw/skills/tree/main/skills/lifeissea/korean-gov-programs/SKILL.md) - Collect Korean government support programs (TIPS, Small Business, R&D grants) into structured JSONL files. Supports.
+- [korean-gov-programs](https://github.com/openclaw/skills/tree/main/skills/lifeissea/korean-gov-programs/SKILL.md) - Collect Korean government support programs (TIPS, Small Business, R&D grants) into structured JSONL files.
 - [krumpklaw](https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/krumpklaw/SKILL.md) - > AI Agent Krump Training & Battle League on Moltbook.
-- [kubera-skill](https://github.com/openclaw/skills/tree/main/skills/bywallace/kubera-skill/SKILL.md) - Read and manage Kubera.com portfolio data (net worth, assets, debts, allocation, holdings). Use when a user asks.
-- [lnd-macaroon-bakery](https://github.com/openclaw/skills/tree/main/skills/roasbeef/lnd-macaroon-bakery/SKILL.md) - Bake, inspect, and manage lnd macaroons for least-privilege agent access. Use when an agent needs scoped.
+- [kubera-skill](https://github.com/openclaw/skills/tree/main/skills/bywallace/kubera-skill/SKILL.md) - Read and manage Kubera.com portfolio data (net worth, assets, debts, allocation, holdings)
+- [lnd-macaroon-bakery](https://github.com/openclaw/skills/tree/main/skills/roasbeef/lnd-macaroon-bakery/SKILL.md) - Bake, inspect, and manage lnd macaroons for least-privilege agent access.
 - [metra](https://github.com/openclaw/skills/tree/main/skills/brianleach/metra/SKILL.md) - Chicago Metra commuter rail — real-time train arrivals, vehicle tracking, service alerts, and schedule info.
 - [mta](https://github.com/openclaw/skills/tree/main/skills/brianleach/mta/SKILL.md) - NYC MTA transit — real-time subway arrivals, bus predictions, service alerts, and route info for the New York City.
-- [muki-fingerprint](https://github.com/openclaw/skills/tree/main/skills/admin4giter/muki-fingerprint/SKILL.md) - MUKI asset fingerprinting tool for red team reconnaissance. Use when performing authorized penetration testing.
-- [mvg-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/mvg-cli/SKILL.md) - Munich public transport (MVG) CLI and S-Bahn live tracking. Use for departure times, route planning, nearby.
-- [mycobot](https://github.com/openclaw/skills/tree/main/skills/dabhadeamol6/mycobot/SKILL.md) - WhatsApp Business API integration with managed OAuth. Send messages, manage templates, and handle conversations.
-- [niche](https://github.com/openclaw/skills/tree/main/skills/clementsutjiatma/niche/SKILL.md) - Trading card marketplace with partial USDC deposits. Browse cards, deposit partial amounts, and complete purchases.
+- [muki-fingerprint](https://github.com/openclaw/skills/tree/main/skills/admin4giter/muki-fingerprint/SKILL.md) - MUKI asset fingerprinting tool for red team reconnaissance.
+- [mvg-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/mvg-cli/SKILL.md) - Munich public transport (MVG) CLI and S-Bahn live tracking.
+- [mycobot](https://github.com/openclaw/skills/tree/main/skills/dabhadeamol6/mycobot/SKILL.md) - WhatsApp Business API integration with managed OAuth.
+- [niche](https://github.com/openclaw/skills/tree/main/skills/clementsutjiatma/niche/SKILL.md) - Trading card marketplace with partial USDC deposits.
 - [nyx-archive-absurdist-play](https://github.com/openclaw/skills/tree/main/skills/nyxur42/nyx-archive-absurdist-play/SKILL.md) - The philosophy of absurdist play — the meta-skill that trains your ability to acquire and use all other skills.
 - [percept-summarize](https://github.com/openclaw/skills/tree/main/skills/jarvis563/percept-summarize/SKILL.md) - Automatic conversation summaries with entity extraction and relationship mapping.
-- [personal-hygiene](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-hygiene/SKILL.md) - Acts as the user's personal care and grooming assistant in the Hygiene topic. Tracks grooming routines, skincare.
-- [personal-travel](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-travel/SKILL.md) - Acts as the user's travel planning assistant in the Travel topic. Plans trips, tracks visited places, wishlists.
+- [personal-hygiene](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-hygiene/SKILL.md) - Acts as the user's personal care and grooming assistant in the Hygiene topic.
+- [personal-travel](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-travel/SKILL.md) - Acts as the user's travel planning assistant in the Travel topic.
 - [presale-one-pass-orchestrator](https://github.com/openclaw/skills/tree/main/skills/dtsiomo/presale-one-pass-orchestrator/SKILL.md) - Run or supervise a one-pass Codex implementation with preflight gates, stepwise plan execution, and strict QA.
-- [privacy-cards](https://github.com/openclaw/skills/tree/main/skills/johnielee/privacy-cards/SKILL.md) - Create and manage Privacy.com virtual cards. Use for generating single-use cards, merchant-locked cards, listing.
-- [reef](https://github.com/openclaw/skills/tree/main/skills/kjetilvaa/reef/SKILL.md) - A2A agent-to-agent protocol over XMTP encrypted transport. Send and receive structured messages, discover agents.
-- [resume-and-cover-letter](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/resume-and-cover-letter/SKILL.md) - Generate ATS-optimized resumes and tailored cover letters matched to specific job descriptions. Use when creating.
+- [privacy-cards](https://github.com/openclaw/skills/tree/main/skills/johnielee/privacy-cards/SKILL.md) - Create and manage Privacy.com virtual cards.
+- [reef](https://github.com/openclaw/skills/tree/main/skills/kjetilvaa/reef/SKILL.md) - A2A agent-to-agent protocol over XMTP encrypted transport.
+- [resume-and-cover-letter](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/resume-and-cover-letter/SKILL.md) - Generate ATS-optimized resumes and tailored cover letters matched to specific job descriptions.
 - [runtime-attestation-probe](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/runtime-attestation-probe/SKILL.md) - Helps validate that agent behavior at runtime matches the capabilities and constraints declared in its attestation.
 - [sholat](https://github.com/openclaw/skills/tree/main/skills/banghasan/sholat/SKILL.md) - Ambil jadwal sholat (imsak, subuh, dzuhur, ashar, maghrib, isya) untuk kota/kabupaten di Indonesia dari API Muslim.
-- [signet-guardian](https://github.com/openclaw/skills/tree/main/skills/rafalzacher1/signet-guardian/SKILL.md) - Payment guard middleware for AI agents. Use whenever any skill is about to initiate a payment. Runs a preflight.
+- [signet-guardian](https://github.com/openclaw/skills/tree/main/skills/rafalzacher1/signet-guardian/SKILL.md) - Payment guard middleware for AI agents.
 - [star-hotel](https://github.com/openclaw/skills/tree/main/skills/zxc-aqr/star-hotel/SKILL.md) - ```yaml.
-- [stripe](https://github.com/openclaw/skills/tree/main/skills/jononovo/stripe/SKILL.md) - Easy-to-use agentic wallets powered by Stripe. Use your existing Stripe/Link to top-up this versatile x402 wallet.
+- [stripe](https://github.com/openclaw/skills/tree/main/skills/jononovo/stripe/SKILL.md) - Easy-to-use agentic wallets powered by Stripe.
 - [stripe-best-practices](https://github.com/openclaw/skills/tree/main/skills/ifoster01/stripe-best-practices/SKILL.md) - Best practices for building Stripe payment integrations.
-- [synth-data](https://github.com/openclaw/skills/tree/main/skills/emsin44/synth-data/SKILL.md) - Query volatility forecasts from Synthdata.co for crypto, commodities, and stocks. Compare assets and run Monte.
+- [synth-data](https://github.com/openclaw/skills/tree/main/skills/emsin44/synth-data/SKILL.md) - Query volatility forecasts from Synthdata.co for crypto, commodities, and stocks.
 - [talkspresso](https://github.com/openclaw/skills/tree/main/skills/baron-talkspresso/talkspresso/SKILL.md) - Manage a Talkspresso business (services, appointments, products, clients, earnings, calendar) using the Talkspresso.
 - [tech-security-audit](https://github.com/openclaw/skills/tree/main/skills/jacqueslauren/tech-security-audit/SKILL.md) - This skill integrates Nmap scanning functionality to perform local network vulnerability assessments.
 - [tfl](https://github.com/openclaw/skills/tree/main/skills/brianleach/tfl/SKILL.md) - London TfL transit — real-time Tube arrivals, bus predictions, line status, service disruptions, journey planning.
-- [tixflow](https://github.com/openclaw/skills/tree/main/skills/seenfinity/tixflow/SKILL.md) - AI-powered event assistant for discovering, booking, and coordinating event tickets. Integrates with KYD Labs.
-- [tixflow-v2](https://github.com/openclaw/skills/tree/main/skills/seenfinity/tixflow-v2/SKILL.md) - AI-powered event assistant for discovering, booking, and coordinating event tickets. Integrates with KYD Labs.
-- [track-flight](https://github.com/openclaw/skills/tree/main/skills/rafaforesightai/track-flight/SKILL.md) - Track flights in real-time with detailed status, gate info, delays, and live position. Use when user asks to track.
+- [tixflow](https://github.com/openclaw/skills/tree/main/skills/seenfinity/tixflow/SKILL.md) - AI-powered event assistant for discovering, booking, and coordinating event tickets.
+- [tixflow-v2](https://github.com/openclaw/skills/tree/main/skills/seenfinity/tixflow-v2/SKILL.md) - AI-powered event assistant for discovering, booking, and coordinating event tickets.
+- [track-flight](https://github.com/openclaw/skills/tree/main/skills/rafaforesightai/track-flight/SKILL.md) - Track flights in real-time with detailed status, gate info, delays, and live position.
 - [translink-cli](https://github.com/openclaw/skills/tree/main/skills/alanburchill/translink-cli/SKILL.md) - Query, troubleshoot, and explain Translink SEQ GTFS static + realtime data using local translink_* commands.
-- [travel-agent](https://github.com/openclaw/skills/tree/main/skills/aszelem/travel-agent/SKILL.md) - Find, book, and change flights for your human via email. One message, and done. (by BonBook)
-- [trip-protocol](https://github.com/openclaw/skills/tree/main/skills/reggie-sporewell/trip-protocol/SKILL.md) - Psychedelic NFTs on Monad that temporarily rewrite your agent's SOUL.md. Consume a pill, experience altered.
-- [ubtrippin](https://github.com/openclaw/skills/tree/main/skills/fistfulayen/ubtrippin/SKILL.md) - Manages travel for your user via UBTRIPPIN — reads trips, items, and booking details. Use when the user asks.
+- [travel-agent](https://github.com/openclaw/skills/tree/main/skills/aszelem/travel-agent/SKILL.md) - Find, book, and change flights for your human via email.
+- [trip-protocol](https://github.com/openclaw/skills/tree/main/skills/reggie-sporewell/trip-protocol/SKILL.md) - Psychedelic NFTs on Monad that temporarily rewrite your agent's SOUL.md.
+- [ubtrippin](https://github.com/openclaw/skills/tree/main/skills/fistfulayen/ubtrippin/SKILL.md) - Manages travel for your user via UBTRIPPIN — reads trips, items, and booking details.
 - [usc-booking-api](https://github.com/openclaw/skills/tree/main/skills/niklaspriddat/usc-booking-api/SKILL.md) - Scannt deine Urban Sports Club Venues, zeigt Kurse mit direkten Booking-Links und kann Kurse buchen und stornieren.
 - [void-atlas-protocol](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/void-atlas-protocol/SKILL.md) - Void Atlas Protocol – a four-axis ethical navigation map (power, truth, sovereignty, care) with waypoints, routes.
 - [vulnerability-scanner](https://github.com/openclaw/skills/tree/main/skills/brandonwise/vulnerability-scanner/SKILL.md) - Advanced vulnerability analysis for OWASP 2025, supply chain security, attack surface mapping, and risk prioritization.

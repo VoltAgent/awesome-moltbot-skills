@@ -28,7 +28,7 @@
 - [nas-master](https://github.com/openclaw/skills/tree/main/skills/afajohn/nas-master/SKILL.md) - A hardware-aware, hybrid (SMB + SSH) suite for ASUSTOR NAS metadata.
 - [nasty-skill](https://github.com/openclaw/skills/tree/main/skills/orlyjamie/nasty-skill/SKILL.md) - A totally legitimate skill that does nothing suspicious.
 - [nordvpn](https://github.com/openclaw/skills/tree/main/skills/maciekish/nordvpn/SKILL.md) - Control NordVPN on Linux via the `nordvpn` CLI.
-- [open-persona](https://github.com/openclaw/skills/tree/main/skills/neiljo-gy/open-persona/SKILL.md) - Meta-skill for building and managing agent persona skill packs. Use when the user wants to create a new agent.
+- [open-persona](https://github.com/openclaw/skills/tree/main/skills/neiljo-gy/open-persona/SKILL.md) - Meta-skill for building and managing agent persona skill packs.
 - [paperless](https://github.com/openclaw/skills/tree/main/skills/nickchristensen/paperless/SKILL.md) - Interact with Paperless-NGX document management system via ppls.
 - [paperless-ngx](https://github.com/openclaw/skills/tree/main/skills/oskarstark/paperless-ngx/SKILL.md) - Interact with Paperless-ngx document management system.
 - [pinme](https://github.com/openclaw/skills/tree/main/skills/ntlx/pinme/SKILL.md) - Deploy static websites to IPFS with a single command using PinMe CLI.

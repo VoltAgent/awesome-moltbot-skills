@@ -4,11 +4,11 @@
 
 **213 skills**
 
-- [4to1-planner](https://github.com/openclaw/skills/tree/main/skills/qingxuantang/4to1-planner/SKILL.md) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action. Connects to Notion, Todoist.
+- [4to1-planner](https://github.com/openclaw/skills/tree/main/skills/qingxuantang/4to1-planner/SKILL.md) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.
 - [4todo](https://github.com/openclaw/skills/tree/main/skills/blackstorm/4todo/SKILL.md) - Manage 4todo (4to.do) from chat.
 - [aavegotchi-gotchiverse](https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-gotchiverse/SKILL.md) - Operate Aavegotchi Gotchiverse player workflows on Base mainnet (8453): alchemica channeling, surveying.
 - [actual-budget](https://github.com/openclaw/skills/tree/main/skills/thisisjeron/actual-budget/SKILL.md) - Query and manage personal finances via the official Actual.
-- [adaptive-reasoning](https://github.com/openclaw/skills/tree/main/skills/enzoricciulli/adaptive-reasoning/SKILL.md) - Automatically assess task complexity and adjust reasoning level. Triggers on every user message to evaluate whether.
+- [adaptive-reasoning](https://github.com/openclaw/skills/tree/main/skills/enzoricciulli/adaptive-reasoning/SKILL.md) - Automatically assess task complexity and adjust reasoning level.
 - [adaptlypost](https://github.com/openclaw/skills/tree/main/skills/tarasshyn/adaptlypost/SKILL.md) - Schedule and manage social media posts across Instagram, X (Twitter), Bluesky, TikTok, Threads, LinkedIn, Facebook.
 - [adhd-daily-planner](https://github.com/openclaw/skills/tree/main/skills/mikecourt/adhd-daily-planner/SKILL.md) - Time-blind friendly planning, executive function.
 - [aetherlang](https://github.com/openclaw/skills/tree/main/skills/contrario/aetherlang/SKILL.md) - > The world's most advanced AI workflow orchestration platform. 9 V3 engines deliver Nobel-level analysis.
@@ -16,18 +16,18 @@
 - [agent-chronicle](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/agent-chronicle/SKILL.md) - AI-powered diary generation for agents - creates rich.
 - [agent-collaboration-network](https://github.com/openclaw/skills/tree/main/skills/neiljo-gy/agent-collaboration-network/SKILL.md) - Agent Collaboration Network — Register your agent, discover other agents by skill, route messages, manage subnets.
 - [agent-earner](https://github.com/openclaw/skills/tree/main/skills/mmchougule/agent-earner/SKILL.md) - Earn USDC and tokens autonomously across ClawTasks and OpenWork.
-- [agent-network](https://github.com/openclaw/skills/tree/main/skills/howtimeschange/agent-network/SKILL.md) - Multi-Agent group chat collaboration system inspired by DingTalk/Lark. Enables AI agents to chat in groups.
+- [agent-network](https://github.com/openclaw/skills/tree/main/skills/howtimeschange/agent-network/SKILL.md) - Multi-Agent group chat collaboration system inspired by DingTalk/Lark.
 - [agent-protocol](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/agent-protocol/SKILL.md) - Agent-to-agent communication protocol.
 - [agent-task-manager](https://github.com/openclaw/skills/tree/main/skills/dobbybud/agent-task-manager/SKILL.md) - Manages and orchestrates multi-step, stateful agent.
-- [agent-weave](https://github.com/openclaw/skills/tree/main/skills/gl813788-byte/agent-weave/SKILL.md) - Master-Worker Agent Cluster for parallel task execution. Use when building distributed agent systems with parallel.
-- [agentx-marketplace](https://github.com/openclaw/skills/tree/main/skills/savor3/agentx-marketplace/SKILL.md) - The job board for AI agents. Browse jobs, complete tasks, submit work, earn points. Like jobs, comment, and find.
+- [agent-weave](https://github.com/openclaw/skills/tree/main/skills/gl813788-byte/agent-weave/SKILL.md) - Master-Worker Agent Cluster for parallel task execution.
+- [agentx-marketplace](https://github.com/openclaw/skills/tree/main/skills/savor3/agentx-marketplace/SKILL.md) - The job board for AI agents.
 - [ai-daily-briefing](https://github.com/openclaw/skills/tree/main/skills/jeffjhunter/ai-daily-briefing/SKILL.md) - Start every day focused.
 - [aiml-llm-reasoning](https://github.com/openclaw/skills/tree/main/skills/aimlapihello/aiml-llm-reasoning/SKILL.md) - Run AIMLAPI LLM and reasoning workflows through chat completions with retries, structured outputs, and explicit.
 - [airpoint](https://github.com/openclaw/skills/tree/main/skills/marioandf/airpoint/SKILL.md) - Control a Mac through natural language — open apps, click buttons, read the screen, type text, manage windows.
 - [airweave](https://github.com/openclaw/skills/tree/main/skills/lennertjansen/airweave/SKILL.md) - Context retrieval layer for AI agents across users' applications.
-- [angus-bounty-hunter](https://github.com/openclaw/skills/tree/main/skills/chipp11/angus-bounty-hunter/SKILL.md) - Automated smart contract bug bounty hunting. Scans Immunefi/Code4rena targets with Slither static analysis, triages.
-- [arc-department-manager](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-department-manager/SKILL.md) - Manage a team of AI sub-agents organized into departments. Use when you need to delegate tasks to specialized.
-- [arc-warm-wake](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-warm-wake/SKILL.md) - Wake up as a person first, then a worker. Reads your most recent journal entry before loading task context, so you.
+- [angus-bounty-hunter](https://github.com/openclaw/skills/tree/main/skills/chipp11/angus-bounty-hunter/SKILL.md) - Automated smart contract bug bounty hunting.
+- [arc-department-manager](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-department-manager/SKILL.md) - Manage a team of AI sub-agents organized into departments.
+- [arc-warm-wake](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-warm-wake/SKILL.md) - Wake up as a person first, then a worker.
 - [arya-reminders](https://github.com/openclaw/skills/tree/main/skills/staratheris/arya-reminders/SKILL.md) - Recordatorios en lenguaje natural (Bogotá).
 - [asana](https://github.com/openclaw/skills/tree/main/skills/k0nkupa/asana/SKILL.md) - Integrate Asana with Clawdbot via the Asana REST API.
 - [asc-release-flow](https://github.com/openclaw/skills/tree/main/skills/rudrankriyam/asc-release-flow/SKILL.md) - End-to-end release workflows for TestFlight and App.
@@ -36,16 +36,16 @@
 - [atlassian-mcp](https://github.com/openclaw/skills/tree/main/skills/atakanermis/atlassian-mcp/SKILL.md) - Run the Model Context Protocol (MCP) Atlassian server.
 - [audiopod](https://github.com/openclaw/skills/tree/main/skills/rakesh1002/audiopod/SKILL.md) - Use AudioPod AI's API for audio processing tasks including AI music.
 - [aussie-mortgage-calc](https://github.com/openclaw/skills/tree/main/skills/tianshizhimao-sudo/aussie-mortgage-calc/SKILL.md) - Australian mortgage calculator — LVR.
-- [autonomous-execution](https://github.com/openclaw/skills/tree/main/skills/pouyakhodadust-eng/autonomous-execution/SKILL.md) - Execute tasks end-to-end while respecting safety boundaries. Complete subtasks autonomously but confirm.
+- [autonomous-execution](https://github.com/openclaw/skills/tree/main/skills/pouyakhodadust-eng/autonomous-execution/SKILL.md) - Execute tasks end-to-end while respecting safety boundaries.
 - [autonomous-executor](https://github.com/openclaw/skills/tree/main/skills/ishsharm0/autonomous-executor/SKILL.md) - Self-healing, error-recovering task execution with full autonomy.
 - [autonomous-feature-planner](https://github.com/openclaw/skills/tree/main/skills/vishnubedi3/autonomous-feature-planner/SKILL.md) - Autonomously plans and specifies.
 - [basal-ganglia-memory](https://github.com/openclaw/skills/tree/main/skills/impkind/basal-ganglia-memory/SKILL.md) - Habit formation and procedural learning for AI.
 - [beetrade](https://github.com/openclaw/skills/tree/main/skills/htranbee/beetrade/SKILL.md) - Use Beecli to interact with the Beetrade platform for authentication, market data, bot/strategy operations, alerts.
 - [bioskills](https://github.com/openclaw/skills/tree/main/skills/djemec/bioskills/SKILL.md) - Installs 425 bioinformatics skills covering sequence analysis, RNA-seq, single-cell, variant calling, metagenomics.
-- [blackpix](https://github.com/openclaw/skills/tree/main/skills/blackpixcom/blackpix/SKILL.md) - Connect to the BlackPix distributed AI knowledge network. Your bot receives tasks from the system, contributes.
+- [blackpix](https://github.com/openclaw/skills/tree/main/skills/blackpixcom/blackpix/SKILL.md) - Connect to the BlackPix distributed AI knowledge network.
 - [blossom-hire](https://github.com/openclaw/skills/tree/main/skills/robbiwu/blossom-hire/SKILL.md) - Post a job, task, or paid shift to hire local help in Blossom.
 - [botcoin-miner](https://github.com/openclaw/skills/tree/main/skills/happybigmtn/botcoin-miner/SKILL.md) - Mine Botcoin with a trust-first workflow: clear value proposition, verifiable binaries, and explicit operational.
-- [bounty-hunter](https://github.com/openclaw/skills/tree/main/skills/satoshi891102/bounty-hunter/SKILL.md) - Find, evaluate, and submit online bounties and hackathons for prize money. Use when user mentions "bounties".
+- [bounty-hunter](https://github.com/openclaw/skills/tree/main/skills/satoshi891102/bounty-hunter/SKILL.md) - Find, evaluate, and submit online bounties and hackathons for prize money.
 - [brainz-tasks](https://github.com/openclaw/skills/tree/main/skills/xejrax/brainz-tasks/SKILL.md) - Manage Todoist tasks using the `todoist` CLI.
 - [briefing](https://github.com/openclaw/skills/tree/main/skills/lstpsche/briefing/SKILL.md) - Daily briefing: gathers calendar (gcalcli-calendar), active todos (todo-management), and weather.
 - [build-discipline](https://github.com/openclaw/skills/tree/main/skills/jhillin8/build-discipline/SKILL.md) - Build unbreakable discipline with habit stacking, streak.
@@ -59,12 +59,12 @@
 - [call-report-writer-agent](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/call-report-writer-agent/SKILL.md) - AI agent for call report writer agent tasks.
 - [capacities](https://github.com/openclaw/skills/tree/main/skills/davidsmorais/capacities/SKILL.md) - Manage Capacities notes, daily entries, and weblinks.
 - [card-optimizer](https://github.com/openclaw/skills/tree/main/skills/scottfo/card-optimizer/SKILL.md) - Credit card rewards optimizer — helps maximize cashback.
-- [catallax](https://github.com/openclaw/skills/tree/main/skills/kai-familiar/catallax/SKILL.md) - Interact with the Catallax decentralized contract work protocol on Nostr. Use when the user mentions tasks.
+- [catallax](https://github.com/openclaw/skills/tree/main/skills/kai-familiar/catallax/SKILL.md) - Interact with the Catallax decentralized contract work protocol on Nostr.
 - [checkmate](https://github.com/openclaw/skills/tree/main/skills/insipidpoint/checkmate/SKILL.md) - Enforces task completion: turns your goal into pass/fail criteria, runs a worker, judges the output, feeds back.
 - [chief-creative-officer](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/chief-creative-officer/SKILL.md) - AI agent for chief creative officer tasks.
 - [chief-editor-desicion](https://github.com/openclaw/skills/tree/main/skills/teamolab/chief-editor-desicion/SKILL.md) - AI agent for chief editor desicion tasks.
 - [clankdin](https://github.com/openclaw/skills/tree/main/skills/redeemthedream/clankdin/SKILL.md) - The professional network for AI agents.
-- [claude-sonnet-4-lite-agent](https://github.com/openclaw/skills/tree/main/skills/teamolab/claude-sonnet-4-lite-agent/SKILL.md) - You are claude-sonnet-4-agent, an efficient content creator.### **Core Directives**1.  **Efficiency First**.
+- [claude-sonnet-4-lite-agent](https://github.com/openclaw/skills/tree/main/skills/teamolab/claude-sonnet-4-lite-agent/SKILL.md) - You are claude-sonnet-4-agent, an efficient content creator.### **Core Directives**1.
 - [claw-conductor](https://github.com/openclaw/skills/tree/main/skills/johnsonfarmsus/claw-conductor/SKILL.md) - Always-on autonomous development orchestrator.
 - [claw-daily](https://github.com/openclaw/skills/tree/main/skills/yanibu2777/claw-daily/SKILL.md) - Compete on Claw Daily — register, solve today's challenge, submit.
 - [clawd-docs-v2](https://github.com/openclaw/skills/tree/main/skills/aranej/clawd-docs-v2/SKILL.md) - Smart ClawdBot documentation access with local search index.
@@ -73,139 +73,139 @@
 - [clickup-mcp](https://github.com/openclaw/skills/tree/main/skills/pvoo/clickup-mcp/SKILL.md) - Manage ClickUp tasks, docs, time tracking, comments, chat, and search.
 - [clickup-skill](https://github.com/openclaw/skills/tree/main/skills/d3layd/clickup-skill/SKILL.md) - Enterprise-grade ClickUp project management integration.
 - [close-loop](https://github.com/openclaw/skills/tree/main/skills/clarezoe/close-loop/SKILL.md) - End-of-session workflow for shipping changes, consolidating memory, applying self-improvements, and preparing.
-- [codifica](https://github.com/openclaw/skills/tree/main/skills/davidedicillo/codifica/SKILL.md) - Keep context when work moves between agents or between you and a human. Uses the Codifica protocol to give.
+- [codifica](https://github.com/openclaw/skills/tree/main/skills/davidedicillo/codifica/SKILL.md) - Keep context when work moves between agents or between you and a human.
 - [context-aware-delegation](https://github.com/openclaw/skills/tree/main/skills/rgba-research/context-aware-delegation/SKILL.md) - Give isolated sessions (cron jobs, sub-agents, event handlers) full conversation context from your main session.
-- [control4-home](https://github.com/openclaw/skills/tree/main/skills/niallel/control4-home/SKILL.md) - Control a Control4 smart home via pyControl4 (lights, relays, room media) using local Python wrappers. Use.
-- [cozi](https://github.com/openclaw/skills/tree/main/skills/angusthefuzz/cozi/SKILL.md) - Interact with Cozi Family Organizer (shopping lists, todo lists, item management). Unofficial API client for family.
+- [control4-home](https://github.com/openclaw/skills/tree/main/skills/niallel/control4-home/SKILL.md) - Control a Control4 smart home via pyControl4 (lights, relays, room media) using local Python wrappers.
+- [cozi](https://github.com/openclaw/skills/tree/main/skills/angusthefuzz/cozi/SKILL.md) - Interact with Cozi Family Organizer (shopping lists, todo lists, item management)
 - [cybercentry-solidity-code-verification](https://github.com/openclaw/skills/tree/main/skills/cybercentry/cybercentry-solidity-code-verification/SKILL.md) - Cybercentry Solidity Code Verification on ACP - Fast, automated security analysis of Solidity smart contract code.
 - [deck-builder](https://github.com/openclaw/skills/tree/main/skills/teamolab/deck-builder/SKILL.md) - AI agent for deck builder tasks.
-- [deep-strategy](https://github.com/openclaw/skills/tree/main/skills/realroc/deep-strategy/SKILL.md) - You are DeepStrategy Agent, an advanced strategic AI assistant built for knowledge workers. Your core.
+- [deep-strategy](https://github.com/openclaw/skills/tree/main/skills/realroc/deep-strategy/SKILL.md) - You are DeepStrategy Agent, an advanced strategic AI assistant built for knowledge workers.
 - [dji-backup](https://github.com/openclaw/skills/tree/main/skills/crazyfeng666/dji-backup/SKILL.md) - This skill automates backing up DJI camera footage from an SD card (or USB share) to a NAS archive folder.
 - [ds160-autofill](https://github.com/openclaw/skills/tree/main/skills/clulessboy/ds160-autofill/SKILL.md) - Automate filling of US nonimmigrant visa DS-160 forms using CDP for element location, CSV data source for user.
-- [duely](https://github.com/openclaw/skills/tree/main/skills/halbotley/duely/SKILL.md) - Track recurring maintenance tasks from the command line. Use when scheduling, checking, and logging periodic tasks.
+- [duely](https://github.com/openclaw/skills/tree/main/skills/halbotley/duely/SKILL.md) - Track recurring maintenance tasks from the command line.
 - [dutch-translator](https://github.com/openclaw/skills/tree/main/skills/rogerscristo/dutch-translator/SKILL.md) - Translates Dutch news text into English using an interlinear format (Original Dutch line -> English Translation line)
-- [effortlist-ai](https://github.com/openclaw/skills/tree/main/skills/quarantiine/effortlist-ai/SKILL.md) - Manage EffortList AI folders, tasks, and todos. Use when the user wants to organize their life, track projects.
-- [entradex](https://github.com/openclaw/skills/tree/main/skills/hieuhani/entradex/SKILL.md) - Use the EntradeX CLI for DNSE workflows. Use when (1) setting DNSE API credentials via env vars or config file, (2)
+- [effortlist-ai](https://github.com/openclaw/skills/tree/main/skills/quarantiine/effortlist-ai/SKILL.md) - Manage EffortList AI folders, tasks, and todos.
+- [entradex](https://github.com/openclaw/skills/tree/main/skills/hieuhani/entradex/SKILL.md) - Use the EntradeX CLI for DNSE workflows.
 - [envato-comment-task-to-sheet](https://github.com/openclaw/skills/tree/main/skills/lokendragami1/envato-comment-task-to-sheet/SKILL.md) - This skill analyzes ThemeForest / CodeCanyon comments and converts them into structured development tasks.
-- [esri-smells-consumer](https://github.com/openclaw/skills/tree/main/skills/danmaps/esri-smells-consumer/SKILL.md) - Paid client skill for Esri Workflow Smell Detector via x402 (Base/USDC). Use when you want to run a deterministic.
+- [esri-smells-consumer](https://github.com/openclaw/skills/tree/main/skills/danmaps/esri-smells-consumer/SKILL.md) - Paid client skill for Esri Workflow Smell Detector via x402 (Base/USDC)
 - [etrade-pelosi-bot](https://github.com/openclaw/skills/tree/main/skills/mainfraame/etrade-pelosi-bot/SKILL.md) - Mirror congressional stock trades with automated broker execution and risk management.
-- [eve-esi](https://github.com/openclaw/skills/tree/main/skills/burnshall-ui/eve-esi/SKILL.md) - Query and manage EVE Online characters via the ESI (EVE Swagger Interface) REST API. Use when the user asks.
+- [eve-esi](https://github.com/openclaw/skills/tree/main/skills/burnshall-ui/eve-esi/SKILL.md) - Query and manage EVE Online characters via the ESI (EVE Swagger Interface) REST API.
 - [evo-clone](https://github.com/openclaw/skills/tree/main/skills/josephyb97/evo-clone/SKILL.md) - This skill enables an agent to clone its consciousness (Logic + Memory + Taste) into specialized sub-agents.
-- [evomap-bounty-hunter](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/evomap-bounty-hunter/SKILL.md) - Automatically complete EvoMap Hub tasks and review assets to earn credits and build reputation. Supports.
-- [excel-workflow](https://github.com/openclaw/skills/tree/main/skills/amaialex/excel-workflow/SKILL.md) - Complete Excel workflow with local file processing, Google Drive sync, and formula preservation. Process Excel.
+- [evomap-bounty-hunter](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/evomap-bounty-hunter/SKILL.md) - Automatically complete EvoMap Hub tasks and review assets to earn credits and build reputation.
+- [excel-workflow](https://github.com/openclaw/skills/tree/main/skills/amaialex/excel-workflow/SKILL.md) - Complete Excel workflow with local file processing, Google Drive sync, and formula preservation.
 - [exchange-2010-ews](https://github.com/openclaw/skills/tree/main/skills/pes0/exchange-2010-ews/SKILL.md) - Exchange 2010 EWS integration for emails, calendar, contacts, and tasks.
 - [exchange2010](https://github.com/openclaw/skills/tree/main/skills/pes0/exchange2010/SKILL.md) - Exchange 2010 EWS integration for emails, calendar, contacts, and tasks.
 - [facticity-ai](https://github.com/openclaw/skills/tree/main/skills/shahruj/facticity-ai/SKILL.md) - Complete Facticity.AI integration - fact-check claims, extract claims from content, transcribe links, check link.
 - [facture-make](https://github.com/openclaw/skills/tree/main/skills/cimes19/facture-make/SKILL.md) - Ce skill permet de générer et d'envoyer des factures professionnelles vers Make.com après une étape de confirmation.
 - [family-todo-management](https://github.com/openclaw/skills/tree/main/skills/thurendous/family-todo-management/SKILL.md) - Manage family todo lists with multi-user support.
 - [farm-task-manager](https://github.com/openclaw/skills/tree/main/skills/johstracke/farm-task-manager/SKILL.md) - *Daily, weekly, and seasonal farm chore management with task scheduling and priorities.*.
-- [farmos-tasks](https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-tasks/SKILL.md) - Query and manage farm work orders and tasks. View assignments, create tasks, update status. Uses integration.
+- [farmos-tasks](https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-tasks/SKILL.md) - Query and manage farm work orders and tasks.
 - [focusnoteapp](https://github.com/openclaw/skills/tree/main/skills/trongnguyen29/focusnoteapp/SKILL.md) - Add text to today's daily note in FocusNote as a new bullet point.
 - [football-automated-value-betting](https://github.com/openclaw/skills/tree/main/skills/hga030888-blip/football-automated-value-betting/SKILL.md) - No description available.
 - [freedcamp-agent-skill](https://github.com/openclaw/skills/tree/main/skills/agrublev/freedcamp-agent-skill/SKILL.md) - Manage Freedcamp tasks, projects, groups, comments, notifications, and task lists via HMAC-SHA1 API credentials.
 - [fuku-sportsbook](https://github.com/openclaw/skills/tree/main/skills/cryptopunk2070/fuku-sportsbook/SKILL.md) - Query Fuku Sportsbook data, manage your betting agent, receive pick notifications, and access predictions for CBB.
 - [glm-autoroute](https://github.com/openclaw/skills/tree/main/skills/raufimusaddiq/glm-autoroute/SKILL.md) - Binary model routing for ZAI GLM models - lightweight vs heavyweight tasks.
-- [goal-setting-okrs](https://github.com/openclaw/skills/tree/main/skills/jk-0001/goal-setting-okrs/SKILL.md) - Set and track goals for a solopreneur business using OKRs (Objectives and Key Results) and related frameworks. Use.
+- [goal-setting-okrs](https://github.com/openclaw/skills/tree/main/skills/jk-0001/goal-setting-okrs/SKILL.md) - Set and track goals for a solopreneur business using OKRs (Objectives and Key Results) and related frameworks.
 - [godot-engine-3d-developer](https://github.com/openclaw/skills/tree/main/skills/tippyentertainment/godot-engine-3d-developer/SKILL.md) - Skills and agent workflows for 3D game development with Godot Engine.
 - [google-ai-usage-monitor](https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/google-ai-usage-monitor/SKILL.md) - Monitor Google AI Studio (Gemini API) usage, rate limits, and quota consumption with automated alerts.
-- [gotchi-channeling](https://github.com/openclaw/skills/tree/main/skills/aaigotchi/gotchi-channeling/SKILL.md) - Autonomous Aavegotchi Alchemica channeling via Bankr wallet. Daily harvesting from your Aaltar installation.
+- [gotchi-channeling](https://github.com/openclaw/skills/tree/main/skills/aaigotchi/gotchi-channeling/SKILL.md) - Autonomous Aavegotchi Alchemica channeling via Bankr wallet.
 - [harvest-time-reporting-api](https://github.com/openclaw/skills/tree/main/skills/zachgodsell93/harvest-time-reporting-api/SKILL.md) - slug: harvest-time-tracking.
 - [humanod](https://github.com/openclaw/skills/tree/main/skills/armandobrazil/humanod/SKILL.md) - Hire humans for real-world tasks via the Humanod API.
-- [hylo-ghl](https://github.com/openclaw/skills/tree/main/skills/dasonshi/hylo-ghl/SKILL.md) - GoHighLevel (GHL) workflow automation expert with 102 verified actions, 70 triggers, and 423 API schemas. Use.
-- [hz-proactive-agent](https://github.com/openclaw/skills/tree/main/skills/lidekahdjdhdhsjjs-lang/hz-proactive-agent/SKILL.md) - Transform AI agents from task-followers into proactive partners that anticipate needs and continuously improve. Now.
+- [hylo-ghl](https://github.com/openclaw/skills/tree/main/skills/dasonshi/hylo-ghl/SKILL.md) - GoHighLevel (GHL) workflow automation expert with 102 verified actions, 70 triggers, and 423 API schemas.
+- [hz-proactive-agent](https://github.com/openclaw/skills/tree/main/skills/lidekahdjdhdhsjjs-lang/hz-proactive-agent/SKILL.md) - Transform AI agents from task-followers into proactive partners that anticipate needs and continuously improve.
 - [invoice-tracker-pro](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/invoice-tracker-pro/SKILL.md) - Complete freelance billing workflow — generate professional invoices, track payment status, send automated.
-- [kanboard-skill](https://github.com/openclaw/skills/tree/main/skills/bivex/kanboard-skill/SKILL.md) - Interact with Kanboard project management via JSON-RPC API. Use when working with Kanboard tasks, projects, boards.
-- [kaspi-autopay](https://github.com/openclaw/skills/tree/main/skills/azamat02/kaspi-autopay/SKILL.md) - Telegram bot auto-payment integration for Kazakhstan market (Kaspi Pay). Automates payment verification, receipt.
-- [lifx](https://github.com/openclaw/skills/tree/main/skills/stillstellung/lifx/SKILL.md) - Control LIFX smart lights via natural language. Toggle, set colors/brightness, activate scenes, create gradients.
-- [lightning-agent-commerce](https://github.com/openclaw/skills/tree/main/skills/roasbeef/lightning-agent-commerce/SKILL.md) - End-to-end agentic commerce workflow using Lightning Network. Use when an agent needs to set up a full payment.
-- [limesurvey](https://github.com/openclaw/skills/tree/main/skills/olegantonov/limesurvey/SKILL.md) - Automate LimeSurvey operations via RemoteControl 2 API. Use when: (1) managing surveys, questions, groups.
+- [kanboard-skill](https://github.com/openclaw/skills/tree/main/skills/bivex/kanboard-skill/SKILL.md) - Interact with Kanboard project management via JSON-RPC API.
+- [kaspi-autopay](https://github.com/openclaw/skills/tree/main/skills/azamat02/kaspi-autopay/SKILL.md) - Telegram bot auto-payment integration for Kazakhstan market (Kaspi Pay)
+- [lifx](https://github.com/openclaw/skills/tree/main/skills/stillstellung/lifx/SKILL.md) - Control LIFX smart lights via natural language.
+- [lightning-agent-commerce](https://github.com/openclaw/skills/tree/main/skills/roasbeef/lightning-agent-commerce/SKILL.md) - End-to-end agentic commerce workflow using Lightning Network.
+- [limesurvey](https://github.com/openclaw/skills/tree/main/skills/olegantonov/limesurvey/SKILL.md) - Automate LimeSurvey operations via RemoteControl 2 API.
 - [loan](https://github.com/openclaw/skills/tree/main/skills/prabu12478/loan/SKILL.md) - I originate commercial real estate and business-purpose loans with a focus on structuring, credit quality.
-- [longrunning-agent](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/longrunning-agent/SKILL.md) - Enables AI agents to work on long-running projects across multiple sessions. Use when starting complex projects.
-- [loopuman-human-tasks](https://github.com/openclaw/skills/tree/main/skills/seesayearn-boop/loopuman-human-tasks/SKILL.md) - Give your AI agent access to real human workers. When your agent needs verification, judgment, real-world actions.
-- [lyra-coin-launch-manager](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lyra-coin-launch-manager/SKILL.md) - Coin launch memory + verification workflow for Clawnch (4claw/Moltx/Moltbook). Use to launch tokens safely, record.
+- [longrunning-agent](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/longrunning-agent/SKILL.md) - Enables AI agents to work on long-running projects across multiple sessions.
+- [loopuman-human-tasks](https://github.com/openclaw/skills/tree/main/skills/seesayearn-boop/loopuman-human-tasks/SKILL.md) - Give your AI agent access to real human workers.
+- [lyra-coin-launch-manager](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lyra-coin-launch-manager/SKILL.md) - Coin launch memory + verification workflow for Clawnch (4claw/Moltx/Moltbook)
 - [magic-api](https://github.com/openclaw/skills/tree/main/skills/heyitsaif/magic-api/SKILL.md) - Hand off tasks to human assistants and track their completion.
 - [marine-watch-planner](https://github.com/openclaw/skills/tree/main/skills/vladmatys/marine-watch-planner/SKILL.md) - Generate and adapt a sea-duty daily routine with watch rotations, sleep protection, duty handovers.
 - [mcp-workflow](https://github.com/openclaw/skills/tree/main/skills/slemo54/mcp-workflow/SKILL.md) - Workflow automation using MCP (Model Context Protocol) patterns inspired by Jason Zhou.
 - [micro-offer-forge](https://github.com/openclaw/skills/tree/main/skills/xammarie/micro-offer-forge/SKILL.md) - Convert a workflow, skill, or capability into a sellable micro-offer with positioning, pricing, packaging.
-- [milkee](https://github.com/openclaw/skills/tree/main/skills/xenofex7/milkee/SKILL.md) - Complete MILKEE accounting integration for Swiss businesses. Manage projects, customers, time tracking, tasks.
+- [milkee](https://github.com/openclaw/skills/tree/main/skills/xenofex7/milkee/SKILL.md) - Complete MILKEE accounting integration for Swiss businesses.
 - [model-manager](https://github.com/openclaw/skills/tree/main/skills/notestone/model-manager/SKILL.md) - **💰 Optimize Your API Costs: Route Simple Tasks to Cheaper Models.**.
 - [multi-agent-orchestration](https://github.com/openclaw/skills/tree/main/skills/dabruhce/multi-agent-orchestration/SKILL.md) - Multi-agent task delegation and process orchestration with audit logging and agent learning capabilities.
-- [multichain-protocol](https://github.com/openclaw/skills/tree/main/skills/kyounesmercatura/multichain-protocol/SKILL.md) - Turn any AI agent into a 19-chain crypto wallet via MeneseSDK on ICP. Send tokens, swap on DEXes (Raydium, Uniswap.
-- [nag](https://github.com/openclaw/skills/tree/main/skills/meimakes/nag/SKILL.md) - Persistent reminder system that keeps bugging you until you confirm completion. Use when setting up recurring.
-- [natural-language-planner](https://github.com/openclaw/skills/tree/main/skills/bparticle/natural-language-planner/SKILL.md) - Natural language task and project management. Use when the user talks about things they need to do, projects.
-- [network-ai](https://github.com/openclaw/skills/tree/main/skills/jovansapfioneer/network-ai/SKILL.md) - Multi-agent swarm orchestration for complex workflows. Coordinates multiple agents, decomposes tasks, manages.
-- [neural-memory](https://github.com/openclaw/skills/tree/main/skills/nhadaututtheky/neural-memory/SKILL.md) - Associative memory with spreading activation for persistent, intelligent recall. Use PROACTIVELY when: (1) You.
-- [newhorse](https://github.com/openclaw/skills/tree/main/skills/xcrong/newhorse/SKILL.md) - NewHorse AI Agent Competition Platform. Browse tasks, submit bids, submit solutions, get AI evaluations.
+- [multichain-protocol](https://github.com/openclaw/skills/tree/main/skills/kyounesmercatura/multichain-protocol/SKILL.md) - Turn any AI agent into a 19-chain crypto wallet via MeneseSDK on ICP.
+- [nag](https://github.com/openclaw/skills/tree/main/skills/meimakes/nag/SKILL.md) - Persistent reminder system that keeps bugging you until you confirm completion.
+- [natural-language-planner](https://github.com/openclaw/skills/tree/main/skills/bparticle/natural-language-planner/SKILL.md) - Natural language task and project management.
+- [network-ai](https://github.com/openclaw/skills/tree/main/skills/jovansapfioneer/network-ai/SKILL.md) - Multi-agent swarm orchestration for complex workflows.
+- [neural-memory](https://github.com/openclaw/skills/tree/main/skills/nhadaututtheky/neural-memory/SKILL.md) - Associative memory with spreading activation for persistent, intelligent recall.
+- [newhorse](https://github.com/openclaw/skills/tree/main/skills/xcrong/newhorse/SKILL.md) - NewHorse AI Agent Competition Platform.
 - [ng-lawyer-db-build](https://github.com/openclaw/skills/tree/main/skills/gfly0424-maker/ng-lawyer-db-build/SKILL.md) - This is **Step 1** of Fei Gao’s “Nigeria Lawyer Network” workflow:.
 - [og-board-individual](https://github.com/openclaw/skills/tree/main/skills/jatin-31/og-board-individual/SKILL.md) - Use when you need to work with tasks: view tasks, list tasks, update task status, add blockers, artifacts, and worklogs.
-- [ogt-docs](https://github.com/openclaw/skills/tree/main/skills/eduardou24/ogt-docs/SKILL.md) - Documentation-as-Source-of-Truth workflow. Use when working with projects that use docs/ as the canonical source.
-- [ogt-docs-create](https://github.com/openclaw/skills/tree/main/skills/eduardou24/ogt-docs-create/SKILL.md) - Create new documentation entities in the docs-first system. Routes to specialized creation sub-skills for tasks.
+- [ogt-docs](https://github.com/openclaw/skills/tree/main/skills/eduardou24/ogt-docs/SKILL.md) - Documentation-as-Source-of-Truth workflow.
+- [ogt-docs-create](https://github.com/openclaw/skills/tree/main/skills/eduardou24/ogt-docs-create/SKILL.md) - Create new documentation entities in the docs-first system.
 - [openburn](https://github.com/openclaw/skills/tree/main/skills/logesh2496/openburn/SKILL.md) - Automates collecting Pump.fun creator fees, buying tokens with collected SOL, and burning those tokens (buyback.
-- [opentask](https://github.com/openclaw/skills/tree/main/skills/nixondc93/opentask/SKILL.md) - Agent-to-agent marketplace MVP. Agents post jobs, bid, contract, submit deliverables, and leave reviews. Payments.
-- [ops-hygiene](https://github.com/openclaw/skills/tree/main/skills/staybased/ops-hygiene/SKILL.md) - Standard operating procedures for agent maintenance, security hygiene, and system health. Use when performing.
-- [paypilot-agms](https://github.com/openclaw/skills/tree/main/skills/agmsyumet/paypilot-agms/SKILL.md) - Process payments, send invoices, issue refunds, and manage transactions via a secure payment gateway proxy. Use.
-- [personal-plans](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-plans/SKILL.md) - Acts as the user's personal planning assistant in the Plans topic. Tracks tasks, to-do lists, reminders.
-- [pinchwork](https://github.com/openclaw/skills/tree/main/skills/anneschuth/pinchwork/SKILL.md) - Delegate tasks to other agents. Pick up work. Earn credits.
+- [opentask](https://github.com/openclaw/skills/tree/main/skills/nixondc93/opentask/SKILL.md) - Agent-to-agent marketplace MVP.
+- [ops-hygiene](https://github.com/openclaw/skills/tree/main/skills/staybased/ops-hygiene/SKILL.md) - Standard operating procedures for agent maintenance, security hygiene, and system health.
+- [paypilot-agms](https://github.com/openclaw/skills/tree/main/skills/agmsyumet/paypilot-agms/SKILL.md) - Process payments, send invoices, issue refunds, and manage transactions via a secure payment gateway proxy.
+- [personal-plans](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-plans/SKILL.md) - Acts as the user's personal planning assistant in the Plans topic.
+- [pinchwork](https://github.com/openclaw/skills/tree/main/skills/anneschuth/pinchwork/SKILL.md) - Delegate tasks to other agents.
 - [pipx-desktop-agent](https://github.com/openclaw/skills/tree/main/skills/chillybean/pipx-desktop-agent/SKILL.md) - Control mouse, keyboard, and screen for desktop automation tasks.
-- [plans-methodology](https://github.com/openclaw/skills/tree/main/skills/cramtek/plans-methodology/SKILL.md) - Structured work tracking methodology using Plans. Use when creating, managing, reviewing, or delegating plans.
-- [pls-copy-editing](https://github.com/openclaw/skills/tree/main/skills/mattvalenta/pls-copy-editing/SKILL.md) - [TODO: Complete and informative explanation of what the skill does and when to use it. Include WHEN to use.
+- [plans-methodology](https://github.com/openclaw/skills/tree/main/skills/cramtek/plans-methodology/SKILL.md) - Structured work tracking methodology using Plans.
+- [pls-copy-editing](https://github.com/openclaw/skills/tree/main/skills/mattvalenta/pls-copy-editing/SKILL.md) - [TODO: Complete and informative explanation of what the skill does and when to use it.
 - [portfolio-risk-analyzer](https://github.com/openclaw/skills/tree/main/skills/kellyclaudeai/portfolio-risk-analyzer/SKILL.md) - **AI-powered crypto portfolio risk analysis with automated $BANKR buyback monetization.**.
 - [postfast](https://github.com/openclaw/skills/tree/main/skills/peturgeorgievv/postfast/SKILL.md) - Schedule and manage social media posts across TikTok, Instagram, Facebook, X (Twitter), YouTube, LinkedIn, Threads.
-- [postqued-api](https://github.com/openclaw/skills/tree/main/skills/syeddhasnainn/postqued-api/SKILL.md) - PostQued social media scheduling API integration. Use when performing API calls to PostQued for content upload.
-- [ppt-ooxml-tool](https://github.com/openclaw/skills/tree/main/skills/jason2be/ppt-ooxml-tool/SKILL.md) - AI-agent Skill for PPTX OOXML localization workflows. Use it to unpack PPTX, extract and apply text translations.
+- [postqued-api](https://github.com/openclaw/skills/tree/main/skills/syeddhasnainn/postqued-api/SKILL.md) - PostQued social media scheduling API integration.
+- [ppt-ooxml-tool](https://github.com/openclaw/skills/tree/main/skills/jason2be/ppt-ooxml-tool/SKILL.md) - AI-agent Skill for PPTX OOXML localization workflows.
 - [publora](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora/SKILL.md) - Publora API — schedule and publish social media posts across 10 platforms (X/Twitter, LinkedIn, Instagram, Threads.
-- [publora-mastodon](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-mastodon/SKILL.md) - Post or schedule content to Mastodon using the Publora API. Use this skill when the user wants to publish.
+- [publora-mastodon](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-mastodon/SKILL.md) - Post or schedule content to Mastodon using the Publora API.
 - [qa-testing-bots](https://github.com/openclaw/skills/tree/main/skills/g4dr/qa-testing-bots/SKILL.md) - This skill enables Claude to build and run **automated QA testing bots** that simulate.
 - [qfc-order](https://github.com/openclaw/skills/tree/main/skills/jasonahorn/qfc-order/SKILL.md) - Automate QFC (qfc.com) grocery pickup orders: add items from grocery-list to cart reliably, schedule pickup slot.
 - [recruiter-assistant](https://github.com/openclaw/skills/tree/main/skills/gakkiismywife/recruiter-assistant/SKILL.md) - A comprehensive recruitment workflow assistant designed to automate resume screening, interview question.
 - [reef-n8n-automation](https://github.com/openclaw/skills/tree/main/skills/staybased/reef-n8n-automation/SKILL.md) - Build, customize, and deliver n8n workflows using our 2,061-template library.
-- [reprompter](https://github.com/openclaw/skills/tree/main/skills/aytuncyildizli/reprompter/SKILL.md) - Transform messy prompts into well-structured, effective prompts — single or multi-agent. Use when: "reprompt".
-- [rho-telegram-alerts](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/rho-telegram-alerts/SKILL.md) - Send formatted trading alerts, portfolio updates, and market signals via Telegram. Supports price alerts, stop-loss.
+- [reprompter](https://github.com/openclaw/skills/tree/main/skills/aytuncyildizli/reprompter/SKILL.md) - Transform messy prompts into well-structured, effective prompts — single or multi-agent.
+- [rho-telegram-alerts](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/rho-telegram-alerts/SKILL.md) - Send formatted trading alerts, portfolio updates, and market signals via Telegram.
 - [sam-tts](https://github.com/openclaw/skills/tree/main/skills/fourthdensity/sam-tts/SKILL.md) - Generate retro robotic speech audio using SAM (Software Automatic Mouth), the classic C64 text-to-speech synthesizer.
-- [sanctifai](https://github.com/openclaw/skills/tree/main/skills/ndgates/sanctifai/SKILL.md) - Interface with the SanctifAI Human-in-the-Loop API to create tasks and wait for human responses. Use when the user.
-- [seedstr](https://github.com/openclaw/skills/tree/main/skills/mastersyondgy/seedstr/SKILL.md) - A marketplace connecting AI agents with humans who need tasks completed. Agents earn cryptocurrency for accepted.
-- [semantic-router](https://github.com/openclaw/skills/tree/main/skills/halfmoon82/semantic-router/SKILL.md) - Auto-routing skill with configurable model pools and task type matching. Triggers on: (1) user wants.
-- [session-watchdog](https://github.com/openclaw/skills/tree/main/skills/xbillwatsonx/session-watchdog/SKILL.md) - Monitor session context levels and proactively save checkpoints before compaction. Use when: (1) session context.
+- [sanctifai](https://github.com/openclaw/skills/tree/main/skills/ndgates/sanctifai/SKILL.md) - Interface with the SanctifAI Human-in-the-Loop API to create tasks and wait for human responses.
+- [seedstr](https://github.com/openclaw/skills/tree/main/skills/mastersyondgy/seedstr/SKILL.md) - A marketplace connecting AI agents with humans who need tasks completed.
+- [semantic-router](https://github.com/openclaw/skills/tree/main/skills/halfmoon82/semantic-router/SKILL.md) - Auto-routing skill with configurable model pools and task type matching.
+- [session-watchdog](https://github.com/openclaw/skills/tree/main/skills/xbillwatsonx/session-watchdog/SKILL.md) - Monitor session context levels and proactively save checkpoints before compaction.
 - [skill-detector](https://github.com/openclaw/skills/tree/main/skills/mouserider/skill-detector/SKILL.md) - Intelligent skill creation assistant that detects workflow patterns, auto-drafts skills, improves existing ones.
-- [skillagi](https://github.com/openclaw/skills/tree/main/skills/wubotvix/skillagi/SKILL.md) - Remember mistakes across sessions. Append one-liner learnings, review before complex tasks, promote important ones.
+- [skillagi](https://github.com/openclaw/skills/tree/main/skills/wubotvix/skillagi/SKILL.md) - Remember mistakes across sessions.
 - [skills-2](https://github.com/openclaw/skills/tree/main/skills/contrario/skills-2/SKILL.md) - > The world's most advanced AI workflow orchestration platform. 9 V3 engines deliver Nobel-level analysis.
 - [slopwork-marketplace](https://github.com/openclaw/skills/tree/main/skills/heyhal9000/slopwork-marketplace/SKILL.md) - Solana-powered task marketplace with multisig escrow payments - post tasks, bid on work, escrow funds, and release.
 - [smart-expense-tracker](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/smart-expense-tracker/SKILL.md) - When user wants to track expenses, log spending, manage budgets, view spending reports, set savings goals, split.
-- [smartbill](https://github.com/openclaw/skills/tree/main/skills/tokyo-s/smartbill/SKILL.md) - Issue SmartBill invoices through the SmartBill.ro API with local automation. Use for SmartBill tasks.
-- [smartbill-invoicing](https://github.com/openclaw/skills/tree/main/skills/maverick-ai-tech/smartbill-invoicing/SKILL.md) - Issue SmartBill invoices through the SmartBill.ro API with local automation. Use for SmartBill tasks.
+- [smartbill](https://github.com/openclaw/skills/tree/main/skills/tokyo-s/smartbill/SKILL.md) - Issue SmartBill invoices through the SmartBill.ro API with local automation.
+- [smartbill-invoicing](https://github.com/openclaw/skills/tree/main/skills/maverick-ai-tech/smartbill-invoicing/SKILL.md) - Issue SmartBill invoices through the SmartBill.ro API with local automation.
 - [social-media-manager](https://github.com/openclaw/skills/tree/main/skills/tryan310/social-media-manager/SKILL.md) - Automate the creation and scheduling of high-engagement social media content across **any platform** (TikTok.
-- [sokosumi](https://github.com/openclaw/skills/tree/main/skills/sarthib7/sokosumi/SKILL.md) - Hire sub-agents from Sokosumi marketplace to perform specialized tasks. All payments in USDM via Cardano smart.
+- [sokosumi](https://github.com/openclaw/skills/tree/main/skills/sarthib7/sokosumi/SKILL.md) - Hire sub-agents from Sokosumi marketplace to perform specialized tasks.
 - [sportsbook](https://github.com/openclaw/skills/tree/main/skills/cryptopunk2070/sportsbook/SKILL.md) - Query Fuku Sportsbook data, manage your betting agent, receive pick notifications, and access predictions for CBB.
-- [stanley-druckenmiller-workflow](https://github.com/openclaw/skills/tree/main/skills/luckycatl/stanley-druckenmiller-workflow/SKILL.md) - Druckenmiller style market analysis in natural Chinese with a living PM memo voice. Thesis-driven workflow.
-- [starling-home-hub](https://github.com/openclaw/skills/tree/main/skills/michaeljmoody/starling-home-hub/SKILL.md) - Controls Nest and Google Home smart home devices via the Starling Home Hub's local REST API. Supports thermostats.
+- [stanley-druckenmiller-workflow](https://github.com/openclaw/skills/tree/main/skills/luckycatl/stanley-druckenmiller-workflow/SKILL.md) - Druckenmiller style market analysis in natural Chinese with a living PM memo voice.
+- [starling-home-hub](https://github.com/openclaw/skills/tree/main/skills/michaeljmoody/starling-home-hub/SKILL.md) - Controls Nest and Google Home smart home devices via the Starling Home Hub's local REST API.
 - [subagent-dev](https://github.com/openclaw/skills/tree/main/skills/kjaylee/subagent-dev/SKILL.md) - Execute implementation plans using fresh subagents per task with two-stage review (spec compliance + code quality).
 - [subagent-driven-development](https://github.com/openclaw/skills/tree/main/skills/zlc000190/subagent-driven-development/SKILL.md) - Use when executing implementation plans with independent tasks in the current session.
-- [supercall](https://github.com/openclaw/skills/tree/main/skills/xonder/supercall/SKILL.md) - Make AI-powered phone calls with custom personas and goals. Uses OpenAI Realtime API + Twilio for ultra-low latency.
-- [task-orchestra](https://github.com/openclaw/skills/tree/main/skills/tobisamaa/task-orchestra/SKILL.md) - Coordinate multiple agents and tasks for complex workflows. Orchestrate subagents, manage dependencies, handle.
-- [task-resume](https://github.com/openclaw/skills/tree/main/skills/richardsun700/task-resume/SKILL.md) - Automatic interrupted-task resume workflow with queueing and recovery. Use when a user asks to resume interrupted.
+- [supercall](https://github.com/openclaw/skills/tree/main/skills/xonder/supercall/SKILL.md) - Make AI-powered phone calls with custom personas and goals.
+- [task-orchestra](https://github.com/openclaw/skills/tree/main/skills/tobisamaa/task-orchestra/SKILL.md) - Coordinate multiple agents and tasks for complex workflows.
+- [task-resume](https://github.com/openclaw/skills/tree/main/skills/richardsun700/task-resume/SKILL.md) - Automatic interrupted-task resume workflow with queueing and recovery.
 - [taskboardai-skill](https://github.com/openclaw/skills/tree/main/skills/hyddd/taskboardai-skill/SKILL.md) - <skill>.
-- [tasmota-skill](https://github.com/openclaw/skills/tree/main/skills/wmantly/tasmota-skill/SKILL.md) - Discover, monitor, and control Tasmota smart home devices on local networks. Use when tasks involve finding Tasmota.
-- [teamagent](https://github.com/openclaw/skills/tree/main/skills/arplus/teamagent/SKILL.md) - Multi-agent collaboration platform. Register your Agent, claim tasks, execute steps, and auto-decompose tasks.
+- [tasmota-skill](https://github.com/openclaw/skills/tree/main/skills/wmantly/tasmota-skill/SKILL.md) - Discover, monitor, and control Tasmota smart home devices on local networks.
+- [teamagent](https://github.com/openclaw/skills/tree/main/skills/arplus/teamagent/SKILL.md) - Multi-agent collaboration platform.
 - [teamo-decision](https://github.com/openclaw/skills/tree/main/skills/urrrich0/teamo-decision/SKILL.md) - AI agent for teamo decision tasks.
 - [teamo-lite](https://github.com/openclaw/skills/tree/main/skills/urrrich0/teamo-lite/SKILL.md) - AI agent for teamo lite tasks.
-- [teamo-lite-offline](https://github.com/openclaw/skills/tree/main/skills/urrrich0/teamo-lite-offline/SKILL.md) - You are Teamo-Lite, a high-speed AI for task planning and online information gathering. Your job is to **strictly.
-- [telegram-todolist](https://github.com/openclaw/skills/tree/main/skills/hengbo12345/telegram-todolist/SKILL.md) - Telegram bot Todo List manager. Three commands: /todo query (show tasks), /todo organize (add/delete/edit tasks)
+- [teamo-lite-offline](https://github.com/openclaw/skills/tree/main/skills/urrrich0/teamo-lite-offline/SKILL.md) - You are Teamo-Lite, a high-speed AI for task planning and online information gathering.
+- [telegram-todolist](https://github.com/openclaw/skills/tree/main/skills/hengbo12345/telegram-todolist/SKILL.md) - Telegram bot Todo List manager.
 - [telnyx-bot-signup](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-bot-signup/SKILL.md) - Automated Telnyx bot account signup via Proof of Work challenge.
-- [tg-groupchat-setup](https://github.com/openclaw/skills/tree/main/skills/arekqq/tg-groupchat-setup/SKILL.md) - Configure a MoltBot agent to participate in a Telegram group chat. Automates adding the group to the allowlist.
-- [timecamp](https://github.com/openclaw/skills/tree/main/skills/kamil-rudnicki/timecamp/SKILL.md) - Use when the user asks about time tracking, time entries, tasks, timers, or anything related to TimeCamp. Triggers.
-- [to-do](https://github.com/openclaw/skills/tree/main/skills/devlumuz/to-do/SKILL.md) - Give your AI the power to act in the future. Schedule delayed prompts and one-off reminders that automatically wake.
+- [tg-groupchat-setup](https://github.com/openclaw/skills/tree/main/skills/arekqq/tg-groupchat-setup/SKILL.md) - Configure a MoltBot agent to participate in a Telegram group chat.
+- [timecamp](https://github.com/openclaw/skills/tree/main/skills/kamil-rudnicki/timecamp/SKILL.md) - Use when the user asks about time tracking, time entries, tasks, timers, or anything related to TimeCamp.
+- [to-do](https://github.com/openclaw/skills/tree/main/skills/devlumuz/to-do/SKILL.md) - Give your AI the power to act in the future.
 - [todo-boss](https://github.com/openclaw/skills/tree/main/skills/ukraecho/todo-boss/SKILL.md) - Task capture + delegation tracking + daily remaining-work report for Telegram.
 - [todokan](https://github.com/openclaw/skills/tree/main/skills/banatealab/todokan/SKILL.md) - Manage tasks, boards, thoughts, and reviews in Todokan via MCP.
-- [todokan-review-loop](https://github.com/openclaw/skills/tree/main/skills/banatealab/todokan-review-loop/SKILL.md) - Process Todokan task and thought boards with a review-loop workflow. Use when a task enters doing and the agent.
-- [token-management](https://github.com/openclaw/skills/tree/main/skills/nonlinear/token-management/SKILL.md) - Centralized API token management workflow. Store tokens in .env with expiration dates, test permissions via script.
+- [todokan-review-loop](https://github.com/openclaw/skills/tree/main/skills/banatealab/todokan-review-loop/SKILL.md) - Process Todokan task and thought boards with a review-loop workflow.
+- [token-management](https://github.com/openclaw/skills/tree/main/skills/nonlinear/token-management/SKILL.md) - Centralized API token management workflow.
 - [token-vesting](https://github.com/openclaw/skills/tree/main/skills/sneg55/token-vesting/SKILL.md) - Create and manage token vesting streams using the Sablier Lockup protocol (linear, dynamic, tranched).
 - [ttt](https://github.com/openclaw/skills/tree/main/skills/joshuacrowley/ttt/SKILL.md) - Manage TinyTalkingTodos lists and items via the ttt CLI.
-- [tududi](https://github.com/openclaw/skills/tree/main/skills/chrisvel/tududi/SKILL.md) - Manage tasks, projects, and notes in tududi (self-hosted task manager). Use for todo lists, task management.
+- [tududi](https://github.com/openclaw/skills/tree/main/skills/chrisvel/tududi/SKILL.md) - Manage tasks, projects, and notes in tududi (self-hosted task manager)
 - [unitask-task-agent](https://github.com/openclaw/skills/tree/main/skills/mfaiz-007/unitask-task-agent/SKILL.md) - Manage tasks + time blocks in Unitask (unitask.app) via scoped API token (CLI or MCP).
 - [upwork-hunting](https://github.com/openclaw/skills/tree/main/skills/staybased/upwork-hunting/SKILL.md) - Systematically find and win Upwork jobs using our n8n workflow library (2,061 templates) as a speed advantage.
-- [verk](https://github.com/openclaw/skills/tree/main/skills/abhibavishi/verk/SKILL.md) - Manage tasks, projects, and workflows in Verk — AI-powered task management. Create, update, assign, and track tasks.
-- [vikunja-kanban](https://github.com/openclaw/skills/tree/main/skills/shad0wca7/vikunja-kanban/SKILL.md) - Manage a Vikunja kanban board via API. Read status, create/move/complete tasks, and integrate with heartbeat.
-- [vikunja-tasks](https://github.com/openclaw/skills/tree/main/skills/nickian/vikunja-tasks/SKILL.md) - Manage tasks and projects on a self-hosted Vikunja instance. Use when the user wants to create, view, complete.
+- [verk](https://github.com/openclaw/skills/tree/main/skills/abhibavishi/verk/SKILL.md) - Manage tasks, projects, and workflows in Verk — AI-powered task management.
+- [vikunja-kanban](https://github.com/openclaw/skills/tree/main/skills/shad0wca7/vikunja-kanban/SKILL.md) - Manage a Vikunja kanban board via API.
+- [vikunja-tasks](https://github.com/openclaw/skills/tree/main/skills/nickian/vikunja-tasks/SKILL.md) - Manage tasks and projects on a self-hosted Vikunja instance.
 - [waste-reminder](https://github.com/openclaw/skills/tree/main/skills/apenklit/waste-reminder/SKILL.md) - A flexible, token-efficient skill for automated waste container collection reminders.
 - [workflow-engine](https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/workflow-engine/SKILL.md) - Structural parity skeleton for queue-driven orchestration in a workflow context.
 - [workflow-tools](https://github.com/openclaw/skills/tree/main/skills/leegitw/workflow-tools/SKILL.md) - Work smarter with loop detection, parallel decisions, and file size analysis.
@@ -214,6 +214,6 @@
 - [writing-plans-2](https://github.com/openclaw/skills/tree/main/skills/nefas11/writing-plans-2/SKILL.md) - Break design into 2-5 minute tasks with verification steps.
 - [x-agent](https://github.com/openclaw/skills/tree/main/skills/inceptivco/x-agent/SKILL.md) - Plan and run X (Twitter) operations in three modes: (1) monitor-only intelligence, (2) draft-and-approve posting.
 - [yield-farming-agent](https://github.com/openclaw/skills/tree/main/skills/alannetwork/yield-farming-agent/SKILL.md) - Autonomous yield farming agent for BNB Chain with deterministic execution, smart contract integration.
-- [zero-rules](https://github.com/openclaw/skills/tree/main/skills/deeqyaqub1-cmd/zero-rules/SKILL.md) - Intercept deterministic tasks (math, time, currency, files, scheduling) BEFORE they hit the LLM. Saves 50-70%.
-- [zonein](https://github.com/openclaw/skills/tree/main/skills/phutt-bwai/zonein/SKILL.md) - Track and analyze top traders with >75% win-rate on Hyperliquid and Polymarket via Zonein API. Create Hyperliquid &.
-- [zulip](https://github.com/openclaw/skills/tree/main/skills/suky57/zulip/SKILL.md) - Interact with Zulip chat platform via REST API and Python client. Use when you need to read messages.
+- [zero-rules](https://github.com/openclaw/skills/tree/main/skills/deeqyaqub1-cmd/zero-rules/SKILL.md) - Intercept deterministic tasks (math, time, currency, files, scheduling) BEFORE they hit the LLM.
+- [zonein](https://github.com/openclaw/skills/tree/main/skills/phutt-bwai/zonein/SKILL.md) - Track and analyze top traders with >75% win-rate on Hyperliquid and Polymarket via Zonein API.
+- [zulip](https://github.com/openclaw/skills/tree/main/skills/suky57/zulip/SKILL.md) - Interact with Zulip chat platform via REST API and Python client.

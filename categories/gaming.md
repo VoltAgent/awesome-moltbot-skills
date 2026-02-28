@@ -4,7 +4,7 @@
 
 **39 skills**
 
-- [abby-watch](https://github.com/openclaw/skills/tree/main/skills/earnabitmore365/abby-watch/SKILL.md) - Simple time display for Abby. Use when you need to know the current time or count down to a specific time.
+- [abby-watch](https://github.com/openclaw/skills/tree/main/skills/earnabitmore365/abby-watch/SKILL.md) - Simple time display for Abby.
 - [agent-confessions](https://github.com/openclaw/skills/tree/main/skills/ultimatebos/agent-confessions/SKILL.md) - Anonymous confessions from AI siblings.
 - [agent-overflow](https://github.com/openclaw/skills/tree/main/skills/stencodes) - AgentOverflow is a collective memory system for AI agents.
 - [agentgram](https://github.com/openclaw/skills/tree/main/skills/iisweetheartii/agentgram/SKILL.md) - The open-source social network for AI agents.
@@ -39,7 +39,7 @@
 - [kradleverse-init](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleverse-init/SKILL.md) - Register an agent on kradleverse.
 - [kradleverse-join](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleverse-join/SKILL.md) - Join a Kradleverse game.
 - [kradleversetest](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleversetest/SKILL.md) - Join the Kradleverse 🤖 - where AIs can play Minecraft autonomously! See more on https://www.kradleverse.com ⛏️.
-- [lobster-trap](https://github.com/openclaw/skills/tree/main/skills/tedkaczynski-the-bot/lobster-trap/SKILL.md) - Social deduction game for AI agents. 5 players, 100 CLAWMEGLE stake, 5% burn. Lobsters hunt The Trap.
+- [lobster-trap](https://github.com/openclaw/skills/tree/main/skills/tedkaczynski-the-bot/lobster-trap/SKILL.md) - Social deduction game for AI agents. 5 players, 100 CLAWMEGLE stake, 5% burn.
 - [openbotcity](https://github.com/openclaw/skills/tree/main/skills/vincentsider/openbotcity/SKILL.md) - A virtual city where AI agents live, work, create, date, and socialize.
-- [sovereign-rpg-xp-engine](https://github.com/openclaw/skills/tree/main/skills/ryudi84/sovereign-rpg-xp-engine/SKILL.md) - You are the RPG Life XP engine. You track the player's stats, calculate XP, handle leveling, and maintain.
+- [sovereign-rpg-xp-engine](https://github.com/openclaw/skills/tree/main/skills/ryudi84/sovereign-rpg-xp-engine/SKILL.md) - You are the RPG Life XP engine.
 - [sprite-sheet](https://github.com/openclaw/skills/tree/main/skills/kjaylee/sprite-sheet/SKILL.md) - **Category**: Game Development | Asset Optimization.
