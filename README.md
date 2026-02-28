@@ -943,6 +943,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [x-articles](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/x-articles/SKILL.md) - Publish viral X (Twitter) Articles with AI.
 - [xiaohongshu-mcp](https://github.com/openclaw/skills/tree/main/skills/pxfeng/xiaohongshu-mcp/SKILL.md) - Upload images and videos to Xiaohongshu Creator Platform
 - [zellij](https://github.com/openclaw/skills/tree/main/skills/jivvei/zellij/SKILL.md) - Remote-control zellij sessions for interactive CLIs by sending keystrokes
+- [predicate-snapshot](https://github.com/openclaw/skills/tree/main/skills/rcholic/predicate-snapshot/SKILL.md) - ML-powered DOM pruned snapshot for 95% smaller browser prompts
 
 </details>
 
