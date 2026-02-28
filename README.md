@@ -233,6 +233,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [multi-factor-strategy](https://github.com/openclaw/skills/tree/main/skills/wumu2013) - Guide users to create multi-factor stock
 - [mux-video](https://github.com/openclaw/skills/tree/main/skills/dktrn9ne/mux-video/SKILL.md) - Mux Video infrastructure skill for designing, ingesting
 - [noir-developer](https://github.com/openclaw/skills/tree/main/skills/jp4g/noir-developer/SKILL.md) - Develop Noir (.nr) codebases.
+- [octoflow](https://github.com/openclaw/skills/tree/main/skills/mikedconcepcion/octoflow/SKILL.md) - GPU-native language with MCP server (7 tools). Describe tasks in English, run on any GPU. 3.2 MB, zero dependencies.
 - [only-baby-skill](https://github.com/openclaw/skills/tree/main/skills/jacklandrin/only-baby-skill/SKILL.md) - Analyze contraction JSON and baby log JSON to assess
 - [ooze-agents](https://github.com/openclaw/skills/tree/main/skills/jschwerberg/ooze-agents/SKILL.md) - Visual identity that evolves with reputation - create and nurture
 - [opencode-acp-control](https://github.com/openclaw/skills/tree/main/skills/bjesuiter/opencode-acp-control/SKILL.md) - Control OpenCode directly via the Agent Client
@@ -2018,6 +2019,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ngrok-unofficial-webhook-skill](https://github.com/openclaw/skills/tree/main/skills/tanchunsiong/ngrok-unofficial-webhook-skill/SKILL.md) - Start an ngrok tunnel
 - [nima-core](https://github.com/openclaw/skills/tree/main/skills/dmdorta1111/nima-core/SKILL.md) - Biologically-inspired cognitive memory for AI agents.
 - [oban-designer](https://github.com/openclaw/skills/tree/main/skills/gchapim/oban-designer/SKILL.md) - Design and implement Oban background job workers for Elixir.
+- [octoflow](https://github.com/openclaw/skills/tree/main/skills/mikedconcepcion/octoflow/SKILL.md) - GPU-native language — English to GPU programs via Vulkan. MCP server, chat mode, auto-fix loop. 207 builtins, 102 GPU kernels.
 - [ollama-local](https://github.com/openclaw/skills/tree/main/skills/timverhoogt/ollama-local/SKILL.md) - Manage and use local Ollama models.
 - [openai-docs-skill](https://github.com/openclaw/skills/tree/main/skills/am-will/openai-docs/SKILL.md) - Query the OpenAI developer documentation via the OpenAI Docs
 - [openai-image-gen](https://github.com/openclaw/skills/tree/main/skills/steipete/openai-image-gen/SKILL.md) - Batch-generate images via OpenAI Images API.
