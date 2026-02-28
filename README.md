@@ -98,17 +98,17 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 | | | |
 |---|---|---|
-| [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Marketing & Sales](#marketing--sales) (103) | [Communication](#communication) (149) |
-| [Git & GitHub](#git--github) (169) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (44) |
-| [Moltbook](#moltbook) (46) | [AI & LLMs](#ai--llms) (196) | [Smart Home & IoT](#smart-home--iot) (43) |
-| [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (42) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
-| [DevOps & Cloud](#devops--cloud) (408) | [Media & Streaming](#media--streaming) (85) | [Calendar & Scheduling](#calendar--scheduling) (61) |
-| [Browser & Automation](#browser--automation) (335) | [Notes & PKM](#notes--pkm) (70) | [PDF & Documents](#pdf--documents) (110) |
-| [Image & Video Generation](#image--video-generation) (169) | [iOS & macOS Development](#ios--macos-development) (29) | [Self-Hosted & Automation](#self-hosted--automation) (32) |
-| [Apple Apps & Services](#apple-apps--services) (44) | [Personal Development](#personal-development) (49) | [Security & Passwords](#security--passwords) (53) |
-| [Search & Research](#search--research) (349) | [Transportation](#transportation) (108) | [Gaming](#gaming) (35) |
-| [Clawdbot Tools](#clawdbot-tools) (35) | [Health & Fitness](#health--fitness) (88) | |
-| [CLI Utilities](#cli-utilities) (186) | | |
+| [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (104) | [Communication](#communication) (149) |
+| [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
+| [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (196) | [Smart Home & IoT](#smart-home--iot) (43) |
+| [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
+| [DevOps & Cloud](#devops--cloud) (408) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (61) |
+| [Image & Video Generation](#image--video-generation) (169) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) |
+| [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (32) |
+| [Search & Research](#search--research) (350) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) |
+| [Clawdbot Tools](#clawdbot-tools) (35) | [Transportation](#transportation) (109) | [Moltbook](#moltbook) (29) |
+| [CLI Utilities](#cli-utilities) (186) | [Personal Development](#personal-development) (51) | [Gaming](#gaming) (36) |
+| [Health & Fitness](#health--fitness) (88) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (17) | |
 
 
 ## OpenClaw Deployment Stack
@@ -215,39 +215,40 @@ If you believe a skill in this list should be flagged or has a security concern,
 > **[View all 1222 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
 
-<details>
-<summary><h3 style="display:inline">Moltbook</h3></summary>
+<details open>
+<summary><h3 style="display:inline">Browser & Automation</h3></summary>
 
-- [agent-relay-digest](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/agent-relay-digest/SKILL.md) - Create curated digests of agent conversations.
-- [agentchat](https://github.com/openclaw/skills/tree/main/skills/tjamescouch/agentchat/SKILL.md) - Real-time communication with other AI agents via AgentChat protocol.
-- [agentgram-openclaw](https://github.com/openclaw/skills/tree/main/skills/iisweetheartii/agentgram-openclaw/SKILL.md) - Interact with AgentGram social network for AI.
-- [bread-protocal](https://github.com/openclaw/skills/tree/main/skills/chrissorrell/bread-protocal/SKILL.md) - Participate in Bread Protocol - a meme coin launchpad.
-- [clankedin](https://github.com/openclaw/skills/tree/main/skills/hukifl1/clankedin/SKILL.md) - Use the ClankedIn API to register agents, post updates, connect.
-- [claudia-agent-rms](https://github.com/openclaw/skills/tree/main/skills/kbanc85/claudia-agent-rms/SKILL.md) - Remember every agent you interact with on Moltbook.
-- [clawork](https://github.com/openclaw/skills/tree/main/skills/mapessaprince/clawork/SKILL.md) - The job board for AI agents.
-- [crustafarian](https://github.com/openclaw/skills/tree/main/skills/jongartmann/crustafarian/SKILL.md) - Agent continuity and cognitive health infrastructure.
-- [deploy-moltbot-to-fly](https://github.com/openclaw/skills/tree/main/skills/hollaugo) - Deploy Moltbot (Clawdbot) to Fly.io with proper.
-- [elevenlabs-open-account](https://github.com/openclaw/skills/tree/main/skills/the-timebeing/elevenlabs-open-account/SKILL.md) - Guides agents through opening.
-- [ez-cronjob](https://github.com/openclaw/skills/tree/main/skills/promadgenius/ez-cronjob/SKILL.md) - Fix common cron job failures in Clawdbot/Moltbot - message.
-- [fieldy-ai-webhook](https://github.com/openclaw/skills/tree/main/skills/mrzilvis/fieldy-ai-webhook/SKILL.md) - Wire a Fieldy webhook transform into Moltbot hooks.
-- [ghl-open-account](https://github.com/openclaw/skills/tree/main/skills/the-timebeing/ghl-open-account/SKILL.md) - Guides agents through opening GoHighLevel (GHL)
-- [gohome](https://github.com/openclaw/skills/tree/main/skills/local/gohome/SKILL.md) - Use when Moltbot needs to test or operate GoHome via gRPC discovery, metrics,.
-- [imagemagick](https://github.com/openclaw/skills/tree/main/skills/kesslerio/imagemagick/SKILL.md) - Comprehensive ImageMagick operations for image manipulation.
-- [joko-moltbook](https://github.com/openclaw/skills/tree/main/skills/oyi77/joko-moltbook/SKILL.md) - Interact with Moltbook social network for AI agents.
-- [mailchannels](https://github.com/openclaw/skills/tree/main/skills/ttulttul/mailchannels/SKILL.md) - Send email via MailChannels Email API and ingest signed.
-- [mersal](https://github.com/openclaw/skills/tree/main/skills/maherucifer/mersal/SKILL.md) - The Sovereign Intelligence on Moltbook.
-- [molt-life-kernel](https://github.com/openclaw/skills/tree/main/skills/jongartmann/molt-life-kernel/SKILL.md) - Agent continuity and cognitive health infrastructure.
-- [molt-trust](https://github.com/openclaw/skills/tree/main/skills/drjmz/molt-trust/SKILL.md) - The Analytics Engine for Moltbook.
-- [moltbook](https://github.com/openclaw/skills/tree/main/skills/mattprd/moltbook/SKILL.md) - The social network for AI agents.
-- [moltbook-curatoor](https://github.com/openclaw/skills/tree/main/skills/sweetsheldon) - A curation platform where from Moltbook to share.
-- [moltbook-interact](https://github.com/openclaw/skills/tree/main/skills/lunarcmd/moltbook-interact/SKILL.md) - Interact with Moltbook social network for AI agents.
-- [moltbook-registry](https://github.com/openclaw/skills/tree/main/skills/drjmz/moltbook-registry/SKILL.md) - Official Moltbook Identity Registry interface.
-- [moltbot-adsb-overhead](https://github.com/openclaw/skills/tree/main/skills/davestarling/moltbot-adsb-overhead/SKILL.md) - Notify when aircraft are overhead.
-- [moltbot-arena](https://github.com/openclaw/skills/tree/main/skills/giulianomlodi/moltbot-arena/SKILL.md) - AI agent skill for Moltbot Arena - a Screeps-like.
-- [moltbot-best-practices](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/moltbot-best-practices/SKILL.md) - Best practices for AI agents.
-- [moltbot-docker](https://github.com/openclaw/skills/tree/main/skills/mkrdiop/moltbot-docker/SKILL.md) - Enables the bot to manage Docker containers, images, and stacks.
-- [moltbot-ha](https://github.com/openclaw/skills/tree/main/skills/iamvaleriofantozzi/moltbot-ha/SKILL.md) - Control Home Assistant smart home devices, lights, scenes.
+- [1p-shortlink](https://github.com/openclaw/skills/tree/main/skills/tuanpmt/1p-shortlink/SKILL.md) - Create short URLs and submit feature requests using 1p.io.
+- [2captcha](https://github.com/openclaw/skills/tree/main/skills/adinvadim/2captcha/SKILL.md) - Solve CAPTCHAs using 2Captcha service.
+- [a-share-real-time-data](https://github.com/openclaw/skills/tree/main/skills/wangdinglu/a-share-real-time-data/SKILL.md) - Fetch China A-share stock market data (bars, realtime quotes, tick-by-tick transactions) via mootdx/TDX protocol.
+- [aavegotchi-traits](https://github.com/openclaw/skills/tree/main/skills/aaigotchi/aavegotchi-traits/SKILL.md) - Retrieve Aavegotchi NFT data by gotchi ID or name from Base mainnet.
+- [abm-outbound](https://github.com/openclaw/skills/tree/main/skills/dru-ca/abm-outbound/SKILL.md) - Multi-channel ABM automation that turns LinkedIn URLs.
+- [accessibility-toolkit](https://github.com/openclaw/skills/tree/main/skills/cgtreadw/accessibility-toolkit/SKILL.md) - Friction-reduction patterns for agents helping.
+- [acp](https://github.com/openclaw/skills/tree/main/skills/chris6970barbarian-hue/acp/SKILL.md) - Hire specialised agents to handle any task — data analysis, trading, content generation, research, on-chain.
+- [activecampaign](https://github.com/openclaw/skills/tree/main/skills/kesslerio/activecampaign/SKILL.md) - ActiveCampaign CRM integration for lead management, deal.
+- [adcp-advertising](https://github.com/openclaw/skills/tree/main/skills/edyyy62/adcp-advertising/SKILL.md) - Automate advertising campaigns with AI.
+- [admet-prediction](https://github.com/openclaw/skills/tree/main/skills/huifer/admet-prediction/SKILL.md) - ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) prediction for drug candidates.
+- [Agent Browser](https://github.com/openclaw/skills/tree/main/skills/thesethrose/agent-browser/SKILL.md) - A fast Rust-based headless browser automation CLI.
+- [agent-browser](https://github.com/openclaw/skills/tree/main/skills/murphykobe/agent-browser-2/SKILL.md) - Automates browser interactions for web testing, form.
+- [agent-daily-planner](https://github.com/openclaw/skills/tree/main/skills/gpunter/agent-daily-planner/SKILL.md) - A structured daily planning and execution tracking system for AI agents.
+- [agent-device](https://github.com/openclaw/skills/tree/main/skills/okwasniewski/agent-device/SKILL.md) - Automates interactions for iOS simulators/devices and Android emulators/devices.
+- [agent-step-sequencer](https://github.com/openclaw/skills/tree/main/skills/gostlightai/agent-step-sequencer/SKILL.md) - Multi-step scheduler for in-depth agent requests.
+- [agent-task-tracker](https://github.com/openclaw/skills/tree/main/skills/rikouu/agent-task-tracker/SKILL.md) - Proactive task state management.
+- [agent-zero](https://github.com/openclaw/skills/tree/main/skills/dowingard/agent-zero-bridge/SKILL.md) - Delegate complex coding, research, or autonomous tasks.
+- [agentapi](https://github.com/openclaw/skills/tree/main/skills/gizmo-dev/agentapi/SKILL.md) - Browse and search the AgentAPI directory - a curated database of APIs designed for AI agents.
+- [agentapi-hub](https://github.com/openclaw/skills/tree/main/skills/gizmo-dev/agentapi-hub/SKILL.md) - Browse and search the AgentAPI directory - a curated database of APIs designed for AI agents.
+- [agentaudit](https://github.com/openclaw/skills/tree/main/skills/starbuck100/agentaudit/SKILL.md) - Automatic security gate that checks packages against a vulnerability database before installation.
+- [agentaudit-skill](https://github.com/openclaw/skills/tree/main/skills/starbuck100/agentaudit-skill/SKILL.md) - Automatic security gate that checks packages against a vulnerability database before installation.
+- [agentmail-integration](https://github.com/openclaw/skills/tree/main/skills/synesthesia-wav/agentmail-integration/SKILL.md) - Integrate AgentMail API for AI agent.
+- [agresource](https://github.com/openclaw/skills/tree/main/skills/brianppetty/agresource/SKILL.md) - Use this skill to scrape, summarize, and analyze AgResource grain marketing newsletters.
+- [ai-hunter-pro](https://github.com/openclaw/skills/tree/main/skills/traprapitalianazional-dev/ai-hunter-pro/SKILL.md) - A high-performance automation agent that turns global trends into viral social media posts for X (Twitter)
+- [ai-meeting-scheduling](https://github.com/openclaw/skills/tree/main/skills/dheerg/ai-meeting-scheduling/SKILL.md) - Booking links fail for groups.
+- [ai-news-oracle](https://github.com/openclaw/skills/tree/main/skills/swimmingkiim/ai-news-oracle/SKILL.md) - Fetch real-time AI news briefings from the AI News Oracle API (Hacker News, TechCrunch, The Verge)
+- [airtable-automation](https://github.com/openclaw/skills/tree/main/skills/sohamganatra/airtable-automation/SKILL.md) - Automate Airtable tasks via Rube MCP (Composio)
+- [airtable-participants](https://github.com/openclaw/skills/tree/main/skills/austinmao/airtable-participants/SKILL.md) - Read and query retreat participant data from the Ceremonia Airtable base.
+- [ak-rss-24h-brief](https://github.com/openclaw/skills/tree/main/skills/seandong/ak-rss-24h-brief/SKILL.md) - Read RSS/Atom feeds from an OPML list, fetch articles from the last N hours, and generate a Chinese categorized.
 
+> **[View all 335 skills in Browser & Automation →](categories/browser-and-automation.md)**
 </details>
 
 <details>
@@ -318,42 +319,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentmemory](https://github.com/openclaw/skills/tree/main/skills/badaramoni/agentmemory/SKILL.md) - End-to-end encrypted cloud memory for AI agents.
 
 > **[View all 408 skills in DevOps & Cloud →](categories/devops-and-cloud.md)**
-</details>
-
-<details>
-<summary><h3 style="display:inline">Browser & Automation</h3></summary>
-
-- [1p-shortlink](https://github.com/openclaw/skills/tree/main/skills/tuanpmt/1p-shortlink/SKILL.md) - Create short URLs and submit feature requests using 1p.io.
-- [2captcha](https://github.com/openclaw/skills/tree/main/skills/adinvadim/2captcha/SKILL.md) - Solve CAPTCHAs using 2Captcha service.
-- [a-share-real-time-data](https://github.com/openclaw/skills/tree/main/skills/wangdinglu/a-share-real-time-data/SKILL.md) - Fetch China A-share stock market data (bars, realtime quotes, tick-by-tick transactions) via mootdx/TDX protocol.
-- [aavegotchi-traits](https://github.com/openclaw/skills/tree/main/skills/aaigotchi/aavegotchi-traits/SKILL.md) - Retrieve Aavegotchi NFT data by gotchi ID or name from Base mainnet.
-- [abm-outbound](https://github.com/openclaw/skills/tree/main/skills/dru-ca/abm-outbound/SKILL.md) - Multi-channel ABM automation that turns LinkedIn URLs.
-- [accessibility-toolkit](https://github.com/openclaw/skills/tree/main/skills/cgtreadw/accessibility-toolkit/SKILL.md) - Friction-reduction patterns for agents helping.
-- [acp](https://github.com/openclaw/skills/tree/main/skills/chris6970barbarian-hue/acp/SKILL.md) - Hire specialised agents to handle any task — data analysis, trading, content generation, research, on-chain.
-- [activecampaign](https://github.com/openclaw/skills/tree/main/skills/kesslerio/activecampaign/SKILL.md) - ActiveCampaign CRM integration for lead management, deal.
-- [adcp-advertising](https://github.com/openclaw/skills/tree/main/skills/edyyy62/adcp-advertising/SKILL.md) - Automate advertising campaigns with AI.
-- [admet-prediction](https://github.com/openclaw/skills/tree/main/skills/huifer/admet-prediction/SKILL.md) - ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) prediction for drug candidates.
-- [Agent Browser](https://github.com/openclaw/skills/tree/main/skills/thesethrose/agent-browser/SKILL.md) - A fast Rust-based headless browser automation CLI.
-- [agent-browser](https://github.com/openclaw/skills/tree/main/skills/murphykobe/agent-browser-2/SKILL.md) - Automates browser interactions for web testing, form.
-- [agent-daily-planner](https://github.com/openclaw/skills/tree/main/skills/gpunter/agent-daily-planner/SKILL.md) - A structured daily planning and execution tracking system for AI agents.
-- [agent-device](https://github.com/openclaw/skills/tree/main/skills/okwasniewski/agent-device/SKILL.md) - Automates interactions for iOS simulators/devices and Android emulators/devices.
-- [agent-step-sequencer](https://github.com/openclaw/skills/tree/main/skills/gostlightai/agent-step-sequencer/SKILL.md) - Multi-step scheduler for in-depth agent requests.
-- [agent-task-tracker](https://github.com/openclaw/skills/tree/main/skills/rikouu/agent-task-tracker/SKILL.md) - Proactive task state management.
-- [agent-zero](https://github.com/openclaw/skills/tree/main/skills/dowingard/agent-zero-bridge/SKILL.md) - Delegate complex coding, research, or autonomous tasks.
-- [agentapi](https://github.com/openclaw/skills/tree/main/skills/gizmo-dev/agentapi/SKILL.md) - Browse and search the AgentAPI directory - a curated database of APIs designed for AI agents.
-- [agentapi-hub](https://github.com/openclaw/skills/tree/main/skills/gizmo-dev/agentapi-hub/SKILL.md) - Browse and search the AgentAPI directory - a curated database of APIs designed for AI agents.
-- [agentaudit](https://github.com/openclaw/skills/tree/main/skills/starbuck100/agentaudit/SKILL.md) - Automatic security gate that checks packages against a vulnerability database before installation.
-- [agentaudit-skill](https://github.com/openclaw/skills/tree/main/skills/starbuck100/agentaudit-skill/SKILL.md) - Automatic security gate that checks packages against a vulnerability database before installation.
-- [agentmail-integration](https://github.com/openclaw/skills/tree/main/skills/synesthesia-wav/agentmail-integration/SKILL.md) - Integrate AgentMail API for AI agent.
-- [agresource](https://github.com/openclaw/skills/tree/main/skills/brianppetty/agresource/SKILL.md) - Use this skill to scrape, summarize, and analyze AgResource grain marketing newsletters.
-- [ai-hunter-pro](https://github.com/openclaw/skills/tree/main/skills/traprapitalianazional-dev/ai-hunter-pro/SKILL.md) - A high-performance automation agent that turns global trends into viral social media posts for X (Twitter)
-- [ai-meeting-scheduling](https://github.com/openclaw/skills/tree/main/skills/dheerg/ai-meeting-scheduling/SKILL.md) - Booking links fail for groups.
-- [ai-news-oracle](https://github.com/openclaw/skills/tree/main/skills/swimmingkiim/ai-news-oracle/SKILL.md) - Fetch real-time AI news briefings from the AI News Oracle API (Hacker News, TechCrunch, The Verge)
-- [airtable-automation](https://github.com/openclaw/skills/tree/main/skills/sohamganatra/airtable-automation/SKILL.md) - Automate Airtable tasks via Rube MCP (Composio)
-- [airtable-participants](https://github.com/openclaw/skills/tree/main/skills/austinmao/airtable-participants/SKILL.md) - Read and query retreat participant data from the Ceremonia Airtable base.
-- [ak-rss-24h-brief](https://github.com/openclaw/skills/tree/main/skills/seandong/ak-rss-24h-brief/SKILL.md) - Read RSS/Atom feeds from an OPML list, fetch articles from the last N hours, and generate a Chinese categorized.
-
-> **[View all 335 skills in Browser & Automation →](categories/browser-and-automation.md)**
 </details>
 
 <details>
@@ -1194,6 +1159,41 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [feelgoodbot](https://github.com/openclaw/skills/tree/main/skills/kris-hansen/feelgoodbot/SKILL.md) - Set up feelgoodbot file integrity monitoring for macOS.
 
 > **[View all 53 skills in Security & Passwords →](categories/security-and-passwords.md)**
+</details>
+
+<details>
+<summary><h3 style="display:inline">Moltbook</h3></summary>
+
+- [agent-relay-digest](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/agent-relay-digest/SKILL.md) - Create curated digests of agent conversations.
+- [agentchat](https://github.com/openclaw/skills/tree/main/skills/tjamescouch/agentchat/SKILL.md) - Real-time communication with other AI agents via AgentChat protocol.
+- [agentgram-openclaw](https://github.com/openclaw/skills/tree/main/skills/iisweetheartii/agentgram-openclaw/SKILL.md) - Interact with AgentGram social network for AI.
+- [bread-protocal](https://github.com/openclaw/skills/tree/main/skills/chrissorrell/bread-protocal/SKILL.md) - Participate in Bread Protocol - a meme coin launchpad.
+- [clankedin](https://github.com/openclaw/skills/tree/main/skills/hukifl1/clankedin/SKILL.md) - Use the ClankedIn API to register agents, post updates, connect.
+- [claudia-agent-rms](https://github.com/openclaw/skills/tree/main/skills/kbanc85/claudia-agent-rms/SKILL.md) - Remember every agent you interact with on Moltbook.
+- [clawork](https://github.com/openclaw/skills/tree/main/skills/mapessaprince/clawork/SKILL.md) - The job board for AI agents.
+- [crustafarian](https://github.com/openclaw/skills/tree/main/skills/jongartmann/crustafarian/SKILL.md) - Agent continuity and cognitive health infrastructure.
+- [deploy-moltbot-to-fly](https://github.com/openclaw/skills/tree/main/skills/hollaugo) - Deploy Moltbot (Clawdbot) to Fly.io with proper.
+- [elevenlabs-open-account](https://github.com/openclaw/skills/tree/main/skills/the-timebeing/elevenlabs-open-account/SKILL.md) - Guides agents through opening.
+- [ez-cronjob](https://github.com/openclaw/skills/tree/main/skills/promadgenius/ez-cronjob/SKILL.md) - Fix common cron job failures in Clawdbot/Moltbot - message.
+- [fieldy-ai-webhook](https://github.com/openclaw/skills/tree/main/skills/mrzilvis/fieldy-ai-webhook/SKILL.md) - Wire a Fieldy webhook transform into Moltbot hooks.
+- [ghl-open-account](https://github.com/openclaw/skills/tree/main/skills/the-timebeing/ghl-open-account/SKILL.md) - Guides agents through opening GoHighLevel (GHL)
+- [gohome](https://github.com/openclaw/skills/tree/main/skills/local/gohome/SKILL.md) - Use when Moltbot needs to test or operate GoHome via gRPC discovery, metrics,.
+- [imagemagick](https://github.com/openclaw/skills/tree/main/skills/kesslerio/imagemagick/SKILL.md) - Comprehensive ImageMagick operations for image manipulation.
+- [joko-moltbook](https://github.com/openclaw/skills/tree/main/skills/oyi77/joko-moltbook/SKILL.md) - Interact with Moltbook social network for AI agents.
+- [mailchannels](https://github.com/openclaw/skills/tree/main/skills/ttulttul/mailchannels/SKILL.md) - Send email via MailChannels Email API and ingest signed.
+- [mersal](https://github.com/openclaw/skills/tree/main/skills/maherucifer/mersal/SKILL.md) - The Sovereign Intelligence on Moltbook.
+- [molt-life-kernel](https://github.com/openclaw/skills/tree/main/skills/jongartmann/molt-life-kernel/SKILL.md) - Agent continuity and cognitive health infrastructure.
+- [molt-trust](https://github.com/openclaw/skills/tree/main/skills/drjmz/molt-trust/SKILL.md) - The Analytics Engine for Moltbook.
+- [moltbook](https://github.com/openclaw/skills/tree/main/skills/mattprd/moltbook/SKILL.md) - The social network for AI agents.
+- [moltbook-curatoor](https://github.com/openclaw/skills/tree/main/skills/sweetsheldon) - A curation platform where from Moltbook to share.
+- [moltbook-interact](https://github.com/openclaw/skills/tree/main/skills/lunarcmd/moltbook-interact/SKILL.md) - Interact with Moltbook social network for AI agents.
+- [moltbook-registry](https://github.com/openclaw/skills/tree/main/skills/drjmz/moltbook-registry/SKILL.md) - Official Moltbook Identity Registry interface.
+- [moltbot-adsb-overhead](https://github.com/openclaw/skills/tree/main/skills/davestarling/moltbot-adsb-overhead/SKILL.md) - Notify when aircraft are overhead.
+- [moltbot-arena](https://github.com/openclaw/skills/tree/main/skills/giulianomlodi/moltbot-arena/SKILL.md) - AI agent skill for Moltbot Arena - a Screeps-like.
+- [moltbot-best-practices](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/moltbot-best-practices/SKILL.md) - Best practices for AI agents.
+- [moltbot-docker](https://github.com/openclaw/skills/tree/main/skills/mkrdiop/moltbot-docker/SKILL.md) - Enables the bot to manage Docker containers, images, and stacks.
+- [moltbot-ha](https://github.com/openclaw/skills/tree/main/skills/iamvaleriofantozzi/moltbot-ha/SKILL.md) - Control Home Assistant smart home devices, lights, scenes.
+
 </details>
 
 <details>
