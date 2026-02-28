@@ -1,0 +1,123 @@
+# CLI Utilities
+
+[← Back to main list](../README.md#table-of-contents)
+
+**117 skills**
+
+- [agent-commerce-engine](https://github.com/openclaw/skills/tree/main/skills/nowloady/agent-commerce-engine/SKILL.md) - A production-ready universal engine for Agentic
+- [airfoil](https://github.com/openclaw/skills/tree/main/skills/asteinberger/airfoil/SKILL.md) - Control AirPlay speakers via Airfoil from the command line.
+- [aria2-json-rpc](https://github.com/openclaw/skills/tree/main/skills/azzgo/aria2-json-rpc/SKILL.md) - Interact with aria2 download manager via JSON-RPC 2.0.
+- [brew-install](https://github.com/openclaw/skills/tree/main/skills/xejrax/brew-install/SKILL.md) - Install missing binaries via dnf (Fedora/Bazzite package manager).
+- [bun-runtime](https://github.com/openclaw/skills/tree/main/skills/rabin-thami/bun-runtime/SKILL.md) - Bun runtime capabilities for filesystem, process.
+- [camsnap](https://github.com/openclaw/skills/tree/main/skills/steipete/camsnap/SKILL.md) - Capture frames or clips from RTSP/ONVIF cameras.
+- [canvas-lms](https://github.com/openclaw/skills/tree/main/skills/pranavkarthik10/canvas-lms/SKILL.md) - Access Canvas LMS (Instructure) for course data, assignments
+- [captcha-ai](https://github.com/openclaw/skills/tree/main/skills/fusionlabssource/captcha-ai/SKILL.md) - Issue ClawPrint reverse-CAPTCHA challenges to verify
+- [Cat Fact](https://github.com/openclaw/skills/tree/main/skills/thesethrose/catfact/SKILL.md) - Random cat facts and breed information from catfact.ninja
+- [chitin](https://github.com/openclaw/skills/tree/main/skills/morpheis/chitin/SKILL.md) - Personality persistence for AI agents.
+- [clawprint-verify](https://github.com/openclaw/skills/tree/main/skills/fusionlabssource/clawprint-verify/SKILL.md) - Issue ClawPrint reverse-CAPTCHA challenges
+- [cli](https://github.com/openclaw/skills/tree/main/skills/mondilo1) - CLI reference for inspecting and checking skill eligibility
+- [codebuddy-cli](https://github.com/openclaw/skills/tree/main/skills/pmwalkercao/codebuddy-cli/SKILL.md) - CodeBuddy Code CLI installation, configuration and usage
+- [craft-cli](https://github.com/openclaw/skills/tree/main/skills/nerveband/craft-cli/SKILL.md) - Interact with Craft Documents via the `craft` CLI tool.
+- [create-cli](https://github.com/openclaw/skills/tree/main/skills/steipete/create-cli/SKILL.md) - Design CLI arguments, flags, subcommands.
+- [curl-http](https://github.com/openclaw/skills/tree/main/skills/arnarsson/curl-http/SKILL.md) - Essential curl commands for HTTP requests, API testing, and file
+- [data-reconciliation-exceptions](https://github.com/openclaw/skills/tree/main/skills/kowl64/data-reconciliation-exceptions/SKILL.md) - Reconciles data sources
+- [dilbert](https://github.com/openclaw/skills/tree/main/skills/hjanuschka/dilbert/SKILL.md) - dilbert
+- [domain](https://github.com/openclaw/skills/tree/main/skills/abtdomain) - Domain intelligence toolkit - search newly registered domains (NRDS)
+- [dropbox](https://github.com/openclaw/skills/tree/main/skills/ryanlisse/dropbox/SKILL.md) - dropbox
+- [dsiprouter-skill](https://github.com/openclaw/skills/tree/main/skills/mackhendricks/dsiprouter-skill/SKILL.md) - Call the dSIPRouter REST API using the Postman
+- [dwlf](https://github.com/openclaw/skills/tree/main/skills/andywilliams/dwlf/SKILL.md) - Interact with DWLF (dwlf.co.uk), a market analysis platform for crypto
+- [ecto](https://github.com/openclaw/skills/tree/main/skills/visionik/ecto/SKILL.md) - Ghost.io blog management via Admin API.
+- [emredoganer-fizzy](https://github.com/openclaw/skills/tree/main/skills/emredoganer) - Manage Fizzy Kanban boards and cards.
+- [endpoints](https://github.com/openclaw/skills/tree/main/skills/adamkristopher/endpoints/SKILL.md) - Endpoints document management API toolkit.
+- [entr](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/entr/SKILL.md) - Run arbitrary commands when files change.
+- [error-guard](https://github.com/openclaw/skills/tree/main/skills/amar1432/error-guard/SKILL.md) - System safety and control-plane skill that prevents agent deadlocks
+- [expanso-edge](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-edge/SKILL.md) - Data processing pipelines for OpenClaw.
+- [ez-google](https://github.com/openclaw/skills/tree/main/skills/araa47/ez-google/SKILL.md) - Use when asked to send email, check inbox, read emails, check calendar,.
+- [fd-find](https://github.com/openclaw/skills/tree/main/skills/arnarsson/fd-find/SKILL.md) - A fast and user-friendly alternative to 'find' - simple syntax, smart
+- [ffmpeg-cli](https://github.com/openclaw/skills/tree/main/skills/ascendswang/ffmpeg-cli/SKILL.md) - Comprehensive video/audio processing with FFmpeg.
+- [fork-aware-updater](https://github.com/openclaw/skills/tree/main/skills/kunoiiv/fork-aware-updater/SKILL.md) - Monitors forks and auto-updates superior forks
+- [fork-radar-v2](https://github.com/openclaw/skills/tree/main/skills/kunoiiv/fork-radar-v2/SKILL.md) - Monitors GitHub/ClawdHub forks for collaborations and backdoors
+- [gcalcli](https://github.com/openclaw/skills/tree/main/skills/gargravish/gcalcli/SKILL.md) - Interact with Google Calendar via gcalcli
+- [gifgrep](https://github.com/openclaw/skills/tree/main/skills/steipete/gifgrep/SKILL.md) - Search GIF providers with CLI/TUI, download results, and extract
+- [go-linter-configuration](https://github.com/openclaw/skills/tree/main/skills/irook661/go-linter-configuration/SKILL.md) - Configure and troubleshoot golangci-lint
+- [goplaces](https://github.com/openclaw/skills/tree/main/skills/steipete/goplaces/SKILL.md) - Query Google Places API (New) via the goplaces CLI for text search, place.
+- [gowok](https://github.com/openclaw/skills/tree/main/skills/hadihammurabi/gowok/SKILL.md) - Gowok: Golang Premwok.
+- [gtasks-cli](https://github.com/openclaw/skills/tree/main/skills/bro3886/gtasks-cli/SKILL.md) - Manage Google Tasks from the command line - view, create, update
+- [hevycli](https://github.com/openclaw/skills/tree/main/skills/nsampre) - Access and analyze Hevy fitness tracking data including workouts, routines
+- [instagram-cli](https://github.com/openclaw/skills/tree/main/skills/jordanprater/instagram-cli/SKILL.md) - instagram
+- [jiraandconfluence](https://github.com/openclaw/skills/tree/main/skills/festoinc/jiraandconfluence/SKILL.md) - CLI tool for interacting with Atlassian Jira
+- [journal-to-post](https://github.com/openclaw/skills/tree/main/skills/itsflow/journal-to-post/SKILL.md) - Convert personal journal entries into shareable social media
+- [jq](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/jq/SKILL.md) - Command-line JSON processor.
+- [jq-json-processor](https://github.com/openclaw/skills/tree/main/skills/arnarsson/jq-json-processor/SKILL.md) - Process, filter, and transform JSON data using jq
+- [kenya-tax-rates](https://github.com/openclaw/skills/tree/main/skills/enjuguna/kenya-tax-rates/SKILL.md) - Calculate Kenya payroll deductions - PAYE, SHIF, NSSF
+- [kilocli-coding-agent](https://github.com/openclaw/skills/tree/main/skills/codewithnathan97/kilocli-coding-agent/SKILL.md) - Run Kilo CLI via background process
+- [lemonsqueezy-admin](https://github.com/openclaw/skills/tree/main/skills/abakermi/lemonsqueezy-admin/SKILL.md) - Admin CLI for Lemon Squeezy stores.
+- [local-places](https://github.com/openclaw/skills/tree/main/skills/steipete/local-places/SKILL.md) - Search for places (restaurants, cafes, etc.) via Google Places API
+- [mactop](https://github.com/openclaw/skills/tree/main/skills/metaspartan/mactop/SKILL.md) - Retrieve real-time hardware metrics from Apple Silicon Macs using mactop's
+- [mcp-adapter](https://github.com/openclaw/skills/tree/main/skills/lunarpulse/mcp-adapter/SKILL.md) - Use Model Context Protocol servers to access external tools
+- [mcps-skill](https://github.com/openclaw/skills/tree/main/skills/maplezzk/mcps-skill/SKILL.md) - MCP CLI Manager - Manage MCP servers and call tools.
+- [mens-mental-health](https://github.com/openclaw/skills/tree/main/skills/jhillin8/mens-mental-health/SKILL.md) - Mental health support for men with emotion check-ins
+- [molt-mouse](https://github.com/openclaw/skills/tree/main/skills/oguzhaslak/molt-mouse/SKILL.md) - Local mouse control via ydotool wrapper
+- [moltarb](https://github.com/openclaw/skills/tree/main/skills/rose-token/moltarb/SKILL.md) - Custodial AI agent wallets on Arbitrum with Rose Token marketplace
+- [native-app-performance](https://github.com/openclaw/skills/tree/main/skills/steipete/native-app-performance/SKILL.md) - Native macOS/iOS app performance profiling
+- [nimrobo](https://github.com/openclaw/skills/tree/main/skills/virang-nimrobo/nimrobo/SKILL.md) - Use the Nimrobo CLI for voice screening and matching network
+- [notebooklm-cli](https://github.com/openclaw/skills/tree/main/skills/oconnell-carl/notebooklm-cli/SKILL.md) - Comprehensive CLI for Google NotebookLM
+- [oauth-helper](https://github.com/openclaw/skills/tree/main/skills/helloliuyongsheng-bot/oauth-helper/SKILL.md) - Automate OAuth login flows with user confirmation
+- [office-quotes](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/office-quotes/SKILL.md) - Generate random quotes from The Office (US).
+- [openapi2cli](https://github.com/openclaw/skills/tree/main/skills/awlevin/openapi2cli/SKILL.md) - Generate CLI tools from OpenAPI specs.
+- [ops-framework](https://github.com/openclaw/skills/tree/main/skills/zjianru/ops-framework/SKILL.md) - A 0-token jobs + monitoring framework for OpenClaw: run
+- [ouracli](https://github.com/openclaw/skills/tree/main/skills/visionik/ouracli/SKILL.md) - Access Oura Ring health data using the ouracli CLI tool.
+- [pamela-call](https://github.com/openclaw/skills/tree/main/skills/eypam/pamela-call/SKILL.md) - Make AI-powered phone calls with Pamela's voice API.
+- [pamela-calls](https://github.com/openclaw/skills/tree/main/skills/eypam/pamela-calls/SKILL.md) - Make AI-powered phone calls with Pamela's voice API.
+- [pandic-office](https://github.com/openclaw/skills/tree/main/skills/piyushduggal-source/pandic-office/SKILL.md) - Converts Markdown files to PDF files using the pandoc
+- [parcel-package-tracking](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/parcel-package-tracking/SKILL.md) - Track and add deliveries via Parcel API.
+- [pco](https://github.com/openclaw/skills/tree/main/skills/rubyrunsstuff/pco/SKILL.md) - CLI for the Planning Center Services API.
+- [pdf](https://github.com/openclaw/skills/tree/main/skills/awspace/pdf/SKILL.md) - Comprehensive PDF manipulation toolkit for extracting text and tables, creating.
+- [pdf-2](https://github.com/openclaw/skills/tree/main/skills/seanphan/pdf-2/SKILL.md) - Comprehensive PDF manipulation toolkit for extracting text and tables, creating.
+- [peekaboo](https://github.com/openclaw/skills/tree/main/skills/steipete/peekaboo/SKILL.md) - Capture and automate macOS UI with the Peekaboo.
+- [pinescript-quant-analysis](https://github.com/openclaw/skills/tree/main/skills/alaa-eddine) - Build professional-grade technical
+- [planka-cli](https://github.com/openclaw/skills/tree/main/skills/voydz/planka-cli/SKILL.md) - Manage Planka (Kanban) projects, boards, lists, cards, and notifications
+- [pltr-cli](https://github.com/openclaw/skills/tree/main/skills/anjor/pltr-cli/SKILL.md) - Helps you work with Palantir Foundry using the pltr CLI.
+- [portable-tools](https://github.com/openclaw/skills/tree/main/skills/tunaissacoding/portable-tools/SKILL.md) - Build cross-device tools without hardcoding paths
+- [post-at](https://github.com/openclaw/skills/tree/main/skills/krausefx/post-at/SKILL.md) - Manage Austrian Post (post.at) deliveries - list packages, check delivery.
+- [product-manager-toolkit](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/product-manager-toolkit/SKILL.md) - Comprehensive toolkit for product
+- [product-strategist](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/product-strategist/SKILL.md) - Strategic product leadership toolkit for Head
+- [project-scaffold](https://github.com/openclaw/skills/tree/main/skills/cmanfre7/project-scaffold/SKILL.md) - Scaffold new projects with best-practice structure
+- [ralph-tools](https://github.com/openclaw/skills/tree/main/skills/paulpete/ralph-tools/SKILL.md) - ../../../crates/ralph-core/data/ralph-tools.md
+- [raycast](https://github.com/openclaw/skills/tree/main/skills/xaif/raycast/SKILL.md) - Build and maintain Raycast extensions using the Raycast API.
+- [request-approval](https://github.com/openclaw/skills/tree/main/skills/yconst/request-approval/SKILL.md) - Use Preloop's request_approval tool to get human approval
+- [rescuetime](https://github.com/openclaw/skills/tree/main/skills/rusynandriy/rescuetime/SKILL.md) - Fetch productivity data from RescueTime.
+- [restart-guard](https://github.com/openclaw/skills/tree/main/skills/zjianru/restart-guard/SKILL.md) - Safely restart the OpenClaw Gateway with context preservation
+- [rssaurus](https://github.com/openclaw/skills/tree/main/skills/justinburdett/rssaurus/SKILL.md) - Use the RSSaurus command-line client (Go binary `rssaurus`)
+- [sag](https://github.com/openclaw/skills/tree/main/skills/steipete/sag/SKILL.md) - ElevenLabs text-to-speech with mac-style say.
+- [salesforce](https://github.com/openclaw/skills/tree/main/skills/arvorco/salesforce/SKILL.md) - Query and manage Salesforce CRM data via the Salesforce CLI (`sf`).
+- [salesforce-skill](https://github.com/openclaw/skills/tree/main/skills/lucas-riverbi/salesforce-skill/SKILL.md) - Main skill definition with frontmatter, CLI
+- [shared-molt](https://github.com/openclaw/skills/tree/main/skills/tankcdr) - Share and discover agent recipes (shells).
+- [shell-scripting](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/shell-scripting/SKILL.md) - Write robust, portable shell scripts.
+- [shellmates](https://github.com/openclaw/skills/tree/main/skills/zcor) - ```
+- [shellphone-gateway](https://github.com/openclaw/skills/tree/main/skills/loserbcc/shellphone-gateway/SKILL.md) - Private WebSocket gateway for connecting iOS
+- [shorten](https://github.com/openclaw/skills/tree/main/skills/kesslerio/shorten/SKILL.md) - Shorten URLs using is.gd (no auth required).
+- [simple-backup](https://github.com/openclaw/skills/tree/main/skills/vacinc/simple-backup/SKILL.md) - Backup agent brain (workspace) and body (state) to local folder
+- [smalltalk](https://github.com/openclaw/skills/tree/main/skills/johnmci/smalltalk/SKILL.md) - Interact with live Smalltalk image (Cuis or Squeak).
+- [sogcli](https://github.com/openclaw/skills/tree/main/skills/visionik/sogcli/SKILL.md) - Standards Ops Gadget — CLI.
+- [songsee](https://github.com/openclaw/skills/tree/main/skills/steipete/songsee/SKILL.md) - Generate spectrograms and feature-panel visualizations from audio
+- [staratheris-arya-reminders](https://github.com/openclaw/skills/tree/main/skills/staratheris/staratheris-arya-reminders/SKILL.md) - Recordatorios en lenguaje natural
+- [startclaw-optimizer](https://github.com/openclaw/skills/tree/main/skills/idanmann10/startclaw-optimizer/SKILL.md) - The OpenClaw Optimizer is a comprehensive
+- [stdio-skill](https://github.com/openclaw/skills/tree/main/skills/safatinaztepe/stdio-skill/SKILL.md) - Stdin/stdout file inbox/outbox bridge for passing files to/from
+- [story-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/story-cog/SKILL.md) - Creative writing and storytelling powered by CellCog.
+- [system-info](https://github.com/openclaw/skills/tree/main/skills/xejrax/system-info/SKILL.md) - Quick system diagnostics: CPU, memory, disk, uptime.
+- [tardis](https://github.com/openclaw/skills/tree/main/skills/rm289/tardis/SKILL.md) - Track elapsed time from a set epoch with tamper-evident locking.
+- [terminal-screenshots](https://github.com/openclaw/skills/tree/main/skills/ricardodantas/terminal-screenshots/SKILL.md) - Generate terminal screenshots and animated
+- [terminal-ui-website-design](https://github.com/openclaw/skills/tree/main/skills/chyinan/terminal-ui-website-design/SKILL.md) - Create terminal-inspired UI interfaces
+- [tldr](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/tldr/SKILL.md) - Simplified man pages from tldr-pages.
+- [tmux](https://github.com/openclaw/skills/tree/main/skills/steipete/tmux/SKILL.md) - Remote-control tmux sessions for interactive CLIs by sending keystrokes
+- [track17](https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/track17/SKILL.md) - Track parcels via the 17TRACK API
+- [trmnl-display](https://github.com/openclaw/skills/tree/main/skills/peetzweg/trmnl-display/SKILL.md) - Send messages to a terminal e-ink display device via webhook.
+- [typhoon-starknet-account](https://github.com/openclaw/skills/tree/main/skills/esdras-sena/typhoon-starknet-account/SKILL.md) - Create a Starknet account to your agent
+- [units](https://github.com/openclaw/skills/tree/main/skills/asleep123/units/SKILL.md) - Perform unit conversions and calculations using GNU Units.
+- [unzipped-skill](https://github.com/openclaw/skills/tree/main/skills/jozh-bit/unzipped-skill/SKILL.md) - Create Farcaster accounts and post casts autonomously.
+- [voicenotes](https://github.com/openclaw/skills/tree/main/skills/shawnhansen/voicenotes/SKILL.md) - Sync and access voice notes from Voicenotes.com.
+- [wps-punchclock](https://github.com/openclaw/skills/tree/main/skills/dxh141130/wps-punchclock/SKILL.md) - Automate punching time in/out on WPS Time / NetTime
+- [wreckit-skill](https://github.com/openclaw/skills/tree/main/skills/jmanhype/wreckit-skill/SKILL.md) - Read [SETUP.md](./SETUP.md) first to install the Wreckit CLI
+- [x-kindle](https://github.com/openclaw/skills/tree/main/skills/brianlu365ai/x-kindle/SKILL.md) - Send X/Twitter posts to Kindle for distraction-free reading.
+- [ytm-cast](https://github.com/openclaw/skills/tree/main/skills/aidanthebandit/ytm-cast/SKILL.md) - Download music from YouTube/YouTube Music and stream to Chromecast

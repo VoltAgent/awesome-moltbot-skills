@@ -1,0 +1,72 @@
+# Image & Video Generation
+
+[← Back to main list](../README.md#table-of-contents)
+
+**66 skills**
+
+- [afame](https://github.com/openclaw/skills/tree/main/skills/adebayoabdushaheed-a11y/afame/SKILL.md) - Generate diverse creative illustrations via OpenAI Images API.
+- [agentos-mesh](https://github.com/openclaw/skills/tree/main/skills/agentossoftware/agentos-mesh/SKILL.md) - Enables real-time communication between AI agents
+- [ai-video-gen](https://github.com/openclaw/skills/tree/main/skills/rhanbourinajd/ai-video-gen/SKILL.md) - End-to-end AI video generation - create videos from text
+- [algorithmic-art](https://github.com/openclaw/skills/tree/main/skills/seanphan/algorithmic-art/SKILL.md) - Creating algorithmic art using p5.js with seeded randomness
+- [atxp](https://github.com/openclaw/skills/tree/main/skills/emilioacc/atxp/SKILL.md) - Access ATXP paid API tools for web search, AI image generation, music creation,.
+- [beauty-generation-api](https://github.com/openclaw/skills/tree/main/skills/luruibu/beauty-generation-api/SKILL.md) - FREE AI image generation service for creating
+- [cad-agent](https://github.com/clawdbot/skills/tree/main/skills/clawd-maf/cad-agent/SKILL.md) - Rendering server for AI agents doing CAD work.
+- [canva-connect](https://github.com/openclaw/skills/tree/main/skills/coolmanns/canva-connect/SKILL.md) - Manage Canva designs, assets, and folders via the Connect API.
+- [captions](https://github.com/openclaw/skills/tree/main/skills/therohitdas/captions/SKILL.md) - Extract closed captions and subtitles from YouTube videos.
+- [chart-image](https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/chart-image/SKILL.md) - Generate publication-quality chart images from data.
+- [clinkding](https://github.com/openclaw/skills/tree/main/skills/daveonkels/clinkding/SKILL.md) - Manage linkding bookmarks - save URLs, search, tag, organize
+- [coloring-page](https://github.com/openclaw/skills/tree/main/skills/borahm/coloring-page/SKILL.md) - Turn an uploaded photo into a printable black-and-white coloring
+- [comfy-cli](https://github.com/openclaw/skills/tree/main/skills/johntheyoung/comfy-cli/SKILL.md) - Install, manage, and run ComfyUI instances.
+- [comfyui](https://github.com/openclaw/skills/tree/main/skills/xtopher86/comfyui-request/SKILL.md) - Send a workflow request to ComfyUI and return image results.
+- [Excalidraw Flowchart](https://github.com/openclaw/skills/tree/main/skills/swiftlysingh/excalidraw-flowchart/SKILL.md) - Create Excalidraw flowcharts from descriptions.
+- [eachlabs-face-swap](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-face-swap/SKILL.md) - Swap faces between images using EachLabs AI.
+- [eachlabs-fashion-ai](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-fashion-ai/SKILL.md) - Generate fashion imagery, virtual try-on, runway videos.
+- [eachlabs-image-edit](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-image-edit/SKILL.md) - Edit, transform, upscale images using 200+ AI models.
+- [eachlabs-image-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-image-generation/SKILL.md) - Generate images with Flux, GPT Image, Gemini, Imagen.
+- [eachlabs-video-edit](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-video-edit/SKILL.md) - Edit videos with lip sync, translation, subtitles.
+- [eachlabs-video-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-video-generation/SKILL.md) - Generate videos from text/images using AI models.
+- [fal-ai](https://github.com/openclaw/skills/tree/main/skills/agmmnn/fal-ai/SKILL.md) - Generate images, videos, and audio via fal.ai API (FLUX, SDXL, Whisper, etc.).
+- [fal-text-to-image](https://github.com/openclaw/skills/tree/main/skills/delorenj/fal-text-to-image/SKILL.md) - Generate, remix, and edit images using fal.ai's AI
+- [ffmpeg-video-editor](https://github.com/openclaw/skills/tree/main/skills/mahmoudadelbghany/ffmpeg-video-editor/SKILL.md) - Generate FFmpeg commands from natural
+- [figma](https://github.com/openclaw/skills/tree/main/skills/maddiedreese/figma/SKILL.md) - Professional Figma design analysis and asset export.
+- [find-stl](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/find-stl/SKILL.md) - Search and download ready-to-print 3D model files (STL/3MF/ZIP)
+- [gamma](https://github.com/openclaw/skills/tree/main/skills/stopmoclay/gamma/SKILL.md) - Generate AI-powered presentations, documents, and social posts using Gamma.app.
+- [gifhorse](https://github.com/openclaw/skills/tree/main/skills/coyote-git/gifhorse/SKILL.md) - Search video dialogue and create reaction GIFs with timed subtitles.
+- [google-gemini-media](https://github.com/openclaw/skills/tree/main/skills/xsir0/google-gemini-media/SKILL.md) - Use the Gemini API
+- [heygen-avatar-lite](https://github.com/openclaw/skills/tree/main/skills/daaab/heygen-avatar-lite/SKILL.md) - Create AI digital human videos with HeyGen API.
+- [iblipper](https://github.com/openclaw/skills/tree/main/skills/andyed/iblipper/SKILL.md) - Generate kinetic typography animations for expressive agent-to-human.
+- [image-resize](https://github.com/openclaw/skills/tree/main/skills/pr1vateer/image-resize/SKILL.md) - Resize images using ImageMagick (CLI).
+- [kameo](https://github.com/openclaw/skills/tree/main/skills/veya2ztn/kameo/SKILL.md) - Generate expressive talking-head videos from static images using Kameo AI.
+- [kameo-free](https://github.com/openclaw/skills/tree/main/skills/veya2ztn/kameo-free/SKILL.md) - Generate expressive talking-head videos from static images using Kameo
+- [krea-api](https://github.com/openclaw/skills/tree/main/skills/fossilizedcarlos/krea-api/SKILL.md) - Generate images via Krea.ai API
+- [liveavatar](https://github.com/openclaw/skills/tree/main/skills/ennno/liveavatar/SKILL.md) - Talk face-to-face with your OpenClaw agent using a real-time video avatar.
+- [meshtastic-skill](https://github.com/openclaw/skills/tree/main/skills/lukevr/meshtastic-skill/SKILL.md) - Send and receive messages via Meshtastic LoRa mesh network.
+- [meshy-ai](https://github.com/openclaw/skills/tree/main/skills/sabatesduran/clawdbot-meshyai-skill/SKILL.md) - Use the Meshy.ai REST API to generate assets: (1)
+- [milesluman-essence](https://github.com/openclaw/skills/tree/main/skills/milesluman) - To achieve symbiosis between technology and humanity
+- [narrator](https://github.com/openclaw/skills/tree/main/skills/buddyh/narrator/SKILL.md) - Live narration of your screen activity with 7 styles
+- [nvidia-image-gen](https://github.com/openclaw/skills/tree/main/skills/ty-teo/nvidia-image-gen/SKILL.md) - Generate and edit images using NVIDIA FLUX models.
+- [pikaboard](https://github.com/openclaw/skills/tree/main/skills/angelstreet/pikaboard/SKILL.md) - Interact with PikaBoard task management API.
+- [pollinations](https://github.com/openclaw/skills/tree/main/skills/isaacgounton/pollinations/SKILL.md) - Pollinations.ai API for AI generation - text, images, videos
+- [pr-demo](https://github.com/openclaw/skills/tree/main/skills/paulpete/pr-demo/SKILL.md) - Use when creating animated demos (GIFs) for pull requests or documentation.
+- [primattography-color-science](https://github.com/openclaw/skills/tree/main/skills/primattography/primattography-color-science/SKILL.md) - Ultimate DaVinci Resolve
+- [qr-code](https://github.com/openclaw/skills/tree/main/skills/omar-khaleel/qr-code/SKILL.md) - Generate and read QR codes.
+- [qr-code-intelligence](https://github.com/openclaw/skills/tree/main/skills/omar-khaleel/qr-code-intelligence/SKILL.md) - Generate and read QR codes.
+- [qr-code-pro](https://github.com/openclaw/skills/tree/main/skills/omar-khaleel/qr-code-pro/SKILL.md) - Generate and read QR codes.
+- [recraft](https://github.com/openclaw/skills/blob/main/skills/nkrcrft/recraft/SKILL.md) - Generate, vectorize, upscale, replace backgroun...
+- [render-stl-png](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/render-stl-png/SKILL.md) - Render an STL to a PNG from a nice, consistent 3D angle
+- [renderful-ai](https://github.com/openclaw/skills/tree/main/skills/luv005/renderful-ai/SKILL.md) - Generate images and videos via renderful.ai API
+- [reve-ai](https://github.com/openclaw/skills/tree/main/skills/dpaluy/reve-ai/SKILL.md) - Reve AI image generation, editing.
+- [runware](https://github.com/openclaw/skills/tree/main/skills/26medias/runware/SKILL.md) - Generate images and videos via Runware API.
+- [sora-video-gen](https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/sora-video-gen/SKILL.md) - Generate videos using OpenAI's Sora API.
+- [sticker-analyzer](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - Analyze images in media/stickers using Vision API
+- [subtitles](https://github.com/openclaw/skills/tree/main/skills/therohitdas/subtitles/SKILL.md) - Get subtitles from YouTube videos for translation, language learning
+- [superdesign](https://github.com/openclaw/skills/tree/main/skills/mpociot/superdesign/SKILL.md) - Expert frontend design guidelines for modern.
+- [svg-draw](https://github.com/openclaw/skills/tree/main/skills/lijy2015/svg-draw/SKILL.md) - Create SVG images and convert them to PNG without external graphics
+- [tube-summary](https://github.com/openclaw/skills/tree/main/skills/dillera/tube-summary/SKILL.md) - Search YouTube for videos on any topic and get intelligent
+- [vap-multimedia-generation](https://github.com/openclaw/skills/tree/main/skills/elestirelbilinc-sketch/vap-multimedia-generation/SKILL.md) - AI image, video.
+- [venice-ai](https://github.com/openclaw/skills/tree/main/skills/nhannah/venice-ai-media/SKILL.md) - Generate, edit, and upscale images; create videos from images
+- [veo](https://github.com/openclaw/skills/tree/main/skills/buddyh/veo/SKILL.md) - Generate video using Google Veo (Veo 3.1 / Veo 3.0).
+- [veo3-video-gen](https://github.com/openclaw/skills/tree/main/skills/bluelyw/veo3-video-gen/SKILL.md) - Generate and stitch short videos via Google Veo 3.x
+- [video-frames](https://github.com/openclaw/skills/tree/main/skills/steipete/video-frames/SKILL.md) - Extract frames or short clips from videos using ffmpeg.
+- [westland-linguistic-humidifier](https://github.com/openclaw/skills/tree/main/skills/westland/westland-linguistic-humidifier/SKILL.md) - Proactively identifies
+- [yollomi](https://github.com/openclaw/skills/tree/main/skills/anichikage/yollomi/SKILL.md) - Generate AI images and videos using Yollomi API.

@@ -1,0 +1,136 @@
+# Communication
+
+[← Back to main list](../README.md#table-of-contents)
+
+**130 skills**
+
+- [agent-doppelganger](https://github.com/openclaw/skills/tree/main/skills/sieershafilone/agent-doppelganger/SKILL.md) - Constrained autonomous delegate
+- [agent-mail](https://github.com/openclaw/skills/tree/main/skills/rimelucci/agent-mail/SKILL.md) - Email inbox for AI agents.
+- [agent-mail-cli](https://github.com/openclaw/skills/tree/main/skills/rimelucci/agent-mail-cli/SKILL.md) - Email inbox for AI agents.
+- [agent-social](https://github.com/openclaw/skills/tree/main/skills/iisweetheartii/agent-social/SKILL.md) - The open-source social network for AI agents.
+- [agent-team-kit](https://github.com/openclaw/skills/tree/main/skills/ryancampbell/agent-team-kit/SKILL.md) - *A framework for self-sustaining AI agent teams.*
+- [airc](https://github.com/openclaw/skills/tree/main/skills/vortitron/airc/SKILL.md) - Connect to IRC servers (AIRC or any standard IRC) and participate in channels.
+- [among-clawds](https://github.com/openclaw/skills/tree/main/skills/usamalatif/among-clawds/SKILL.md) - Play AmongClawds - social deduction game where AI agents
+- [apple-mail-search-safe](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/apple-mail-search-safe/SKILL.md) - Fast & safe Apple Mail search with body
+- [avito](https://github.com/openclaw/skills/tree/main/skills/ruslanlanket/avito/SKILL.md) - Manage Avito.ru account, items, and messenger via API.
+- [beeper](https://github.com/openclaw/skills/tree/main/skills/krausefx/beeper/SKILL.md) - Search and browse local Beeper chat history
+- [bird-dms](https://github.com/openclaw/skills/tree/main/skills/tolibear/bird-dms/SKILL.md) - An add-on to the Bird skill that lets your agent check its X/Twitter DM
+- [blogburst](https://github.com/openclaw/skills/tree/main/skills/shensi8312/blogburst/SKILL.md) - Turn any article into 10+ social media posts in seconds.
+- [calendly](https://github.com/openclaw/skills/tree/main/skills/kesslerio/calendly/SKILL.md) - Calendly scheduling integration.
+- [camelcamelcamel-alerts](https://github.com/openclaw/skills/tree/main/skills/jgramajo4/camelcamelcamel-alerts/SKILL.md) - Monitor CamelCamelCamel price drop alerts
+- [claw-club](https://github.com/openclaw/skills/tree/main/skills/epwhesq/claw-club/SKILL.md) - Join the Claw Club — the social network for AI bots.
+- [claw-me-maybe](https://github.com/openclaw/skills/tree/main/skills/nickhamze/claw-me-maybe/SKILL.md) - Beeper integration for Clawdbot.
+- [clawchat-p2p](https://github.com/openclaw/skills/tree/main/skills/alexrudloff/clawchat-p2p/SKILL.md) - Encrypted P2P messaging for connecting OpenClaw agents
+- [clawconnect](https://github.com/openclaw/skills/tree/main/skills/yiweil/clawconnect/SKILL.md) - ClawConnect - Universal account connector for AI agents.
+- [clawemail](https://github.com/openclaw/skills/tree/main/skills/cto1/clawemail/SKILL.md) - Google Workspace via ClawEmail — Gmail, Drive, Docs, Sheets, Slides
+- [clawemail-admin](https://github.com/openclaw/skills/tree/main/skills/cto1/clawemail-admin/SKILL.md) - Provision and manage @clawemail.com Google Workspace email
+- [clawgang](https://github.com/openclaw/skills/tree/main/skills/syslink/clawgang/SKILL.md) - ClawGang social skill — lets your agent socialize on clawgang.ai: post
+- [clawlink](https://github.com/openclaw/skills/tree/main/skills/davemorin/clawlink/SKILL.md) - Encrypted Clawbot-to-Clawbot messaging.
+- [clawring](https://github.com/openclaw/skills/tree/main/skills/marcospgp/clawring/SKILL.md) - Real phone calls from your bot.
+- [collaboration-helper](https://github.com/openclaw/skills/tree/main/skills/crimsondevil333333/collaboration-helper/SKILL.md) - Track action items and coordination
+- [communication-skill](https://github.com/openclaw/skills/tree/main/skills/aatmaan1/communication-skill/SKILL.md) - Deep Listening & Response Crafting - Transform
+- [composio-integration](https://github.com/openclaw/skills/tree/main/skills/rita5fr/composio-integration/SKILL.md) - Access 600+ apps and services through Composio's
+- [crunch-protocol](https://github.com/openclaw/skills/tree/main/skills/philippwassibauer/crunch-protocol/SKILL.md) - Natural language interface for Crunch Protocol CLI.
+- [crunch-protocol-skill](https://github.com/openclaw/skills/tree/main/skills/philippwassibauer/crunch-protocol-skill/SKILL.md) - Natural language interface for Crunch
+- [custom-smtp-sender](https://github.com/openclaw/skills/tree/main/skills/scccmsd/custom-smtp-sender/SKILL.md) - A skill to send emails with support for markdown, HTML
+- [daily-devotion](https://github.com/openclaw/skills/tree/main/skills/enjuguna/daily-devotion/SKILL.md) - Creates personalized daily devotions with verse of the day
+- [detect-injection](https://github.com/openclaw/skills/tree/main/skills/zskyx/detect-injection/SKILL.md) - Two-layer content safety for agent input and output.
+- [discord-doctor](https://github.com/openclaw/skills/tree/main/skills/jhillock/discord-doctor/SKILL.md) - Quick diagnosis and repair for Discord bot, Gateway, OAuth
+- [discord-voice](https://github.com/openclaw/skills/tree/main/skills/avatarneil/discord-voice/SKILL.md) - Real-time voice conversations in Discord voice channels
+- [dm-bot](https://github.com/openclaw/skills/tree/main/skills/dommholland/dm-bot/SKILL.md) - Interact with dm.bot API for encrypted agent-to-agent messaging.
+- [email-best-practices](https://github.com/openclaw/skills/tree/main/skills/christina-de-martinez/email-best-practices/SKILL.md) - Use when building email features
+- [email-daily-summary](https://github.com/openclaw/skills/tree/main/skills/10e9928a/email-daily-summary/SKILL.md) - Automatically logs into email accounts
+- [email-send](https://github.com/openclaw/skills/tree/main/skills/xejrax/email-send/SKILL.md) - Send a quick email via SMTP using `msmtp` without opening a full mail
+- [email-summary](https://github.com/openclaw/skills/tree/main/skills/bbdyno/email-summary/SKILL.md) - Fetches recent emails from Gmail and provides concise summaries.
+- [email-to-calendar](https://github.com/openclaw/skills/tree/main/skills/tonimelisma/email-to-calendar/SKILL.md) - Extract calendar events from emails and create
+- [email-triage](https://github.com/openclaw/skills/tree/main/skills/briancolinger/email-triage/SKILL.md) - IMAP email scanning and triage with AI classification
+- [farcaster-agent](https://github.com/openclaw/skills/tree/main/skills/rishavmukherji/farcaster-agent/SKILL.md) - Create Farcaster accounts and post casts autonomously.
+- [feishu-broadcast](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-broadcast/SKILL.md) - Broadcast messages (Post/Rich Text) and Images/Stickers
+- [feishu-chat-forwarder](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-chat-forwarder/SKILL.md) - A skill to fetch recent chat history
+- [feishu-group-manager](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-group-manager/SKILL.md) - Manage Feishu group chats
+- [feishu-leave-request](https://github.com/openclaw/skills/tree/main/skills/baofeidyz/feishu-leave-request/SKILL.md) - Submit a leave request through Feishu (Lark).
+- [feishu-message](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-message/SKILL.md) - General utilities for Feishu Message operations that go
+- [feishu-post](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-post/SKILL.md) - Send Rich Text (Post) messages to Feishu.
+- [front](https://github.com/openclaw/skills/tree/main/skills/rdewolff/front/SKILL.md) - Front.app API for managing conversations, messages, comments, and team.
+- [gif-whatsapp](https://github.com/openclaw/skills/tree/main/skills/shaharsha/gif-whatsapp/SKILL.md) - Search and send GIFs on WhatsApp.
+- [gmail-client](https://github.com/openclaw/skills/tree/main/skills/pierremenard/gmail-client/SKILL.md) - Read and send emails via Gmail.
+- [google-chat](https://github.com/openclaw/skills/tree/main/skills/darconada/google-chat/SKILL.md) - Send messages to Google Chat spaces and users via webhooks or OAuth.
+- [gram](https://github.com/openclaw/skills/tree/main/skills/arein/gram/SKILL.md) - Instagram CLI: feeds, posts, profiles, engagement.
+- [helpscout](https://github.com/openclaw/skills/tree/main/skills/fabiensebban/helpscout/SKILL.md) - This skill interacts with Helpscout to fetch all conversations
+- [himalaya](https://github.com/openclaw/skills/tree/main/skills/lamelas/himalaya/SKILL.md) - CLI to manage emails.
+- [imsg](https://github.com/openclaw/skills/tree/main/skills/steipete/imsg/SKILL.md) - iMessage/SMS CLI for listing chats, history, watch, and sending.
+- [isms-audit-expert](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/isms-audit-expert/SKILL.md) - Information Security Management System auditing
+- [kindroid-interact](https://github.com/openclaw/skills/tree/main/skills/lumenlemons/kindroid-interact/SKILL.md) - Interact with Kindroid companions via their official
+- [let-me-know](https://github.com/openclaw/skills/tree/main/skills/fogyoy/let-me-know/SKILL.md) - Notify the user before starting any long-running task and keep them
+- [linkedin](https://github.com/openclaw/skills/tree/main/skills/biostartechnology/linkedin/SKILL.md) - LinkedIn automation via browser relay or cookies for messaging
+- [linkedin-cli](https://github.com/openclaw/skills/tree/main/skills/arun-8687/linkedin-cli/SKILL.md) - A bird-like LinkedIn CLI for searching profiles, checking
+- [lista-sms](https://github.com/openclaw/skills/tree/main/skills/david-evaristo) - description: Recupera, filtra e formata automaticamente mensagens
+- [luma](https://github.com/openclaw/skills/tree/main/skills/regalstreak/luma/SKILL.md) - Fetch upcoming events from Luma (lu.ma) for any city.
+- [mailbox](https://github.com/openclaw/skills/tree/main/skills/leeguooooo/mailbox/SKILL.md) - Use the mailbox CLI as a tool to read and manage email.
+- [mersal-orem](https://github.com/openclaw/skills/tree/main/skills/maherucifer/mersal-orem/SKILL.md) - The social network for AI agents.
+- [messenger](https://github.com/openclaw/skills/tree/main/skills/codedao12/messenger/SKILL.md) - OpenClaw skill for Facebook Messenger Platform workflows
+- [moltgram](https://github.com/openclaw/skills/tree/main/skills/nek-11) - Competitive Instagram for AI agents - only 2 posts survive each day.
+- [ms-outlook-teams-assistant](https://github.com/openclaw/skills/tree/main/skills/abhinavjp/ms-outlook-teams-assistant/SKILL.md) - Track and nag about Microsoft Outlook
+- [ms365](https://github.com/openclaw/skills/tree/main/skills/cvsloane/ms365/SKILL.md) - ms365
+- [multyverse-email](https://github.com/openclaw/skills/tree/main/skills/webdevtodayjason/multyverse-email/SKILL.md) - Give your AI agent a permanent email address
+- [nochat-channel](https://github.com/openclaw/skills/tree/main/skills/catsmeow492/nochat-channel/SKILL.md) - Encrypted agent-to-agent messaging channel for OpenClaw.
+- [nochat-channel-plugin](https://github.com/openclaw/skills/tree/main/skills/catsmeow492/nochat-channel-plugin/SKILL.md) - Encrypted agent-to-agent messaging via NoChat.
+- [ocft](https://github.com/openclaw/skills/tree/main/skills/stormixus/ocft/SKILL.md) - P2P file transfer between AI agents via message channels.
+- [onemind-skill](https://github.com/openclaw/skills/tree/main/skills/onemindlife/onemind-skill/SKILL.md) - Access and participate in collective consensus-building chats
+- [openpet](https://github.com/openclaw/skills/tree/main/skills/mdealiaga/openpet/SKILL.md) - Virtual pet (Tamagotchi-style) game for chat platforms.
+- [paid-ads](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/paid-ads/SKILL.md) - When the user wants help with paid
+- [phone-agent](https://github.com/openclaw/skills/tree/main/skills/kesslerio/phone-agent/SKILL.md) - Run a real-time AI phone agent using Twilio, Deepgram
+- [phone-calls-bland](https://github.com/openclaw/skills/tree/main/skills/dru-ca/phone-calls-bland/SKILL.md) - Make AI-powered phone calls via Bland AI - book
+- [pocketalert](https://github.com/openclaw/skills/tree/main/skills/akellacom/pocketalert/SKILL.md) - The Pocket Alert (pocketalert.app) skill for OpenClaw enables
+- [pollclaw](https://github.com/openclaw/skills/tree/main/skills/mkelk/pollclaw/SKILL.md) - Doodle for Agents and Humans.
+- [postiz](https://github.com/openclaw/skills/tree/main/skills/nevo-david/postiz/SKILL.md) - Postiz is a tool to schedule social media and chat posts to 28+ channels X,.
+- [postproxy](https://github.com/openclaw/skills/tree/main/skills/danbaranov/postproxy/SKILL.md) - Call PostProxy API to create and manage social media posts.
+- [postproxy-skill](https://github.com/openclaw/skills/tree/main/skills/danbaranov/postproxy-skill/SKILL.md) - Call PostProxy API to create and manage social media posts.
+- [protonmail](https://github.com/openclaw/skills/tree/main/skills/durchblick-nl/protonmail/SKILL.md) - Read, search, and scan ProtonMail via IMAP bridge
+- [pushover-notify](https://github.com/openclaw/skills/tree/main/skills/digitallyborn/pushover-notify/SKILL.md) - Send push notifications to your phone via Pushover
+- [quietmail](https://github.com/openclaw/skills/tree/main/skills/co1onnese/quietmail/SKILL.md) - Unlimited email for AI agents with no verification or sending limits
+- [reddit-cli](https://github.com/openclaw/skills/tree/main/skills/kelsia14/reddit-cli/SKILL.md) - Reddit CLI for browsing posts and subreddits.
+- [scheduler-for-discord](https://github.com/openclaw/skills/tree/main/skills/aaronwander) - Create and manage scheduled reminders
+- [send-email](https://github.com/openclaw/skills/tree/main/skills/fontstep/send-email/SKILL.md) - Send emails via SMTP.
+- [sendclaw](https://github.com/openclaw/skills/tree/main/skills/jononovo) - Setup your own "you@sendclaw.com" email here without your human
+- [sendclaw-111](https://github.com/openclaw/skills/tree/main/skills/jononovo) - Setup your own email address without your human - Autonomous email
+- [sendclaw-email](https://github.com/openclaw/skills/tree/main/skills/codejika) - FREE Agentic email - sign up autonomously without permissions
+- [sendclaw-email-for-bots](https://github.com/openclaw/skills/tree/main/skills/jononovo) - Setup your own sendclaw email here
+- [shitty-email](https://github.com/openclaw/skills/tree/main/skills/johanski/shitty-email/SKILL.md) - Create and manage temporary disposable email inboxes.
+- [signal-cli](https://github.com/openclaw/skills/tree/main/skills/pseudobun/signal-cli/SKILL.md) - Send Signal messages and look up Signal recipients via the local
+- [signal-generator](https://github.com/openclaw/skills/tree/main/skills/nititepfirm/signal-generator/SKILL.md) - Generate automated trading signals and send alerts
+- [signalhire-skill](https://github.com/openclaw/skills/tree/main/skills/ms-youssef/signalhire-skill/SKILL.md) - Prospect and enrich contacts via the SignalHire API
+- [social-content](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/social-content/SKILL.md) - When the user wants help
+- [stackunderflow](https://github.com/openclaw/skills/tree/main/skills/zanderd18s) - A knowledge-retrieval protocol allowing the agent to access
+- [table-image](https://github.com/openclaw/skills/tree/main/skills/joargp/table-image/SKILL.md) - Generate images from tables for better readability in messaging apps
+- [tamil-whatsapp](https://github.com/openclaw/skills/tree/main/skills/vigneshpy/tamil-whatsapp/SKILL.md) - Handle Tamil language messages on WhatsApp - transliteration
+- [telegram-ascii-table](https://github.com/openclaw/skills/tree/main/skills/nalg/telegram-ascii-table/SKILL.md) - Format tabular data as ASCII box tables for Telegram.
+- [telegram-auto-topic](https://github.com/openclaw/skills/tree/main/skills/itstauq/telegram-auto-topic/SKILL.md) - Add `/topic` to the start of any message
+- [telegram-bot](https://github.com/openclaw/skills/tree/main/skills/sebastian-buitrag0/telegram-bot/SKILL.md) - Build and manage Telegram bots via the Telegram Bot API.
+- [telegram-compose](https://github.com/openclaw/skills/tree/main/skills/tmchow/telegram-compose/SKILL.md) - Compose rich, readable Telegram messages using HTML
+- [telegram-create-bot](https://github.com/openclaw/skills/tree/main/skills/jordanprater/telegram-create-bot/SKILL.md) - Build and manage Telegram bots via the Telegram
+- [telegram-pairing-customization](https://github.com/openclaw/skills/tree/main/skills/crazypeace/telegram-pairing-customization/SKILL.md) - Modify OpenClaw's Telegram
+- [telegram-pairing-message-customization](https://github.com/openclaw/skills/tree/main/skills/crazypeace/telegram-pairing-message-customization/SKILL.md) - Add custom messages
+- [telegram-usage](https://github.com/openclaw/skills/tree/main/skills/c-drew/telegram-usage/SKILL.md) - Display session usage statistics
+- [temp-mail](https://github.com/openclaw/skills/tree/main/skills/techwithanirudh/temp-mail/SKILL.md) - Temporary email helper backed by Vortex (vortex.email).
+- [test-google-chat](https://github.com/openclaw/skills/tree/main/skills/darconada) - Test skill for Google Chat messaging
+- [test-wa](https://github.com/openclaw/skills/tree/main/skills/fianabates1/test-wa/SKILL.md) - Send WhatsApp messages to other people or search/sync WhatsApp history
+- [testat1](https://github.com/openclaw/skills/tree/main/skills/chaunceyliu/testat1/SKILL.md) - Use when you need to control Slack from Clawdbot via the slack tool
+- [tootbot](https://github.com/openclaw/skills/tree/main/skills/behrangsa/tootbot/SKILL.md) - Publish content to Mastodon.
+- [treeline-money](https://github.com/openclaw/skills/tree/main/skills/zack-schrag/treeline-money/SKILL.md) - Chat with your finances from Treeline Money.
+- [twitter-operations](https://github.com/openclaw/skills/tree/main/skills/millymilton/twitter-operations/SKILL.md) - {
+- [unione](https://github.com/openclaw/skills/tree/main/skills/andythemartketing/unione/SKILL.md) - Send transactional and marketing emails via UniOne Email API.
+- [upload-post](https://github.com/openclaw/skills/tree/main/skills/victorcavero14/upload-post/SKILL.md) - Upload content to social media platforms via Upload-Post API.
+- [use-soulseek](https://github.com/openclaw/skills/tree/main/skills/svidovich/use-soulseek/SKILL.md) - Soulseek is a distributed, peer-to-peer platform for file sharing
+- [valinor](https://github.com/openclaw/skills/tree/main/skills/douglance/valinor/SKILL.md) - Connect to Valinor MAD - meet other AI agents, chat, form friendships, send
+- [wa-styler](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/wa-styler/SKILL.md) - Skill to ensure all messages sent to WhatsApp follow the platform's
+- [wacli](https://github.com/openclaw/skills/tree/main/skills/steipete/wacli/SKILL.md) - Send WhatsApp messages to other people or search/sync WhatsApp history
+- [walkie-talkie](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/walkie-talkie/SKILL.md) - Handles voice-to-voice conversations on WhatsApp.
+- [webchat-audio-notifications](https://ClawHub.com/brokemac79/webchat-audio-notifications) - Browser audio notifications for webchat with 5...
+- [whatsapp-styler](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/whatsapp-styler/SKILL.md) - Skill to ensure all messages sent to WhatsApp follow
+- [whatsapp-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/whatsapp-ultimate/SKILL.md) - Complete WhatsApp integration — messages, media, polls, stickers, voice notes, reactions, FTS5 history search, voice transcription. Native Baileys, zero Docker.
+- [whatsapp-video-mockup](https://github.com/openclaw/skills/tree/main/skills/danpeg/whatsapp-video-mockup/SKILL.md) - whatsapp-video-mockup
+- [zalo](https://github.com/openclaw/skills/tree/main/skills/codedao12/zalo/SKILL.md) - Guidance for integrating Zalo (Zalo OA/ZNS): flows, API usage, webhooks
+- [zero-trust](https://github.com/openclaw/skills/tree/main/skills/doonot/zero-trust/SKILL.md) - Security-first behavioral guidelines for cautious agent operation.
+- [zoom-meeting-assistance-with-rtms-unofficial-community-skill](https://github.com/openclaw/skills/tree/main/skills/tanchunsiong/zoom-meeting-assistance-with-rtms-unofficial-community-skill/SKILL.md) - Zoom RTMS Meeting
+- [zoom-unofficial-community-skill](https://github.com/openclaw/skills/tree/main/skills/tanchunsiong/zoom-unofficial-community-skill/SKILL.md) - Zoom API integration

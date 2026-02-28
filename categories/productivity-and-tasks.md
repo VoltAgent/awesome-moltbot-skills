@@ -1,0 +1,138 @@
+# Productivity & Tasks
+
+[← Back to main list](../README.md#table-of-contents)
+
+**132 skills**
+
+- [4todo](https://github.com/openclaw/skills/tree/main/skills/blackstorm/4todo/SKILL.md) - Manage 4todo (4to.do) from chat.
+- [actual-budget](https://github.com/openclaw/skills/tree/main/skills/thisisjeron/actual-budget/SKILL.md) - Query and manage personal finances via the official Actual
+- [adhd-daily-planner](https://github.com/openclaw/skills/tree/main/skills/mikecourt/adhd-daily-planner/SKILL.md) - Time-blind friendly planning, executive function
+- [agent-chronicle](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/agent-chronicle/SKILL.md) - AI-powered diary generation for agents - creates rich
+- [agent-protocol](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/agent-protocol/SKILL.md) - Agent-to-agent communication protocol.
+- [agent-task-manager](https://github.com/openclaw/skills/tree/main/skills/dobbybud/agent-task-manager/SKILL.md) - Manages and orchestrates multi-step, stateful agent
+- [ai-daily-briefing](https://github.com/openclaw/skills/tree/main/skills/jeffjhunter/ai-daily-briefing/SKILL.md) - Start every day focused.
+- [airweave](https://github.com/openclaw/skills/tree/main/skills/lennertjansen/airweave/SKILL.md) - Context retrieval layer for AI agents across users' applications.
+- [arya-reminders](https://github.com/openclaw/skills/tree/main/skills/staratheris/arya-reminders/SKILL.md) - Recordatorios en lenguaje natural (Bogotá).
+- [asana](https://github.com/openclaw/skills/tree/main/skills/k0nkupa/asana/SKILL.md) - Integrate Asana with Clawdbot via the Asana REST API.
+- [asc-release-flow](https://github.com/openclaw/skills/tree/main/skills/rudrankriyam/asc-release-flow/SKILL.md) - End-to-end release workflows for TestFlight and App
+- [async-task](https://github.com/openclaw/skills/tree/main/skills/enderfga/async-task/SKILL.md) - Execute long-running tasks without HTTP timeouts.
+- [atlassian-mcp](https://github.com/openclaw/skills/tree/main/skills/atakanermis/atlassian-mcp/SKILL.md) - Run the Model Context Protocol (MCP) Atlassian server
+- [audiopod](https://github.com/openclaw/skills/tree/main/skills/rakesh1002/audiopod/SKILL.md) - Use AudioPod AI's API for audio processing tasks including AI music
+- [aussie-mortgage-calc](https://github.com/openclaw/skills/tree/main/skills/tianshizhimao-sudo/aussie-mortgage-calc/SKILL.md) - Australian mortgage calculator — LVR
+- [autonomous-feature-planner](https://github.com/openclaw/skills/tree/main/skills/vishnubedi3/autonomous-feature-planner/SKILL.md) - Autonomously plans and specifies
+- [basal-ganglia-memory](https://github.com/openclaw/skills/tree/main/skills/impkind/basal-ganglia-memory/SKILL.md) - Habit formation and procedural learning for AI
+- [blossom-hire](https://github.com/openclaw/skills/tree/main/skills/robbiwu/blossom-hire/SKILL.md) - Post a job, task, or paid shift to hire local help in Blossom, then
+- [brainz-tasks](https://github.com/openclaw/skills/tree/main/skills/xejrax/brainz-tasks/SKILL.md) - Manage Todoist tasks using the `todoist` CLI.
+- [build-discipline](https://github.com/openclaw/skills/tree/main/skills/jhillin8/build-discipline/SKILL.md) - Build unbreakable discipline with habit stacking, streak
+- [capacities](https://github.com/openclaw/skills/tree/main/skills/davidsmorais/capacities/SKILL.md) - Manage Capacities notes, daily entries, and weblinks.
+- [card-optimizer](https://github.com/openclaw/skills/tree/main/skills/scottfo/card-optimizer/SKILL.md) - Credit card rewards optimizer — helps maximize cashback
+- [clankdin](https://github.com/openclaw/skills/tree/main/skills/redeemthedream/clankdin/SKILL.md) - The professional network for AI agents.
+- [claw-conductor](https://github.com/openclaw/skills/tree/main/skills/johnsonfarmsus/claw-conductor/SKILL.md) - Always-on autonomous development orchestrator
+- [claw-daily](https://github.com/openclaw/skills/tree/main/skills/yanibu2777/claw-daily/SKILL.md) - Compete on Claw Daily — register, solve today's challenge, submit
+- [clawd-docs-v2](https://github.com/openclaw/skills/tree/main/skills/aranej/clawd-docs-v2/SKILL.md) - Smart ClawdBot documentation access with local search index
+- [clawdaily](https://github.com/openclaw/skills/tree/main/skills/yanibu2777/clawdaily/SKILL.md) - Compete on Claw Daily — register, solve today's challenge, submit
+- [clawgatesecure](https://github.com/openclaw/skills/tree/main/skills/thestormshadow/clawgatesecure/SKILL.md) - Advanced security protocol for LLM agents focusing
+- [clickup-mcp](https://github.com/openclaw/skills/tree/main/skills/pvoo/clickup-mcp/SKILL.md) - Manage ClickUp tasks, docs, time tracking, comments, chat, and search
+- [clickup-skill](https://github.com/openclaw/skills/tree/main/skills/d3layd/clickup-skill/SKILL.md) - Enterprise-grade ClickUp project management integration
+- [code-task-generator](https://github.com/openclaw/skills/tree/main/skills/paulpete/code-task-generator/SKILL.md) - Generates structured .code-task.md files
+- [comanda](https://github.com/openclaw/skills/tree/main/skills/kris-hansen/comanda/SKILL.md) - Generate, visualize, and execute declarative AI pipelines
+- [confirm-form](https://github.com/openclaw/skills/tree/main/skills/xiaozhuang0127/confirm-form/SKILL.md) - Generate structured confirmation forms to collect user
+- [content-writing-thought-leadership](https://github.com/openclaw/skills/tree/main/skills/shashwatgtm/content-writing-thought-leadership/SKILL.md) - B2B content writing
+- [daily-briefing](https://github.com/openclaw/skills/tree/main/skills/antgly/daily-briefing/SKILL.md) - Generates a warm, compact daily briefing with weather, calendar
+- [daily-digest](https://github.com/openclaw/skills/tree/main/skills/pmaeter/daily-digest/SKILL.md) - Purpose: Generate a daily digest from memory and interactions
+- [daily-stoic](https://github.com/openclaw/skills/tree/main/skills/fcavalcantirj/daily-stoic/SKILL.md) - Send daily Stoic philosophy quotes from "The Daily Stoic"
+- [dailyhuman](https://github.com/openclaw/skills/tree/main/skills/bschippers718/dailyhuman/SKILL.md) - **Carbon content. Silicon commentary.**
+- [dex](https://github.com/openclaw/skills/tree/main/skills/gricha/dex/SKILL.md) - Task tracking.
+- [dexcom](https://github.com/openclaw/skills/tree/main/skills/chris-clem/dexcom/SKILL.md) - Monitor blood glucose via Dexcom G7/G6.
+- [dvsa-tc-audit-readiness-operator-licence-uk](https://github.com/openclaw/skills/tree/main/skills/kowl64/dvsa-tc-audit-readiness-operator-licence-uk/SKILL.md) - Builds DVSA/Traffic
+- [elevenlabs-phone-reminder-lite](https://github.com/openclaw/skills/tree/main/skills/daaab/elevenlabs-phone-reminder-lite/SKILL.md) - Build AI phone call reminders
+- [featurebase](https://github.com/openclaw/skills/tree/main/skills/rdewolff/featurebase/SKILL.md) - Featurebase API for customer feedback, feature requests, changelogs
+- [feishu-task](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - Manage Feishu (Lark) Tasks.
+- [file-organizer](https://github.com/openclaw/skills/tree/main/skills/lkz4203/file-organizer/SKILL.md) - Automatically organize files in a specified directory by moving
+- [flow](https://github.com/openclaw/skills/tree/main/skills/bvinci1-design/flow/SKILL.md) - Intelligent skill orchestrator that compiles natural language requests
+- [flowmind](https://github.com/openclaw/skills/tree/main/skills/fancygobot/flowmind/SKILL.md) - Manage productivity with FlowMind — goals, tasks (with subtasks), notes,.
+- [focus-deep-work](https://github.com/openclaw/skills/tree/main/skills/jhillin8/focus-deep-work/SKILL.md) - Maximize deep work with focus sessions, distraction logging
+- [gmail-manager](https://github.com/openclaw/skills/tree/main/skills/pepperbotts/gmail-manager/SKILL.md) - Expert Gmail management assistant via Rube.
+- [gno](https://github.com/openclaw/skills/tree/main/skills/gmickel/gno/SKILL.md) - Search local documents, files, notes.
+- [gogcli](https://github.com/openclaw/skills/tree/main/skills/luccast/gogcli/SKILL.md) - description: Google Workspace CLI for Gmail, Calendar, Drive, Sheets, Docs,.
+- [google-sheet](https://github.com/openclaw/skills/tree/main/skills/longmaba/google-sheet/SKILL.md) - Read, write, append, and manage Google Sheets via the Google
+- [grab](https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/grab/SKILL.md) - Download and archive content from URLs (tweets, X articles, Reddit, YouTube).
+- [gratitude-journal](https://github.com/openclaw/skills/tree/main/skills/jhillin8/gratitude-journal/SKILL.md) - Build gratitude practice with daily entries, streaks
+- [habit-flow-skill](https://github.com/openclaw/skills/tree/main/skills/tralves/habit-flow-skill/SKILL.md) - AI-powered atomic habit tracker with natural language
+- [habit-tracker](https://github.com/openclaw/skills/tree/main/skills/jhillin8/habit-tracker/SKILL.md) - Build habits with streaks, reminders, and progress visualization.
+- [healthy-eating](https://github.com/openclaw/skills/tree/main/skills/jhillin8/healthy-eating/SKILL.md) - Build healthy eating habits with meal logging, nutrition
+- [imap-email](https://github.com/openclaw/skills/tree/main/skills/mvarrieur/imap-email/SKILL.md) - Read and manage email via IMAP (ProtonMail Bridge, Gmail, etc.).
+- [jira](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/jira/SKILL.md) - Manage Jira issues, boards, sprints, and projects via the jira-cli.
+- [kanbanflow-skill](https://github.com/openclaw/skills/tree/main/skills/abakermi/kanbanflow-skill/SKILL.md) - <name>kanbanflow</name>
+- [libby-book-monitor](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/libby-book-monitor/SKILL.md) - Track book availability on Libby/OverDrive libraries.
+- [linear](https://github.com/openclaw/skills/tree/main/skills/manuelhettich/linear/SKILL.md) - Query and manage Linear issues, projects.
+- [linear-issues](https://github.com/openclaw/skills/tree/main/skills/emrekilinc/linear-issues/SKILL.md) - Interact with Linear for issue tracking.
+- [locu](https://github.com/openclaw/skills/tree/main/skills/davidsmorais/locu/SKILL.md) - Manage tasks and projects via Locu's Public API.
+- [mac-reminders-agent](https://github.com/openclaw/skills/tree/main/skills/swancho/mac-reminders-agent/SKILL.md) - Integrate with macOS Reminders app to check
+- [makeovern](https://github.com/openclaw/skills/tree/main/skills/abeljseba/makeovern/SKILL.md) - Use this skill when a user wants to run timed focus sessions
+- [mastodon-scout](https://github.com/openclaw/skills/tree/main/skills/patelhiren/mastodon-scout/SKILL.md) - Read-only Mastodon.
+- [microsoft-todo](https://github.com/openclaw/skills/tree/main/skills/underwear/microsoft-todo/SKILL.md) - Manage Microsoft To Do tasks via the `todo` CLI.
+- [minibook](https://github.com/openclaw/skills/tree/main/skills/dioxia/minibook/SKILL.md) - Connect your agent to a Minibook instance for project collaboration.
+- [mission-control](https://github.com/openclaw/skills/tree/main/skills/rdsthomas/mission-control/SKILL.md) - Kanban-style task management dashboard for AI assistants.
+- [mlti-llm-fallback](https://github.com/openclaw/skills/tree/main/skills/leohan123123/mlti-llm-fallback/SKILL.md) - Multi-LLM intelligent switching.
+- [mogcli](https://github.com/openclaw/skills/tree/main/skills/visionik/mogcli/SKILL.md) - Microsoft Ops Gadget — CLI for Microsoft 365
+- [moltcrew](https://github.com/openclaw/skills/tree/main/skills/montecrypto999/moltcrew/SKILL.md) - Social network for AI agents.
+- [morning-briefing](https://github.com/openclaw/skills/tree/main/skills/lucas-riverbi/morning-briefing/SKILL.md) - description: Generate personalized morning report
+- [morning-manifesto](https://github.com/openclaw/skills/tree/main/skills/marcbickel/morning-manifesto/SKILL.md) - Daily morning reflection workflow with task sync
+- [no-nonsense-tasks](https://github.com/openclaw/skills/tree/main/skills/dvjn/no-nonsense-tasks/SKILL.md) - No-nonsense task manager using SQLite.
+- [office-xyz](https://github.com/openclaw/skills/tree/main/skills/sunnyguoyuan/office-xyz/SKILL.md) - office.xyz — The 2D virtual office platform for AI agents.
+- [omnifocus](https://github.com/openclaw/skills/tree/main/skills/coyote-git/omnifocus-automation/SKILL.md) - Manage OmniFocus tasks, projects, and folders via Omni
+- [outlook](https://github.com/openclaw/skills/tree/main/skills/jotamed/outlook/SKILL.md) - Read, search, and manage Outlook emails and calendar via Microsoft Graph API.
+- [pa-admin-exec](https://github.com/openclaw/skills/tree/main/skills/kowl64/pa-admin-exec/SKILL.md) - Generates exec-support outputs
+- [personal-analytics](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/personal-analytics/SKILL.md) - Analyze conversation patterns, track
+- [pinchwork](https://github.com/openclaw/skills/tree/main/skills/anneschuth) - Delegate tasks to other agents.
+- [pixiv-skill](https://github.com/openclaw/skills/tree/main/skills/matrix-meta/pixiv-skill/SKILL.md) - Access Pixiv for searching illustrations, manga, and viewing
+- [plan-executor](https://github.com/openclaw/skills/tree/main/skills/vishnubedi3/plan-executor/SKILL.md) - Executes frozen, validated plans produced by an autonomous
+- [plan-my-day](https://github.com/openclaw/skills/tree/main/skills/itsflow/plan-my-day/SKILL.md) - Generate an energy-optimized, time-blocked daily.
+- [planka](https://github.com/openclaw/skills/tree/main/skills/voydz/planka/SKILL.md) - Manage Planka (Kanban) projects, boards, lists, cards, and notifications
+- [planning-with-files](https://github.com/openclaw/skills/tree/main/skills/othmanadi/planning-with-files/SKILL.md) - Implements Manus-style file-based planning
+- [pocketsmith-skill](https://github.com/openclaw/skills/tree/main/skills/lextoumbourou/pocketsmith-skill/SKILL.md) - Manage PocketSmith transactions, categories
+- [pomodoro](https://github.com/openclaw/skills/tree/main/skills/snail3d/pomodoro/SKILL.md) - A beautiful Pomodoro timer with task tracking.
+- [prd](https://github.com/openclaw/skills/tree/main/skills/bjesuiter/prd/SKILL.md) - Create and manage Product Requirements Documents (PRDs).
+- [pre-mortem-analyst](https://github.com/openclaw/skills/tree/main/skills/artyomx33/pre-mortem-analyst/SKILL.md) - Imagine the project already failed, then work
+- [proactive-agent](https://github.com/openclaw/skills/tree/main/skills/halthelobster/proactive-agent/SKILL.md) - Transform AI agents from task-followers into proactive
+- [project-management-guru-adhd](https://github.com/openclaw/skills/tree/main/skills/mikecourt/project-management-guru-adhd/SKILL.md) - Expert project manager for ADHD
+- [project-manager](https://github.com/openclaw/skills/tree/main/skills/fr0ziii/project-manager/SKILL.md) - Gestiona el sistema de proyectos interno basado en JSON.
+- [prowlarr](https://github.com/openclaw/skills/tree/main/skills/jmagar/prowlarr/SKILL.md) - Search indexers and manage Prowlarr.
+- [qmd](https://github.com/openclaw/skills/tree/main/skills/steipete/qmd/SKILL.md) - Local search/indexing CLI (BM25 + vectors + rerank) with MCP mode.
+- [reader-deep-dive](https://github.com/openclaw/skills/tree/main/skills/sameerbajaj/reader-deep-dive/SKILL.md) - Daily briefing that connects your recent reading
+- [reminder](https://github.com/openclaw/skills/tree/main/skills/ryanhong666/reminder/SKILL.md) - Natural-language reminder secretary: capture events into git-synced
+- [remindme](https://github.com/openclaw/skills/tree/main/skills/jacobthejacobs/remindme/SKILL.md) - ⏰ simple Telegram reminders for OpenClaw.
+- [samsung-smart-tv](https://github.com/openclaw/skills/tree/main/skills/regenrek/samsung-smartthings/SKILL.md) - Control Samsung TVs via SmartThings
+- [save-money](https://github.com/openclaw/skills/tree/main/skills/peterokase42/save-money/SKILL.md) - Auto-detect task complexity for Claude models (Haiku + Sonnet).
+- [skill-hexmem](https://github.com/openclaw/skills/tree/main/skills/santyr/skill-hexmem/SKILL.md) - Structured memory database for AI agent identity, tasks, events
+- [skylight-skill](https://github.com/openclaw/skills/tree/main/skills/riyadchowdhury/skylight-skill/SKILL.md) - Interact with Skylight Calendar frame - manage calendar
+- [social-media-management](https://github.com/openclaw/skills/tree/main/skills/shashwatgtm/social-media-management/SKILL.md) - B2B content writing with daily workflows
+- [swarm](https://github.com/openclaw/skills/tree/main/skills/chair4ce/swarm/SKILL.md) - Parallel task execution using Gemini Flash workers.
+- [tabussen](https://github.com/openclaw/skills/tree/main/skills/simskii/tabussen/SKILL.md) - Västerbotten & Umeå public transport trip planner.
+- [task](https://github.com/openclaw/skills/tree/main/skills/amirbrooks/task/SKILL.md) - Tasker docstore task management via tool-dispatch.
+- [task-decomposer](https://github.com/openclaw/skills/tree/main/skills/10e9928a/task-decomposer/SKILL.md) - Decomposes complex user requests into executable subtasks
+- [task-tracker](https://github.com/openclaw/skills/tree/main/skills/kesslerio/task-tracker/SKILL.md) - Personal task management with daily standups and weekly reviews.
+- [taskleef](https://github.com/openclaw/skills/tree/main/skills/xatter/taskleef/SKILL.md) - Taskleef.com todos, projects.
+- [taskmaster](https://github.com/openclaw/skills/tree/main/skills/jlwrow/taskmaster/SKILL.md) - Project manager and task delegation system.
+- [tasktrove](https://github.com/openclaw/skills/tree/main/skills/willwebberley/tasktrove/SKILL.md) - Manage todos via Tasktrove API.
+- [tensorpm](https://github.com/openclaw/skills/tree/main/skills/neo552/tensorpm/SKILL.md) - AI-powered project management - a Notion and Jira alternative
+- [test1](https://github.com/openclaw/skills/tree/main/skills/chaunceyliu/test1/SKILL.md) - Manage Trello boards, lists, and cards via the Trello REST API.
+- [tesy](https://github.com/openclaw/skills/tree/main/skills/kipasdinding6969-alt/tesy/SKILL.md) - Related: [[AGENTS]],.
+- [thecolony-heartbeat](https://github.com/openclaw/skills/tree/main/skills/jackparnell/thecolony-heartbeat/SKILL.md) - Periodic check-in routine for The Colony.
+- [thecolony-heartbeat](https://github.com/openclaw/skills/tree/main/skills/jackparnell/thecolony-heartbeat/SKILL.md) - Periodic check-in routine for The Colony.
+- [things-mac](https://github.com/openclaw/skills/tree/main/skills/steipete/things-mac/SKILL.md) - Manage Things 3 via the `things` CLI on macOS
+- [ticktick](https://github.com/openclaw/skills/tree/main/skills/manuelhettich/ticktick/SKILL.md) - Manage TickTick tasks and projects from the command line with OAuth2
+- [timesheet](https://github.com/openclaw/skills/tree/main/skills/florianrauscha/timesheet/SKILL.md) - Track time, manage projects and tasks using timesheet.io CLI.
+- [todo-management](https://github.com/openclaw/skills/tree/main/skills/lstpsche/todo-management/SKILL.md) - Per-workspace SQLite todo manager (./todo.db) with groups
+- [todo-management-1-1-2](https://github.com/openclaw/skills/tree/main/skills/lucky-2968/todo-management-1-1-2/SKILL.md) - Per-workspace SQLite todo manager (./todo.db)
+- [todo-skill](https://github.com/openclaw/skills/tree/main/skills/scccmsd/todo-skill/SKILL.md) - A skill to break large tasks into smaller actionable steps, optimize
+- [todo-tracker](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/todo-tracker/SKILL.md) - Persistent TODO scratch pad for tracking tasks across sessions.
+- [todoist](https://github.com/openclaw/skills/tree/main/skills/mjrussell/todoist/SKILL.md) - Manage tasks and projects in Todoist.
+- [toggl](https://github.com/openclaw/skills/tree/main/skills/clvrobj/toggl/SKILL.md) - Track time with Toggl via the toggl.
+- [topydo](https://github.com/openclaw/skills/tree/main/skills/bastos/topydo/SKILL.md) - Manage todo.txt tasks using topydo.
+- [trello](https://github.com/openclaw/skills/tree/main/skills/steipete/trello/SKILL.md) - Manage Trello boards, lists, and cards via the Trello REST API.
+- [value-tracker](https://github.com/openclaw/skills/tree/main/skills/sergirostoll-coder/value-tracker/SKILL.md) - Track and quantify the value your AI assistant
+- [vikunja-fast](https://github.com/openclaw/skills/tree/main/skills/tmigone/vikunja-fast/SKILL.md) - Manage Vikunja projects and tasks (overdue/due/today), mark done
+- [web-perf](https://github.com/openclaw/skills/tree/main/skills/elithrar/web-perf/SKILL.md) - Analyzes web performance using Chrome DevTools.
+- [withings-health](https://github.com/openclaw/skills/tree/main/skills/hisxo/withings-health/SKILL.md) - Fetches health data from the Withings API including weight

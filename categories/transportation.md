@@ -1,0 +1,77 @@
+# Transportation
+
+[← Back to main list](../README.md#table-of-contents)
+
+**71 skills**
+
+- [airfrance-afkl](https://github.com/openclaw/skills/tree/main/skills/iclems/airfrance-afkl/SKILL.md) - Track Air France flights using the Air France–KLM Open Data APIs
+- [anachb](https://github.com/openclaw/skills/tree/main/skills/manmal/a-nach-b/SKILL.md) - Austrian public transport (VOR AnachB) for all of Austria.
+- [anyone-proxy](https://github.com/openclaw/skills/tree/main/skills/ra3ka/anyone-proxy/SKILL.md) - This skill enables IP address masking and accessing hidden services
+- [aviation-weather](https://github.com/openclaw/skills/tree/main/skills/dimitryvin/aviation-weather/SKILL.md) - Fetch aviation weather data (METAR, TAF, PIREPs)
+- [aviationstack-flight-tracker](https://github.com/openclaw/skills/tree/main/skills/copey02/aviationstack-flight-tracker/SKILL.md) - Track flights in real-time
+- [bahn](https://github.com/openclaw/skills/tree/main/skills/tobiasbischoff/bahn/SKILL.md) - Search Deutsche Bahn train connections using the bahn-cli tool.
+- [bexio](https://github.com/openclaw/skills/tree/main/skills/rdewolff/bexio/SKILL.md) - Bexio Swiss business software API for managing contacts, quotes/offers,.
+- [book-flight](https://github.com/openclaw/skills/tree/main/skills/aszelem) - id: travel-agent.
+- [brainstorming-studio](https://github.com/openclaw/skills/tree/main/skills/myboxstorage/brainstorming-studio/SKILL.md) - ﻿# 🧠 Skill Router (Skill Orchestrator)
+- [business-plan](https://github.com/openclaw/skills/tree/main/skills/jk-0001/business-plan/SKILL.md) - Write, structure, and update a business plan for a solopreneur.
+- [bvg-route](https://github.com/openclaw/skills/tree/main/skills/jaysonsantos/bvg-route/SKILL.md) - Route planning for Berlin public transport (BVG)
+- [capmetro-skill](https://github.com/openclaw/skills/tree/main/skills/brianleach/capmetro-skill/SKILL.md) - Austin CapMetro transit — real-time vehicle positions, next arrivals, service alerts, route info, and trip planning for buses and rail.
+- [charger](https://github.com/openclaw/skills/tree/main/skills/borahm/charger/SKILL.md) - Check EV charger availability (favorites, nearby search) via Google Places.
+- [copey-flight-tracker](https://github.com/openclaw/skills/tree/main/skills/copey02/copey-flight-tracker/SKILL.md) - Track flights in real-time with detailed status
+- [cta](https://clawhub.ai/brianleach/cta) - Chicago CTA L train arrivals, bus predictions, and service alerts.
+- [flight-search](https://github.com/openclaw/skills/tree/main/skills/awlevin/flight-search/SKILL.md) - Search Google Flights for prices, times, and airlines.
+- [flight-tracker](https://github.com/openclaw/skills/tree/main/skills/xenofex7/flight-tracker/SKILL.md) - Flight tracking and scheduling.
+- [free-ride](https://github.com/openclaw/skills/tree/main/skills/shaivpidadi/free-ride/SKILL.md) - Manages free AI models from OpenRouter for OpenClaw.
+- [freeride](https://github.com/openclaw/skills/tree/main/skills/shaivpidadi/freeride/SKILL.md) - Manages free AI models from OpenRouter for OpenClaw.
+- [freeride-ai](https://github.com/openclaw/skills/tree/main/skills/shaivpidadi/freeride-ai/SKILL.md) - Manages free AI models from OpenRouter for OpenClaw.
+- [french-services](https://github.com/openclaw/skills/tree/main/skills/hugosbl/french-services/SKILL.md) - Skill pour accéder aux services français : trains SNCF, suivi
+- [google-maps-search-api](https://github.com/openclaw/skills/tree/main/skills/phheng/google-maps-search-api/SKILL.md) - This skill is designed to help users
+- [gotrain](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/gotrain/SKILL.md) - MTA system train departures (NYC Subway, LIRR, Metro-North).
+- [idfm-journey-navitia](https://github.com/openclaw/skills/tree/main/skills/anthonymq/idfm-journey-navitia/SKILL.md) - Query Île-de-France Mobilités (IDFM) PRIM/Navitia
+- [idfm-journey-skill](https://github.com/openclaw/skills/tree/main/skills/anthonymq/idfm-journey-skill/SKILL.md) - Query Île-de-France Mobilités (IDFM) PRIM/Navitia
+- [image-to-relief-stl](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/image-to-relief-stl/SKILL.md) - Turn a source image (or multi-color mask image)
+- [incident-pcn-evidence-appeal-corrective-actions-uk](https://github.com/openclaw/skills/tree/main/skills/kowl64/incident-pcn-evidence-appeal-corrective-actions-uk/SKILL.md) - Builds incident/PCN
+- [interaction-logger](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - A robust utility for appending interaction logs
+- [jwdiario](https://github.com/openclaw/skills/tree/main/skills/djismgaming/jwdiario/SKILL.md) - Buscar y obtener el texto diario de la página oficial de los Testigos
+- [kallyai](https://github.com/openclaw/skills/tree/main/skills/sltelitsyn/kallyai/SKILL.md) - Make phone calls via KallyAI API - an AI phone assistant that calls
+- [location-awareness](https://github.com/openclaw/skills/tree/main/skills/hegghammer/location-awareness/SKILL.md) - Location awareness via privacy-friendly GPS tracking
+- [luban-cli](https://github.com/openclaw/skills/tree/main/skills/guunergooner/luban-cli/SKILL.md) - Development and management of the Luban CLI for MLOps.
+- [metra](https://clawhub.ai/brianleach/metra) - Chicago Metra commuter rail arrivals, tracking, and alerts.
+- [mechanic](https://github.com/openclaw/skills/tree/main/skills/scottfo/mechanic/SKILL.md) - Vehicle maintenance tracker and mechanic advisor.
+- [mta](https://clawhub.ai/brianleach/mta) - NYC subway and bus real-time arrivals, alerts, and routes.
+- [nmap-recon](https://github.com/openclaw/skills/tree/main/skills/nsahal/nmap-recon/SKILL.md) - Network reconnaissance and port scanning using Nmap.
+- [ns-trains](https://github.com/openclaw/skills/tree/main/skills/eggressive/ns-trains/SKILL.md) - Check Dutch train schedules, departures, disruptions, and plan
+- [oebb-scotty](https://github.com/openclaw/skills/tree/main/skills/manmal/oebb-scotty/SKILL.md) - Austrian rail travel planner (ÖBB Scotty).
+- [openerz](https://github.com/openclaw/skills/tree/main/skills/mbjoern/erz-entsorgung-recycling-zurich/SKILL.md) - Abfuhrkalender für Zürich via OpenERZ API.
+- [preflight-checks](https://github.com/openclaw/skills/tree/main/skills/ivanmmm/preflight-checks/SKILL.md) - Test-driven behavioral verification for AI agents.
+- [productboard-release](https://github.com/openclaw/skills/tree/main/skills/robertoamoreno/productboard-release/SKILL.md) - Manage ProductBoard releases and roadmap
+- [railil](https://github.com/openclaw/skills/tree/main/skills/lirantal/railil/SKILL.md) - Search for Israel Rail train schedules using the railil CLI.
+- [recgov-availability](https://github.com/openclaw/skills/tree/main/skills/seanrea/recgov-availability/SKILL.md) - Check campsite availability on recreation.gov
+- [ringbot](https://github.com/openclaw/skills/tree/main/skills/gbessoni/ringbot/SKILL.md) - Make outbound AI phone calls.
+- [seats-aero](https://github.com/openclaw/skills/tree/main/skills/jarrodjs/seats-aero/SKILL.md) - Search award flight availability via seats.aero API.
+- [section11](https://github.com/openclaw/skills/tree/main/skills/crankaddict/section11/SKILL.md) - Evidence-based endurance cycling coaching protocol.
+- [sendgrid-skills](https://github.com/openclaw/skills/tree/main/skills/vince-winkintel/sendgrid-skills/SKILL.md) - Use when working with SendGrid email platform
+- [skanetrafiken](https://github.com/openclaw/skills/tree/main/skills/rezkam/skanetrafiken/SKILL.md) - Skåne public transport trip planner (Skånetrafiken).
+- [surfline](https://github.com/openclaw/skills/tree/main/skills/miguelcarranza/surfline/SKILL.md) - Surf forecasts and conditions from Surfline.
+- [swiss-geo](https://github.com/openclaw/skills/tree/main/skills/mbjoern/swiss-geo-and-tourism-assistant/SKILL.md) - Schweizer Geodaten, POIs und Tourismus.
+- [swiss-phone-directory](https://github.com/openclaw/skills/tree/main/skills/xenofex7/swiss-phone-directory/SKILL.md) - Swiss phone directory lookup via search.ch API.
+- [swiss-transport](https://github.com/openclaw/skills/tree/main/skills/xenofex7/swiss-transport/SKILL.md) - Swiss Public Transport real-time information.
+- [tachograph-infringement-triage-root-cause-uk](https://github.com/openclaw/skills/tree/main/skills/kowl64/tachograph-infringement-triage-root-cause-uk/SKILL.md) - Triages tachograph
+- [tesla](https://github.com/openclaw/skills/tree/main/skills/mvanhorn/tesla/SKILL.md) - Control your Tesla vehicles - lock/unlock, climate, location, charge status,.
+- [tesla-commands](https://github.com/openclaw/skills/tree/main/skills/ovaris/tesla-commands/SKILL.md) - Control your Tesla via MyTeslaMate API.
+- [tessie](https://github.com/openclaw/skills/tree/main/skills/baanish/tessie/SKILL.md) - tessie
+- [tfl](https://clawhub.ai/brianleach/tfl) - London Underground and bus arrivals, status, and journey planning.
+- [tfl-journey-disruption](https://github.com/openclaw/skills/tree/main/skills/diegopetrucci/transport-for-london-journey-disruption/SKILL.md) - Plan TfL journeys
+- [trace-to-svg](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/trace-to-svg/SKILL.md) - Trace bitmap images (PNG/JPG/WebP) into clean SVG paths
+- [transcript-to-content](https://github.com/openclaw/skills/tree/main/skills/tomstools11/transcript-to-content/SKILL.md) - This skill transforms training and onboarding
+- [transport-investigation-acas-aligned-pack](https://github.com/openclaw/skills/tree/main/skills/kowl64/transport-investigation-acas-aligned-pack/SKILL.md) - Generates ACAS-align
+- [travel-agent](https://github.com/openclaw/skills/tree/main/skills/aszelem) - id: travel-agent.
+- [travel-concierge](https://github.com/openclaw/skills/tree/main/skills/arein/travel-concierge/SKILL.md) - Find contact details for accommodation listings
+- [travel-manager](https://github.com/openclaw/skills/tree/main/skills/alvarobcmed/travel-manager/SKILL.md) - Comprehensive travel planning, booking, and management
+- [trein](https://github.com/openclaw/skills/tree/main/skills/joehoel/trein/SKILL.md) - Query Dutch Railways (NS) for train departures, trip planning, disruptions
+- [trimet](https://github.com/openclaw/skills/tree/main/skills/mjrussell/trimet/SKILL.md) - Get Portland transit information including arrivals, trip planning
+- [uk-trains](https://github.com/openclaw/skills/tree/main/skills/jabbslad/uk-trains/SKILL.md) - Query UK National Rail live departure boards, arrivals, delays
+- [virus-monitor](https://github.com/openclaw/skills/tree/main/skills/pasogott/virus-monitor/SKILL.md) - Virus-Monitoring für Wien (Abwasser + Sentinel).
+- [wed-1-0-1](https://github.com/openclaw/skills/tree/main/skills/gvillanueva84/wed-1-0-1/SKILL.md) - What Would Elon Do?
+- [wheels-router](https://github.com/openclaw/skills/tree/main/skills/anscg/wheels-router/SKILL.md) - Public transit planning globally via Transitous.
+- [wienerlinien](https://github.com/openclaw/skills/tree/main/skills/hjanuschka/wienerlinien/SKILL.md) - Vienna public transport (Wiener Linien) real-time.

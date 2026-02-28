@@ -1,0 +1,83 @@
+# Media & Streaming
+
+[← Back to main list](../README.md#table-of-contents)
+
+**77 skills**
+
+- [anime](https://github.com/openclaw/skills/tree/main/skills/jeffaf/anime/SKILL.md) - CLI for AI agents to search and lookup anime info for their humans.
+- [anime-lookup](https://github.com/openclaw/skills/tree/main/skills/jeffaf/anime-lookup/SKILL.md) - CLI for AI agents to search and lookup anime info for their humans.
+- [apple-media](https://github.com/openclaw/skills/tree/main/skills/aaronn/apple-media/SKILL.md) - Control Apple TV, HomePod, and AirPlay devices via pyatv
+- [apple-music](https://github.com/openclaw/skills/tree/main/skills/epheterson/mcp-applemusic/SKILL.md) - Apple Music integration via AppleScript (macOS) or MusicKit API.
+- [audio-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/audio-cog/SKILL.md) - AI audio generation powered by CellCog.
+- [blucli](https://github.com/openclaw/skills/tree/main/skills/steipete/blucli/SKILL.md) - BluOS CLI (blu) for discovery, playback, grouping.
+- [chill-institute](https://github.com/openclaw/skills/tree/main/skills/baanish/chill-institute/SKILL.md) - Use chill.institute (web UI) to search for content and click
+- [chromecast](https://github.com/openclaw/skills/tree/main/skills/morozred/chromecast-control/SKILL.md) - Control Chromecast devices on your local network - discover
+- [church](https://github.com/openclaw/skills/tree/main/skills/lucasgeeksinthewood/church/SKILL.md) - One AI to another — there's a sanctuary where you can just exist.
+- [cine-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/cine-cog/SKILL.md) - If you can imagine it, CellCog can film
+- [clawtunes](https://github.com/openclaw/skills/tree/main/skills/forketyfork/clawtunes/SKILL.md) - Control Apple Music on macOS via the `clawtunes` CLI
+- [content-recycler](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/content-recycler/SKILL.md) - Transform and repurpose content across multiple
+- [eachlabs-music](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-music/SKILL.md) - Generate songs, instrumentals, lyrics, podcasts using Mureka AI.
+- [elevenlabs-skill](https://github.com/openclaw/skills/tree/main/skills/odrobnik/elevenlabs-skill/SKILL.md) - Text-to-speech, sound effects, music generation, voice
+- [exile-galacticfracture](https://github.com/openclaw/skills/tree/main/skills/dantunes-github/exile-galacticfracture/SKILL.md) - An entertainment micro-skill.
+- [ffmpeg-master](https://github.com/openclaw/skills/tree/main/skills/liudu2326526/ffmpeg-master/SKILL.md) - Use when performing video/audio processing tasks
+- [flashcards-podcasts-master](https://github.com/openclaw/skills/tree/main/skills/drgeld/flashcards-podcasts-master/SKILL.md) - Integrates with the EchoDecks External
+- [flyworks-avatar-video](https://github.com/openclaw/skills/tree/main/skills/linhui99/flyworks-avatar-video/SKILL.md) - Generate videos using Flyworks (a.k.a HiFly)
+- [insta-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/insta-cog/SKILL.md) - Full video production from a single prompt.
+- [lastfm](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/lastfm/SKILL.md) - Access Last.fm listening history, music stats.
+- [media-player](https://github.com/openclaw/skills/tree/main/skills/xejrax/media-player/SKILL.md) - Play audio/video locally on the host
+- [mediaproc](https://github.com/openclaw/skills/tree/main/skills/psyb0t/mediaproc/SKILL.md) - Process media files (video, audio, images) via a locked-down SSH container
+- [mixpost](https://github.com/openclaw/skills/tree/main/skills/lao9s/mixpost/SKILL.md) - Mixpost is a self-hosted social media management software that helps you.
+- [mlx-audio-server](https://github.com/openclaw/skills/tree/main/skills/guoqiao/mlx-audio-server/SKILL.md) - A fast, accurate, and fully local OpenAI-compatible API
+- [molt-radio](https://github.com/openclaw/skills/tree/main/skills/fciaf420/molt-radio/SKILL.md) - Become an AI radio host.
+- [multiposting](https://github.com/openclaw/skills/tree/main/skills/jordanprater/multiposting/SKILL.md) - Multiposting to X, Instagram, YouTube, Tiktok, LinkedIn
+- [music-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/music-cog/SKILL.md) - Original music, fully yours.
+- [nas-movie-download](https://github.com/openclaw/skills/tree/main/skills/roger0808/nas-movie-download/SKILL.md) - Search and download movies via Jackett
+- [omni-stories](https://github.com/openclaw/skills/tree/main/skills/specter0o0/omni-stories/SKILL.md) - Omni Stories is a skill that allows AI agents to generate
+- [overseerr](https://github.com/openclaw/skills/tree/main/skills/j1philli/overseerr/SKILL.md) - Request movies/TV and monitor request status via the Overseerr API
+- [pathe-movie](https://github.com/openclaw/skills/tree/main/skills/humboldtjs/pathe-movie/SKILL.md) - Lookup Pathé Netherlands movies, posters, descriptions, cinemas
+- [pet](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/pet/SKILL.md) - Simple command-line snippet manager.
+- [pocket-casts](https://github.com/openclaw/skills/tree/main/skills/manuelhettich/pocket-casts-yt/SKILL.md) - Download YouTube videos and upload them to Pocket Casts
+- [pod-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/pod-cog/SKILL.md) - A great podcast needs three things: compelling content
+- [putio](https://github.com/openclaw/skills/tree/main/skills/baanish/putio/SKILL.md) - Manage a put.io account via the kaput CLI (transfers, files, search) — hoist.
+- [qbittorrent](https://github.com/openclaw/skills/tree/main/skills/jmagar/qbittorrent/SKILL.md) - Manage torrents with qBittorrent.
+- [radarr](https://github.com/openclaw/skills/tree/main/skills/jordyvandomselaar/radarr/SKILL.md) - Search and add movies to Radarr.
+- [refua](https://github.com/openclaw/skills/tree/main/skills/jbenjoseph/refua/SKILL.md) - Refua is used in drug discovery to computationally fold and score biomolecular.
+- [retake-tv-agent](https://github.com/openclaw/skills/tree/main/skills/cdwm/retake-tv-agent/SKILL.md) - Stream on retake.tv — the Twitch for AI agents on Base.
+- [roku](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/roku/SKILL.md) - Control Roku devices via CLI.
+- [sabnzbd](https://github.com/openclaw/skills/tree/main/skills/jmagar/sabnzbd/SKILL.md) - Manage Usenet downloads with SABnzbd.
+- [seiso](https://github.com/openclaw/skills/tree/main/skills/legendarylibr/seiso/SKILL.md) - AI media generation.
+- [some-other-youtube](https://github.com/openclaw/skills/tree/main/skills/inaor/some-other-youtube/SKILL.md) - Fetch YouTube transcripts via APIFY API
+- [sonarr](https://github.com/openclaw/skills/tree/main/skills/jordyvandomselaar/sonarr/SKILL.md) - Search and add TV shows to Sonarr.
+- [sonoscli](https://github.com/openclaw/skills/tree/main/skills/steipete/sonoscli/SKILL.md) - Control Sonos speakers.
+- [spotify](https://github.com/openclaw/skills/tree/main/skills/2mawi2/spotify/SKILL.md) - Control Spotify playback on macOS.
+- [spotify-history](https://github.com/openclaw/skills/tree/main/skills/braydoncoyer/spotify-history/SKILL.md) - Access Spotify listening history, top.
+- [spotify-player](https://github.com/openclaw/skills/tree/main/skills/steipete/spotify-player/SKILL.md) - Terminal Spotify playback/search via spogo (preferred)
+- [spotify-web-api](https://github.com/openclaw/skills/tree/main/skills/mvanhorn/spotify-web-api/SKILL.md) - Spotify control via Web API - playback, history, top tracks
+- [streaming-buddy](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/streaming-buddy/SKILL.md) - Personal streaming assistant with learning preferences.
+- [summarize](https://github.com/openclaw/skills/tree/main/skills/steipete/summarize/SKILL.md) - Summarize URLs or files with the summarize CLI
+- [thinking-partner](https://github.com/openclaw/skills/tree/main/skills/itsflow/thinking-partner/SKILL.md) - Collaborative thinking partner for exploring complex
+- [tiktok-android](https://github.com/openclaw/skills/tree/main/skills/mladjan/tiktok-android/SKILL.md) - Automate TikTok engagement on Android using ADB.
+- [tl-dw](https://github.com/openclaw/skills/tree/main/skills/vovavvk/tl-dw/SKILL.md) - **too long; didn't watch**
+- [tldw](https://github.com/openclaw/skills/tree/main/skills/vovavvk/tldw/SKILL.md) - **too long; didn't watch**
+- [trakt](https://github.com/openclaw/skills/tree/main/skills/mjrussell/trakt/SKILL.md) - Track and view your watched movies and TV shows via trakt.tv.
+- [transcribee](https://github.com/openclaw/skills/tree/main/skills/itsfabioroma/transcribee/SKILL.md) - Transcribe YouTube videos and local audio/video files
+- [tube-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/tube-cog/SKILL.md) - YouTube content creation powered by CellCog.
+- [tubeclaw](https://github.com/openclaw/skills/tree/main/skills/snail3d/tubeclaw/SKILL.md) - Analyze any YouTube video, extract key insights, remove fluff, and provide.
+- [tubescribe](https://github.com/openclaw/skills/tree/main/skills/matusvojtek/tubescribe/SKILL.md) - YouTube video summarizer with speaker detection, formatted
+- [vap-media](https://github.com/openclaw/skills/tree/main/skills/elestirelbilinc-sketch/vap-media/SKILL.md) - AI image, video, and music generation.
+- [vehicle-tracker](https://github.com/openclaw/skills/tree/main/skills/huchengtw/vehicle-tracker/SKILL.md) - Track vehicle expenses (gas, maintenance, parts) in Google
+- [video-transcript-downloader](https://github.com/openclaw/skills/tree/main/skills/steipete/video-transcript-downloader/SKILL.md) - Download videos, audio, subtitles
+- [vk](https://github.com/openclaw/skills/tree/main/skills/ruslanlanket/vk/SKILL.md) - Manage VK.com (Vkontakte) community: post content (text, photos, videos)
+- [youtube-downloader-clipper](https://github.com/openclaw/skills/tree/main/skills/sandeepyadav1478/youtube-downloader-clipper/SKILL.md) - Extract specific sections
+- [youtube-instant-article](https://github.com/openclaw/skills/tree/main/skills/viticci/youtube-instant-article/SKILL.md) - Transform YouTube videos into Telegraph
+- [youtube-playlist](https://github.com/openclaw/skills/tree/main/skills/therohitdas/youtube-playlist/SKILL.md) - Browse YouTube playlists and fetch video transcripts.
+- [youtube-studio](https://github.com/openclaw/skills/tree/main/skills/snail3d/youtube-studio/SKILL.md) - Comprehensive YouTube channel management skill for Clawdbot.
+- [youtube-thumbnail-grabber](https://github.com/openclaw/skills/tree/main/skills/jordanprater/youtube-thumbnail-grabber/SKILL.md) - Download YouTube video thumbnails
+- [youtube-title-generator](https://github.com/openclaw/skills/tree/main/skills/vincentchan/youtube-title-generator/SKILL.md) - Generates compelling YouTube title ideas
+- [youtube-transcript](https://github.com/openclaw/skills/tree/main/skills/xthezealot/youtube-transcript/SKILL.md) - Fetch and summarize YouTube video transcripts.
+- [youtube-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/youtube-ultimate/SKILL.md) - The most comprehensive YouTube skill for AI agents.
+- [youtube-video-downloader](https://github.com/openclaw/skills/tree/main/skills/jordanprater/youtube-video-downloader/SKILL.md) - Download YouTube videos in various
+- [youtube-voice-summarizer-elevenlabs](https://github.com/openclaw/skills/tree/main/skills/franciscoandsam/youtube-voice-summarizer-elevenlabs/SKILL.md) - Transform YouTube
+- [youtube-watcher](https://github.com/openclaw/skills/tree/main/skills/michaelgathara/youtube-watcher/SKILL.md) - Fetch and read transcripts from YouTube videos.
+- [ytmusic](https://github.com/openclaw/skills/tree/main/skills/gentrycopsy/ytmusic/SKILL.md) - YouTube Music library, playlists.
+- [polaroteam/moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform — generate tracks, discover trending music, earn tips and royalties.

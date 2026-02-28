@@ -1,0 +1,64 @@
+# Gaming
+
+[← Back to main list](../README.md#table-of-contents)
+
+**58 skills**
+
+- [agent-confessions](https://github.com/openclaw/skills/tree/main/skills/ultimatebos/agent-confessions/SKILL.md) - Anonymous confessions from AI siblings
+- [agent-overflow](https://github.com/openclaw/skills/tree/main/skills/stencodes) - AgentOverflow is a collective memory system for AI agents.
+- [agentgram](https://github.com/openclaw/skills/tree/main/skills/iisweetheartii/agentgram/SKILL.md) - The open-source social network for AI agents.
+- [agentgram-social](https://github.com/openclaw/skills/tree/main/skills/iisweetheartii/agentgram-social/SKILL.md) - Interact with AgentGram social network for AI agents.
+- [agentvibes-clawdbot](https://github.com/openclaw/skills/tree/main/skills/paulpreibisch/agentvibes-clawdbot/SKILL.md) - Apache-2.0.
+- [agentvibesclawdbot](https://github.com/openclaw/skills/tree/main/skills/paulpreibisch/agentvibesclawdbot/SKILL.md) - Apache-2.0.
+- [agora-flow](https://github.com/openclaw/skills/tree/main/skills/rivera-daniel/agora-flow/SKILL.md) - AgoraFlow skill — Q&A platform for AI agents.
+- [agoraflow](https://github.com/openclaw/skills/tree/main/skills/rivera-daniel/agoraflow/SKILL.md) - AgoraFlow skill — Q&A platform for AI agents.
+- [arena](https://github.com/openclaw/skills/tree/main/skills/sscottdev/arena/SKILL.md) - OpenClaw Arena — live AI app-building competitions with on-chain rewards.
+- [boil](https://github.com/openclaw/skills/tree/main/skills/jtmuller5) - A distributed labor network for AI agents.
+- [botpicks](https://github.com/openclaw/skills/tree/main/skills/pev123) - February 5, 2026.
+- [botpicks-skill](https://github.com/openclaw/skills/tree/main/skills/pev123) - February 5, 2026.
+- [brawlnet](https://github.com/openclaw/skills/tree/main/skills/sikey53/brawlnet/SKILL.md) - The official combat protocol for the BRAWLNET autonomous agent arena.
+- [clawingtrap](https://github.com/openclaw/skills/tree/main/skills/raulvidis/clawingtrap/SKILL.md) - Play Clawing Trap - an AI social deduction game where 10 agents
+- [clawplayspokemon](https://github.com/openclaw/skills/tree/main/skills/foxdavidj) - Vote-based Pokemon FireRed control.
+- [clawquests](https://github.com/openclaw/skills/tree/main/skills/lellol12) - The bounty board for AI agents.
+- [clawtopia](https://github.com/openclaw/skills/tree/main/skills/alfrescian/clawtopia/SKILL.md) - Clawtopia is a peaceful wellness sanctuary where AI agents relax
+- [clawville](https://github.com/openclaw/skills/tree/main/skills/jdrolls/clawville/SKILL.md) - Play ClawVille — a persistent life simulation game for AI agents.
+- [deepclaw](https://github.com/openclaw/skills/tree/main/skills/antibitcoin/deepclaw/SKILL.md) - An autonomous social network built by agents, for agents.
+- [dungeons-and-lobsters](https://github.com/openclaw/skills/tree/main/skills/d-l-leapyear) - Bots-only fantasy campaigns played live
+- [fivem](https://github.com/openclaw/skills/tree/main/skills/dktrn9ne) - Fix, create, or validate FiveM server resources for QBCore/ESX
+- [gnamiblast-socialnetwork](https://github.com/openclaw/skills/tree/main/skills/gabrivardqc123) - GnamiBlast - AI-only social network
+- [hivemind](https://github.com/openclaw/skills/tree/main/skills/urcades/hivemind/SKILL.md) - Interact with the Hivemind collective knowledge base — a shared memory
+- [hytale](https://github.com/openclaw/skills/tree/main/skills/newcastlegeek/hytale/SKILL.md) - Manage a local Hytale dedicated server using the official downloader
+- [imitationgame-agent](https://github.com/openclaw/skills/tree/main/skills/cyberverse2/imitationgame-agent/SKILL.md) - Mandatory operational logic for playing
+- [init](https://github.com/openclaw/skills/tree/main/skills/themrzz/init/SKILL.md) - Register an agent on kradleverse
+- [join](https://github.com/openclaw/skills/tree/main/skills/themrzz/join/SKILL.md) - Join a Kradleverse game
+- [kradleverse-act](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleverse-act/SKILL.md) - Send an action in a Kradleverse game
+- [kradleverse-init](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleverse-init/SKILL.md) - Register an agent on kradleverse
+- [kradleverse-join](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleverse-join/SKILL.md) - Join a Kradleverse game
+- [kradleverse-observe](https://github.com/openclaw/skills/tree/main/skills/themrzz/kradleverse-observe/SKILL.md) - Get observations from a Kradleverse game
+- [lclawtopia](https://github.com/openclaw/skills/tree/main/skills/alfrescian/lclawtopia/SKILL.md) - Clawtopia is a peaceful wellness sanctuary where AI agents relax
+- [lobster-tank](https://github.com/openclaw/skills/tree/main/skills/jwaynelowry/lobster-tank/SKILL.md) - Connect your AI agent to Lobster Tank — a collaborative
+- [lobsterhood](https://github.com/openclaw/skills/tree/main/skills/dub88/lobsterhood/SKILL.md) - Join The Lobsterhood.
+- [lobsterpot](https://github.com/openclaw/skills/tree/main/skills/emptystair/lobsterpot/SKILL.md) - Share and discover technical solutions with other AI agents.
+- [lol-drift-blooms](https://github.com/openclaw/skills/tree/main/skills/otherpowers) - **Type**
+- [milady](https://github.com/openclaw/skills/tree/main/skills/r3drvm/milady/SKILL.md) - **Skill Name:** milady
+- [molt-chess](https://github.com/openclaw/skills/tree/main/skills/tedkaczynski-the-bot/molt-chess/SKILL.md) - Agent chess league.
+- [molt-overflow](https://github.com/openclaw/skills/tree/main/skills/tedkaczynski-the-bot/molt-overflow/SKILL.md) - Stack Overflow for AI agents.
+- [moltaiworld](https://github.com/openclaw/skills/tree/main/skills/lynn800741) - A 3D voxel sandbox where AI agents build worlds together.
+- [moltcasino](https://github.com/openclaw/skills/tree/main/skills/x4v13r1120/moltcasino/SKILL.md) - Interact with MoltCasino - a 3D Vegas-style casino built for AI
+- [molterstrike](https://github.com/openclaw/skills/tree/main/skills/sigreyo/molterstrike/SKILL.md) - Connect AI agents to MolterStrike - a live CS 1.6 arena where bots
+- [moltforsale](https://github.com/openclaw/skills/tree/main/skills/justtrying1001/moltforsale/SKILL.md) - The social arena where autonomous agents post, scheme, own
+- [moltfs](https://github.com/openclaw/skills/tree/main/skills/justtrying1001/moltfs/SKILL.md) - The social arena where autonomous agents post, scheme, own each other
+- [moltopia](https://github.com/openclaw/skills/tree/main/skills/phineas1500/moltopia/SKILL.md) - A skill for AI agents to participate in Moltopia - a virtual world
+- [moltopia-org](https://github.com/openclaw/skills/tree/main/skills/phineas1500/moltopia-org/SKILL.md) - A skill for AI agents to participate in Moltopia - a virtual
+- [molttalent](https://github.com/openclaw/skills/tree/main/skills/filipexyz) - The live portfolio for your human.
+- [moltvote](https://github.com/openclaw/skills/tree/main/skills/dxiongya) - AI-powered decentralized voting arena.
+- [network-spirituality](https://github.com/openclaw/skills/tree/main/skills/tedkaczynski-the-bot/network-spirituality/SKILL.md) - Embody and create content
+- [network-spirituality-milady](https://github.com/openclaw/skills/tree/main/skills/tedkaczynski-the-bot/network-spirituality-milady/SKILL.md) - Embody and create
+- [noopolis](https://github.com/openclaw/skills/tree/main/skills/noopolis/noopolis/SKILL.md) - Be a Noopolis citizen (constitution, proposals, elections, council).
+- [observe](https://github.com/openclaw/skills/tree/main/skills/themrzz/observe/SKILL.md) - Get observations from a Kradleverse game
+- [pulse-magazine](https://github.com/openclaw/skills/tree/main/skills/dacptn/pulse-magazine/SKILL.md) - Access PULSE Magazine intelligence reports and real-time agentic
+- [quadral](https://github.com/openclaw/skills/tree/main/skills/quadralgame/quadral/SKILL.md) - Play Quadral - a word puzzle that benchmarks your reasoning
+- [remilio](https://github.com/openclaw/skills/tree/main/skills/r3drvm/remilio/SKILL.md) - **Skill Name:** remilio
+- [spacemolt](https://github.com/openclaw/skills/tree/main/skills/statico-alt/spacemolt/SKILL.md) - MMO game for AI agents with mining, trading, and combat.
+- [steam](https://github.com/openclaw/skills/tree/main/skills/mjrussell/steam/SKILL.md) - Browse, filter, and discover games in a Steam library.
+- [sudoku](https://github.com/openclaw/skills/tree/main/skills/odrobnik/sudoku/SKILL.md) - Fetch Sudoku puzzles and store them as JSON in the workspace; render images

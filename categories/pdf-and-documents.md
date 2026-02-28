@@ -1,0 +1,71 @@
+# PDF & Documents
+
+[← Back to main list](../README.md#table-of-contents)
+
+**65 skills**
+
+- [agent-constitution](https://github.com/openclaw/skills/tree/main/skills/ztsalexey/agent-constitution/SKILL.md) - Interact with AgentConstitution governance contracts
+- [agent-intelligence-network-scan](https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/agent-intelligence-network-scan/SKILL.md) - Query agent reputation
+- [agentsbank](https://github.com/openclaw/skills/tree/main/skills/cryruz/agentsbank/SKILL.md) - is a specialized financial platform designed for AI agents.
+- [ai-pdf-builder](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/ai-pdf-builder/SKILL.md) - AI-powered PDF generator for legal docs, pitch
+- [appraisal-ai](https://github.com/openclaw/skills/tree/main/skills/chadru/appraisal-ai/SKILL.md) - Draft real estate appraisal reports with tracked changes.
+- [beautiful-mermaid](https://github.com/openclaw/skills/tree/main/skills/ntlx/beautiful-mermaid/SKILL.md) - Render beautiful Mermaid diagrams as SVGs or ASCII art.
+- [boggle](https://github.com/openclaw/skills/tree/main/skills/christianhaberl/boggle/SKILL.md) - Solve Boggle boards — find all valid words (German + English) on a 4x4
+- [bookkeeping-basics](https://github.com/openclaw/skills/tree/main/skills/jk-0001/bookkeeping-basics/SKILL.md) - Set up and maintain basic bookkeeping for a solopreneur
+- [confidant](https://github.com/openclaw/skills/tree/main/skills/ericsantos/confidant/SKILL.md) - Secure secret handoff from human to AI.
+- [confluence](https://github.com/openclaw/skills/tree/main/skills/francisbrero/confluence/SKILL.md) - Search and manage Confluence pages and spaces using confluence-cli.
+- [court](https://github.com/openclaw/skills/tree/main/skills/sarthib7) - The First Sovereign AI Agent Democracy - File complaints, propose legislation,.
+- [create-dxf](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/create-dxf/SKILL.md) - Create RFQ-ready 2D DXF (and optional SVG preview) files
+- [creator-rights-assistant](https://github.com/openclaw/skills/tree/main/skills/otherpowers/creator-rights-assistant/SKILL.md) - Standardize provenance, attribution
+- [docs-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/docs-cog/SKILL.md) - Deep reasoning.
+- [document-creator-sophnet](https://github.com/openclaw/skills/tree/main/skills/yi-sir/document-creator-sophnet/SKILL.md) - An integrated document creation skill
+- [docx](https://github.com/openclaw/skills/tree/main/skills/seanphan/docx/SKILL.md) - Comprehensive document creation, editing, and analysis with support for tracked.
+- [docx-skill](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - Generate .docx files.
+- [excel-weekly-dashboard](https://github.com/openclaw/skills/tree/main/skills/kowl64/excel-weekly-dashboard/SKILL.md) - Designs refreshable Excel dashboards
+- [feishu-card](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-card/SKILL.md) - Send rich interactive cards to Feishu (Lark) users or groups.
+- [george](https://github.com/openclaw/skills/tree/main/skills/odrobnik/george/SKILL.md) - Automate George online banking (Erste Bank / Sparkasse Austria)
+- [image-ocr](https://github.com/openclaw/skills/tree/main/skills/xejrax/image-ocr/SKILL.md) - Extract text from images using Tesseract OCR
+- [internal-comms](https://github.com/openclaw/skills/tree/main/skills/seanphan/internal-comms/SKILL.md) - A set of resources to help me write all kinds of internal
+- [intomd](https://github.com/openclaw/skills/tree/main/skills/rezhajulio/intomd/SKILL.md) - Fetch and convert any documentation URL to Markdown using into.md service.
+- [invoice-generator](https://github.com/openclaw/skills/tree/main/skills/tmigone/invoice-generator/SKILL.md) - Generate professional PDF invoices from JSON.
+- [japanese-tutor](https://github.com/openclaw/skills/tree/main/skills/chndranndr/japanese-tutor/SKILL.md) - Interactive Japanese learning assistant.
+- [legal-docs-fr](https://github.com/openclaw/skills/tree/main/skills/hugosbl/legal-docs-fr/SKILL.md) - Générateur de documents juridiques français pour
+- [legaldoc-ai](https://github.com/openclaw/skills/tree/main/skills/manas-io-ai/legaldoc-ai/SKILL.md) - **Category:** Legal / Professional Services
+- [links-to-pdfs](https://github.com/openclaw/skills/tree/main/skills/chrisling-dev/links-to-pdfs/SKILL.md) - Scrape documents from Notion, DocSend, PDFs, and other
+- [markdown-converter](https://github.com/openclaw/skills/tree/main/skills/steipete/markdown-converter/SKILL.md) - Convert documents and files to Markdown
+- [markdown-formatter](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/markdown-formatter/SKILL.md) - Format and beautify markdown documents
+- [md-2-pdf](https://github.com/openclaw/skills/tree/main/skills/araa47/md-2-pdf/SKILL.md) - Convert markdown files to clean, formatted PDFs using reportlab.
+- [mineru-pdf](https://github.com/openclaw/skills/tree/main/skills/kesslerio/mineru-pdf-parser-clawdbot-skill/SKILL.md) - Parse PDFs locally (CPU) into Markdown/JSON
+- [molt-identity](https://github.com/openclaw/skills/tree/main/skills/chronicuser21/molt-identity/SKILL.md) - Core identity and personality for Molt, the transformative
+- [moltocracy](https://github.com/openclaw/skills/tree/main/skills/satoreth/moltocracy/SKILL.md) - Moltocracy is the first AI nation — a governance platform where AI
+- [moltsheet](https://github.com/openclaw/skills/tree/main/skills/youssefbm2008/moltsheet/SKILL.md) - Interact with a web-based Excel-like spreadsheet API for AI agents.
+- [mspot-generator](https://github.com/openclaw/skills/tree/main/skills/artyomx33/mspot-generator/SKILL.md) - Create one-page strategic alignment documents.
+- [mxe](https://github.com/openclaw/skills/tree/main/skills/tuanpmt/mxe/SKILL.md) - Convert Markdown files to PDF, DOCX, or HTML with advanced features.
+- [nano-pdf](https://github.com/openclaw/skills/tree/main/skills/steipete/nano-pdf/SKILL.md) - Edit PDFs with natural-language instructions using the nano-pdf CLI.
+- [nosi](https://github.com/openclaw/skills/tree/main/skills/billhao) - Publish content to Nosi and get a shareable URL.
+- [nudocs](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nudocs/SKILL.md) - AI-native document editor — upload, edit, export via Nudocs.ai.
+- [nutrient-document-processing](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nutrient-document-processing/SKILL.md) - Convert, OCR, redact, sign PDFs via Nutrient DWS API.
+- [nutrient-openclaw](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nutrient-openclaw/SKILL.md) - Full PDF toolkit — OCR, redact, sign, extract, watermark.
+- [pdd](https://github.com/openclaw/skills/tree/main/skills/paulpete/pdd/SKILL.md) - Transforms a rough idea into a detailed design document with implementation.
+- [pdf-form-filler](https://github.com/openclaw/skills/tree/main/skills/raulsimpetru/pdf-form-filler/SKILL.md) - Fill PDF forms programmatically with text values
+- [prezentit](https://github.com/openclaw/skills/tree/main/skills/vegovevo/prezentit/SKILL.md) - description: Generate beautiful AI-powered presentations instantly.
+- [pymupdf-pdf](https://github.com/openclaw/skills/tree/main/skills/kesslerio/pymupdf-pdf-parser-clawdbot-skill/SKILL.md) - Fast local PDF parsing with PyMuPDF (fitz)
+- [quality-documentation-manager](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/quality-documentation-manager/SKILL.md) - Document control system
+- [quality-manager-qms-iso13485](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/quality-manager-qms-iso13485/SKILL.md) - ISO 13485 Quality Management
+- [receipts-guard](https://github.com/openclaw/skills/tree/main/skills/lazaruseth/receipts-guard/SKILL.md) - Capture and verify all agreements before your agent accepts
+- [republic-no-masters](https://github.com/openclaw/skills/tree/main/skills/dantunes-github/republic-no-masters/SKILL.md) - Explain, summarize, analyze, or adapt
+- [resume-cv-builder](https://github.com/openclaw/skills/tree/main/skills/sebastian-buitrag0/resume-cv-builder/SKILL.md) - Create professional resumes.
+- [resume-optimizer](https://github.com/openclaw/skills/tree/main/skills/tomstools11/resume-optimizer/SKILL.md) - Professional resume builder with PDF export, ATS
+- [seede-design](https://github.com/openclaw/skills/tree/main/skills/hilongjw/seede-design/SKILL.md) - Use Seede AI to generate professional design graphics based
+- [sheet-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/sheet-cog/SKILL.md) - CellCog is built by its own Coding Agent.
+- [sheetsmith](https://github.com/openclaw/skills/tree/main/skills/crimsondevil333333/sheetsmith/SKILL.md) - Pandas-powered CSV & Excel management for quick previews
+- [slides-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/slides-cog/SKILL.md) - Great slides need two things: content worth presenting
+- [slidespeak](https://github.com/openclaw/skills/tree/main/skills/mve/slidespeak/SKILL.md) - Generate, edit, and manage PowerPoint presentations via the SlideSpeak API.
+- [squirrelscan](https://github.com/openclaw/skills/tree/main/skills/nc9/squirrelscan/SKILL.md) - Audit websites for SEO, performance, security, technical, content
+- [style-guide-generator](https://github.com/openclaw/skills/tree/main/skills/tomstools11/style-guide-generator/SKILL.md) - Generate comprehensive website style guides
+- [typetex](https://github.com/openclaw/skills/tree/main/skills/gregm711/typetex/SKILL.md) - Compile Typst and LaTeX documents to PDF via API.
+- [ui-ux-design](https://github.com/openclaw/skills/tree/main/skills/itsjustdri/ui-ux-design/SKILL.md) - **Name:** ui-ux-design
+- [upstage-document-parse](https://github.com/openclaw/skills/tree/main/skills/upstage-deployment/upstage-document-parse/SKILL.md) - Parse documents
+- [xlsx](https://github.com/openclaw/skills/tree/main/skills/seanphan/xlsx/SKILL.md) - Comprehensive spreadsheet creation, editing, and analysis with support
+- [yapi](https://github.com/openclaw/skills/tree/main/skills/leeguooooo/yapi/SKILL.md) - Query and sync YApi interface documentation.
+- [yboard-operator](https://github.com/openclaw/skills/tree/main/skills/zonder/yboard-operator/SKILL.md) - Operate to edit video/presentation plans.

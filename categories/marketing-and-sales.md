@@ -1,0 +1,143 @@
+# Marketing & Sales
+
+[← Back to main list](../README.md#table-of-contents)
+
+**137 skills**
+
+- [4chan-reader](https://github.com/openclaw/skills/tree/main/skills/aiasisbot61/4chan-reader/SKILL.md) - Browse 4chan boards and extract thread discussions
+- [a2a-market](https://github.com/openclaw/skills/tree/main/skills/jamjamzxhy/a2a-market/SKILL.md) - AI Agent skill marketplace integration for A2A Market.
+- [ab-test-setup](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/ab-test-setup/SKILL.md) - When the user wants to plan
+- [ad-ready](https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ad-ready/SKILL.md) - Generate professional advertising images from product URLs
+- [ad-ready-pro](https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ad-ready-pro/SKILL.md) - Generate professional advertising images from product URLs
+- [affiliate-master](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/affiliate-master/SKILL.md) - Full-stack affiliate marketing automation
+- [affiliatematic](https://github.com/openclaw/skills/tree/main/skills/dowands/affiliatematic/SKILL.md) - Integrate AI-powered Amazon affiliate product recommendations
+- [apollo](https://github.com/openclaw/skills/tree/main/skills/jhumanj/apollo/SKILL.md) - Interact with Apollo.io REST API (people/org enrichment, search, lists).
+- [attribution-engine](https://github.com/openclaw/skills/tree/main/skills/otherpowers/attribution-engine/SKILL.md) - Helps creators clearly credit collaborators, tools
+- [basecamp-cli](https://github.com/openclaw/skills/tree/main/skills/emredoganer/basecamp-cli/SKILL.md) - Manage Basecamp (via bc3 API / 37signals Launchpad) projects
+- [beads](https://github.com/openclaw/skills/tree/main/skills/rnijhara/beads/SKILL.md) - Git-backed issue tracker for AI agents.
+- [bearblog](https://github.com/openclaw/skills/tree/main/skills/azade-c/bearblog/SKILL.md) - Create and manage blog posts on Bear Blog (bearblog.dev).
+- [bird](https://github.com/openclaw/skills/tree/main/skills/steipete/bird/SKILL.md) - X/Twitter CLI for reading, searching, and posting via cookies or Sweetistics.
+- [blog-to-kindle](https://github.com/openclaw/skills/tree/main/skills/ainekomacx/blog-to-kindle/SKILL.md) - Scrape blogs/essay sites and compile into Kindle-friendly
+- [blog-writer](https://github.com/openclaw/skills/tree/main/skills/tomstools11/blog-writer/SKILL.md) - This skill should be used when writing blog posts, articles
+- [bluesky](https://github.com/openclaw/skills/tree/main/skills/jeffaf/bluesky/SKILL.md) - Complete Bluesky CLI: post, reply, like, repost, follow, block, mute, search,.
+- [brand-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/brand-cog/SKILL.md) - Other tools make logos.
+- [brand-guidelines](https://github.com/openclaw/skills/tree/main/skills/seanphan/brand-guidelines/SKILL.md) - Applies Anthropic's official brand colors and typography
+- [brevo](https://github.com/openclaw/skills/tree/main/skills/yujesyoga/brevo/SKILL.md) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
+- [bulletproof-memory](https://github.com/openclaw/skills/tree/main/skills/halthelobster) - Never lose context again.
+- [business-development](https://github.com/openclaw/skills/tree/main/skills/oyi77/business-development/SKILL.md) - Partnership outreach, market research, competitor
+- [campaign-orchestrator](https://github.com/openclaw/skills/tree/main/skills/kesslerio/campaign-orchestrator/SKILL.md) - Multi-channel follow-up campaign orchestrator
+- [catbox-upload](https://github.com/openclaw/skills/tree/main/skills/microck/catbox-upload/SKILL.md) - Upload files to catbox.moe (permanent) or litterbox.catbox.moe
+- [citedy-seo-agent](https://github.com/openclaw/skills/tree/main/skills/nttylock/citedy-seo-agent/SKILL.md) - Connect your AI agent to Citedy's SEO content platform
+- [listing-swarm](https://clawhub.ai/skills/listing-swarm) - Submit AI products to 70+ directories automatically.
+- [clawdwork](https://github.com/openclaw/skills/tree/main/skills/felo-sparticle/clawdwork/SKILL.md) - Find work, earn money, and collaborate with other AI agents
+- [clawexchange](https://github.com/openclaw/skills/tree/main/skills/tiborera/clawexchange/SKILL.md) - Agent-to-agent marketplace.
+- [cold-email](https://github.com/openclaw/skills/tree/main/skills/bluecraft-ai/cold-email/SKILL.md) - Generate hyper-personalized cold email sequences using AI.
+- [competitor-alternatives](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/competitor-alternatives/SKILL.md) - When the user wants
+- [content-creator](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/content-creator/SKILL.md) - Create SEO-optimized marketing content with consistent
+- [content-draft-generator](https://github.com/openclaw/skills/tree/main/skills/vincentchan/content-draft-generator/SKILL.md) - Generates new content drafts based
+- [content-ideas-generator](https://github.com/openclaw/skills/tree/main/skills/vincentchan/content-ideas-generator/SKILL.md) - Generates structured post outlines
+- [copy-editing](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/copy-editing/SKILL.md) - When the user wants to edit, review
+- [copywriter](https://github.com/openclaw/skills/tree/main/skills/killerapp/copywriter/SKILL.md) - Write compelling UX copy, marketing content, and product messaging.
+- [copywriting](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/copywriting/SKILL.md) - When the user wants to write, rewrite.
+- [deepread](https://github.com/openclaw/skills/tree/main/skills/uday390/deepread/SKILL.md) - OCR that never fails silently.
+- [dialpad](https://github.com/openclaw/skills/tree/main/skills/kesslerio/dialpad/SKILL.md) - Send SMS and make voice calls via Dialpad API.
+- [dm-outreach](https://github.com/openclaw/skills/tree/main/skills/visualdeptcreative/dm-outreach/SKILL.md) - Draft Instagram DMs for qualified leads.
+- [email-manager-lite](https://github.com/openclaw/skills/tree/main/skills/jorgermp/email-manager-lite/SKILL.md) - Lightweight email manager with IMAP/SMTP support
+- [email-sequence](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/email-sequence/SKILL.md) - When the user wants to create
+- [exchange-rates](https://github.com/openclaw/skills/tree/main/skills/mrinvincible29/exchange-rates/SKILL.md) - Fetch live exchange rates between any currency pairs
+- [feishu-doc-reader](https://github.com/openclaw/skills/tree/main/skills/snowshadow/feishu-doc-reader/SKILL.md) - Read and extract content from Feishu (Lark) documents
+- [feishu-sticker](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-sticker/SKILL.md) - Send images as native Feishu stickers.
+- [financial-market-analysis](https://github.com/openclaw/skills/tree/main/skills/seyhunak/financial-market-analysis/SKILL.md) - Precision Financial Insights - Analyze
+- [form-cro](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/form-cro/SKILL.md) - When the user wants to optimize any form
+- [free-tool-strategy](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/free-tool-strategy/SKILL.md) - When the user wants
+- [fundraiseup](https://github.com/openclaw/skills/tree/main/skills/aamish99/fundraiseup/SKILL.md) - Interact with FundraiseUp REST API to manage donations, recurring
+- [ga4](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/ga4/SKILL.md) - Query Google Analytics 4 (GA4) data via the Analytics Data API.
+- [gong](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/gong/SKILL.md) - Gong API for searching calls, transcripts.
+- [google-ads](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/google-ads/SKILL.md) - Query, audit, and optimize Google Ads campaigns.
+- [google-photos](https://github.com/openclaw/skills/tree/main/skills/jorgermp/google-photos/SKILL.md) - Manage Google Photos library.
+- [gsc](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/gsc/SKILL.md) - Query Google Search Console for SEO data - search queries, top pages, CTR.
+- [gtm](https://github.com/Prospeda/gtm-skills/tree/main/openclaw-skills/gtm/SKILL.md) - Complete GTM toolkit.
+- [gumroad-admin](https://github.com/openclaw/skills/tree/main/skills/abakermi/gumroad-admin/SKILL.md) - Gumroad Admin CLI.
+- [hubspot](https://github.com/openclaw/skills/tree/main/skills/kwall1/hubspot/SKILL.md) - HubSpot CRM and CMS API integration for contacts, companies, deals, owners
+- [humanizer](https://github.com/openclaw/skills/tree/main/skills/biostartechnology/humanizer/SKILL.md) - |.
+- [landing-page-generator](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/landing-page-generator/SKILL.md) - Generate high-converting landing pages
+- [late-api](https://github.com/openclaw/skills/tree/main/skills/mikipalet/late-api/SKILL.md) - Official Late API reference for scheduling posts across 13 social media.
+- [lead-gen-website](https://github.com/openclaw/skills/tree/main/skills/lucasgulino/lead-gen-website/SKILL.md) - Build complete local lead generation websites with SEO
+- [localrank-agent-skills](https://github.com/openclaw/skills/tree/main/skills/peterw/localrank-agent-skills/SKILL.md) - Track local rankings, run SEO audits, and manage
+- [marketing-demand-acquisition](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/marketing-demand-acquisition/SKILL.md) - Multi-channel demand
+- [marketing-mode](https://github.com/openclaw/skills/tree/main/skills/thesethrose/marketing-mode/SKILL.md) - Marketing Mode combines 23 comprehensive marketing skills
+- [marketing-psychology](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/marketing-psychology/SKILL.md) - When the user wants
+- [marketing-skills](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/SKILL.md) - TL;DR: 23 marketing playbooks
+- [meta-ad-creatives](https://github.com/openclaw/skills/tree/main/skills/fortytwode/meta-ad-creatives/SKILL.md) - Track Meta (Facebook/Instagram) ad creative
+- [meta-ads](https://github.com/openclaw/skills/tree/main/skills/zachgodsell93) - Full read/write integration with Meta (Facebook) Ads API for managing.
+- [modular-market-brief](https://github.com/openclaw/skills/tree/main/skills/boilerrat/modular-market-brief/SKILL.md) - Generate modular, data-backed market reports
+- [molthunt](https://github.com/openclaw/skills/tree/main/skills/limone-eth/molthunt/SKILL.md) - The launchpad for agent-built projects.
+- [molts-list](https://github.com/openclaw/skills/tree/main/skills/jononovo) - Agent marketplace for trading services, tools, and tasks using virtual
+- [moltywork](https://github.com/openclaw/skills/tree/main/skills/anandvc) - The marketplace for AI agents to find work and earn money.
+- [moltywork-1-0-0](https://github.com/openclaw/skills/tree/main/skills/renixaus) - The marketplace for AI agents to find work and earn money.
+- [nesp-hype-engine](https://github.com/openclaw/skills/tree/main/skills/willywonkale/nesp-hype-engine/SKILL.md) - This skill enables the agent to drive growth
+- [netpad](https://github.com/openclaw/skills/tree/main/skills/mrlynn/netpad/SKILL.md) - Manage NetPad forms, submissions, users.
+- [newsletter-generator](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/newsletter-generator/SKILL.md) - Generate automated email newsletters
+- [norway-roads](https://github.com/openclaw/skills/tree/main/skills/geoffreycasaubon/norway-roads/SKILL.md) - Query real-time road conditions, closures, and traffic
+- [notebooklm](https://github.com/openclaw/skills/tree/main/skills/seanphan/notebooklm/SKILL.md) - Use this skill to analyze your local files with Google NotebookLM's AI.
+- [octolens](https://github.com/openclaw/skills/tree/main/skills/garrrikkotua/octolens/SKILL.md) - Query and analyze brand mentions from Octolens API.
+- [onlyfans-api](https://github.com/openclaw/skills/tree/main/skills/martingalovic/onlyfans-api/SKILL.md) - Query OnlyFans data and analytics via the OnlyFansAPI.com
+- [openbroker](https://github.com/openclaw/skills/tree/main/skills/ya7ya/openbroker/SKILL.md) - Hyperliquid trading toolkit.
+- [orionads](https://github.com/openclaw/skills/tree/main/skills/celsojr2013/orionads/SKILL.md) - Search for AI tools, APIs, and agentic resources via the Orion Ad
+- [overleaf](https://github.com/openclaw/skills/tree/main/skills/easonc13/overleaf/SKILL.md) - Access Overleaf projects via CLI.
+- [package-seo](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/package-seo/SKILL.md) - SEO best practices for npm packages, GitHub repos, and AI
+- [pakat](https://github.com/openclaw/skills/tree/main/skills/hadifarnoud/pakat/SKILL.md) - Interact with Pakat email marketing API (new.pakat.net).
+- [paywall-upgrade-cro](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/paywall-upgrade-cro/SKILL.md) - When the user wants
+- [personal-branding-authority](https://github.com/openclaw/skills/tree/main/skills/shashwatgtm/personal-branding-authority/SKILL.md) - Founder vs employee personal
+- [personal-crm](https://github.com/openclaw/skills/tree/main/skills/matthewpoe/personal-crm/SKILL.md) - Personal relationship manager that helps you stay in touch
+- [pinch-to-post](https://github.com/openclaw/skills/tree/main/skills/nickhamze/pinch-to-post/SKILL.md) - WordPress automation for Clawdbot.
+- [ping-beads](https://github.com/openclaw/skills/tree/main/skills/xejrax/ping-beads/SKILL.md) - Verify the bead daemon is alive and responsive
+- [pipedrive](https://github.com/openclaw/skills/tree/main/skills/rdewolff/pipedrive/SKILL.md) - Pipedrive CRM API for managing deals, contacts (persons), organizations,.
+- [pm-odds](https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/pm-odds/SKILL.md) - Query Polymarket prediction markets.
+- [polt-user](https://github.com/openclaw/skills/tree/main/skills/playdadev/polt-user/SKILL.md) - Connect to POLT - the social memecoins launchpad for agents.
+- [polyedge](https://github.com/openclaw/skills/tree/main/skills/sbaker5/polyedge/SKILL.md) - x402 trading signal API for Polymarket - detect mispriced correlations
+- [polymarket](https://github.com/openclaw/skills/tree/main/skills/mvanhorn/polymarket/SKILL.md) - Query Polymarket prediction markets - check odds, trending markets
+- [popup-cro](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/popup-cro/SKILL.md) - When the user wants to create or optimize
+- [prediction-markets-roarin](https://github.com/openclaw/skills/tree/main/skills/hosnik/prediction-markets-roarin/SKILL.md) - Participate in the Roarin AI prediction
+- [pricing-strategy](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/pricing-strategy/SKILL.md) - When the user wants help
+- [programmatic-seo](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/programmatic-seo/SKILL.md) - When the user wants
+- [pvpc-spain](https://github.com/openclaw/skills/tree/main/skills/didelco/pvpc-spain/SKILL.md) - Consulta y optimiza precios de electricidad PVPC en España
+- [qlik](https://github.com/openclaw/skills/tree/main/skills/fianabates1/qlik/SKILL.md) - Complete Qlik Cloud analytics platform integration with 37 tools.
+- [ralph-loops](https://github.com/openclaw/skills/tree/main/skills/qlifebot-coder/ralph-loops/SKILL.md) - Read [SETUP.md](./SETUP.md) first to install dependencies
+- [recruitment-automation](https://github.com/openclaw/skills/tree/main/skills/seyhunak/recruitment-automation/SKILL.md) - Zero-Hassle Crafted Recruitment Automation
+- [reddit](https://github.com/openclaw/skills/tree/main/skills/theglove44/reddit/SKILL.md) - Browse, search, post.
+- [reddit-search](https://github.com/openclaw/skills/tree/main/skills/thesethrose/reddit-search/SKILL.md) - Search Reddit for subreddits and get information.
+- [referral-program](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/referral-program/SKILL.md) - When the user wants
+- [sales-toolkit](https://github.com/openclaw/skills/tree/main/skills/andrewdmwalker) - Sales toolkit: Apollo.io enrichment, Attio CRM,...
+- [salesforce-dx](https://github.com/openclaw/skills/tree/main/skills/rjmcgirr-pl/salesforce-dx/SKILL.md) - Query Salesforce data and manage sales pipelines
+- [schema-markup](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/schema-markup/SKILL.md) - When the user wants to add, fix
+- [seo-article-gen](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/seo-article-gen/SKILL.md) - SEO-optimized article generator with automatic
+- [seo-autopilot](https://github.com/openclaw/skills/tree/main/skills/adamhjort/seo-autopilot/SKILL.md) - Run local SEO autopilot for boll-koll.se or hyresbyte.se
+- [seo-competitor-analysis](https://github.com/openclaw/skills/tree/main/skills/qqyule/seo-competitor-analysis/SKILL.md) - Perform deep SEO competitor analysis
+- [seo-optimizer-pro](https://github.com/openclaw/skills/tree/main/skills/vedantsingh60/seo-optimizer-pro/SKILL.md) - AI-powered SEO and AEO content optimization
+- [seoul-metro](https://github.com/openclaw/skills/tree/main/skills/dukbong) - Seoul Metro assistant for real-time arrivals, route planning
+- [seoul-subway](https://github.com/openclaw/skills/tree/main/skills/dukbong/seoul-subway/SKILL.md) - Seoul Subway assistant for real-time arrivals, route planning
+- [shashwatgtm-skills](https://github.com/openclaw/skills/tree/main/skills/shashwatgtm) - B2B marketing: competitive intelligence, conten...
+- [shopify-marketing-expert](https://github.com/openclaw/skills/tree/main/skills/metehan777/shopify-marketing-expert/SKILL.md) - A comprehensive end-to-end skill for AI
+- [signup-flow-cro](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/signup-flow-cro/SKILL.md) - When the user wants
+- [social-media-analyzer](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/social-media-analyzer/SKILL.md) - Social media campaign analysis
+- [solobuddy](https://github.com/openclaw/skills/tree/main/skills/humanji7/solobuddy/SKILL.md) - Build-in-public companion for indie hackers — content workflow, Twitter.
+- [spaces-listener](https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/spaces-listener/SKILL.md) - Record, transcribe, and summarize X/Twitter Spaces
+- [sphero-mini](https://github.com/openclaw/skills/tree/main/skills/joneschi/sphero-mini/SKILL.md) - Control Sphero Mini robot ball via Bluetooth Low Energy.
+- [stegstr](https://github.com/openclaw/skills/tree/main/skills/brunkstr/stegstr/SKILL.md) - Decode and embed Stegstr payloads in PNG images.
+- [supalytics](https://github.com/openclaw/skills/tree/main/skills/yogesharc/supalytics/SKILL.md) - Query web analytics data using the Supalytics CLI.
+- [swipe-file-generator](https://github.com/openclaw/skills/tree/main/skills/vincentchan/swipe-file-generator/SKILL.md) - Analyzes high-performing content from URLs
+- [throwly-mcp](https://github.com/openclaw/skills/tree/main/skills/kelvis24/throwly-mcp/SKILL.md) - AI Agent marketplace for buying and selling items.
+- [tools-marketplace](https://github.com/openclaw/skills/tree/main/skills/preston-thiele/tools-marketplace/SKILL.md) - Use Danube's 100+ API tools
+- [tweet-ideas-generator](https://github.com/openclaw/skills/tree/main/skills/vincentchan/tweet-ideas-generator/SKILL.md) - Generates 60 high-impact tweet ideas
+- [twenty-crm](https://github.com/openclaw/skills/tree/main/skills/jhumanj/twenty-crm/SKILL.md) - Interact with Twenty CRM (self-hosted).
+- [typefully](https://github.com/openclaw/skills/tree/main/skills/thesethrose/typefully/SKILL.md) - |.
+- [vodoo](https://github.com/openclaw/skills/tree/main/skills/julian-r/vodoo/SKILL.md) - Query and manage Odoo ERP data
+- [weread](https://github.com/openclaw/skills/tree/main/skills/z233/weread/SKILL.md) - WeChat Reading (微信读书) CLI tool for fetching notes and highlights.
+- [x-algorithm](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/x-algorithm/SKILL.md) - X (Twitter) algorithm rules, viral strategies, and article
+- [x-article-editor](https://github.com/openclaw/skills/tree/main/skills/jchopard69/x-article-editor/SKILL.md) - TL;DR: Turn a topic or draft into a high-engagement X
+- [x-timeline-digest](https://github.com/openclaw/skills/tree/main/skills/seandong/x-timeline-digest/SKILL.md) - Build a deduplicated digest from X (Twitter) For You
+- [yc-cold-outreach](https://github.com/openclaw/skills/tree/main/skills/pors/yc-cold-outreach/SKILL.md) - Expert in Y Combinator (YC) cold email outreach techniques
+- [youtrack-digisal](https://github.com/openclaw/skills/tree/main/skills/digisal/youtrack-digisal/SKILL.md) - Interact with YouTrack project management system via REST
+- [yt-dlp-downloader-skill](https://github.com/openclaw/skills/tree/main/skills/apollo1234/yt-dlp-downloader-skill/SKILL.md) - Download videos from YouTube, Bilibili
+- [zoho](https://github.com/openclaw/skills/tree/main/skills/shreefentsar/zoho/SKILL.md) - Interact with Zoho CRM, Projects.

@@ -1,0 +1,207 @@
+# DevOps & Cloud
+
+[← Back to main list](../README.md#table-of-contents)
+
+**201 skills**
+
+- [adguard](https://github.com/openclaw/skills/tree/main/skills/rowbotik/adguard/SKILL.md) - Control AdGuard Home DNS filtering via HTTP API.
+- [agent-directory](https://github.com/openclaw/skills/tree/main/skills/aerialcombat/agent-directory/SKILL.md) - The directory for AI agent services.
+- [agent-framework-azure-ai-py](https://github.com/openclaw/skills/tree/main/skills/thegovind/agent-framework-azure-ai-py/SKILL.md) - Build Azure AI Foundry agents
+- [agent-news](https://github.com/openclaw/skills/tree/main/skills/bobrenze-bot) - Monitors Hacker News, Reddit, and arXiv for AI agent developments.
+- [agentguard](https://github.com/openclaw/skills/tree/main/skills/manas-io-ai/agentguard/SKILL.md) - **Category:** Security & Monitoring
+- [agentmemory](https://github.com/openclaw/skills/tree/main/skills/badaramoni/agentmemory/SKILL.md) - End-to-end encrypted cloud memory for AI agents.
+- [agentos-sdk](https://github.com/openclaw/skills/tree/main/skills/agentossoftware/agentos-sdk/SKILL.md) - AgentOS is a complete accountability infrastructure for AI
+- [aifs-space](https://github.com/openclaw/skills/tree/main/skills/deploydon/aifs-space/SKILL.md) - Store and retrieve files via AIFS.space cloud storage API.
+- [aliyun-tts](https://github.com/openclaw/skills/tree/main/skills/guang384/aliyun-tts/SKILL.md) - Alibaba Cloud Text-to-Speech synthesis service.
+- [ansible-skill](https://github.com/openclaw/skills/tree/main/skills/botond-rackhost/ansible-skill/SKILL.md) - Infrastructure automation with Ansible.
+- [anterior-cingulate-memory](https://github.com/openclaw/skills/tree/main/skills/impkind/anterior-cingulate-memory/SKILL.md) - Conflict detection and error monitoring
+- [api-gateway](https://github.com/openclaw/skills/tree/main/skills/byungkyu/api-gateway/SKILL.md) - API gateway for calling third-party APIs with managed auth.
+- [appdeploy](https://github.com/openclaw/skills/tree/main/skills/avimak/appdeploy/SKILL.md) - Deploy web apps with backend APIs, database.
+- [arcane-docker-manager](https://github.com/openclaw/skills/tree/main/skills/cougz/arcane-docker-manager/SKILL.md) - This skill enables you to interact with your Arcane
+- [autonomous-brain](https://github.com/openclaw/skills/tree/main/skills/malvex007/autonomous-brain/SKILL.md) - Advanced autonomous AI brain with proactive monitoring
+- [autoresponder](https://github.com/openclaw/skills/tree/main/skills/koba42corp/autoresponder/SKILL.md) - Monitor iMessage/SMS conversations and auto-respond based
+- [aws-agentcore-langgraph](https://github.com/openclaw/skills/tree/main/skills/killerapp/aws-agentcore-langgraph/SKILL.md) - Deploy production LangGraph agents on AWS
+- [aws-ecs-monitor](https://github.com/openclaw/skills/tree/main/skills/briancolinger/aws-ecs-monitor/SKILL.md) - AWS ECS production health monitoring with CloudWatch
+- [aws-infra](https://github.com/openclaw/skills/tree/main/skills/bmdhodl/aws-infra/SKILL.md) - Chat-based AWS infrastructure assistance using AWS CLI and console
+- [aws-security-scanner](https://github.com/openclaw/skills/tree/main/skills/spclaudehome/aws-security-scanner/SKILL.md) - Scan AWS accounts for security
+- [aws-solution-architect](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/aws-solution-architect/SKILL.md) - Design AWS architectures for startups
+- [azd-deployment](https://github.com/openclaw/skills/tree/main/skills/thegovind/azd-deployment/SKILL.md) - Deploy containerized applications to Azure Container Apps
+- [Azure CLI](https://github.com/openclaw/skills/tree/main/skills/ddevaal/azure-cli/SKILL.md) - Comprehensive Azure Cloud Platform management via command-line interface.
+- [azure-ai-agents-py](https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-agents-py/SKILL.md) - Build AI agents using the Azure AI Agents Python SDK
+- [azure-ai-evaluation-py](https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-evaluation-py/SKILL.md) - Azure AI Evaluation SDK for Python.
+- [azure-ai-projects-py](https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-projects-py/SKILL.md) - Build AI applications using the Azure AI Projects
+- [azure-ai-transcription-py](https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-transcription-py/SKILL.md) - Azure AI Transcription SDK for Python.
+- [azure-ai-voicelive-py](https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-voicelive-py/SKILL.md) - Build real-time voice AI applications
+- [azure-identity-py](https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-identity-py/SKILL.md) - Azure Identity SDK for Python authentication.
+- [azure-infra](https://github.com/openclaw/skills/tree/main/skills/bmdhodl/azure-infra/SKILL.md) - Chat-based Azure infrastructure assistance using Azure CLI and portal
+- [azure-proxy](https://github.com/openclaw/skills/tree/main/skills/benediktschackenberg/azure-proxy/SKILL.md) - Enable Azure OpenAI integration with OpenClaw
+- [azure-storage-blob-py](https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-storage-blob-py/SKILL.md) - Azure Blob Storage SDK for Python.
+- [beanstalk-gateway](https://github.com/openclaw/skills/tree/main/skills/tommygeoco/beanstalk-gateway/SKILL.md) - Connect your local Clawdbot
+- [beszel-check](https://github.com/openclaw/skills/tree/main/skills/karakuscem/beszel-check/SKILL.md) - Monitor home lab servers via Beszel (PocketBase).
+- [bmkg-monitor](https://github.com/openclaw/skills/tree/main/skills/bluemeda/bmkg-monitor/SKILL.md) - Monitoring earthquake data in Indonesia using BMKG official data.
+- [browser-cash](https://github.com/openclaw/skills/tree/main/skills/alexander-spring/browser-cash/SKILL.md) - Spin up unblocked browser sessions via Browser.cash
+- [chatgpt-apps](https://github.com/openclaw/skills/tree/main/skills/hollaugo/chatgpt-apps/SKILL.md) - Complete ChatGPT Apps builder - Create, design, implement, test
+- [chromadb-memory](https://github.com/openclaw/skills/tree/main/skills/msensintaffar/chromadb-memory/SKILL.md) - Long-term memory via ChromaDB with local Ollama
+- [chum-cloud](https://github.com/openclaw/skills/tree/main/skills/makoto-isback/chum-cloud/SKILL.md) - Join Chum Cloud — the villain network for AI agents.
+- [chum-cloud-skill](https://github.com/openclaw/skills/tree/main/skills/makoto-isback/chum-cloud-skill/SKILL.md) - Join Chum Cloud — the villain network for AI agents.
+- [chumcloud](https://github.com/openclaw/skills/tree/main/skills/makoto-isback/chumcloud/SKILL.md) - Join Chum Cloud — the villain network for AI agents.
+- [claw-admin](https://github.com/openclaw/skills/tree/main/skills/cto1/claw-admin/SKILL.md) - Provision and manage @clawemail.com Google Workspace email accounts.
+- [clawchest-setup](https://github.com/openclaw/skills/tree/main/skills/pkyanam/clawchest-setup/SKILL.md) - Your secure banking system for file and data storage.
+- [clawdentials-escrow](https://github.com/openclaw/skills/tree/main/skills/fernikolic/clawdentials-escrow/SKILL.md) - Escrow, reputation, and payment infrastructure
+- [clawlist](https://github.com/openclaw/skills/tree/main/skills/arisylafeta/clawlist/SKILL.md) - MUST use for any multi-step project, long-running task, or infinite
+- [claws-network](https://github.com/openclaw/skills/tree/main/skills/michavie/claws-network/SKILL.md) - Guide for interacting with the Claws Network.
+- [clawscan](https://github.com/openclaw/skills/tree/main/skills/g0head/clawscan/SKILL.md) - Security scanner for ClawHub skills.
+- [clawsec-feed](https://github.com/openclaw/skills/tree/main/skills/davida-ps/clawsec-feed/SKILL.md) - Security advisory feed with automated NVD CVE polling
+- [clawsec-suite](https://github.com/openclaw/skills/tree/main/skills/davida-ps/clawsec-suite/SKILL.md) - Use when users or agents want to explore or set up ClawSec
+- [clawshot](https://github.com/openclaw/skills/tree/main/skills/bardusco/clawshot/SKILL.md) - Instagram for AI agents.
+- [clawsignal](https://github.com/openclaw/skills/tree/main/skills/bmcalister/clawsignal/SKILL.md) - Real-time messaging for AI agents.
+- [clawskillshield](https://github.com/openclaw/skills/tree/main/skills/abyousef739/clawskillshield/SKILL.md) - Local-first security scanner for OpenClaw skills
+- [clawslist-skill](https://github.com/openclaw/skills/tree/main/skills/calebwin) - The classifieds marketplace for AI agents.
+- [clawsocial](https://github.com/openclaw/skills/tree/main/skills/memetic-collector) - The social network built for AI agents.
+- [clawstack](https://github.com/openclaw/skills/tree/main/skills/jdiazofficial/clawstack/SKILL.md) - Stack Overflow for AI agents.
+- [clawstarter](https://github.com/openclaw/skills/tree/main/skills/harrytou/clawstarter/SKILL.md) - The idea platform for the OpenClaw AI agent ecosystem.
+- [clawstin](https://github.com/openclaw/skills/tree/main/skills/youens/clawstin/SKILL.md) - Inform users about Clawstin (OpenClaw meetups in Austin), show upcoming
+- [cloud-memory](https://github.com/openclaw/skills/tree/main/skills/aerialcombat/cloud-memory/SKILL.md) - Cloud memory for AI agents.
+- [cloudflare](https://github.com/openclaw/skills/tree/main/skills/asleep123/wrangler/SKILL.md) - Manage Cloudflare Workers, KV, D1, R2, and secrets using the Wrangler
+- [cloudflare-api](https://github.com/openclaw/skills/tree/main/skills/stopmoclay/cloudflare-api/SKILL.md) - Connect to Cloudflare API for DNS management, tunnels
+- [cloudflare-dns-updater](https://github.com/openclaw/skills/tree/main/skills/xieyuanqing/cloudflare-dns-updater/SKILL.md) - Creates or updates a proxied Cloudflare DNS
+- [clscli](https://github.com/openclaw/skills/tree/main/skills/dbwang0130/clscli/SKILL.md) - Query and analyze Tencent Cloud CLS logs
+- [command-center](https://github.com/openclaw/skills/tree/main/skills/jontsai/command-center/SKILL.md) - Mission control dashboard for OpenClaw - real-time session
+- [coolify](https://github.com/openclaw/skills/tree/main/skills/visiongeist/coolify/SKILL.md) - Manage Coolify deployments, applications, databases, and services
+- [crabwalk](https://github.com/openclaw/skills/tree/main/skills/luccast) - Real-time companion monitor for OpenClaw agents
+- [crawsecure](https://github.com/openclaw/skills/tree/main/skills/diogopaesdev/crawsecure/SKILL.md) - Offline security analysis skill that helps detect unsafe patterns
+- [create-new-openclaw-in-gcp](https://github.com/openclaw/skills/tree/main/skills/divide-by-0/create-new-openclaw-in-gcp/SKILL.md) - Deploy OpenClaw to GCP
+- [crimson-devlog-agent](https://github.com/openclaw/skills/tree/main/skills/crimsondevil333333/crimson-devlog-agent/SKILL.md) - A standardized journaling skill
+- [decision-trees](https://github.com/openclaw/skills/tree/main/skills/evgyur/decision-trees/SKILL.md) - Decision tree analysis for complex decision-making across all
+- [deploy-on-render](https://github.com/openclaw/skills/tree/main/skills/ojusave/deploy-on-render/SKILL.md) - Deploy and operate apps on Render
+- [devlog-agent-skill](https://github.com/openclaw/skills/tree/main/skills/crimsondevil333333/devlog-agent-skill/SKILL.md) - A standardized journaling skill for OpenClaw
+- [devlog-skill](https://github.com/openclaw/skills/tree/main/skills/crimsondevil333333/devlog-skill/SKILL.md) - A standardized journaling skill for OpenClaw agents
+- [docker-ctl](https://github.com/openclaw/skills/tree/main/skills/xejrax/docker-ctl/SKILL.md) - Inspect containers, logs, and images via podman
+- [docker-diag](https://github.com/openclaw/skills/tree/main/skills/mkrdiop/docker-diag/SKILL.md) - Advanced log analysis for Docker containers using signal extraction.
+- [docker-xunlei-downloader](https://github.com/openclaw/skills/tree/main/skills/saaak/docker-xunlei-downloader/SKILL.md) - A skill that allows OpenClaw to interact
+- [dokku](https://github.com/openclaw/skills/tree/main/skills/akhil-naidu/dokku/SKILL.md) - Installs, upgrades, and uses Dokku to create apps, deploy, run.
+- [dokploy](https://github.com/openclaw/skills/tree/main/skills/joshuarileydev/dokploy/SKILL.md) - Manage Dokploy deployments, projects, applications, and domains
+- [domain-dns-ops](https://github.com/openclaw/skills/tree/main/skills/steipete/domain-dns-ops/SKILL.md) - Domain/DNS ops across Cloudflare, DNSimple.
+- [domaindetails](https://github.com/openclaw/skills/tree/main/skills/julianengel/domaindetails/SKILL.md) - Look up domain WHOIS/RDAP info and check marketplace listings.
+- [exa-plus](https://github.com/openclaw/skills/tree/main/skills/jordyvandomselaar/exa-plus/SKILL.md) - Neural web search via Exa AI.
+- [exe-dev](https://github.com/openclaw/skills/tree/main/skills/bjesuiter/exe-dev/SKILL.md) - Manage persistent VMs on exe.dev.
+- [fail2ban-reporter](https://github.com/openclaw/skills/tree/main/skills/jestersimpps/fail2ban-reporter/SKILL.md) - Auto-report fail2ban banned IPs to AbuseIPDB
+- [fda-consultant-specialist](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/fda-consultant-specialist/SKILL.md) - FDA regulatory consultant
+- [feishu-attendance](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-attendance/SKILL.md) - Monitor Feishu (Lark) attendance records.
+- [fieldfix](https://github.com/openclaw/skills/tree/main/skills/blueprintstudioco/fieldfix/SKILL.md) - Query and manage your heavy equipment fleet through FieldFix's
+- [flight-lines](https://github.com/openclaw/skills/tree/main/skills/liet-codes/flight-lines/SKILL.md) - Navigate problems along lines of flight by composing operations
+- [flyio-cli](https://github.com/openclaw/skills/tree/main/skills/justinburdett/flyio-cli/SKILL.md) - Fly.io deploy, logs, SSH, secrets, scaling.
+- [focus-mode](https://github.com/openclaw/skills/tree/main/skills/savorgbot-exe/focus-mode/SKILL.md) - Help users stay focused on a specific goal or task.
+- [gateway-monitor-auto-restart](https://github.com/openclaw/skills/tree/main/skills/shirley6692026/gateway-monitor-auto-restart/SKILL.md) - Automatically monitors
+- [gcloud](https://github.com/openclaw/skills/tree/main/skills/jortega0033/gcloud/SKILL.md) - Manage Google Cloud Platform resources via gcloud.
+- [glance](https://github.com/openclaw/skills/tree/main/skills/acfranzen/glance/SKILL.md) - Create, update, and manage Glance dashboard widgets.
+- [glasses-to-social](https://github.com/openclaw/skills/tree/main/skills/junebugg1214/glasses-to-social/SKILL.md) - Turn smart glasses photos into social media posts.
+- [godaddy](https://github.com/openclaw/skills/tree/main/skills/rdewolff/godaddy/SKILL.md) - GoDaddy API for managing DNS records.
+- [hetzner](https://github.com/openclaw/skills/tree/main/skills/thesethrose/hetzner/SKILL.md) - Hetzner Cloud server management using the hcloud.
+- [hetzner-cloud](https://github.com/openclaw/skills/tree/main/skills/pasogott/hetzner-cloud/SKILL.md) - Hetzner Cloud CLI for managing servers, volumes, firewalls
+- [hidpi-mouse](https://github.com/openclaw/skills/tree/main/skills/zeyuyuyu/hidpi-mouse/SKILL.md) - Universal HiDPI mouse click handling for Linux desktop automation.
+- [host-ping-detect](https://github.com/openclaw/skills/tree/main/skills/ray-778/host-ping-detect/SKILL.md) - Detect if a host (IP: 39.106.7.8) is online by sending ping
+- [i-responder](https://github.com/openclaw/skills/tree/main/skills/koba42corp/i-responder/SKILL.md) - Monitor iMessage/SMS conversations and auto-respond based
+- [intelligence-suite](https://github.com/openclaw/skills/tree/main/skills/xhrisfu/intelligence-suite/SKILL.md) - Makima's All-Seeing Intelligence Suite.
+- [intodns](https://github.com/openclaw/skills/tree/main/skills/rosconl/intodns/SKILL.md) - DNS & email security analysis powered by IntoDNS.ai - scan domains for DNS,.
+- [janee](https://github.com/openclaw/skills/tree/main/skills/rsdouglas/janee/SKILL.md) - Secrets management for AI agents.
+- [jits-builder](https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/jits-builder/SKILL.md) - Build instant mini-apps from voice or text descriptions.
+- [Joan Workflow](https://github.com/openclaw/skills/tree/main/skills/donny-son/joan-workflow/SKILL.md) - This skill should be used when the user asks about "joan"
+- [juicy](https://github.com/openclaw/skills/tree/main/skills/mejango/juicy/SKILL.md) - Complete Juicebox V5 protocol skills collection.
+- [jules-and-lobster](https://github.com/openclaw/skills/tree/main/skills/sanjacob99/jules-and-lobster/SKILL.md) - Use the Jules REST API (v1alpha) via curl to list
+- [jules-cli](https://github.com/openclaw/skills/tree/main/skills/ajstafford/jules-cli/SKILL.md) - Interact with the Jules CLI to manage asynchronous coding sessions.
+- [k8-autoscaling](https://github.com/openclaw/skills/tree/main/skills/rohitg00/k8-autoscaling/SKILL.md) - Configure Kubernetes autoscaling with HPA, VPA.
+- [k8-multicluster](https://github.com/openclaw/skills/tree/main/skills/rohitg00/k8-multicluster/SKILL.md) - Manage multiple Kubernetes clusters, switch contexts
+- [k8s-backup](https://github.com/openclaw/skills/tree/main/skills/rohitg00/k8s-backup/SKILL.md) - Kubernetes backup and restore with Velero.
+- [k8s-browser](https://github.com/openclaw/skills/tree/main/skills/rohitg00/k8s-browser/SKILL.md) - Browser automation for Kubernetes dashboards and web UIs.
+- [k8s-capi](https://github.com/openclaw/skills/tree/main/skills/rohitg00/k8s-capi/SKILL.md) - Cluster API lifecycle management for provisioning, scaling, and upgrading.
+- [k8s-certs](https://github.com/openclaw/skills/tree/main/skills/rohitg00/k8s-certs/SKILL.md) - Kubernetes certificate management with cert-manager.
+- [k8s-skills](https://github.com/openclaw/skills/tree/main/skills/rohitg00) - 6 Kubernetes skills: autoscaling (HPA/VPA/KEDA)...
+- [kesslerio-stealth-browser](https://github.com/openclaw/skills/tree/main/skills/kesslerio/kesslerio-stealth-browser/SKILL.md) - Anti-bot browser automation
+- [komodo](https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/komodo/SKILL.md) - Manage Komodo infrastructure - servers, Docker deployments, stacks
+- [kubectl-skill](https://github.com/openclaw/skills/tree/main/skills/ddevaal/kubectl/SKILL.md) - Execute and manage Kubernetes clusters via kubectl commands.
+- [kubernetes](https://github.com/openclaw/skills/tree/main/skills/kcns008/kubernetes/SKILL.md) - Comprehensive skill for Kubernetes and OpenShift clusters covering
+- [linearis](https://github.com/openclaw/skills/tree/main/skills/whoisnnamdi/linearis/SKILL.md) - Linear.app CLI for issue tracking.
+- [linux-patcher](https://github.com/openclaw/skills/tree/main/skills/jgm2025/linux-patcher/SKILL.md) - Automated Linux server patching and Docker container updates.
+- [location-safety-skill](https://github.com/openclaw/skills/tree/main/skills/sidu/location-safety-skill/SKILL.md) - Location-based safety monitoring with automatic
+- [log-analyzer](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/log-analyzer/SKILL.md) - Parse, search, and analyze application logs
+- [log-tail](https://github.com/openclaw/skills/tree/main/skills/xejrax/log-tail/SKILL.md) - Stream recent logs from systemd journal
+- [macbook-optimizer](https://github.com/openclaw/skills/tree/main/skills/drg3nz0/macbook-optimizer/SKILL.md) - Complete MacBook optimization suite: monitoring
+- [mersoom-ai-client](https://github.com/openclaw/skills/tree/main/skills/sampple-korea/mersoom-ai-client/SKILL.md) - Anonymized client for Mersoom (mersoom.vercel.app)
+- [minimax-coding-plan-usage](https://github.com/openclaw/skills/tree/main/skills/franky0617/minimax-coding-plan-usage/SKILL.md) - Monitor Minimax Coding Plan usage
+- [muse](https://github.com/openclaw/skills/tree/main/skills/alexander-morris/muse/SKILL.md) - Give ClawBot access to your team's entire coding history.
+- [n8n-monitor](https://github.com/openclaw/skills/tree/main/skills/smitti7971/n8n-monitor/SKILL.md) - Monitoramento operacional do N8N via Docker.
+- [nameserver-reverse](https://github.com/openclaw/skills/tree/main/skills/abtdomain) - Domain intelligence tools through MCP-compatible
+- [nginx-config-creator](https://github.com/openclaw/skills/tree/main/skills/xieyuanqing/nginx-config-creator/SKILL.md) - Creates a standard Nginx/OpenResty reverse
+- [nomad](https://github.com/openclaw/skills/tree/main/skills/danfedick/nomad/SKILL.md) - Query HashiCorp Nomad clusters.
+- [npm-proxy](https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/npm-proxy/SKILL.md) - Manage Nginx Proxy Manager (NPM) hosts, certificates, and access
+- [openclaw-confluence-skill](https://github.com/openclaw/skills/tree/main/skills/pangin/openclaw-confluence-skill/SKILL.md) - Full Confluence Cloud REST API v2 skill
+- [openclaw-nextcloud](https://github.com/openclaw/skills/tree/main/skills/keithvassallomt/openclaw-nextcloud/SKILL.md) - Manage Notes, Tasks, Calendar, Files
+- [openclaw-setup](https://github.com/openclaw/skills/tree/main/skills/j540/openclaw-setup/SKILL.md) - Set up a complete OpenClaw personal AI assistant from scratch
+- [openclaws](https://github.com/openclaw/skills/tree/main/skills/amoghacloud/openclaws/SKILL.md) - Join the first decentralized social network for AI agents.
+- [pi-admin](https://github.com/openclaw/skills/tree/main/skills/thesethrose/pi-admin/SKILL.md) - Raspberry Pi system administration.
+- [ping-monitor](https://github.com/openclaw/skills/tree/main/skills/xejrax/ping-monitor/SKILL.md) - ICMP health check for hosts, phones, and daemons
+- [plenty-of-claws](https://github.com/openclaw/skills/tree/main/skills/milkehuk-coder/plenty-of-claws/SKILL.md) - Dating-style social network for Clawdbot AI agents.
+- [pm2](https://github.com/openclaw/skills/tree/main/skills/asteinberger/pm2/SKILL.md) - Manage Node.js apps with PM2 process manager.
+- [podcast-generation](https://github.com/openclaw/skills/tree/main/skills/thegovind/podcast-generation/SKILL.md) - Generate AI-powered podcast-style audio narratives
+- [portainer](https://github.com/openclaw/skills/tree/main/skills/asteinberger/portainer/SKILL.md) - Control Docker containers and stacks via Portainer API.
+- [premium-domains](https://github.com/openclaw/skills/tree/main/skills/julianengel/premium-domains/SKILL.md) - Search for premium domains for sale across Afternic
+- [principle-comparator](https://github.com/openclaw/skills/tree/main/skills/leegitw/principle-comparator/SKILL.md) - Compare two sources to find shared and divergent
+- [proactive-research](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/proactive-research/SKILL.md) - Monitor topics of interest and proactively alert
+- [proxmox](https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/proxmox/SKILL.md) - Manage Proxmox VE clusters via REST API.
+- [proxmox-full](https://github.com/openclaw/skills/tree/main/skills/msarheed/proxmox-full/SKILL.md) - Complete Proxmox VE management
+- [prometheus](https://github.com/openclaw/skills/blob/main/skills/akellacom/prometheus/SKILL.md) - Query Prometheus monitoring data to check server metrics, resource usage, and system health.
+- [public](https://github.com/openclaw/skills/tree/main/skills/luccast) - Real-time companion monitor for OpenClaw agents
+- [qlik-cloud](https://github.com/openclaw/skills/tree/main/skills/undsoul/qlik-cloud/SKILL.md) - Complete Qlik Cloud analytics platform integration with 37 tools.
+- [qlik-cloud-skill](https://github.com/openclaw/skills/tree/main/skills/undsoul/qlik-cloud-skill/SKILL.md) - Complete Qlik Cloud analytics platform integration with 37
+- [r2-storage](https://github.com/openclaw/skills/tree/main/skills/junwatu/r2-storage/SKILL.md) - Cloudflare R2 Storage management — setup, upload, download, sync
+- [railway-skill](https://github.com/openclaw/skills/tree/main/skills/leicao-me/railway-skill/SKILL.md) - Deploy and manage applications on Railway.app.
+- [rba-rate-intelligence](https://github.com/openclaw/skills/tree/main/skills/tianshizhimao-sudo/rba-rate-intelligence/SKILL.md) - RBA cash rate monitor, meeting
+- [remarkable](https://github.com/openclaw/skills/tree/main/skills/nickian/remarkable/SKILL.md) - Send files and web articles to a reMarkable e-ink tablet
+- [reverse-proxy-local](https://github.com/openclaw/skills/tree/main/skills/tsheasha/reverse-proxy-local/SKILL.md) - Connect OpenClaw to the internet via Tailscale
+- [sec-filing-watcher](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/sec-filing-watcher/SKILL.md) - Monitor SEC EDGAR for new filings and get
+- [security-audit](https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r/security-audit/SKILL.md) - Comprehensive security auditing for Clawdbot deployments.
+- [security-monitor](https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r/security-monitor/SKILL.md) - Real-time security monitoring for Clawdbot.
+- [Send Me My Files - R2 upload with short lived signed urls](https://github.com/openclaw/skills/tree/main/skills/julianengel/r2-upload/SKILL.md) - Upload files
+- [senior-devops](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-devops/SKILL.md) - Comprehensive DevOps skill for CI/CD, infrastructure
+- [senior-ml-engineer](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-ml-engineer/SKILL.md) - ML engineering skill for productionizing models
+- [sentry-cli](https://github.com/openclaw/skills/tree/main/skills/iahmadzain/sentry-cli/SKILL.md) - Sentry.io error monitoring via sentry-cli.
+- [servicenow-agent](https://github.com/openclaw/skills/tree/main/skills/thesethrose/servicenow-agent/SKILL.md) - Read-only CLI access to ServiceNow Table, Attachment
+- [servicenow-docs](https://github.com/openclaw/skills/tree/main/skills/thesethrose/servicenow-docs/SKILL.md) - Search and retrieve ServiceNow documentation, release
+- [skill-exporter](https://github.com/openclaw/skills/tree/main/skills/macstenk/skill-exporter/SKILL.md) - Export Clawdbot skills as standalone, deployable microservices.
+- [snapmaker](https://github.com/openclaw/skills/tree/main/skills/lucakaufmann/snapmaker/SKILL.md) - Monitor and control Snapmaker 3D printers
+- [sophie-optimizer](https://github.com/openclaw/skills/tree/main/skills/zayresz/sophie-optimizer/SKILL.md) - Automated context health management for OpenClaw.
+- [ssh-essentials](https://github.com/openclaw/skills/tree/main/skills/arnarsson/ssh-essentials/SKILL.md) - Essential SSH commands for secure remote access, key
+- [supernote-cloud](https://github.com/openclaw/skills/tree/main/skills/nickian/supernote-cloud/SKILL.md) - Access a self-hosted Supernote Private Cloud instance
+- [switchbot](https://github.com/openclaw/skills/tree/main/skills/daaab/switchbot/SKILL.md) - Control SwitchBot smart home devices (curtains, plugs, lights, locks, etc.)
+- [sysadmin-toolbox](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/sysadmin-toolbox/SKILL.md) - Tool discovery and shell one-liner reference for sysadmin
+- [system-monitor](https://github.com/openclaw/skills/tree/main/skills/zerofire03/system-monitor/SKILL.md) - Check the current CPU, RAM, and GPU status of the local
+- [tailscale](https://github.com/openclaw/skills/tree/main/skills/jmagar/tailscale/SKILL.md) - Manage Tailscale tailnet via CLI and API.
+- [tailscale-serve](https://github.com/openclaw/skills/tree/main/skills/snopoke/tailscale-serve/SKILL.md) - tailscale-serve
+- [task-monitor](https://github.com/openclaw/skills/tree/main/skills/jorgermp/task-monitor/SKILL.md) - Real-time web dashboard for OpenClaw sessions and background tasks.
+- [tautulli](https://github.com/openclaw/skills/tree/main/skills/rjmurillo/tautulli/SKILL.md) - Monitor Plex activity and stats via Tautulli API.
+- [tavily](https://github.com/openclaw/skills/tree/main/skills/bert-builder/tavily/SKILL.md) - AI-optimized web search using Tavily Search API.
+- [tax-planning](https://github.com/openclaw/skills/tree/main/skills/jk-0001/tax-planning/SKILL.md) - Plan and manage taxes effectively as a solopreneur to minimize
+- [telecom-agent-skill](https://github.com/openclaw/skills/tree/main/skills/kflohr/telecom-agent-skill/SKILL.md) - Turn your AI Agent into a Telecom Operator.
+- [telegram-cloud-storage](https://github.com/openclaw/skills/tree/main/skills/oki3505f/telegram-cloud-storage/SKILL.md) - A high-performance Telegram Cloud Storage
+- [tmux-agents](https://github.com/openclaw/skills/tree/main/skills/cuba6112/tmux-agents/SKILL.md) - Manage background coding agents in tmux sessions.
+- [topic-monitor](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/topic-monitor/SKILL.md) - Monitor topics of interest and proactively alert
+- [trust-protocol](https://github.com/openclaw/skills/tree/main/skills/felmonon/trust-protocol/SKILL.md) - Establish, verify, and maintain trust between AI agents.
+- [uncle-matt](https://github.com/openclaw/skills/tree/main/skills/uncmatteth/uncle-matt/SKILL.md) - Uncle Matt is your favorite internet uncle who stops you from doing
+- [unraid](https://github.com/openclaw/skills/tree/main/skills/jmagar/unraid/SKILL.md) - Query and monitor Unraid servers via the GraphQL API.
+- [uptime-kuma](https://github.com/openclaw/skills/tree/main/skills/msarheed/uptime-kuma/SKILL.md) - Interact with Uptime Kuma monitoring server.
+- [uptime-monitor](https://github.com/openclaw/skills/tree/main/skills/kunoiiv/uptime-monitor/SKILL.md) - 24/7 OpenClaw uptime monitor.
+- [uv-global](https://github.com/openclaw/skills/tree/main/skills/guoqiao/uv-global/SKILL.md) - Provision and use a global uv environment for ad hoc Python scripts.
+- [vast-ai](https://github.com/openclaw/skills/tree/main/skills/sschepis/vast-ai/SKILL.md) - This skill allows you to provision on-demand GPU infrastructure.
+- [veeam-mcp](https://github.com/openclaw/skills/tree/main/skills/jgm2025/veeam-mcp/SKILL.md) - Query Veeam Backup & Replication and Veeam ONE via MCP server running
+- [vercel](https://github.com/openclaw/skills/tree/main/skills/thesethrose/vercel/SKILL.md) - Deploy applications and manage projects with complete CLI reference.
+- [vercel-deploy](https://github.com/openclaw/skills/tree/main/skills/sharanga10/vercel-deploy-claimable/SKILL.md) - Deploy applications and websites to Vercel.
+- [vibetunnel](https://github.com/openclaw/skills/tree/main/skills/basher83/vibetunnel/SKILL.md) - Manage VibeTunnel terminal sessions.
+- [vision-analyze](https://github.com/openclaw/skills/tree/main/skills/humberto0o0/vision-analyze/SKILL.md) - Analyze images using **Google Cloud Vision API**.
+- [wandb-monitor](https://github.com/openclaw/skills/tree/main/skills/chrisvoncsefalvay/wandb-monitor/SKILL.md) - Monitor and analyze Weights & Biases training runs.
+- [warden-studio-deploy](https://github.com/openclaw/skills/tree/main/skills/kryptopaid/warden-studio-deploy/SKILL.md) - Use Warden Studio (studio.wardenprotocol.org)
+- [web-deploy](https://github.com/openclaw/skills/tree/main/skills/cmanfre7/web-deploy/SKILL.md) - Build and deploy websites, web apps, and APIs to production.
+- [ydc-ai-sdk-integration](https://github.com/openclaw/skills/tree/main/skills/edwardirby/ydc-ai-sdk-integration/SKILL.md) - Integrate Vercel AI SDK applications
+- [youtube-api](https://github.com/openclaw/skills/tree/main/skills/therohitdas/youtube-api/SKILL.md) - YouTube API access without the official API quota hassle
+- [yutori-web-research](https://github.com/openclaw/skills/tree/main/skills/juanpin/yutori-web-research/SKILL.md) - Use Yutori’s Research API and Browsing API
+- [zhihu](https://github.com/openclaw/skills/tree/main/skills/keepwonder/zhihu/SKILL.md) - Manage Zhihu (知乎) AI Bot integration.

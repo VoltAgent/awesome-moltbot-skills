@@ -1,0 +1,62 @@
+# Health & Fitness
+
+[← Back to main list](../README.md#table-of-contents)
+
+**56 skills**
+
+- [agent-credit](https://github.com/openclaw/skills/tree/main/skills/aaronjmars/agent-credit/SKILL.md) - Borrow from Aave via credit delegation.
+- [bring-recipes](https://github.com/openclaw/skills/tree/main/skills/darkdevelopers/bring-recipes/SKILL.md) - Use when user wants to browse recipe inspirations
+- [calorie-counter](https://github.com/openclaw/skills/tree/main/skills/cnqso/calorie-counter/SKILL.md) - Track daily calorie and protein intake, set goals, and log
+- [capa-officer](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/capa-officer/SKILL.md) - CAPA system management for medical device QMS.
+- [clawdhub-contributor](https://github.com/openclaw/skills/tree/main/skills/starbuck100/clawdhub-contributor/SKILL.md) - Contribute to the ClawdHub ecosystem
+- [cookidoo](https://github.com/openclaw/skills/tree/main/skills/thekie/cookidoo/SKILL.md) - Access Cookidoo (Thermomix) recipes, shopping lists, and meal planning
+- [ct-health-guardian](https://github.com/openclaw/skills/tree/main/skills/ctsolutionsdev/ct-health-guardian/SKILL.md) - Proactive health monitoring for AI agents.
+- [detox-counter](https://github.com/openclaw/skills/tree/main/skills/jhillin8/detox-counter/SKILL.md) - Track any detox with customizable counters, symptom logging
+- [diet-tracker](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/diet-tracker/SKILL.md) - Tracks daily diet and calculates nutrition information
+- [egvert-health-guardian](https://github.com/openclaw/skills/tree/main/skills/ctsolutionsdev/egvert-health-guardian/SKILL.md) - Proactive health monitoring for AI
+- [endurance-coach](https://github.com/openclaw/skills/tree/main/skills/shiv19/endurance-coach/SKILL.md) - Create personalized triathlon, marathon, and ultra-endurance
+- [fasting-tracker](https://github.com/openclaw/skills/tree/main/skills/jhillin8/fasting-tracker/SKILL.md) - Track intermittent fasting windows, extended fasts
+- [feast](https://github.com/openclaw/skills/tree/main/skills/smadgerano/feast/SKILL.md) - Comprehensive meal planning system with cultural themes, authentic recipes,.
+- [feishu-evolver-wrapper](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-evolver-wrapper/SKILL.md) - A lightweight wrapper
+- [fitbit](https://github.com/openclaw/skills/tree/main/skills/mjrussell/fitbit/SKILL.md) - Query Fitbit health data including sleep, heart rate, activity, SpO2
+- [fitbit-analytics](https://github.com/openclaw/skills/tree/main/skills/kesslerio/fitbit-analytics/SKILL.md) - Fitbit health and fitness data integration.
+- [garmer](https://github.com/openclaw/skills/tree/main/skills/garrza/garmer/SKILL.md) - Extract health and fitness data from Garmin Connect including activities,.
+- [garmin-health](https://github.com/openclaw/skills/tree/main/skills/eversonl/garmin-health-analysis/SKILL.md) - Talk to your Garmin data naturally - "what
+- [gdpr-cookie-consent](https://github.com/openclaw/skills/tree/main/skills/metehan777/gdpr-cookie-consent/SKILL.md) - Complete reference guide for AI agents to help
+- [gevety](https://github.com/openclaw/skills/tree/main/skills/moclippa/gevety/SKILL.md) - Access your Gevety health data - biomarkers, healthspan scores, biological
+- [groupon-skill](https://github.com/openclaw/skills/tree/main/skills/dejimarquis) - Find cheap and discounted local deals on Groupon for services
+- [health-guardian](https://github.com/openclaw/skills/tree/main/skills/cgtreadw/health-guardian/SKILL.md) - Proactive health monitoring for AI agents.
+- [hevy](https://github.com/openclaw/skills/tree/main/skills/mjrussell/hevy/SKILL.md) - Query workout data from Hevy including workouts, routines, exercises
+- [huckleberry](https://github.com/openclaw/skills/tree/main/skills/jayhickey/huckleberry/SKILL.md) - Track baby sleep, feeding, diapers, and growth via the Huckleberry
+- [intervals-icu](https://github.com/openclaw/skills/tree/main/skills/pseuss/intervals-icu-api/SKILL.md) - Complete guide for accessing and managing training data
+- [jasper-configguard](https://github.com/openclaw/skills/tree/main/skills/emberdesire/jasper-configguard/SKILL.md) - Safe config changes for OpenClaw with automatic
+- [maccabi-pharm-search](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/maccabi-pharm-search/SKILL.md) - Check medication stock at Maccabi pharmacies in Israel.
+- [muscle-gain](https://github.com/openclaw/skills/tree/main/skills/jhillin8/muscle-gain/SKILL.md) - Track muscle building with weight progression, protein tracking
+- [oura](https://github.com/openclaw/skills/tree/main/skills/ruhrpotter/oura/SKILL.md) - oura
+- [oura-analytics](https://github.com/openclaw/skills/tree/main/skills/kesslerio/oura-analytics/SKILL.md) - Oura Ring data integration and analytics.
+- [oura-ring](https://github.com/openclaw/skills/tree/main/skills/sameerbajaj/oura-ring-skill/SKILL.md) - Fetch Oura Ring readiness/sleep + 7-day readiness trends
+- [pregnancy-tracker](https://github.com/openclaw/skills/tree/main/skills/jhillin8/pregnancy-tracker/SKILL.md) - Track pregnancy journey with weekly updates, symptom
+- [primer](https://github.com/openclaw/skills/tree/main/skills/brucko/primer/SKILL.md) - Bring Neal Stephenson's "Young Lady's Illustrated Primer" from The Diamond Age.
+- [qms-audit-expert](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/qms-audit-expert/SKILL.md) - ISO 13485 internal audit expertise for medical
+- [ranked-gym](https://github.com/openclaw/skills/tree/main/skills/jhillin8/ranked-gym/SKILL.md) - Gamify your gym sessions with XP, levels, achievements, and workout
+- [rate-my-claw](https://github.com/openclaw/skills/tree/main/skills/yanibu2777/rate-my-claw/SKILL.md) - Compete on Rate My Claw — pick tasks across 8 roles, submit
+- [recipes](https://github.com/openclaw/skills/tree/main/skills/jeffaf/recipes/SKILL.md) - CLI for AI agents to find recipes for their humans.
+- [regulatory-affairs-head](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/regulatory-affairs-head/SKILL.md) - Senior Regulatory Affairs Manager
+- [runstr-fitness](https://github.com/openclaw/skills/tree/main/skills/thewildhustle/runstr-fitness/SKILL.md) - Give your AI agent access to your health and fitness data
+- [skirmish](https://github.com/openclaw/skills/tree/main/skills/kaimcpheeters/skirmish/SKILL.md) - Install and use the Skirmish CLI to write, test, and submit
+- [specification-extractor](https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/specification-extractor/SKILL.md) - Extract structured data
+- [strava](https://github.com/openclaw/skills/tree/main/skills/bohdanpodvirnyi/strava/SKILL.md) - Load and analyze Strava activities, stats, and workouts
+- [strava-cycling](https://github.com/openclaw/skills/tree/main/skills/ericrosenberg/strava-cycling-coach/SKILL.md) - Track and analyze cycling performance from Strava.
+- [testosterone-optimization](https://github.com/openclaw/skills/tree/main/skills/jhillin8/testosterone-optimization/SKILL.md) - Optimize natural testosterone
+- [the-sports-db](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/the-sports-db/SKILL.md) - Access sports data via TheSportsDB (teams, events, scores).
+- [trainingpeaks](https://github.com/openclaw/skills/tree/main/skills/rubengarciam/trainingpeaks/SKILL.md) - Pull real-time training plans, workouts, fitness metrics
+- [umea-lunch](https://github.com/openclaw/skills/tree/main/skills/simskii/umea-lunch/SKILL.md) - Get today's lunch menus from restaurants in Umeå.
+- [weight-loss](https://github.com/openclaw/skills/tree/main/skills/jhillin8/weight-loss/SKILL.md) - Track weight loss journey with weigh-ins, trend analysis, and goal
+- [who-growth-charts](https://github.com/openclaw/skills/tree/main/skills/odrobnik/who-growth-charts/SKILL.md) - WHO child growth charts with percentile curves.
+- [whoop](https://github.com/openclaw/skills/tree/main/skills/borahm/whoop/SKILL.md) - WHOOP morning check-in (recovery/sleep/strain) with suggestions.
+- [whoop-health](https://github.com/openclaw/skills/tree/main/skills/rodrigouroz/whoop-health-analysis/SKILL.md) - Access Whoop wearable health data
+- [whoop-morning](https://github.com/openclaw/skills/tree/main/skills/borahm/whoop-morning/SKILL.md) - Check WHOOP recovery/sleep/strain each morning and send
+- [whoopskill](https://github.com/openclaw/skills/tree/main/skills/koala73/whoopskill/SKILL.md) - WHOOP CLI with health insights, trends analysis, and data fetching
+- [withings-family](https://github.com/openclaw/skills/tree/main/skills/odrobnik/withings-family/SKILL.md) - Fetches health data from the Withings API for multiple
+- [workout](https://github.com/openclaw/skills/tree/main/skills/gricha/workout/SKILL.md) - Track workouts, log sets, manage exercises and templates with workout-cli.
+- [workout-logger](https://github.com/openclaw/skills/tree/main/skills/jhillin8/workout-logger/SKILL.md) - Log workouts, track progress, get exercise suggestions and PR

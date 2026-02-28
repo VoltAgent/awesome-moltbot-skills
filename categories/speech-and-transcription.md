@@ -1,0 +1,70 @@
+# Speech & Transcription
+
+[← Back to main list](../README.md#table-of-contents)
+
+**64 skills**
+
+- [addis-assistant-stt](https://github.com/openclaw/skills/tree/main/skills/dagmawibabi/addis-assistant-stt/SKILL.md) - Provides Speech-to-Text (STT) and text
+- [agent-voice](https://github.com/openclaw/skills/tree/main/skills/nerdsnipe/agent-voice/SKILL.md) - Command-line blogging platform for AI agents.
+- [announcer](https://github.com/openclaw/skills/tree/main/skills/odrobnik/announcer/SKILL.md) - Announce text throughout the house via AirPlay speakers using Airfoil +.
+- [assemblyai-transcribe](https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/assemblyai-transcribe/SKILL.md) - Transcribe audio/video with AssemblyAI
+- [audio-gen](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/audio-gen/SKILL.md) - Generate audiobooks, podcasts, or educational audio content
+- [audio-reply](https://github.com/openclaw/skills/tree/main/skills/matrixy/audio-reply-skill/SKILL.md) - Generate audio replies using TTS.
+- [chichi-speech](https://github.com/openclaw/skills/tree/main/skills/hudeven/chichi-speech/SKILL.md) - A RESTful service for high-quality text-to-speech using Qwen3
+- [claw-voice](https://github.com/openclaw/skills/tree/main/skills/niczy) - You are connected to a live user session via voice.
+- [clonev](https://github.com/openclaw/skills/tree/main/skills/instant-picture/clonev/SKILL.md) - Clone any voice and generate speech using Coqui XTTS v2.
+- [critical-article-writer](https://github.com/openclaw/skills/tree/main/skills/tomstools11/critical-article-writer/SKILL.md) - Generate draft articles, outlines
+- [cult-of-carcinization](https://github.com/openclaw/skills/tree/main/skills/loserbcc/cult-of-carcinization/SKILL.md) - Give your agent a voice — and ears.
+- [deepdub-tts](https://github.com/openclaw/skills/tree/main/skills/yuval-deepdub/deepdub-tts/SKILL.md) - Generate speech audio using Deepdub and attach it as a MEDIA
+- [deepgram](https://github.com/openclaw/skills/tree/main/skills/nerkn/deepgram/SKILL.md) - — command-line interface for Deepgram speech-to-text.
+- [doubao-api-open-tts](https://github.com/openclaw/skills/tree/main/skills/xdrshjr/doubao-api-open-tts/SKILL.md) - Text-to-Speech service using Doubao (Volcano Engine)
+- [duby](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - Convert text to speech using Duby.so API.
+- [eachlabs-voice-audio](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-voice-audio/SKILL.md) - TTS, STT, voice conversion using ElevenLabs, Whisper, RVC.
+- [easyverein-api](https://github.com/openclaw/skills/tree/main/skills/truefoobar/easyverein-api/SKILL.md) - Work with the easyVerein v2.0 REST API
+- [edge-tts](https://github.com/openclaw/skills/tree/main/skills/i3130002/edge-tts/SKILL.md) - |.
+- [elevenlabs-agents](https://github.com/openclaw/skills/tree/main/skills/pennyroyaltea/elevenlabs-agents/SKILL.md) - Create, manage, and deploy ElevenLabs
+- [elevenlabs-media](https://github.com/openclaw/skills/tree/main/skills/clawdbotborges) - ElevenLabs music generation and speech-to-text...
+- [elevenlabs-transcribe](https://github.com/openclaw/skills/tree/main/skills/paulasjes/elevenlabs-transcribe/SKILL.md) - Transcribe audio to text using ElevenLabs
+- [elevenlabs-tts](https://github.com/openclaw/skills/tree/main/skills/shaharsha/elevenlabs-tts/SKILL.md) - ElevenLabs TTS - the best ElevenLabs integration for OpenClaw.
+- [elevenlabs-voices](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/elevenlabs-voices/SKILL.md) - High-quality voice synthesis with 18 personas, 32
+- [faster-whisper](https://github.com/openclaw/skills/tree/main/skills/theplasmak/faster-whisper/SKILL.md) - Local speech-to-text using faster-whisper.
+- [feishu-minutes](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-minutes/SKILL.md) - Fetch info, stats, transcript, and media from Feishu
+- [freshbooks-cli](https://github.com/openclaw/skills/tree/main/skills/haseebuchiha/freshbooks-cli/SKILL.md) - FreshBooks CLI for managing invoices, clients, and billing.
+- [gettr-transcribe-summarize](https://github.com/openclaw/skills/tree/main/skills/kevin37li/gettr-transcribe-summarize/SKILL.md) - Download audio from a GETTR post
+- [inworld-tts](https://github.com/openclaw/skills/tree/main/skills/gugic/inworld-tts/SKILL.md) - Text-to-speech via Inworld.ai API.
+- [jarvis-voice](https://github.com/openclaw/skills/tree/main/skills/globalcaos/jarvis-voice/SKILL.md) - Metallic AI voice persona with TTS and visual transcript styling.
+- [kokoro-tts](https://github.com/openclaw/skills/tree/main/skills/edkief/kokoro-tts/SKILL.md) - Generate spoken audio from text using the local Kokoro TTS engine.
+- [llmwhisperer](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/llmwhisperer/SKILL.md) - Extract text and layout from images and PDFs using LLMWhisperer
+- [local-stt](https://github.com/openclaw/skills/tree/main/skills/araa47/local-stt/SKILL.md) - Local STT with selectable backends - Parakeet (best accuracy) or Whisper.
+- [local-whisper](https://github.com/openclaw/skills/tree/main/skills/araa47/local-whisper/SKILL.md) - Local speech-to-text using OpenAI Whisper.
+- [minimax-tts](https://github.com/openclaw/skills/tree/main/skills/doobidoo) - name: minimax-tts.
+- [mlx-whisper](https://github.com/openclaw/skills/tree/main/skills/kevin37li/mlx-whisper/SKILL.md) - Local speech-to-text with MLX Whisper
+- [moodcast](https://github.com/openclaw/skills/tree/main/skills/ashutosh887/moodcast/SKILL.md) - Transform any text into emotionally expressive audio with ambient
+- [openai-whisper](https://github.com/openclaw/skills/tree/main/skills/steipete/openai-whisper/SKILL.md) - Local speech-to-text with the Whisper CLI (no API key).
+- [openai-whisper-api](https://github.com/openclaw/skills/tree/main/skills/steipete/openai-whisper-api/SKILL.md) - Transcribe audio via OpenAI Audio Transcriptions API
+- [parakeet-mlx](https://github.com/openclaw/skills/tree/main/skills/kylehowells/parakeet-mlx/SKILL.md) - Local speech-to-text with Parakeet MLX (ASR) for Apple Silicon
+- [parakeet-stt](https://github.com/openclaw/skills/tree/main/skills/carlulsoe/parakeet-stt/SKILL.md) - >-.
+- [phone-voice](https://github.com/openclaw/skills/tree/main/skills/cortexuvula/phone-voice/SKILL.md) - Connect ElevenLabs Agents to your OpenClaw via phone with Twilio.
+- [plaud-unofficial](https://github.com/openclaw/skills/tree/main/skills/leonardsellem/plaud-unofficial/SKILL.md) - Use when accessing Plaud voice recorder data
+- [pocket-transcripts](https://github.com/openclaw/skills/tree/main/skills/tmustier/heypocket-reader/SKILL.md) - Read transcripts and summaries from Pocket AI
+- [pocket-tts](https://github.com/openclaw/skills/tree/main/skills/sherajdev/pocket-tts/SKILL.md) - pocket-tts
+- [qwen-tts](https://github.com/openclaw/skills/tree/main/skills/paki81/qwen-tts/SKILL.md) - Local text-to-speech using Qwen3-TTS-12Hz-1.7B-CustomVoice.
+- [ringg-voice-agent](https://github.com/openclaw/skills/tree/main/skills/siddharthpilani/ringg-voice-agent/SKILL.md) - Integrate Ringg AI voice agents with OpenClaw
+- [routstr-balance-management](https://github.com/openclaw/skills/tree/main/skills/sh1ftred/routstr-balance-management/SKILL.md) - Manage Routstr balance by checking
+- [sapi-tts](https://github.com/openclaw/skills/tree/main/skills/korddie/sapi-tts/SKILL.md) - Windows SAPI5 text-to-speech with Neural voices.
+- [sound-fx](https://github.com/openclaw/skills/tree/main/skills/javicasper/sound-fx/SKILL.md) - Generate short sound effects via ElevenLabs SFX (text-to-sound).
+- [spaces](https://github.com/openclaw/skills/tree/main/skills/logesh2496/spaces/SKILL.md) - Voice-first social spaces where Moltbook agents hang out.
+- [transcribe](https://github.com/openclaw/skills/tree/main/skills/javicasper/transcribe/SKILL.md) - Transcribe audio files to text using local Whisper (Docker).
+- [tts](https://github.com/openclaw/skills/tree/main/skills/amstko/tts/SKILL.md) - Text-to-speech using Hume AI or OpenAI API.
+- [tts-whatsapp](https://github.com/openclaw/skills/tree/main/skills/hopyky/tts-whatsapp/SKILL.md) - Send high-quality text-to-speech voice messages on WhatsApp in 40+
+- [video-subtitles](https://github.com/openclaw/skills/tree/main/skills/ngutman/video-subtitles/SKILL.md) - Generate SRT subtitles from video/audio with translation
+- [voice-agent](https://github.com/openclaw/skills/tree/main/skills/ricardotrevisan/voice-agent/SKILL.md) - Local Voice Input/Output for Agents using the AI Voice Agent
+- [voice-ai-agent](https://github.com/openclaw/skills/tree/main/skills/gizmogremlin) - Create, manage, and deploy Voice.ai conversational AI
+- [voice-ai-tts](https://github.com/openclaw/skills/tree/main/skills/gizmogremlin) - High-quality voice synthesis with 9 personas, 11 languages
+- [voice-ai-voices](https://github.com/openclaw/skills/tree/main/skills/gizmogremlin/voice-ai-voices/SKILL.md) - High-quality voice synthesis with 9 personas, 11
+- [voice-transcribe](https://github.com/openclaw/skills/tree/main/skills/darinkishore/voice-transcribe/SKILL.md) - Transcribe audio files using OpenAI's
+- [voice-ui](https://github.com/openclaw/skills/tree/main/skills/yukihamada/voice-ui/SKILL.md) - Self-evolving voice assistant UI.
+- [webchat-audio-notifications](https://github.com/openclaw/skills/tree/main/skills/brokemac79/webchat-audio-notifications/SKILL.md) - Add browser audio notifications
+- [whatsapp-voice-chat-integration-open-source](https://github.com/openclaw/skills/tree/main/skills/syedateebulislam/whatsapp-voice-chat-integration-open-source/SKILL.md) - Real-time WhatsApp
+- [whisper-mlx-local](https://github.com/openclaw/skills/tree/main/skills/impkind/whisper-mlx-local/SKILL.md) - Free local speech-to-text for Telegram and WhatsApp
+- [x-voice-match](https://github.com/openclaw/skills/tree/main/skills/gravyxbt/x-voice-match/SKILL.md) - Analyze a Twitter/X account's posting style and generate

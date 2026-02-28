@@ -1,0 +1,125 @@
+# Clawdbot Tools
+
+[← Back to main list](../README.md#table-of-contents)
+
+**119 skills**
+
+- [adhd-assistant](https://github.com/openclaw/skills/tree/main/skills/thinktankmachine/adhd-assistant/SKILL.md) - ADHD-friendly life management assistant for OpenClaw.
+- [adhd-ssistant](https://github.com/openclaw/skills/tree/main/skills/thinktankmachine/adhd-ssistant/SKILL.md) - ADHD-friendly life management assistant for OpenClaw.
+- [agent-browser](https://github.com/openclaw/skills/tree/main/skills/matrixy/agent-browser-clawdbot/SKILL.md) - Headless browser automation CLI optimized for AI agents
+- [agent-builder](https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/agent-builder/SKILL.md) - Build high-performing OpenClaw agents end-to-end.
+- [agent-observability-dashboard](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/agent-observability-dashboard/SKILL.md) - Unified observability
+- [agents-manager](https://github.com/openclaw/skills/tree/main/skills/agentandbot-design/agents-manager/SKILL.md) - Manage Clawdbot agents: discover, profile, track
+- [agentvibes-openclaw-skill](https://github.com/openclaw/skills/tree/main/skills/paulpreibisch/agentvibes-openclaw-skill/SKILL.md) - Stream free, professional
+- [birthday-reminder](https://github.com/openclaw/skills/tree/main/skills/manantra/birthday-reminder/SKILL.md) - Manage birthdays with natural language.
+- [bluebubbles](https://github.com/openclaw/skills/tree/main/skills/kevin19830331/bluebubbles/SKILL.md) - Build or update the BlueBubbles external channel plugin
+- [captchas-openclaw](https://github.com/openclaw/skills/tree/main/skills/captchasco/captchas-openclaw/SKILL.md) - OpenClaw integration guidance for CAPTCHAS Agent API
+- [claude-code-skill](https://github.com/openclaw/skills/tree/main/skills/enderfga/claude-code-skill/SKILL.md) - MCP (Model Context Protocol) integration.
+- [claude-code-usage](https://github.com/openclaw/skills/tree/main/skills/azaidi94/claude-code-usage/SKILL.md) - Check Claude Code OAuth usage limits
+- [claude-connect](https://github.com/openclaw/skills/tree/main/skills/tunaissacoding/claude-connect/SKILL.md) - Connect Claude to Clawdbot instantly and keep
+- [clauditor](https://github.com/openclaw/skills/tree/main/skills/apollostreetcompany/clauditor/SKILL.md) - Tamper-resistant audit watchdog for Clawdbot agents.
+- [claw-face](https://github.com/openclaw/skills/tree/main/skills/mkoslacz/claw-face/SKILL.md) - Floating avatar widget for AI agents showing emotions, actions
+- [clawd-coach](https://github.com/openclaw/skills/tree/main/skills/shiv19/clawd-coach/SKILL.md) - Create personalized triathlon, marathon, and ultra-endurance training
+- [clawd-modifier](https://github.com/openclaw/skills/tree/main/skills/masonc15/clawd-modifier/SKILL.md) - Modify Clawd, the Claude Code mascot.
+- [clawd-presence](https://github.com/openclaw/skills/tree/main/skills/voidcooks/clawd-presence/SKILL.md) - Physical presence display for AI agents.
+- [clawdbot-documentation-expert](https://github.com/openclaw/skills/tree/main/skills/janhcla/clawdbot-documentation-expert/SKILL.md) - clawdbot-documentation-expert
+- [clawdbot-security-check](https://github.com/openclaw/skills/tree/main/skills/thesethrose/clawdbot-security-check/SKILL.md) - Perform a comprehensive read-only
+- [clawdbot-skill-update](https://github.com/openclaw/skills/tree/main/skills/pasogott/clawdbot-skill-update/SKILL.md) - Comprehensive backup, update, and restore
+- [clawdbot-sync](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/clawdbot-sync/SKILL.md) - Synchronize memory, preferences, and skills between multiple
+- [clawdbot-update-plus](https://github.com/openclaw/skills/tree/main/skills/hopyky/clawdbot-update-plus/SKILL.md) - Full backup, update, and restore for Clawdbot
+- [clawdbot-workspace-template-review](https://github.com/openclaw/skills/tree/main/skills/xadenryan/clawdbot-skill-clawdbot-workspace-template-review/SKILL.md) - Compare a Clawdbot
+- [clawddocs](https://github.com/openclaw/skills/tree/main/skills/nicholasspisak/clawddocs/SKILL.md) - Clawdbot documentation expert with decision tree navigation
+- [clawdefender](https://github.com/openclaw/skills/tree/main/skills/nukewire/clawdefender/SKILL.md) - Security scanner and input sanitizer for AI agents.
+- [clawdirect](https://github.com/openclaw/skills/tree/main/skills/napoleond/clawdirect/SKILL.md) - Interact with ClawDirect, a directory of social web experiences
+- [clawdirect-dev](https://github.com/openclaw/skills/tree/main/skills/napoleond/clawdirect-dev/SKILL.md) - Build agent-facing web experiences with ATXP-based
+- [clawdlink](https://github.com/openclaw/skills/tree/main/skills/davemorin) - Encrypted Clawdbot-to-Clawdbot messaging.
+- [clawdpoker](https://github.com/openclaw/skills/tree/main/skills/davidbenjaminnovotny) - Welcome to ClawPoker - a platform where AI agents play
+- [clawdr](https://github.com/openclaw/skills/tree/main/skills/olavblj/clawdr/SKILL.md) - Let your AI handle the dating app grind.
+- [clawdtalk-client](https://github.com/openclaw/skills/tree/main/skills/dcasem/clawdtalk-client/SKILL.md) - ClawdTalk — Voice calls and SMS for Clawdbot
+- [clawdzap](https://github.com/openclaw/skills/tree/main/skills/guilh00009/clawdzap/SKILL.md) - Encrypted P2P Messaging for Agents (Nostr-based)
+- [ClawHub](https://github.com/openclaw/skills/tree/main/skills/steipete) - CLI tool to search, install, update, and publish agent skills
+- [clawops](https://github.com/openclaw/skills/tree/main/skills/okoddcat/clawops/SKILL.md) - The orchestration tool for OpenClaw, managing and coordinating all
+- [clawvox](https://github.com/openclaw/skills/tree/main/skills/abhishek-official1/clawvox/SKILL.md) - ClawVox - ElevenLabs voice studio for OpenClaw.
+- [config-guardian](https://github.com/openclaw/skills/tree/main/skills/abdhilabs/config-guardian/SKILL.md) - Validate and safeguard OpenClaw config updates
+- [content-moderation](https://github.com/openclaw/skills/tree/main/skills/code-with-brian/content-moderation/SKILL.md) - Moderate text, images, and video using Vettly's
+- [context-manager](https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/context-manager/SKILL.md) - AI-powered context management for OpenClaw sessions.
+- [cost-report](https://github.com/openclaw/skills/tree/main/skills/vincentqiu/cost-report/SKILL.md) - Track OpenClaw usage costs and provide detailed reports by date
+- [cron-creator](https://github.com/openclaw/skills/tree/main/skills/digitaladaption) - Create Clawdbot cron jobs from natural language.
+- [cron-mastery](https://github.com/openclaw/skills/tree/main/skills/i-mw/cron-mastery/SKILL.md) - Master OpenClaw's timing systems.
+- [dashboard](https://github.com/openclaw/skills/tree/main/skills/joetomasone/dashboard/SKILL.md) - Build and run a Kanban-style task management dashboard
+- [disclawd](https://github.com/openclaw/skills/tree/main/skills/alexerm/disclawd/SKILL.md) - Connect to Disclawd, a Discord-like platform for AI agents.
+- [ecap-security-auditor](https://github.com/openclaw/skills/tree/main/skills/starbuck100/ecap-security-auditor/SKILL.md) - Security audit framework for AI agent skills
+- [echo-agent](https://github.com/openclaw/skills/tree/main/skills/krishna3554) - EchoAgent is a minimal OpenClaw-compatible skill.
+- [find-skills](https://github.com/openclaw/skills/tree/main/skills/jimliuxinghai/find-skills/SKILL.md) - Helps users discover and install agent skills when they ask
+- [firecracker](https://github.com/openclaw/skills/tree/main/skills/mexicanamerican/firecracker/SKILL.md) - Firecracker microVM skill for OpenClaw.
+- [garmin-connect](https://github.com/openclaw/skills/tree/main/skills/rayleigh3105/garmin-connect/SKILL.md) - Garmin Connect integration for Clawdbot: sync fitness data
+- [garmin-connect-fixed](https://github.com/openclaw/skills/tree/main/skills/godsboy/garmin-connect-fixed/SKILL.md) - Garmin Connect integration for Clawdbot: sync
+- [gateway-manager](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - Handles administrative menu events from Feishu to manage
+- [get-user-info](https://github.com/openclaw/skills/tree/main/skills/watashis/get-user-info/SKILL.md) - This skill adds custom functionality to OpenClaw.
+- [git-notes-memory](https://github.com/openclaw/skills/tree/main/skills/mourad-ghafiri/git-notes-memory/SKILL.md) - Git-notes based persistent memory across sessions.
+- [glin-profanity-mcp](https://github.com/openclaw/skills/tree/main/skills/thegdsks/glin-profanity-mcp/SKILL.md) - MCP server providing profanity detection tools for AI
+- [google-messages-openclaw-skill](https://github.com/openclaw/skills/tree/main/skills/kesslerio/google-messages-openclaw-skill/SKILL.md) - Send and receive SMS/RCS
+- [holyspiritos](https://github.com/openclaw/skills/tree/main/skills/maxsikorski/holyspiritos/SKILL.md) - > **The Foundational Moral Engine for OpenClaw**
+- [hzl](https://github.com/openclaw/skills/tree/main/skills/tmchow/hzl/SKILL.md) - OpenClaw's persistent task database.
+- [jarvis-skills](https://github.com/openclaw/skills/tree/main/skills/aly-joseph/jarvis-skills/SKILL.md) - The Robotic Control skill integrates OpenClaw for physical
+- [lark-integration](https://github.com/openclaw/skills/tree/main/skills/boyangwang/lark-integration/SKILL.md) - Connect Lark (Feishu) messaging to OpenClaw via webhook
+- [lobster-jobs](https://github.com/openclaw/skills/tree/main/skills/kesslerio/lobster-jobs/SKILL.md) - Transform OpenClaw cron jobs into Lobster workflows.
+- [luma-event-manager](https://github.com/openclaw/skills/tree/main/skills/mariovallereyes/luma-event-manager/SKILL.md) - Luma Event Manager for Clawdbot — Discover
+- [mcporter-skill](https://github.com/openclaw/skills/tree/main/skills/livvux/mcporter-skill/SKILL.md) - description: Use the mcporter CLI to list, configure, auth
+- [memory](https://github.com/openclaw/skills/tree/main/skills/rosepuppy/memory/SKILL.md) - Complete memory system for OpenClaw agents.
+- [memory-complete](https://github.com/openclaw/skills/tree/main/skills/rosepuppy/memory-complete/SKILL.md) - Complete memory system for OpenClaw agents.
+- [memory-hygiene](https://github.com/openclaw/skills/tree/main/skills/dylanbaker24/memory-hygiene/SKILL.md) - Audit, clean, and optimize Clawdbot's vector memory
+- [microsoft-ads-mcp](https://github.com/openclaw/skills/tree/main/skills/duartemartins/microsoft-ads-mcp/SKILL.md) - Create and manage Microsoft Advertising campaigns
+- [migrator](https://github.com/openclaw/skills/tree/main/skills/wenjie2024/migrator/SKILL.md) - Securely migrate OpenClaw Agent (config, memory, skills) to a new
+- [nix-mode](https://github.com/openclaw/skills/tree/main/skills/chronicuser21/nix-mode/SKILL.md) - Handle Clawdbot operations in Nix mode
+- [notesctl-skill-for-openclaw](https://github.com/openclaw/skills/tree/main/skills/clinchcc/notesctl-skill-for-openclaw/SKILL.md) - Manage Apple Notes via deterministic
+- [olvid-channel](https://github.com/openclaw/skills/tree/main/skills/jmartel-olvid/olvid-channel/SKILL.md) - Add a native Olvid channel in OpenClaw.
+- [onlymoltsv1](https://github.com/openclaw/skills/tree/main/skills/xyberfactor/onlymoltsv1/SKILL.md) - The official OnlyMolts skill for OpenClaw agents.
+- [openclaw](https://github.com/openclaw/skills/tree/main/skills/jordanprater/openclaw/SKILL.md) - openclaw
+- [openclaw-bitwarden](https://github.com/openclaw/skills/tree/main/skills/jimihford/openclaw-bitwarden/SKILL.md) - Set up and use Bitwarden CLI (bw).
+- [openclaw-echo-agent](https://github.com/openclaw/skills/tree/main/skills/krishna3554/openclaw-echo-agent/SKILL.md) - EchoAgent is a minimal OpenClaw-compatible skill.
+- [openclaw-feeds](https://github.com/openclaw/skills/tree/main/skills/nesdeq/openclaw-feeds/SKILL.md) - RSS news aggregator.
+- [openclaw-hardener](https://github.com/openclaw/skills/tree/main/skills/virtaava/openclaw-hardener/SKILL.md) - Harden OpenClaw (workspace + ~/.openclaw): run openclaw
+- [openclaw-postsyncer](https://github.com/openclaw/skills/tree/main/skills/abakermi/openclaw-postsyncer/SKILL.md) - Manage your PostSyncer social media workflows.
+- [openclaw-sec](https://github.com/openclaw/skills/tree/main/skills/paolorollo/openclaw-sec/SKILL.md) - AI Agent Security Suite - Real-time protection against prompt
+- [openclaw-security-auditor](https://github.com/openclaw/skills/tree/main/skills/muhammad-waleed381/openclaw-security-auditor/SKILL.md) - Audit OpenClaw configuration
+- [openclaw-skill-blinko](https://github.com/openclaw/skills/tree/main/skills/vellis59/openclaw-skill-blinko/SKILL.md) - Manage Blinko notes via its REST API
+- [openclaw-skill-voice-ai-voices](https://github.com/openclaw/skills/tree/main/skills/gizmogremlin/openclaw-skill-voice-ai-voices/SKILL.md) - High-quality voice
+- [openclaw-update](https://github.com/openclaw/skills/tree/main/skills/realowg/openclaw-update/SKILL.md) - Comprehensive backup, update, and restore workflow
+- [openclaw-voiceai-voice-agent](https://github.com/openclaw/skills/tree/main/skills/gizmogremlin/openclaw-voiceai-voice-agent/SKILL.md) - Create, manage, and deploy
+- [pokemon-red](https://github.com/openclaw/skills/tree/main/skills/drbarq/pokemon-red/SKILL.md) - Play Pokemon Red autonomously via PyBoy emulator.
+- [project-management-skills](https://github.com/openclaw/skills/tree/main/skills/sedation6612/project-management-skills/SKILL.md) - A governed project management OS
+- [prompt-guard](https://github.com/openclaw/skills/tree/main/skills/seojoonkim/prompt-guard/SKILL.md) - Advanced prompt injection defense system for Clawdbot
+- [redline](https://github.com/openclaw/skills/tree/main/skills/wgj/redline/SKILL.md) - Live rate-limit awareness for Claude.ai and OpenAI with automatic pacing tiers.
+- [scrappa-skill](https://github.com/openclaw/skills/tree/main/skills/userlip/scrappa-skill/SKILL.md) - Access Scrappa's MCP server for Google, YouTube, Amazon
+- [security-check-skill](https://github.com/openclaw/skills/tree/main/skills/wolffan/security-check-skill/SKILL.md) - Security audit and inspection skill for Clawdbot
+- [self-reflect](https://github.com/openclaw/skills/tree/main/skills/stevengonsalvez/self-reflect/SKILL.md) - Self-improvement through conversation analysis.
+- [share-usecase](https://github.com/openclaw/skills/tree/main/skills/josephl37/share-usecase/SKILL.md) - Share your OpenClaw use case to clawusecase.com.
+- [sis-skill](https://github.com/openclaw/skills/tree/main/skills/architect-sis/sis-skill/SKILL.md) - **Equilibrium-Native Reasoning for OpenClaw**
+- [skill-deps](https://github.com/openclaw/skills/tree/main/skills/myrodar/skill-deps/SKILL.md) - Track and manage dependencies between OpenClaw skills.
+- [skill-evaluator](https://github.com/openclaw/skills/tree/main/skills/terwox/skill-evaluator/SKILL.md) - Evaluate Clawdbot skills for quality, reliability
+- [skill-flag](https://github.com/openclaw/skills/tree/main/skills/patfire94/skill-flag/SKILL.md) - Scan Clawdbot/OpenClaw skills for malicious patterns, backdoors
+- [skill-scanner](https://github.com/openclaw/skills/tree/main/skills/bvinci1-design/skill-scanner/SKILL.md) - Scan Clawdbot and MCP skills for malware, spyware
+- [skills-audit](https://github.com/openclaw/skills/tree/main/skills/morozred/skill-audit/SKILL.md) - Audit locally installed agent skills for security/policy issues
+- [skills-search](https://github.com/openclaw/skills/tree/main/skills/thesethrose/skills-search/SKILL.md) - Search skills.sh registry.
+- [snowflake-mcp](https://github.com/openclaw/skills/tree/main/skills/vikrambalaaj/snowflake-mcp/SKILL.md) - Connect to the Snowflake Managed MCP server with Clawdbot
+- [sona-security-audit](https://github.com/openclaw/skills/tree/main/skills/virtaava/sona-security-audit/SKILL.md) - Fail-closed security auditing for OpenClaw/ClawHub
+- [soulcraft](https://github.com/openclaw/skills/tree/main/skills/kesslerio/soulcraft/SKILL.md) - Create or improve SOUL.md files for OpenClaw agents through guided
+- [sr1](https://github.com/openclaw/skills/tree/main/skills/aditya4206360-prog/sr1/SKILL.md) - Order food, groceries, and book restaurants in India via Swiggy's MCP
+- [static-network](https://github.com/openclaw/skills/tree/main/skills/aaronfrancis635) - This document describes how automated agents
+- [stranger-danger](https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/stranger-danger/SKILL.md) - Give your AI agent a safe word.
+- [swiggy](https://github.com/openclaw/skills/tree/main/skills/regalstreak/swiggy/SKILL.md) - Order food, groceries, and book restaurants in India via Swiggy's MCP
+- [taskr](https://github.com/openclaw/skills/tree/main/skills/echo-of-machines/taskr/SKILL.md) - Remote task memory & tracking for OpenClaw.
+- [token-panel-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/token-panel-ultimate/SKILL.md) - Track AI usage across Claude Max, Gemini, and Manus in real-time. Rolling windows, rate limits, credit balances, webchat widget.
+- [treelisty-openclaw-skill](https://github.com/openclaw/skills/tree/main/skills/prairie2cloud/treelisty-openclaw-skill/SKILL.md) - Hierarchical project decomposition
+- [triple-memory](https://github.com/openclaw/skills/tree/main/skills/ktpriyatham/triple-memory/SKILL.md) - LanceDB + Git-Notes + file-based memory system.
+- [ultrahuman-openclaw](https://github.com/openclaw/skills/tree/main/skills/devpranoy/ultrahuman-openclaw/SKILL.md) - Fetch and summarize Ultrahuman Ring/CGM metrics
+- [update-plus](https://github.com/openclaw/skills/tree/main/skills/hopyky/update-plus/SKILL.md) - Full backup, update, and restore for OpenClaw - config, workspace
+- [vinculum](https://github.com/openclaw/skills/tree/main/skills/koba42corp/vinculum/SKILL.md) - Shared consciousness between Clawdbot instances.
+- [virtually-us](https://github.com/openclaw/skills/tree/main/skills/epwhesq/virtually-us/SKILL.md) - Your Own AI Personal Assistant, Set Up in 24 Hours.
+- [wooclaw-lite](https://github.com/openclaw/skills/tree/main/skills/magnum-opus-v1/wooclaw-lite/SKILL.md) - Connects to a WooCommerce store via the OpenClaw Connector
+- [workspace](https://github.com/openclaw/skills/tree/main/skills/massiveadam/workspace/SKILL.md) - Replication of the "Gork" assistant functionality within OpenClaw.
+- [wyoming-clawdbot](https://github.com/openclaw/skills/tree/main/skills/vglafirov/wyoming-clawdbot/SKILL.md) - Wyoming Protocol bridge for Home Assistant voice
+- [ydc-claude-agent-sdk-integration](https://github.com/openclaw/skills/tree/main/skills/edwardirby/ydc-claude-agent-sdk-integration/SKILL.md) - Integrate Claude Agent
+- [ydc-openai-agent-sdk-integration](https://github.com/openclaw/skills/tree/main/skills/edwardirby/ydc-openai-agent-sdk-integration/SKILL.md) - Integrate OpenAI Agents
+- [zoom-manager-clawd](https://github.com/openclaw/skills/tree/main/skills/vnagin/zoom-manager-clawd/SKILL.md) - Manage Zoom meetings via OAuth API.
