@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**42 skills**
+**43 skills**
 
 - [add-analytics](https://github.com/openclaw/skills/tree/main/skills/jeftekhari/add-analytics/SKILL.md) - Add Google Analytics 4 tracking to any project.
 - [agi-artificial-geometric-intelligence](https://github.com/openclaw/skills/tree/main/skills/uniaolives) - Designed multi-layer.
@@ -35,6 +35,7 @@
 - [netlify](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/netlify/SKILL.md) - Use the Netlify CLI (netlify) to create/link Netlify sites and set up CI/CD.
 - [nocodb](https://github.com/openclaw/skills/tree/main/skills/nickian/nocodb/SKILL.md) - Access and manage NocoDB databases, tables, and records via REST API.
 - [osint-graph-analyzer](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/osint-graph-analyzer/SKILL.md) - Build knowledge graphs from OSINT data.
+- [polymarket-paper-trader](https://github.com/agent-next/polymarket-paper-trader) - Paper trading simulator for Polymarket prediction markets. Built for AI agents with MCP server, live order books, strategy backtesting, and shareable stats cards.
 - [remove-analytics](https://github.com/openclaw/skills/tree/main/skills/jeftekhari/remove-analytics/SKILL.md) - Safely remove Google Analytics from a project.
 - [senior-data-engineer](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-data-engineer/SKILL.md) - Data engineering skill for building scalable.
 - [senior-data-scientist](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-data-scientist/SKILL.md) - World-class data science skill.
