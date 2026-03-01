@@ -315,6 +315,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentguard](https://github.com/openclaw/skills/tree/main/skills/manas-io-ai/agentguard/SKILL.md) - **Category:** Security & Monitoring.
 - [agentic-ai-gold](https://github.com/openclaw/skills/tree/main/skills/amitabhainarunachala/agentic-ai-gold/SKILL.md) - The only agent framework that improves itself while you sleep.
 - [agentic-devops](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/agentic-devops/SKILL.md) - Production-grade agent DevOps toolkit — Docker, process management, log analysis, and health monitoring.
+- [homeserver](https://github.com/openclaw/skills/tree/main/skills/higangssh/homeserver/SKILL.md) - Homelab server management — system status, Docker control, Wake-on-LAN, port scanning, network discovery, multi-server SSH. Powered by [homebutler](https://github.com/Higangssh/homebutler).
 - [agentkeys](https://github.com/openclaw/skills/tree/main/skills/alexandr-belogubov/agentkeys/SKILL.md) - Secure credential proxy for AI agents.
 - [agentmemory](https://github.com/openclaw/skills/tree/main/skills/badaramoni/agentmemory/SKILL.md) - End-to-end encrypted cloud memory for AI agents.
 
