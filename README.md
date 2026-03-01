@@ -28,6 +28,11 @@
 
 # Awesome OpenClaw Skills
 
+- **Agentic Signal** — paid BTC/ETH DCA signal API (x402 USDC on Base) + signed responses + proof/backtests.
+  - Docs: https://signal.agenticsignal.dev/docs
+  - Skill: https://signal.agenticsignal.dev/agentic-signal.skill
+  - Demo: https://github.com/alphagrit/agentic-signal-demo-agent
+
 OpenClaw (previously known as Moltbot, originally Clawdbot... identity crisis included, no extra charge) is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
 
 Skills in this list are sourced from [ClawHub](https://www.clawhub.ai/) (OpenClaw's public skills registry) and categorized for easier discovery.
