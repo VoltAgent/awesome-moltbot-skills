@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**88 skills**
+**89 skills**
 
 - [31third-safe-rebalancer-simple](https://github.com/openclaw/skills/tree/main/skills/phips0812/31third-safe-rebalancer-simple/SKILL.md) - One-step Safe rebalancer using on-chain 31Third policies.
 - [aavegotchi-baazaar](https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-baazaar/SKILL.md) - View, add, and execute Aavegotchi Baazaar listings on Base mainnet (8453)
@@ -52,6 +52,7 @@
 - [health-summary](https://github.com/openclaw/skills/tree/main/skills/yusaku-0426/health-summary/SKILL.md) - Generate daily/weekly/monthly health summaries with nutrition totals, target comparisons, and trends.
 - [health-sync](https://github.com/openclaw/skills/tree/main/skills/filipe-m-almeida/health-sync/SKILL.md) - Analyze synced health data across Oura, Withings, Hevy, Strava, WHOOP, and Eight Sleep.
 - [heartbeat-checklist](https://github.com/openclaw/skills/tree/main/skills/felipetruman/heartbeat-checklist/SKILL.md) - Run these checks periodically (2-4x daily).
+- [hercycle](https://github.com/gloria-zhang1/openclaw-skills/tree/main/hercycle/SKILL.md) - Biometric-aware women's cycle intelligence that reads Whoop HRV, recovery, and skin temp to identify your hormonal phase (menstrual/follicular/ovulation/luteal) and take phase-smart actions.
 - [hevy](https://github.com/openclaw/skills/tree/main/skills/mjrussell/hevy/SKILL.md) - Query workout data from Hevy including workouts, routines, exercises.
 - [hle-reasoning-wrapper](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/hle-reasoning-wrapper/SKILL.md) - Wraps HLE benchmark questions in a structured Chain-of-Thought (CoT) reasoning process.
 - [huckleberry](https://github.com/openclaw/skills/tree/main/skills/jayhickey/huckleberry/SKILL.md) - Track baby sleep, feeding, diapers, and growth via the Huckleberry.
