@@ -519,9 +519,6 @@
 - [infra-watchdog](https://github.com/openclaw/skills/tree/main/skills/mariusfit/infra-watchdog/SKILL.md) - Self-hosted infrastructure monitoring for OpenClaw agents.
 - [inkdrop](https://github.com/openclaw/skills/tree/main/skills/iamngoni/inkdrop/SKILL.md) - Read, create, update, search, and delete notes in Inkdrop via its local HTTP server API.
 - [insaiai-intelligent-editing](https://github.com/openclaw/skills/tree/main/skills/liudu2326526/insaiai-intelligent-editing/SKILL.md) - Use when performing video/audio processing tasks including transcoding, filtering, streaming, metadata.
-- [insider-wallets-finder-bjs4y](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-bjs4y/SKILL.md) - Find and analyze smart money addresses - discover early buyers, track successful traders, identify whale.
-- [insider-wallets-finder-c86ge](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-c86ge/SKILL.md) - Find and analyze smart money addresses - discover early buyers, track successful traders, identify whale.
-- [insider-wallets-finder-gxgfy](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-gxgfy/SKILL.md) - Find and analyze smart money addresses - discover early buyers, track successful traders, identify whale.
 - [instagram-content-studio](https://github.com/openclaw/skills/tree/main/skills/uyeong/instagram-content-studio/SKILL.md) - Manage an Instagram account.
 - [instagram-marketing](https://github.com/openclaw/skills/tree/main/skills/insight68/instagram-marketing/SKILL.md) - Generate Instagram marketing content from product URLs.
 - [instagram-poster](https://github.com/openclaw/skills/tree/main/skills/al1enjesus/instagram-poster/SKILL.md) - Post images to Instagram automatically via Telegram.
@@ -1204,8 +1201,6 @@
 - [youtube-knowledge-extractor](https://github.com/openclaw/skills/tree/main/skills/sdrabent/youtube-knowledge-extractor/SKILL.md) - Multimodal YouTube video analysis through both audio (transcript) and visual (frame extraction + image analysis)
 - [youtube-media-downloader](https://github.com/openclaw/skills/tree/main/skills/xanderrey/youtube-media-downloader/SKILL.md) - Download audio (MP3) and video (MP4) files from YouTube URLs.
 - [youtube-notification-analysis](https://github.com/openclaw/skills/tree/main/skills/esanle/youtube-notification-analysis/SKILL.md) - Analyze YouTube notifications for investment and trading insights.
-- [youtube-summarize-3hazy](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/youtube-summarize-3hazy/SKILL.md) - Summarize YouTube videos by extracting transcripts and captions.
-- [youtube-summarize-mnoqm](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/youtube-summarize-mnoqm/SKILL.md) - Summarize YouTube videos by extracting transcripts and captions.
 - [youtube-summary](https://github.com/openclaw/skills/tree/main/skills/sunghyo/youtube-summary/SKILL.md) - Summarize YouTube videos into structured Markdown with youtube2md, including chaptered notes, timestamp links.
 - [youtube-uploader](https://github.com/openclaw/skills/tree/main/skills/nachx639/youtube-uploader/SKILL.md) - Upload videos and custom thumbnails to YouTube.
 - [youtube-video-analyzer](https://github.com/openclaw/skills/tree/main/skills/sdrabent/youtube-video-analyzer/SKILL.md) - Multimodal YouTube video analysis through both audio (transcript) and visual (frame extraction + image analysis)

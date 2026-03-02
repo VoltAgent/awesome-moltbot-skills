@@ -342,7 +342,6 @@
 - [google-tag-manager](https://github.com/openclaw/skills/tree/main/skills/simonfunk/google-tag-manager/SKILL.md) - Manage Google Tag Manager containers, tags, triggers, variables, and versions via the GTM API v2.
 - [google-workspace-byok](https://github.com/openclaw/skills/tree/main/skills/kyesh/google-workspace-byok/SKILL.md) - Google Calendar and Gmail integration using your own GCP project credentials (BYoK — Bring Your Own Key)
 - [google-workspace-mcp](https://github.com/openclaw/skills/tree/main/skills/dru-ca/google-workspace-mcp/SKILL.md) - Gmail, Calendar, Drive, Docs, Sheets — NO Google Cloud Console required.
-- [google-workspace-vxw0q](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/google-workspace-vxw0q/SKILL.md) - Interact with Google Workspace services - Gmail, Calendar, Contacts, Sheets, and Docs.
 - [gowa](https://github.com/openclaw/skills/tree/main/skills/aldinokemal/gowa/SKILL.md) - Interact with WhatsApp via GOWA (Go WhatsApp Web Multi-Device) REST API for personal automation.
 - [gpu-cluster-monitor](https://github.com/openclaw/skills/tree/main/skills/sounderliu/gpu-cluster-monitor/SKILL.md) - A high-performance engineering tool for deep web scraping.
 - [gradient-knowledge-base](https://github.com/openclaw/skills/tree/main/skills/simondelorean/gradient-knowledge-base/SKILL.md) - Community skill (unofficial) for DigitalOcean Gradient Knowledge Bases.

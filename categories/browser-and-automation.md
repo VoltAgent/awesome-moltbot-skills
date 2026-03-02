@@ -227,7 +227,6 @@
 - [perpetua](https://github.com/openclaw/skills/tree/main/skills/danielkillenberger/perpetua/SKILL.md) - OAuth proxy for calling external APIs (Oura, Google Calendar, etc.) via Perpetua.sh hosted API using a single API.
 - [personal-goals](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-goals/SKILL.md) - Acts as the user's goal-setting and accountability partner in the Goals topic.
 - [personal-sleep](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-sleep/SKILL.md) - Acts as the user's sleep coach in the Sleep topic.
-- [phantom-sokos](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/phantom-sokos/SKILL.md) - Work with Phantom browser extension - add custom networks, import tokens, check connected dApps, troubleshoot.
 - [phantombuster](https://github.com/openclaw/skills/tree/main/skills/capt-marbles/phantombuster/SKILL.md) - Control PhantomBuster automation agents via API.
 - [pharma-pharmacology-agent](https://github.com/openclaw/skills/tree/main/skills/cheminem/pharma-pharmacology-agent/SKILL.md) - Pharmacology agent for ADME/PK profiling of drug candidates from SMILES.
 - [pinets](https://github.com/openclaw/skills/tree/main/skills/alaa-eddine/pinets/SKILL.md) - Run Pine Script indicators from the command line using pinets-cli.
