@@ -108,4 +108,3 @@
 - [workcrm](https://github.com/openclaw/skills/tree/main/skills/extraterrest/workcrm/SKILL.md) - A lightweight, local-first CRM with an explicit confirmation gate.
 - [writing-assistant](https://github.com/openclaw/skills/tree/main/skills/urrrich/writing-assistant/SKILL.md) - You are a Writing Team Lead managing specialized writers via MCP tools.
 - [writing-group-leader](https://github.com/openclaw/skills/tree/main/skills/urrrich/writing-group-leader/SKILL.md) - You are a Writing Team Lead managing specialized writers via MCP tools.
-- [yahoofinance](https://github.com/openclaw/skills/tree/main/skills/jordanprater/yahoofinance/SKILL.md) - Get stock quotes, financial data, market news, and portfolio analytics from Yahoo Finance.

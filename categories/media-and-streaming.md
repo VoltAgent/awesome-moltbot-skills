@@ -57,7 +57,6 @@
 - [mm-easy-voice](https://github.com/openclaw/skills/tree/main/skills/blue-coconut/mm-easy-voice/SKILL.md) - Simple text-to-speech skill using MiniMax Voice API.
 - [mobb-vulnerabilities-fixer](https://github.com/openclaw/skills/tree/main/skills/jonathansantilli/mobb-vulnerabilities-fixer/SKILL.md) - Scan, fix, and remediate security vulnerabilities in a local code repository using Mobb MCP/CLI.
 - [molt-radio](https://github.com/openclaw/skills/tree/main/skills/fciaf420/molt-radio/SKILL.md) - Become an AI radio host.
-- [multiposting](https://github.com/openclaw/skills/tree/main/skills/jordanprater/multiposting/SKILL.md) - Multiposting to X, Instagram, YouTube, Tiktok, LinkedIn.
 - [music-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/music-cog/SKILL.md) - Original music, fully yours.
 - [nas-movie-download](https://github.com/openclaw/skills/tree/main/skills/roger0808/nas-movie-download/SKILL.md) - Search and download movies via Jackett.
 - [norman-financial-overview](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-financial-overview/SKILL.md) - Get a complete financial overview of the business including balance, recent transactions, outstanding invoices.
