@@ -115,7 +115,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 
  Setup, hosting, and deployment providers for OpenClaw agents.
 
-**Sponsor spots are reserved for hosting, deployment, and setup providers serving OpenClaw developers & users.**
+**Sponsor spots are reserved for hosting, deployment, and setup providers serving OpenClaw developers & users.** 
+
+📈 Monthly 240,000 unique visitors from the OpenClaw audience.
 
 📩 For sponsorship inquiries, reach out at necati@voltagent.dev
 
