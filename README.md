@@ -126,7 +126,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 <div align="center">
 
 <a href="#your-link-here">
-<img src="https://placehold.co/800x120/1a1a2e/FFD700?text=Gold+Sponsor+&font=montserrat" alt="Gold Sponsor-[RESERVED]" width="800" height="120" />
+<img src="https://placehold.co/800x120/1a1a2e/FFD700?text=Gold+Sponsor-[RESERVED]+&font=montserrat" alt="Gold Sponsor" width="800" height="120" />
 </a>
 
 <sub>Your product description here — a one-liner about what you offer to OpenClaw developers.</sub>
