@@ -62,7 +62,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 ## Why This List Exists?
 
-OpenClaw's public registry (ClawHub) hosts **5,705 community-built skills** as of February 7, 2026. This awesome list has **2,868 skills**. Here's what we filtered out:
+OpenClaw's public registry (ClawHub) hosts **5,705+ community-built skills** as of March 3, 2026. This awesome list has **2,868+ skills**. Here's what we filtered out:
 
 | Filter | Excluded |
 |--------|----------|
