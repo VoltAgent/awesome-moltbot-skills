@@ -99,6 +99,7 @@
 - [instagram-reels](https://github.com/openclaw/skills/tree/main/skills/antoinedc/instagram-reels/SKILL.md) - Download Instagram Reels, transcribe audio, and extract captions.
 - [install-then-update-trap-detector](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/install-then-update-trap-detector/SKILL.md) - Helps detect the install-then-update attack pattern — where a skill passes initial security review cleanly.
 - [kai-tw-figma](https://github.com/openclaw/skills/tree/main/skills/kai-tw/kai-tw-figma/SKILL.md) - Interact with the Figma REST API to read files, export layers/components as images, and retrieve comments.
+- [kling-video-generator](https://github.com/wells1137/kling-video-generator/blob/master/SKILL.md) - Generate high-quality videos from text, images, or other videos using the Kling 3.0 Omni model. Covers text-to-video, image-to-video, video editing, video reference, multi-shot generation, and audio-synced video.
 - [kie-ai-skill](https://github.com/openclaw/skills/tree/main/skills/jon-xo/kie-ai-skill/SKILL.md) - Unified API access to multiple AI models via kie.ai - image generation (Nano Banana Pro, Flux, 4o-image) at 30-80%.
 - [kraken-pro](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/kraken-pro/SKILL.md) - Manage Kraken exchange accounts — portfolio, market data, trading, earn/staking, ledger export.
 - [macos-local-voice](https://github.com/openclaw/skills/tree/main/skills/strrl/macos-local-voice/SKILL.md) - Local STT and TTS on macOS using native Apple capabilities.
