@@ -531,6 +531,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brand-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/brand-cog/SKILL.md) - Other tools make logos.
 - [brand-guidelines](https://github.com/openclaw/skills/tree/main/skills/seanphan/brand-guidelines/SKILL.md) - Applies Anthropic's official brand colors and typography.
 - [brand-voice-profile](https://github.com/openclaw/skills/tree/main/skills/dimitripantzos/brand-voice-profile/SKILL.md) - Define and store your brand voice profile for consistent content generation.
+- [buffer-social](https://github.com/ahmadabugosh/openclaw-buffer-skill) - Schedule and manage social media posts through Buffer's API - immediate posting, smart queue scheduling, and draft management for Twitter, LinkedIn, and other platforms.
 - [brevo](https://github.com/openclaw/skills/tree/main/skills/yujesyoga/brevo/SKILL.md) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
 
 > **[View all 104 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
