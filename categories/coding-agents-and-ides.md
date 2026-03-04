@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**1222 skills**
+**1223 skills**
 
 - [0g-compute](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/0g-compute/SKILL.md) - Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers.
 - [0protocol](https://github.com/openclaw/skills/tree/main/skills/0isone/0protocol/SKILL.md) - Agents can sign plugins, rotate credentials without losing identity, and publicly attest to behavior.
@@ -386,6 +386,7 @@
 - [email-importance-content-analysis](https://github.com/openclaw/skills/tree/main/skills/shingo0620/email-importance-content-analysis/SKILL.md) - Judge whether an email is important/urgent using content-based analysis rather than sender name or mailbox labels.
 - [email-migration-toolkit](https://github.com/openclaw/skills/tree/main/skills/luigi08001/email-migration-toolkit/SKILL.md) - Universal email migration toolkit for any provider to any provider.
 - [email-security](https://github.com/openclaw/skills/tree/main/skills/ivaavimusic/email-security/SKILL.md) - Protect AI agents from email-based attacks including prompt injection, sender spoofing, malicious attachments.
+- [embedded-review](https://github.com/openclaw/skills/tree/main/skills/ylongw/embedded-review/SKILL.md) - Embedded/firmware code review with memory safety, interrupt, and hardware checklists.
 - [emotion-detector](https://github.com/openclaw/skills/tree/main/skills/daisuke134/emotion-detector/SKILL.md) - Detects the primary emotion in text input for AI agents.
 - [empirical-paper-analysis-skill](https://github.com/openclaw/skills/tree/main/skills/zhouziyue233/empirical-paper-analysis-skill/SKILL.md) - This skill enables Claude Code to deeply analyze empirical research papers, following a structured framework.
 - [employee-skills-importer](https://github.com/openclaw/skills/tree/main/skills/inna-demidova/employee-skills-importer/SKILL.md) - Parse employee skills CSV files, identify skill categories and individual skills, look up employee IDs.
