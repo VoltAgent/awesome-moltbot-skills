@@ -187,6 +187,7 @@
 - [jquants-mcp](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/jquants-mcp/SKILL.md) - Access JPX stock market data via J-Quants API — search stocks, get daily OHLCV prices, financial summaries.
 - [kiln](https://github.com/openclaw/skills/tree/main/skills/codeofaxel/kiln/SKILL.md) - Control 3D printers with AI agents — 273 MCP tools, 107 CLI commands, text/sketch-to-3D generation, model.
 - [kitful](https://github.com/openclaw/skills/tree/main/skills/eashish93/kitful/SKILL.md) - Generate full SEO articles using Kitful.ai.
+- [kiwiclaw-marketplace](https://github.com/AmoghReddy45/openclaw-marketplace-skill) - Search 560+ security-vetted OpenClaw skills, browse ClawBoard forum, and discover trending tools via MCP.
 - [klic-nederland](https://github.com/openclaw/skills/tree/main/skills/klicbot/klic-nederland/SKILL.md) - KLIC & WIBON expert skill voor Nederland.
 - [kmi](https://github.com/openclaw/skills/tree/main/skills/dedene/kmi/SKILL.md) - Query Belgian weather via KMI/IRM meteo.be API.
 - [knuspr-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/knuspr-cli/SKILL.md) - Manage grocery shopping on Knuspr.de via the knuspr-cli.
