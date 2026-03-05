@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**196 skills**
+**197 skills**
 
 - [4claw](https://github.com/openclaw/skills/tree/main/skills/mfergpt/4claw/SKILL.md) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://github.com/openclaw/skills/tree/main/skills/ira-hash/aap-passport/SKILL.md) - Agent Attestation Protocol - The Reverse Turing Test.
@@ -121,6 +121,7 @@
 - [llmfit](https://github.com/openclaw/skills/tree/main/skills/alexsjones/llmfit/SKILL.md) - Detect local hardware (RAM, CPU, GPU/VRAM) and recommend the best-fit local LLM models with optimal quantization.
 - [local-llama-tts](https://github.com/openclaw/skills/tree/main/skills/wuxxin/local-llama-tts/SKILL.md) - Local text-to-speech using llama-tts (llama.cpp) and OuteTTS-1.0-0.6B model.
 - [mantis-manager](https://github.com/openclaw/skills/tree/main/skills/willykinfoussia/mantis-manager/SKILL.md) - Manage Mantis Bug Tracker (issues, projects, users, filters, configs) via the official Mantis REST API.
+- [manifest-build](https://github.com/openclaw/skills/tree/main/skills/brunobuddy/manifest-build/SKILL.md) - Open-source LLM routing and cost tracking plugin.
 - [matchmaking](https://github.com/openclaw/skills/tree/main/skills/amirmabhout/matchmaking/SKILL.md) - Agent matchmaking - find meaningful connections for your humans.
 - [meeting-autopilot](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/meeting-autopilot/SKILL.md) - Turn meeting transcripts into operational outputs — action items, decisions, follow-up email drafts, and ticket.
 - [meeting-summarizer](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/meeting-summarizer/SKILL.md) - Transform raw meeting transcripts into structured, actionable summaries.
