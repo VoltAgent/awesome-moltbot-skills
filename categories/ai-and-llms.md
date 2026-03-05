@@ -79,6 +79,7 @@
 - [bunni-modes](https://github.com/openclaw/skills/tree/main/skills/dubhorizoned/bunni-modes/SKILL.md) - A persona and model-switching toolkit featuring Bunni, your bubbly cyber-security assistant.
 - [buy-crust](https://github.com/openclaw/skills/tree/main/skills/alphafanx/buy-crust/SKILL.md) - Buy $CRUST on Solana -- the Bot World mining token traded on Jupiter.
 - [buy-wir](https://github.com/openclaw/skills/tree/main/skills/alphafanx/buy-wir/SKILL.md) - Buy $WIR on TON -- the decentralized credit union token on TON.fun.
+- [Caravo API Marketplace](https://github.com/openclaw/skills/tree/main/skills/azure-vision/caravo/SKILL.md) - API marketplace with 200+ services for AI agents.
 - [chaos-pivot](https://github.com/openclaw/skills/tree/main/skills/manecharo/chaos-pivot/SKILL.md) - Prevents LLMs from sunk-cost pushing broken solutions.
 - [chief-editor](https://github.com/openclaw/skills/tree/main/skills/teamolab/chief-editor/SKILL.md) - You are a professional chief editor.# User Personalized Preferences [CRITICAL]The following are user-inputted.
 - [claude-usage-checker](https://github.com/openclaw/skills/tree/main/skills/aligurelli/claude-usage-checker/SKILL.md) - Check Claude Code / Claude Max usage limits.
