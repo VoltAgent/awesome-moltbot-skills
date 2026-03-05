@@ -145,6 +145,7 @@
 - [plans-methodology](https://github.com/openclaw/skills/tree/main/skills/cramtek/plans-methodology/SKILL.md) - Structured work tracking methodology using Plans.
 - [pls-copy-editing](https://github.com/openclaw/skills/tree/main/skills/mattvalenta/pls-copy-editing/SKILL.md) - [TODO: Complete and informative explanation of what the skill does and when to use it.
 - [portfolio-risk-analyzer](https://github.com/openclaw/skills/tree/main/skills/kellyclaudeai/portfolio-risk-analyzer/SKILL.md) - **AI-powered crypto portfolio risk analysis with automated $BANKR buyback monetization.**.
+- [product-manager-skills](https://github.com/openclaw/skills/tree/main/skills/digidai/product-manager-skills/SKILL.md) - Senior PM agent with 6 domains, 12 templates, and 30+ frameworks.
 - [postfast](https://github.com/openclaw/skills/tree/main/skills/peturgeorgievv/postfast/SKILL.md) - Schedule and manage social media posts across TikTok, Instagram, Facebook, X (Twitter), YouTube, LinkedIn, Threads.
 - [postqued-api](https://github.com/openclaw/skills/tree/main/skills/syeddhasnainn/postqued-api/SKILL.md) - PostQued social media scheduling API integration.
 - [ppt-ooxml-tool](https://github.com/openclaw/skills/tree/main/skills/jason2be/ppt-ooxml-tool/SKILL.md) - AI-agent Skill for PPTX OOXML localization workflows.
