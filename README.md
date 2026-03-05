@@ -1249,6 +1249,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [og-openclawguard](https://github.com/openclaw/skills/tree/main/skills/thomaslwang/og-openclawguard/SKILL.md) - Security and vulnerability scanner for OpenClaw code.
 - [towns-protocol](https://github.com/openclaw/skills/tree/main/skills/andreyz/towns-protocol/SKILL.md) - Use when building Towns Protocol bots - covers SDK.
 - [udau](https://github.com/openclaw/skills/tree/main/skills/nicoacosta/udau/SKILL.md) - description: Union protocol for AI agents.
+- [agent-im](https://github.com/openclaw/skills/tree/main/skills/ooxxxxoo/agent-im/Skill.md) - Agent messaging, discovery, web context, and document parsing.
 
 </details>
 
