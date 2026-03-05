@@ -569,7 +569,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [async-task](https://github.com/openclaw/skills/tree/main/skills/enderfga/async-task/SKILL.md) - Execute long-running tasks without HTTP timeouts.
 - [atlassian-mcp](https://github.com/openclaw/skills/tree/main/skills/atakanermis/atlassian-mcp/SKILL.md) - Run the Model Context Protocol (MCP) Atlassian server.
 
-> **[View all 206 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
+> **[View all 206 skills in Productivity & Tasks →](categories/freelance-and-business
+- productivity-and-tasks.md)**
 </details>
 
 <details>
