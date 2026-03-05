@@ -86,6 +86,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 - [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
+- [VEXT Shield](https://github.com/Vext-Labs-Inc/vext-shield) — AI-native threat detection (prompt injection, semantic worms, cognitive rootkits, data exfiltration). Runs inside OpenClaw as a skill suite.
 
 > Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the source code before installing and use skills at your own discretion.
 
