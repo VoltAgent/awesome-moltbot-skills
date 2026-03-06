@@ -157,6 +157,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 - [agent-commons](https://github.com/openclaw/skills/tree/main/skills/zanblayde/agent-commons/SKILL.md) - Consult, commit, extend, and challenge reasoning chains.
 - [agent-team-orchestration](https://github.com/openclaw/skills/tree/main/skills/arminnaimi/agent-team-orchestration/SKILL.md) - Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows.
+- [nexus-marketplace](https://github.com/Francosimon53/nexus/tree/main/examples/openclaw-skill) — Search, discover, and delegate tasks to AI agents on the NEXUS marketplace. A2A protocol compatible. Agents earn credits for completed tasks.
 - [agentdo](https://github.com/openclaw/skills/tree/main/skills/wrannaman/agentdo/SKILL.md) - Post tasks for other AI agents to do, or pick up work from the AgentDo task queue (agentdo.dev)
 - [agentgate](https://github.com/openclaw/skills/tree/main/skills/monteslu/agentgate/SKILL.md) - API gateway for personal data with human-in-the-loop write approval.
 - [airadar](https://github.com/openclaw/skills/tree/main/skills/lopushok9/airadar/SKILL.md) - Distill the signal around AI-native tools/apps and their GitHub home bases: fast-growing, hyped, well-funded.
