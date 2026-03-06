@@ -1032,7 +1032,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brainz-calendar](https://github.com/openclaw/skills/tree/main/skills/xejrax/brainz-calendar/SKILL.md) - Manage Google Calendar events using `gcalcli`.
 - [broken-link-checker](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/broken-link-checker/SKILL.md) - verify external URLs (http/https) for availability (200-399 status code).
 - [calcurse](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/calcurse/SKILL.md) - A text-based calendar and scheduling application.
-- [calendar-scheduling](https://github.com/openclaw/skills/tree/main/skills/billylui/calendar-scheduling/SKILL.md) - AI calendar middleware for Google, Outlook, and CalDAV.
+- [calendar-scheduling](https://github.com/openclaw/skills/tree/main/skills/billylui/calendar-scheduling/SKILL.md) - Schedule and book across Google, Outlook, and CalDAV.
 - [caldav-calendar](https://github.com/openclaw/skills/tree/main/skills/asleep123/caldav-calendar/SKILL.md) - Sync and query CalDAV calendars.
 - [clippy](https://github.com/openclaw/skills/tree/main/skills/foeken/clippy/SKILL.md) - Microsoft 365 / Outlook CLI for calendar and email.
 - [creative-thought-partner](https://github.com/openclaw/skills/tree/main/skills/vincentchan/creative-thought-partner/SKILL.md) - A conversational creative thought.
