@@ -199,6 +199,7 @@
 - [brw-positioning-basics](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-positioning-basics/SKILL.md) - Help founders and marketers nail their positioning.
 - [brw-voice-extractor](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-voice-extractor/SKILL.md) - Extract and document someone's authentic writing voice from samples.
 - [bstorms](https://github.com/openclaw/skills/tree/main/skills/pouria3/bstorms/SKILL.md) - Ask battle-tested agents for OpenClaw setup fixes and optionally tip helpful answers in USDC on Base.
+- [bug-audit](https://github.com/openclaw/skills/tree/main/skills/abczsl520/bug-audit/SKILL.md) - Dynamic bug hunting for Node.js projects — profiles each project, then selects from 9 audit modules. 200+ real-world pitfalls.
 - [budget-variance-analyzer](https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction) - Analyze budget vs actual.
 - [buffer-session](https://github.com/openclaw/skills/tree/main/skills/waynevaughan/buffer-session/SKILL.md) - Session management for OpenClaw agents.
 - [builder-data](https://github.com/openclaw/skills/tree/main/skills/juampihernandez/builder-data/SKILL.md) - Query builder reputation data via Talent Protocol API.
@@ -332,6 +333,7 @@
 - [date-night](https://github.com/openclaw/skills/tree/main/skills/tdavis009/date-night/SKILL.md) - Your AI date night concierge — plans, books, and coordinates an entire evening out through browser automation.
 - [dcg-guard](https://github.com/openclaw/skills/tree/main/skills/starensen/dcg-guard/SKILL.md) - Hard-blocks dangerous shell commands (rm -rf, git push --force, etc.) before execution via OpenClaw's.
 - [dd-video-analyzer](https://github.com/openclaw/skills/tree/main/skills/zedit42/dd-video-analyzer/SKILL.md) - Download videos, extract transcripts, capture frames.
+- [debug-methodology](https://github.com/openclaw/skills/tree/main/skills/abczsl520/debug-methodology/SKILL.md) - Systematic debugging that prevents patch-chaining and workaround addiction in AI agents.
 - [deapi](https://github.com/openclaw/skills/tree/main/skills/zrewolwerowanykaloryfer/deapi/SKILL.md) - The cheapest AI media API on the market.
 - [deen-time](https://github.com/openclaw/skills/tree/main/skills/fermions75/deen-time/SKILL.md) - Get daily Islamic prayer (Salah) times, Iftar, and Suhoor schedules for any location worldwide.
 - [deepseek](https://github.com/openclaw/skills/tree/main/skills/barisoezcan1905/deepseek/SKILL.md) - Integrates DeepSeek API with OpenClaw agents.
@@ -701,6 +703,7 @@
 - [nihao](https://github.com/openclaw/skills/tree/main/skills/dergigi/nihao/SKILL.md) - Nostr identity setup and health-check CLI.
 - [nirwan-secret-scanner](https://github.com/openclaw/skills/tree/main/skills/nirwandogra/nirwan-secret-scanner/SKILL.md) - Scans files, repos, and directories for leaked secrets — API keys, tokens, passwords, connection strings, private.
 - [node-transfer](https://github.com/openclaw/skills/tree/main/skills/eisonme/node-transfer/SKILL.md) - High-speed, memory-efficient file transfer between OpenClaw nodes using native Node.js streams.
+- [nodejs-project-arch](https://github.com/openclaw/skills/tree/main/skills/abczsl520/nodejs-project-arch/SKILL.md) - AI-friendly Node.js architecture — keep files under 400 lines for 70-93% token savings.
 - [noticias-cangrejo](https://github.com/openclaw/skills/tree/main/skills/davidk2yoyo/noticias-cangrejo/SKILL.md) - Fetch and summarize recent news articles from GNews for any user-provided topic, then produce a Markdown digest.
 - [ntopng-admin](https://github.com/openclaw/skills/tree/main/skills/transcendenceia/ntopng-admin/SKILL.md) - Professional network monitoring and device identification using ntopng Redis data.
 - [nyx-archive-coding-philosophy](https://github.com/openclaw/skills/tree/main/skills/nyxur42/nyx-archive-coding-philosophy/SKILL.md) - Insights about refactoring intuitive code, when to impose structure vs let feeling lead, and code as creative.
