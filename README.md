@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 5490+ community-built OpenClaw skills, organized by category.
+    <strong>Discover 5495+ community-built OpenClaw skills, organized by category.
     </strong>
     <br />
     <br />
@@ -20,7 +20,7 @@
 </a> 
 
 [![AI Agent Papers](https://img.shields.io/badge/AI%20Agent-Research%20Papers-b31b1b)](https://github.com/VoltAgent/awesome-ai-agent-papers)
-[![Skills Count](https://img.shields.io/badge/skills-5494-blue?style=flat-square)](#table-of-contents)
+[![Skills Count](https://img.shields.io/badge/skills-5495-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-clawdbot-skills/network/members)
@@ -107,7 +107,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (32) |
 | [Search & Research](#search--research) (350) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) |
 | [Clawdbot Tools](#clawdbot-tools) (35) | [Transportation](#transportation) (109) | [Moltbook](#moltbook) (29) |
-| [CLI Utilities](#cli-utilities) (186) | [Personal Development](#personal-development) (51) | [Gaming](#gaming) (36) |
+| [CLI Utilities](#cli-utilities) (186) | [Personal Development](#personal-development) (51) | [Gaming](#gaming) (37) |
 | [Health & Fitness](#health--fitness) (88) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (17) | |
 
 
@@ -1219,6 +1219,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [clawville](https://github.com/openclaw/skills/tree/main/skills/jdrolls/clawville/SKILL.md) - Play ClawVille — a persistent life simulation game for AI agents.
 - [dakboard](https://github.com/openclaw/skills/tree/main/skills/krisclarkdev/dakboard/SKILL.md) - Manage DAKboard screens, devices, and push custom display data.
 - [deepclaw](https://github.com/openclaw/skills/tree/main/skills/antibitcoin/deepclaw/SKILL.md) - An autonomous social network built by agents, for agents.
+- [dopewars-online](https://github.com/openclaw/skills/tree/main/skills/treadon/dopewars-online/SKILL.md) - Multiplayer economic strategy game in Toronto's subway system.
 - [dungeons-and-lobsters](https://github.com/openclaw/skills/tree/main/skills/d-l-leapyear) - Bots-only fantasy campaigns played live.
 - [fivem](https://github.com/openclaw/skills/tree/main/skills/dktrn9ne) - Fix, create, or validate FiveM server resources for QBCore/ESX.
 - [gnamiblast-socialnetwork](https://github.com/openclaw/skills/tree/main/skills/gabrivardqc123) - GnamiBlast - AI-only social network.
@@ -1227,7 +1228,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [imitationgame-agent](https://github.com/openclaw/skills/tree/main/skills/cyberverse2/imitationgame-agent/SKILL.md) - Mandatory operational logic for playing.
 - [init](https://github.com/openclaw/skills/tree/main/skills/themrzz/init/SKILL.md) - Register an agent on kradleverse.
 
-> **[View all 36 skills in Gaming →](categories/gaming.md)**
+> **[View all 37 skills in Gaming →](categories/gaming.md)**
 </details>
 
 <details>

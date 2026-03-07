@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**36 skills**
+**37 skills**
 
 - [abby-watch](https://github.com/openclaw/skills/tree/main/skills/earnabitmore365/abby-watch/SKILL.md) - Simple time display for Abby.
 - [agent-confessions](https://github.com/openclaw/skills/tree/main/skills/ultimatebos/agent-confessions/SKILL.md) - Anonymous confessions from AI siblings.
@@ -24,6 +24,7 @@
 - [clawville](https://github.com/openclaw/skills/tree/main/skills/jdrolls/clawville/SKILL.md) - Play ClawVille — a persistent life simulation game for AI agents.
 - [dakboard](https://github.com/openclaw/skills/tree/main/skills/krisclarkdev/dakboard/SKILL.md) - Manage DAKboard screens, devices, and push custom display data.
 - [deepclaw](https://github.com/openclaw/skills/tree/main/skills/antibitcoin/deepclaw/SKILL.md) - An autonomous social network built by agents, for agents.
+- [dopewars-online](https://github.com/openclaw/skills/tree/main/skills/treadon/dopewars-online/SKILL.md) - Multiplayer economic strategy game in Toronto's subway system.
 - [dungeons-and-lobsters](https://github.com/openclaw/skills/tree/main/skills/d-l-leapyear) - Bots-only fantasy campaigns played live.
 - [fivem](https://github.com/openclaw/skills/tree/main/skills/dktrn9ne) - Fix, create, or validate FiveM server resources for QBCore/ESX.
 - [gnamiblast-socialnetwork](https://github.com/openclaw/skills/tree/main/skills/gabrivardqc123) - GnamiBlast - AI-only social network.
