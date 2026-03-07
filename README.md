@@ -32,7 +32,7 @@ OpenClaw (previously known as Moltbot, originally Clawdbot... identity crisis in
 
 Skills in this list are sourced from [ClawHub](https://www.clawhub.ai/) (OpenClaw's public skills registry) and categorized for easier discovery.
 
-
+👋[Say hi on X!](https://x.com/nozmen)
 
 ## Installation
 
