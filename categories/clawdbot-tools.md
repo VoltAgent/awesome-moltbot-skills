@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**35 skills**
+**36 skills**
 
 - [adhd-assistant](https://github.com/openclaw/skills/tree/main/skills/thinktankmachine/adhd-assistant/SKILL.md) - ADHD-friendly life management assistant for OpenClaw.
 - [adhd-ssistant](https://github.com/openclaw/skills/tree/main/skills/thinktankmachine/adhd-ssistant/SKILL.md) - ADHD-friendly life management assistant for OpenClaw.
@@ -38,3 +38,4 @@
 - [meegle-mcp-skill](https://github.com/openclaw/skills/tree/main/skills/pkycy/meegle-mcp-skill/SKILL.md) - Interact with Meegle project management system via MCP protocol.
 - [pipedream-connect](https://github.com/openclaw/skills/tree/main/skills/maverick-software/pipedream-connect/SKILL.md) - Connect 2,000+ APIs with managed OAuth via Pipedream.
 - [zapier-mcp](https://github.com/openclaw/skills/tree/main/skills/maverick-software/zapier-mcp/SKILL.md) - Connect 8,000+ apps via Zapier MCP.
+- [c-joey](https://github.com/openclaw/skills/tree/main/skills/c-joey) - OpenClaw maintenance skills: provider sync and Telegram footer patching.
