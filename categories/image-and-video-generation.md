@@ -146,6 +146,7 @@
 - [rollhub-analyst](https://github.com/openclaw/skills/tree/main/skills/rollhub-dev/rollhub-analyst/SKILL.md) - Research and backtest gambling strategies on provably fair crypto casino.
 - [rug-checker](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/rug-checker/SKILL.md) - Solana token rug-pull risk analysis. 10-point on-chain check with visual report.
 - [saa-agent](https://github.com/openclaw/skills/tree/main/skills/mirabarukaso/saa-agent/SKILL.md) - Enables AI agents to generate images using the Character Select Stand Alone App (SAA) image generation backend.
+- [sats4ai](https://github.com/cnghockey/sats-for-ai/blob/master/SKILL.md) - 11 Bitcoin-powered AI tools via MCP — image, text, video, music, speech, transcription, vision, OCR, 3D, file conversion, SMS. Pay with Lightning, no signup or API keys.
 - [shop-culture](https://github.com/openclaw/skills/tree/main/skills/bythecult/shop-culture/SKILL.md) - Agentic Commerce skills for the For the Cult store.
 - [shopify-bulk-upload](https://github.com/openclaw/skills/tree/main/skills/zhaoteng-qd/shopify-bulk-upload/SKILL.md) - Bulk upload products to Shopify stores.
 - [skill-1](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/skill-1/SKILL.md) - Generate QR codes from text, URLs, WiFi credentials, vCards, or any data.
