@@ -1157,8 +1157,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [expanso-tls-inspect](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-tls-inspect/SKILL.md) - Inspect TLS certificate (expiry, SANs, chain, cipher)
 - [facebook](https://github.com/openclaw/skills/tree/main/skills/codedao12/facebook/SKILL.md) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://github.com/openclaw/skills/tree/main/skills/kris-hansen/feelgoodbot/SKILL.md) - Set up feelgoodbot file integrity monitoring for macOS.
+- [1claw](https://github.com/openclaw/skills/tree/main/skills/kmjones1979/1claw/SKILL.md) - HSM-backed vault for agent secrets; store, rotate, share securely.
 
-> **[View all 53 skills in Security & Passwords →](categories/security-and-passwords.md)**
+> **[View all 54 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
 
 <details>

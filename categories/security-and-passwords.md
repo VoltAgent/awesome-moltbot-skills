@@ -2,8 +2,9 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**53 skills**
+**54 skills**
 
+- [1claw](https://github.com/openclaw/skills/tree/main/skills/kmjones1979/1claw/SKILL.md) - HSM-backed vault for agent secrets; store, rotate, share securely.
 - [1password](https://github.com/openclaw/skills/tree/main/skills/steipete/1password/SKILL.md) - Set up and use 1Password CLI (op).
 - [age-verification](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/age-verification/SKILL.md) - Skills for age verification and age-appropriate content filtering.
 - [amai-id](https://www.clawhub.ai/Gonzih/amai-id) - Soul-Bound Keys and Soulchain for persistent.
