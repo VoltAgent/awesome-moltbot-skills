@@ -84,6 +84,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 **Recommended tools:**
 
+- [agent101](https://agent101.ventify.ai/skill.md) - Search 500+ tools, APIs, and services by task. Structured metadata. No auth required.
 - [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
 
