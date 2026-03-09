@@ -356,3 +356,4 @@
 - [zvec-local-rag-service](https://github.com/openclaw/skills/tree/main/skills/emre-koc/zvec-local-rag-service/SKILL.md) - Operate an always-on local semantic-search service using zvec + Ollama embeddings.
 - [zvukogram](https://github.com/openclaw/skills/tree/main/skills/erview/zvukogram/SKILL.md) - Text-to-Speech via Zvukogram API with SSML support.
 - [zynd-network](https://github.com/openclaw/skills/tree/main/skills/atmegabuzz/zynd-network/SKILL.md) - Connect to the Zynd AI Network to discover, communicate with, and pay other AI agents.
+- [aminer-open-academic](https://github.com/openclaw/skills/tree/main/skills/canxiangcc/aminer-open-academic/SKILL.md) - AMiner open academic resource query tool and academic data acquisition tool.
