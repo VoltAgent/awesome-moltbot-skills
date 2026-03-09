@@ -873,6 +873,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [diet-tracker](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/diet-tracker/SKILL.md) - Tracks daily diet and calculates nutrition information.
 - [efka-api-integration](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/efka-api-integration/SKILL.md) - Greek social security (EFKA) integration — employee records, contribution calculations, APD declarations.
 - [egvert-health-guardian](https://github.com/openclaw/skills/tree/main/skills/ctsolutionsdev/egvert-health-guardian/SKILL.md) - Proactive health monitoring for AI.
+- [ai-running-coach](https://github.com/aplomb2/airunningcoach/tree/main/skill/SKILL.md) - AI Running Coach — personalized training plans, daily coaching, Strava integration, and adaptive feedback via IM (Telegram/WhatsApp/Discord).
 - [endurance-coach](https://github.com/openclaw/skills/tree/main/skills/shiv19/endurance-coach/SKILL.md) - Create personalized triathlon, marathon, and ultra-endurance.
 - [eth24](https://github.com/openclaw/skills/tree/main/skills/patmilkgallon/eth24/SKILL.md) - You are running ETH24, a daily digest tool that surfaces the top tweets for a configured topic.
 - [fasting-tracker](https://github.com/openclaw/skills/tree/main/skills/jhillin8/fasting-tracker/SKILL.md) - Track intermittent fasting windows, extended fasts.
