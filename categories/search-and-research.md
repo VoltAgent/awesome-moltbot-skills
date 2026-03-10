@@ -357,3 +357,4 @@
 - [zvukogram](https://github.com/openclaw/skills/tree/main/skills/erview/zvukogram/SKILL.md) - Text-to-Speech via Zvukogram API with SSML support.
 - [zynd-network](https://github.com/openclaw/skills/tree/main/skills/atmegabuzz/zynd-network/SKILL.md) - Connect to the Zynd AI Network to discover, communicate with, and pay other AI agents.
 - [aminer-open-academic](https://github.com/openclaw/skills/tree/main/skills/canxiangcc/aminer-open-academic/SKILL.md) - AMiner open academic resource query tool and academic data acquisition tool.
+- [xquik-x-twitter-scraper](https://github.com/openclaw/skills/tree/main/skills/kriptoburak/xquik-x-twitter-scraper/SKILL.md) - X API scraper with 40+ tools for AI agents.
