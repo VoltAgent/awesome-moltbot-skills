@@ -36,16 +36,16 @@ OpenClaw is a locally-running AI assistant that operates directly on your machin
 
 Skills in this list are sourced from ClawHub (OpenClaw's public skills registry) and categorized for easier discovery.
 
-## Installation
+### Installation
 
-### ClawHub CLI
+#### ClawHub CLI
 
 
 ```bash
 clawhub install <skill-slug>
 ```
 
-### Manual Installation
+#### Manual Installation
 
 Copy the skill folder to one of these locations:
 
@@ -56,12 +56,12 @@ Copy the skill folder to one of these locations:
 
 Priority: Workspace > Local > Bundled
 
-### Alternative
+#### Alternative
 
 You can also paste the skill's GitHub repository link directly into your assistant's chat and ask it to use it. The assistant will handle the setup automatically in the background.
 
 
-## Why This List Exists?
+### Why This List Exists?
 
 OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as of February 28, 2026. This awesome list has **5,494 skills**. Here's what we filtered out:
 
@@ -75,14 +75,14 @@ OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as 
 | **Total not taken from OpenClaw's official skill registry** | **6,940** |
 
 
-### Want to add a skill?
+#### Want to add a skill?
 
 This list only includes skills that are **already published** in the `github.com/openclaw/skills` repository. We do not accept links to personal repos, gists, or any other external source. If your skill isn't in the OpenClaw skills repo yet, publish it there first. 
 
 Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the GitHub link (e.g. `https://github.com/openclaw/skills/tree/main/skills/steipete/slack`) in your PR description. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 
-## OpenClaw Ecosystem Tools
+## OpenClaw Ecosystem Tools🦞🦞
 
  **Your product here** — Sponsor spots are for tools, platforms, and services built for the OpenClaw ecosystem (hosting, deployment, model providers, dev tools, etc.)
 
