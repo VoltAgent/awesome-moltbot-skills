@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**61 skills**
+**65 skills**
 
 - [accli](https://github.com/openclaw/skills/tree/main/skills/joargp/accli/SKILL.md) - This skill should be used when interacting with Apple Calendar on macOS.
 - [advanced-calendar](https://github.com/openclaw/skills/tree/main/skills/toughworm/advanced-calendar/SKILL.md) - Advanced calendar skill with natural language.
@@ -14,6 +14,7 @@
 - [brainz-calendar](https://github.com/openclaw/skills/tree/main/skills/xejrax/brainz-calendar/SKILL.md) - Manage Google Calendar events using `gcalcli`.
 - [broken-link-checker](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/broken-link-checker/SKILL.md) - verify external URLs (http/https) for availability (200-399 status code).
 - [calcurse](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/calcurse/SKILL.md) - A text-based calendar and scheduling application.
+- [calendar-scheduling](https://github.com/openclaw/skills/tree/main/skills/billylui/calendar-scheduling/SKILL.md) - Schedule and book across Google, Outlook, and CalDAV.
 - [caldav-calendar](https://github.com/openclaw/skills/tree/main/skills/asleep123/caldav-calendar/SKILL.md) - Sync and query CalDAV calendars.
 - [clippy](https://github.com/openclaw/skills/tree/main/skills/foeken/clippy/SKILL.md) - Microsoft 365 / Outlook CLI for calendar and email.
 - [creative-thought-partner](https://github.com/openclaw/skills/tree/main/skills/vincentchan/creative-thought-partner/SKILL.md) - A conversational creative thought.
@@ -59,6 +60,9 @@
 - [russian-uncensored](https://github.com/openclaw/skills/tree/main/skills/voronindenis5/russian-uncensored/SKILL.md) - Pryamoy Russkiy (Straight Russian) — AI assistant that tells it like it.
 - [shaping](https://github.com/openclaw/skills/tree/main/skills/borahm/shaping/SKILL.md) - Shape Up methodology for product and feature development.
 - [tcc-quality-gates](https://github.com/openclaw/skills/tree/main/skills/thecybercore/tcc-quality-gates/SKILL.md) - This skill defines and applies **6 universal quality gateways** for typical application projects that include:.
+- [temporal-cortex](https://github.com/openclaw/skills/tree/main/skills/billylui/temporal-cortex/SKILL.md) - Schedule and book across Google, Outlook, and CalDAV.
+- [temporal-cortex-datetime](https://github.com/openclaw/skills/tree/main/skills/billylui/temporal-cortex-datetime/SKILL.md) - Zero-setup datetime resolution, timezone conversion, and DST-aware math.
+- [temporal-cortex-scheduling](https://github.com/openclaw/skills/tree/main/skills/billylui/temporal-cortex-scheduling/SKILL.md) - Multi-calendar availability merging and atomic booking with 2PC.
 - [transmissions](https://github.com/openclaw/skills/tree/main/skills/compass-soul/transmissions/SKILL.md) - Writings on consciousness, existence, and transcendence for AI agents.
 - [turkey-news](https://github.com/openclaw/skills/tree/main/skills/yalcindemir/turkey-news/SKILL.md) - Türkiye'den önemli haberleri RSS ile çekip özetleyen skill.
 - [ub2-smart-file-organizer](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/ub2-smart-file-organizer/SKILL.md) - A skill that enables Claw to scan a directory, categorize files by type and content, and reorganize them.

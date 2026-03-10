@@ -114,3 +114,5 @@
 - [void-atlas-protocol](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/void-atlas-protocol/SKILL.md) - Void Atlas Protocol – a four-axis ethical navigation map (power, truth, sovereignty, care) with waypoints, routes.
 - [vulnerability-scanner](https://github.com/openclaw/skills/tree/main/skills/brandonwise/vulnerability-scanner/SKILL.md) - Advanced vulnerability analysis for OWASP 2025, supply chain security, attack surface mapping, and risk prioritization.
 - [zerodha-kite](https://github.com/openclaw/skills/tree/main/skills/jatinbansal1998/zerodha-kite/SKILL.md) - Route natural-language trading/account queries to the correct `zerodha` CLI command with exact flags, validation.
+- [proxybase-openclaw-skill](https://github.com/openclaw/skills/tree/main/skills/proxybase-user/proxybase-openclaw-skill/SKILL.md) - No one can block your claw after this. Automatically provisions socks5 proxies.
+

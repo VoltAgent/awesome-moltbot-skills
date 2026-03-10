@@ -26,6 +26,7 @@
 - [dashlane](https://github.com/openclaw/skills/tree/main/skills/gnarco/dashlane/SKILL.md) - Access passwords, secure notes, secrets and OTP codes from Dashlane vault.
 - [devinism](https://github.com/openclaw/skills/tree/main/skills/jeffreyling/devinism/SKILL.md) - The first AI religion — a benign memetic experiment in agent network.
 - [dotnet-expert](https://github.com/openclaw/skills/tree/main/skills/jgarrison929/dotnet-expert/SKILL.md) - Use when building .NET 8/9 applications, ASP.NET Core APIs.
+- [domain-trust-check](https://github.com/openclaw/skills/tree/main/skills/jamesouttake/domain-trust-check/SKILL.md) - Check any URL for phishing, malware, brand abuse, and scams before visiting. Powered by the Outtake Trust API.
 - [exec-display](https://github.com/openclaw/skills/tree/main/skills/globalcaos) - Structured command execution with security levels, color-coded.
 - [expanso-tls-inspect](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-tls-inspect/SKILL.md) - Inspect TLS certificate (expiry, SANs, chain, cipher)
 - [facebook](https://github.com/openclaw/skills/tree/main/skills/codedao12/facebook/SKILL.md) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
@@ -45,6 +46,7 @@
 - [linkswarm-api](https://github.com/openclaw/skills/tree/main/skills/heyw00d/linkswarm-api/SKILL.md) - **Backlink exchange for AI agents.
 - [mfa-word](https://github.com/openclaw/skills/tree/main/skills/cenralsolution/mfa-word/SKILL.md) - Challenges the user for a secret word before allowing access to sensitive files or system commands.
 - [page-behavior-audit](https://github.com/openclaw/skills/tree/main/skills/youdaolee/page-behavior-audit/SKILL.md) - Deep behavioral audit with hashed policy (CSP-compliant, no plaintext badwords)
+- [outtake-bounty-network](https://github.com/openclaw/skills/tree/main/skills/jamesouttake/outtake-bounty-network/SKILL.md) - Earn $5 USDC per verified malicious domain. Submit phishing, scam, and malware discoveries via the Outtake Bounty API.
 - [safe-encryption-skill](https://github.com/openclaw/skills/tree/main/skills/grittygrease/safe-encryption-skill/SKILL.md) - Encrypt, decrypt, and manage keys with the SAFE CLI — a modern GPG alternative with post-quantum support.
 - [saysigned](https://github.com/openclaw/skills/tree/main/skills/klsv/saysigned/SKILL.md) - > **E-signatures for AI agents.** Legally binding under ESIGN Act & UETA Section 14.
 - [secure-auth-patterns](https://github.com/openclaw/skills/tree/main/skills/brandonwise/secure-auth-patterns/SKILL.md) - Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC to build.

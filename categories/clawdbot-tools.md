@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**35 skills**
+**37 skills**
 
 - [adhd-assistant](https://github.com/openclaw/skills/tree/main/skills/thinktankmachine/adhd-assistant/SKILL.md) - ADHD-friendly life management assistant for OpenClaw.
 - [adhd-ssistant](https://github.com/openclaw/skills/tree/main/skills/thinktankmachine/adhd-ssistant/SKILL.md) - ADHD-friendly life management assistant for OpenClaw.
@@ -37,4 +37,6 @@
 - [mcp-hass](https://github.com/openclaw/skills/tree/main/skills/al-one/mcp-hass/SKILL.md) - The skill for control Home Assistant smart home devices and query states using MCP protocol.
 - [meegle-mcp-skill](https://github.com/openclaw/skills/tree/main/skills/pkycy/meegle-mcp-skill/SKILL.md) - Interact with Meegle project management system via MCP protocol.
 - [pipedream-connect](https://github.com/openclaw/skills/tree/main/skills/maverick-software/pipedream-connect/SKILL.md) - Connect 2,000+ APIs with managed OAuth via Pipedream.
+- [provider-sync](https://github.com/openclaw/skills/tree/main/skills/c-joey/provider-sync/SKILL.md) - Sync provider models into OpenClaw config.
+- [telegram-footer-patch](https://github.com/openclaw/skills/tree/main/skills/c-joey/telegram-footer-patch/SKILL.md) - Patch Telegram replies with OpenClaw footer.
 - [zapier-mcp](https://github.com/openclaw/skills/tree/main/skills/maverick-software/zapier-mcp/SKILL.md) - Connect 8,000+ apps via Zapier MCP.

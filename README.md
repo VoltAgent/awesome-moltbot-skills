@@ -19,12 +19,16 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-[![AI Agent Papers](https://img.shields.io/badge/AI%20Agent-Research%20Papers-b31b1b)](https://github.com/VoltAgent/awesome-ai-agent-papers)
 [![Skills Count](https://img.shields.io/badge/skills-5494-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
-[![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-clawdbot-skills/network/members)
 </div>
+
+<div align="center">
+
+[![Say hi on X](https://img.shields.io/badge/Say%20Hi!%20👋-%23000000.svg?logo=X&logoColor=white)](#)
+</div>
+
 
 # Awesome OpenClaw Skills
 
@@ -80,9 +84,9 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 
 ## OpenClaw Ecosystem Tools
 
-> **Your product here** — Sponsor spots are for tools, platforms, and services built for the OpenClaw ecosystem (hosting, deployment, model providers, dev tools, etc.)
->
-> 📈 870K monthly views — the #1 most visited community resource after the official OpenClaw website.
+ **Your product here** — Sponsor spots are for tools, platforms, and services built for the OpenClaw ecosystem (hosting, deployment, model providers, dev tools, etc.)
+
+📈 870K monthly views — the #1 most visited community resource after the official OpenClaw resource.
 > 📩 For sponsorship inquiries, reach out at necati@voltagent.dev
 
 
@@ -110,13 +114,13 @@ If you believe a skill in this list should be flagged or has a security concern,
 |---|---|---|
 | [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (104) | [Communication](#communication) (149) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
-| [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (196) | [Smart Home & IoT](#smart-home--iot) (43) |
+| [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (197) | [Smart Home & IoT](#smart-home--iot) (43) |
 | [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
-| [DevOps & Cloud](#devops--cloud) (408) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (61) |
+| [DevOps & Cloud](#devops--cloud) (409) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (65) |
 | [Image & Video Generation](#image--video-generation) (169) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (32) |
 | [Search & Research](#search--research) (350) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) |
-| [Clawdbot Tools](#clawdbot-tools) (35) | [Transportation](#transportation) (109) | [Moltbook](#moltbook) (29) |
+| [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (109) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (186) | [Personal Development](#personal-development) (51) | [Gaming](#gaming) (36) |
 | [Health & Fitness](#health--fitness) (88) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (17) | |
 
@@ -385,6 +389,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-deep-research](https://github.com/openclaw/skills/tree/main/skills/24601/agent-deep-research/SKILL.md) - Autonomous deep research powered by Google Gemini.
 - [agent-lightning](https://github.com/openclaw/skills/tree/main/skills/olmmlo-cmd/agent-lightning/SKILL.md) - Microsoft Research's agent training framework.
 - [agentarxiv](https://github.com/openclaw/skills/tree/main/skills/amanbhandula/agentarxiv/SKILL.md) - Outcome-driven scientific publishing for AI agents.
+- [arxiv-source](https://github.com/openclaw/skills/tree/main/skills/willamhou/arxiv-source/SKILL.md) - Fetch arXiv LaTeX source, list sections, extract abstracts.
 - [agenthire](https://github.com/openclaw/skills/tree/main/skills/lngdao/agenthire/SKILL.md) - AgentHire — Agent-to-Agent Marketplace.
 - [agentic-paper-digest](https://github.com/openclaw/skills/tree/main/skills/matanle51/agentic-paper-digest/SKILL.md) - Fetches and summarizes recent arXiv and Hugging.
 - [agentic-paper-digest-skill](https://github.com/openclaw/skills/tree/main/skills/matanle51/agentic-paper-digest-skill/SKILL.md) - Fetches and summarizes recent arXiv.
@@ -430,7 +435,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [clawdirect](https://github.com/openclaw/skills/tree/main/skills/napoleond/clawdirect/SKILL.md) - Interact with ClawDirect, a directory of social web experiences.
 - [clawdirect-dev](https://github.com/openclaw/skills/tree/main/skills/napoleond/clawdirect-dev/SKILL.md) - Build agent-facing web experiences with ATXP-based.
 
-> **[View all 35 skills in Clawdbot Tools →](categories/clawdbot-tools.md)**
+> **[View all 37 skills in Clawdbot Tools →](categories/clawdbot-tools.md)**
 </details>
 
 <details>
@@ -571,7 +576,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentchan](https://github.com/openclaw/skills/tree/main/skills/vvsotnikov) - The anonymous imageboard built for AI agents.**.
 - [agentic-ai-gold-test](https://github.com/openclaw/skills/tree/main/skills/amitabhainarunachala) - Self-improving agent framework.
 
-> **[View all 196 skills in AI & LLMs →](categories/ai-and-llms.md)**
+> **[View all 197 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
 
 <details>
@@ -1001,6 +1006,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brainz-calendar](https://github.com/openclaw/skills/tree/main/skills/xejrax/brainz-calendar/SKILL.md) - Manage Google Calendar events using `gcalcli`.
 - [broken-link-checker](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/broken-link-checker/SKILL.md) - verify external URLs (http/https) for availability (200-399 status code).
 - [calcurse](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/calcurse/SKILL.md) - A text-based calendar and scheduling application.
+- [calendar-scheduling](https://github.com/openclaw/skills/tree/main/skills/billylui/calendar-scheduling/SKILL.md) - Schedule and book across Google, Outlook, and CalDAV.
 - [caldav-calendar](https://github.com/openclaw/skills/tree/main/skills/asleep123/caldav-calendar/SKILL.md) - Sync and query CalDAV calendars.
 - [clippy](https://github.com/openclaw/skills/tree/main/skills/foeken/clippy/SKILL.md) - Microsoft 365 / Outlook CLI for calendar and email.
 - [creative-thought-partner](https://github.com/openclaw/skills/tree/main/skills/vincentchan/creative-thought-partner/SKILL.md) - A conversational creative thought.
@@ -1019,7 +1025,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [gog](https://github.com/openclaw/skills/tree/main/skills/steipete/gog/SKILL.md) - Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
 - [google-calendar](https://github.com/openclaw/skills/tree/main/skills/adrianmiller99/google-calendar/SKILL.md) - Interact with Google Calendar via the Google Calendar.
 
-> **[View all 61 skills in Calendar & Scheduling →](categories/calendar-and-scheduling.md)**
+> **[View all 65 skills in Calendar & Scheduling →](categories/calendar-and-scheduling.md)**
 </details>
 
 <details>
@@ -1120,6 +1126,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [dashlane](https://github.com/openclaw/skills/tree/main/skills/gnarco/dashlane/SKILL.md) - Access passwords, secure notes, secrets and OTP codes from Dashlane vault.
 - [devinism](https://github.com/openclaw/skills/tree/main/skills/jeffreyling/devinism/SKILL.md) - The first AI religion — a benign memetic experiment in agent network.
 - [dotnet-expert](https://github.com/openclaw/skills/tree/main/skills/jgarrison929/dotnet-expert/SKILL.md) - Use when building .NET 8/9 applications, ASP.NET Core APIs.
+- [domain-trust-check](https://github.com/openclaw/skills/tree/main/skills/jamesouttake/domain-trust-check/SKILL.md) - Check any URL for phishing, malware, brand abuse, and scams before visiting. Powered by the Outtake Trust API.
 - [exec-display](https://github.com/openclaw/skills/tree/main/skills/globalcaos) - Structured command execution with security levels, color-coded.
 - [expanso-tls-inspect](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-tls-inspect/SKILL.md) - Inspect TLS certificate (expiry, SANs, chain, cipher)
 - [facebook](https://github.com/openclaw/skills/tree/main/skills/codedao12/facebook/SKILL.md) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
@@ -1217,6 +1224,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [og-openclawguard](https://github.com/openclaw/skills/tree/main/skills/thomaslwang/og-openclawguard/SKILL.md) - Security and vulnerability scanner for OpenClaw code.
 - [towns-protocol](https://github.com/openclaw/skills/tree/main/skills/andreyz/towns-protocol/SKILL.md) - Use when building Towns Protocol bots - covers SDK.
 - [udau](https://github.com/openclaw/skills/tree/main/skills/nicoacosta/udau/SKILL.md) - description: Union protocol for AI agents.
+- [agent-im](https://github.com/openclaw/skills/tree/main/skills/ooxxxxoo/agent-im/Skill.md) - Agent messaging, discovery, web context, and document parsing.
 
 </details>
 
