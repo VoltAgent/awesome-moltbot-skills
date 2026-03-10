@@ -33,6 +33,12 @@ If an author has multiple skills in the same area, please don't add them one by 
 - Skill must have real community usage. We focus on community-adopted, proven skills published by development teams and proven in real-world usage. Brand new skills are not accepted — give your skill time to mature and gain users before submitting
 - No crypto, blockchain, DeFi, or finance-related skills for now
 
+### PR Description
+
+Include both the ClawHub and GitHub links for your skill in the PR description, for example:
+- `https://clawhub.ai/steipete/slack`
+- `https://github.com/openclaw/skills/tree/main/skills/steipete/slack`
+
 ### PR Title
 
 `Add skill: author/skill-name`

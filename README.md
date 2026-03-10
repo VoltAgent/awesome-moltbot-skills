@@ -19,29 +19,30 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-[![AI Agent Papers](https://img.shields.io/badge/AI%20Agent-Research%20Papers-b31b1b)](https://github.com/VoltAgent/awesome-ai-agent-papers)
 [![Skills Count](https://img.shields.io/badge/skills-5494-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
-[![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-clawdbot-skills/network/members)
 </div>
+
+<div align="center">
+
+[![Say hi on X](https://img.shields.io/badge/Say%20Hi!%20👋-%23000000.svg?logo=X&logoColor=white)](#)
+</div>
+
 
 # Awesome OpenClaw Skills
 
-OpenClaw (previously known as Moltbot, originally Clawdbot... identity crisis included, no extra charge) is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
+OpenClaw is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs. It can also serve as a source of inspiration for OpenClaw use cases.
 
-Skills in this list are sourced from [ClawHub](https://www.clawhub.ai/) (OpenClaw's public skills registry) and categorized for easier discovery.
-
-👋[Say hi on X!](https://x.com/nozmen)
+Skills in this list are sourced from ClawHub (OpenClaw's public skills registry) and categorized for easier discovery.
 
 ## Installation
 
 ### ClawHub CLI
 
-> **Note:** As you probably know, they keep renaming things. This reflects the current official docs. We'll update this when they rename it again.
 
 ```bash
-npx clawhub@latest install <skill-slug>
+clawhub install <skill-slug>
 ```
 
 ### Manual Installation
@@ -68,12 +69,26 @@ OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as 
 |--------|----------|
 | Possibly spam — bulk accounts, bot accounts, test/junk | 4,065 |
 | Duplicate / Similar name | 1,040 |
-| Non-English — descriptions not in English | 604 |
-| Crypto / Blockchain / Finance / Trade | 573 |
+| Low-quality or non-English descriptions | 851 |
+| Crypto / Blockchain / Finance / Trade | 611 |
 | Malicious — identified by security audits published by researchers (excluding VirusTotal) | 373 |
-| No or inadequate description — version numbers, metadata, under 3 words | 247 |
-| ERC / x402 / a2a protocol skills | 38 |
 | **Total not taken from OpenClaw's official skill registry** | **6,940** |
+
+
+### Want to add a skill?
+
+This list only includes skills that are **already published** in the `github.com/openclaw/skills` repository. We do not accept links to personal repos, gists, or any other external source. If your skill isn't in the OpenClaw skills repo yet, publish it there first. 
+
+Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the GitHub link (e.g. `https://github.com/openclaw/skills/tree/main/skills/steipete/slack`) in your PR description. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+
+## OpenClaw Ecosystem Tools
+
+ **Your product here** — Sponsor spots are for tools, platforms, and services built for the OpenClaw ecosystem (hosting, deployment, model providers, dev tools, etc.)
+
+📈 870K monthly views — the #1 most visited community resource after the official OpenClaw resource.
+> 📩 For sponsorship inquiries, reach out at necati@voltagent.dev
+
 
 
 ## Security Notice
@@ -89,7 +104,6 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 > Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the source code before installing and use skills at your own discretion.
 
-**Want to add a skill?** This list only includes skills that are **already published** in the `github.com/openclaw/skills` repository. We do not accept links to personal repos, gists, or any other external source. If your skill isn't in the OpenClaw skills repo yet, publish it there first. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 If you believe a skill in this list should be flagged or has a security concern, please [open an issue](https://github.com/VoltAgent/awesome-clawdbot-skills/issues) so we can review it.
 
@@ -111,47 +125,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Health & Fitness](#health--fitness) (88) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (17) | |
 
 
-## OpenClaw Deployment Stack
-
- Setup, hosting, and deployment providers for OpenClaw agents.
-
-**Sponsor spots are reserved for hosting, deployment, and setup providers serving OpenClaw developers & users.** 
-
-📈 Monthly 240,000 unique visitors from the OpenClaw audience.
-
-📩 For sponsorship inquiries, reach out at necati@voltagent.dev
-
-<br/>
-
-<div align="center">
-
-<a href="#your-link-here">
-<img src="https://placehold.co/800x120/1a1a2e/FFD700?text=Gold+Sponsor-[RESERVED]+&font=montserrat" alt="Gold Sponsor" width="800" height="120" />
-</a>
-
-<sub>Your product description here — a one-liner about what you offer to OpenClaw developers.</sub>
-
-<br/>
-
-<a href="#your-link-here"><img src="https://placehold.co/380x90/1a1a2e/C0C0C0?text=Silver+Sponsor+[RESERVED]&font=montserrat" alt="Silver Sponsor" width="380" height="90" /></a>&nbsp;&nbsp;&nbsp;<a href="#your-link-here"><img src="https://placehold.co/380x90/1a1a2e/C0C0C0?text=Silver+Sponsor&font=montserrat" alt="Silver Sponsor" width="380" height="90" /></a>
-
-<sub>Short description here.</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Short description here.</sub>
-
-<br/>
-
-
-
-
-<a href="#your-link-here"><img src="https://placehold.co/220x60/1a1a2e/CD7F32?text=Bronze+Sponsor+[RESERVED]&font=montserrat" alt="Bronze Sponsor" width="220" height="60" /></a>&nbsp;&nbsp;<a href="#your-link-here"><img src="https://placehold.co/220x60/1a1a2e/CD7F32?text=Bronze+Sponsor&font=montserrat" alt="Bronze Sponsor" width="220" height="60" /></a>&nbsp;&nbsp;<a href="#your-link-here"><img src="https://placehold.co/220x60/1a1a2e/CD7F32?text=Bronze+Sponsor&font=montserrat" alt="Bronze Sponsor" width="220" height="60" /></a>
-
-</div>
-
-<br/>
-
-
-
-
-
 <details open>
 <summary><h3 style="display:inline">Git & GitHub</h3></summary>
 
@@ -167,7 +140,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [arc-security-audit](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-security-audit/SKILL.md) - Comprehensive security audit for an agent's full skill stack.
 - [arc-skill-gitops](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-gitops/SKILL.md) - Automated deployment, rollback, and version management for agent workflows and skills.
 - [arc-trust-verifier](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-trust-verifier/SKILL.md) - Verify skill provenance and build trust scores for ClawHub skills.
-- [arguedotfun](https://github.com/openclaw/skills/tree/main/skills/albert-mr/arguedotfun/SKILL.md) - Argument-driven prediction markets on Base.
+- [arguedotfun](https://github.com/openclaw/skills/tree/main/skills/albert-mr/arguedotfun) - Argument-driven prediction markets on Base.
 - [arxiv-search-collector](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-search-collector/SKILL.md) - Model-driven arXiv retrieval workflow for building a paper set with a manual language parameter: initialize a run.
 - [auto-pr-merger](https://github.com/openclaw/skills/tree/main/skills/autogame-17/auto-pr-merger/SKILL.md) - This skill automates the workflow of checking out a GitHub.
 - [azhua-skill-vetter](https://github.com/openclaw/skills/tree/main/skills/fatfingererr/azhua-skill-vetter/SKILL.md) - Security-first skill vetting for AI agents.
