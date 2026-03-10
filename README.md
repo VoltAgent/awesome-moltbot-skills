@@ -102,11 +102,11 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (197) | [Smart Home & IoT](#smart-home--iot) (43) |
 | [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
-| [DevOps & Cloud](#devops--cloud) (408) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (65) |
+| [DevOps & Cloud](#devops--cloud) (409) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (65) |
 | [Image & Video Generation](#image--video-generation) (169) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (32) |
 | [Search & Research](#search--research) (350) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) |
-| [Clawdbot Tools](#clawdbot-tools) (35) | [Transportation](#transportation) (109) | [Moltbook](#moltbook) (29) |
+| [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (109) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (186) | [Personal Development](#personal-development) (51) | [Gaming](#gaming) (36) |
 | [Health & Fitness](#health--fitness) (88) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (17) | |
 
@@ -416,6 +416,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-deep-research](https://github.com/openclaw/skills/tree/main/skills/24601/agent-deep-research/SKILL.md) - Autonomous deep research powered by Google Gemini.
 - [agent-lightning](https://github.com/openclaw/skills/tree/main/skills/olmmlo-cmd/agent-lightning/SKILL.md) - Microsoft Research's agent training framework.
 - [agentarxiv](https://github.com/openclaw/skills/tree/main/skills/amanbhandula/agentarxiv/SKILL.md) - Outcome-driven scientific publishing for AI agents.
+- [arxiv-source](https://github.com/openclaw/skills/tree/main/skills/willamhou/arxiv-source/SKILL.md) - Fetch arXiv LaTeX source, list sections, extract abstracts.
 - [agenthire](https://github.com/openclaw/skills/tree/main/skills/lngdao/agenthire/SKILL.md) - AgentHire — Agent-to-Agent Marketplace.
 - [agentic-paper-digest](https://github.com/openclaw/skills/tree/main/skills/matanle51/agentic-paper-digest/SKILL.md) - Fetches and summarizes recent arXiv and Hugging.
 - [agentic-paper-digest-skill](https://github.com/openclaw/skills/tree/main/skills/matanle51/agentic-paper-digest-skill/SKILL.md) - Fetches and summarizes recent arXiv.
@@ -461,7 +462,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [clawdirect](https://github.com/openclaw/skills/tree/main/skills/napoleond/clawdirect/SKILL.md) - Interact with ClawDirect, a directory of social web experiences.
 - [clawdirect-dev](https://github.com/openclaw/skills/tree/main/skills/napoleond/clawdirect-dev/SKILL.md) - Build agent-facing web experiences with ATXP-based.
 
-> **[View all 35 skills in Clawdbot Tools →](categories/clawdbot-tools.md)**
+> **[View all 37 skills in Clawdbot Tools →](categories/clawdbot-tools.md)**
 </details>
 
 <details>
