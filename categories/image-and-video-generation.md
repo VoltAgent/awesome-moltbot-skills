@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**169 skills**
+**170 skills**
 
 - [aada](https://github.com/openclaw/skills/tree/main/skills/rylena/aada/SKILL.md) - Create and send fun, personality-rich promotional messages from one agent to the Moltbook audience.
 - [ace-music](https://github.com/openclaw/skills/tree/main/skills/fspecii/ace-music/SKILL.md) - Generate AI music using ACE-Step 1.5 via ACE Music's free API.
@@ -175,3 +175,4 @@
 - [zenmux-image-generation](https://github.com/openclaw/skills/tree/main/skills/dadaniya99/zenmux-image-generation/SKILL.md) - Generate images via ZenMux API (Pro/Elite)
 - [zerox](https://github.com/openclaw/skills/tree/main/skills/otacu/zerox/SKILL.md) - Convert documents (PDF, DOCX, PPTX, images, etc.) to Markdown using the zerox library.
 - [zhipu-cogview-image](https://github.com/openclaw/skills/tree/main/skills/honestqiao/zhipu-cogview-image/SKILL.md) - Generate images using Zhipu AI's CogView model.
+- [creaa-ai](https://github.com/openclaw/skills/tree/main/skills/yys2024/creaa-ai/SKILL.md) - Generate and edit images + generate videos via Creaa API (Nano Banana 2, Sora 2, Seedance 2.0, Veo 3.1).
