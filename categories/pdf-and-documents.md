@@ -115,3 +115,4 @@
 - [x-to-kindle](https://github.com/openclaw/skills/tree/main/skills/brianlu365ai/x-to-kindle/SKILL.md) - Send X/Twitter posts to Kindle for distraction-free reading.
 - [xapi-labs](https://github.com/openclaw/skills/tree/main/skills/glacier-luo/xapi-labs/SKILL.md) - Aggregated API platform for AI agents.
 - [xapi123123](https://github.com/openclaw/skills/tree/main/skills/glacier-luo/xapi123123/SKILL.md) - Aggregated API platform for AI agents.
+- [bluente-translate](https://github.com/openclaw/skills/blob/main/skills/varsmallrookie/bluente-translate/SKILL.md) - Translate your documents with formatting intact in 2 minutes.
