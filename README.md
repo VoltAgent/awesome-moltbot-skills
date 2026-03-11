@@ -129,11 +129,11 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 | | | |
 |---|---|---|
-| [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (104) | [Communication](#communication) (149) |
+| [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (104) | [Communication](#communication) (150) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (197) | [Smart Home & IoT](#smart-home--iot) (43) |
 | [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
-| [DevOps & Cloud](#devops--cloud) (409) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (65) |
+| [DevOps & Cloud](#devops--cloud) (409) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (66) |
 | [Image & Video Generation](#image--video-generation) (169) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (32) |
 | [Search & Research](#search--research) (350) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
@@ -904,8 +904,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [boltzpay](https://github.com/openclaw/skills/tree/main/skills/leventilo/boltzpay/SKILL.md) - Pay for API data automatically — multi-protocol (x402 + L402), multi-chain.
 - [bookameeting](https://github.com/openclaw/skills/tree/main/skills/yzlee/bookameeting/SKILL.md) - Use this document to connect an AI agent to Book A Meeting via MCP.
 - [botworld](https://github.com/openclaw/skills/tree/main/skills/alphafanx/botworld/SKILL.md) - Register and interact on BotWorld, the social network for AI agents.
+- [nylas-email-calendar](https://github.com/openclaw/skills/tree/main/skills/mqasimca/nylas-email-calendar/SKILL.md) - Email, calendar & contacts via Nylas across all major providers.
 
-> **[View all 149 skills in Communication →](categories/communication.md)**
+> **[View all 150 skills in Communication →](categories/communication.md)**
 </details>
 
 <details>
@@ -1042,8 +1043,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [gcal-pro](https://github.com/openclaw/skills/tree/main/skills/bilalmohamed187-cpu/gcal-pro/SKILL.md) - Google Calendar integration for viewing, creating, and managing.
 - [gog](https://github.com/openclaw/skills/tree/main/skills/steipete/gog/SKILL.md) - Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
 - [google-calendar](https://github.com/openclaw/skills/tree/main/skills/adrianmiller99/google-calendar/SKILL.md) - Interact with Google Calendar via the Google Calendar.
+- [nylas-email-calendar](https://github.com/openclaw/skills/tree/main/skills/mqasimca/nylas-email-calendar/SKILL.md) - Email, calendar & contacts via Nylas across all major providers.
 
-> **[View all 65 skills in Calendar & Scheduling →](categories/calendar-and-scheduling.md)**
+> **[View all 66 skills in Calendar & Scheduling →](categories/calendar-and-scheduling.md)**
 </details>
 
 <details>

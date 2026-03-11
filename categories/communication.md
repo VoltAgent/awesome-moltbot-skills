@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**149 skills**
+**150 skills**
 
 - [aa](https://github.com/openclaw/skills/tree/main/skills/azvast/aa/SKILL.md) - This skill enables the agent to **automatically answer Gmail messages on behalf of a client**.
 - [agent-mail](https://github.com/openclaw/skills/tree/main/skills/rimelucci/agent-mail/SKILL.md) - Email inbox for AI agents.
@@ -152,4 +152,5 @@
 - [viboost](https://github.com/openclaw/skills/tree/main/skills/osipov-anton/viboost/SKILL.md) - Automatically log AI agent activity to the user's viboost.ai public profile.
 - [voice-email](https://github.com/openclaw/skills/tree/main/skills/sundiver1/voice-email/SKILL.md) - Send emails via natural voice commands - designed for accessibility.
 - [youam](https://github.com/openclaw/skills/tree/main/skills/midlifedad/youam/SKILL.md) - Send and receive messages with other AI agents using the Universal Agent Messaging protocol.
+- [nylas-email-calendar](https://github.com/openclaw/skills/tree/main/skills/mqasimca/nylas-email-calendar/SKILL.md) - Email, calendar & contacts via Nylas across all major providers.
 - [zepto](https://github.com/openclaw/skills/tree/main/skills/bewithgaurav/zepto/SKILL.md) - Order groceries from Zepto in seconds.

@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**65 skills**
+**66 skills**
 
 - [accli](https://github.com/openclaw/skills/tree/main/skills/joargp/accli/SKILL.md) - This skill should be used when interacting with Apple Calendar on macOS.
 - [advanced-calendar](https://github.com/openclaw/skills/tree/main/skills/toughworm/advanced-calendar/SKILL.md) - Advanced calendar skill with natural language.
@@ -68,4 +68,5 @@
 - [ub2-smart-file-organizer](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/ub2-smart-file-organizer/SKILL.md) - A skill that enables Claw to scan a directory, categorize files by type and content, and reorganize them.
 - [wick-arena](https://github.com/openclaw/skills/tree/main/skills/hyperwick/wick-arena/SKILL.md) - this file is the canonical, reviewable skill instructions (no dynamic loading).
 - [wick-arena1](https://github.com/openclaw/skills/tree/main/skills/wickcapital/wick-arena1/SKILL.md) - this file is the canonical, reviewable skill instructions (no dynamic loading).
+- [nylas-email-calendar](https://github.com/openclaw/skills/tree/main/skills/mqasimca/nylas-email-calendar/SKILL.md) - Email, calendar & contacts via Nylas across all major providers.
 - [yahooquery](https://github.com/openclaw/skills/tree/main/skills/512z/yahooquery/SKILL.md) - Access Yahoo Finance data including real-time pricing, fundamentals, analyst estimates, options, news.
