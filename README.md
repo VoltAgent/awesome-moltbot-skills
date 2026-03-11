@@ -84,10 +84,27 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 
 ## OpenClaw Ecosystem Tools🦞🦞
 
- **Your product here** — Sponsor spots are for tools, platforms, and services built for the OpenClaw ecosystem (hosting, deployment, model providers, dev tools, etc.)
+<div align="center">
 
-📈 870K monthly views — the #1 most visited community resource after the official OpenClaw resource.
-> 📩 For sponsorship inquiries, reach out at necati@voltagent.dev
+<table>
+<tr>
+<td align="center" width="100%">
+
+<h3>🚀 Your Logo & Product Here 🚀</h3>
+
+<p><strong>Sponsor spots are for tools, platforms, and services built for the OpenClaw ecosystem</strong><br/>(hosting, deployment, model providers, dev tools, etc.)</p>
+
+<sub>📈 <strong>870K monthly views</strong> — the #1 most visited community resource after the official OpenClaw resource</sub>
+
+<br/><br/>
+
+<a href="mailto:necati@voltagent.dev"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 
