@@ -129,7 +129,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 | | | |
 |---|---|---|
-| [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (104) | [Communication](#communication) (149) |
+| [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (105) | [Communication](#communication) (149) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (197) | [Smart Home & IoT](#smart-home--iot) (43) |
 | [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
@@ -525,7 +525,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brand-voice-profile](https://github.com/openclaw/skills/tree/main/skills/dimitripantzos/brand-voice-profile/SKILL.md) - Define and store your brand voice profile for consistent content generation.
 - [brevo](https://github.com/openclaw/skills/tree/main/skills/yujesyoga/brevo/SKILL.md) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
 
-> **[View all 104 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
+> **[View all 105 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
 <details>
