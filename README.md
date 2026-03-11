@@ -94,9 +94,9 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 
 <p><strong>Sponsor spots are for tools, platforms, and services built for the OpenClaw ecosystem</strong><br/>(hosting, deployment, model providers, dev tools, etc.)</p>
 
-<sub>📈 <strong>870K monthly views</strong> — the #1 most visited community resource after the official OpenClaw resource</sub>
+<sub>📈 <strong>950K monthly views</strong> — the #1 most visited community resource after the official OpenClaw resource</sub>
 
-<br/><br/>
+<br/>
 
 <a href="mailto:necati@voltagent.dev"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
 
