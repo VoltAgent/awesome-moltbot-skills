@@ -132,7 +132,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (105) | [Communication](#communication) (149) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (197) | [Smart Home & IoT](#smart-home--iot) (43) |
-| [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
+| [Web & Frontend Development](#web--frontend-development) (939) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
 | [DevOps & Cloud](#devops--cloud) (409) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (65) |
 | [Image & Video Generation](#image--video-generation) (169) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (32) |
@@ -273,9 +273,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentic-security-audit](https://github.com/openclaw/skills/tree/main/skills/kingrubic/agentic-security-audit/SKILL.md) - Audit codebases, infrastructure, AND agentic AI systems for security issues.
 - [agentns](https://github.com/openclaw/skills/tree/main/skills/vibrant/agentns/SKILL.md) - Register and manage ICANN domains for AI agents.
 - [agentpay](https://github.com/openclaw/skills/tree/main/skills/kar69-96/agentpay/SKILL.md) - Buy things from real websites on behalf of your human.
-- [gui.new](https://gui.new) - POST HTML, get a shareable link. Visual output layer for AI agents — dashboards, charts, forms become live URLs with real-time sync. npm and pip SDKs.
+- [gui-new](https://clawhub.com/skills/gui-new) - POST HTML, get a shareable link. Visual output layer for AI agents — dashboards, charts, forms become live URLs with real-time sync. [gui.new](https://gui.new)
 
-> **[View all 938 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
+> **[View all 939 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
 </details>
 
 <details>
