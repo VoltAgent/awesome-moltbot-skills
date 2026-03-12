@@ -89,7 +89,7 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
 
 <a href="https://composio.dev/claw?utm_source=github&utm_campaign=volt-agent">
-<img src="https://cdn.voltagent.dev/awesome-repo/composio-openclaw.png" alt="Composio"  />
+<img src="https://cdn.voltagent.dev/awesome-repo/composio-img.png" alt="Composio"  />
 Managed OAuth, scoped permissions, and logged native toolcalls across 1000+ apps.
 </a>
 
@@ -113,11 +113,10 @@ openclaw onboard --auth-choice openai-codex
 
 ### ☁️ Hosting & Deployment
 
-You can deploy OpenClaw on any VPS or cloud platform run your skills securely on your own infrastructure, a managed host, or a containerized environment. Docker, Podman, Nix, and Ansible are all supported as install methods.
+You can deploy OpenClaw on any VPS or cloud platform run your skills securely on your own infrastructure, or a managed host. Docker, Podman, Nix, and Ansible are all supported as install methods.
 
 > **Tip:** If you're looking for a quick cloud setup, spin up a VPS with your preferred provider, install OpenClaw via Docker, and you're good to go.
 
----
 
 <div align="center">
 
