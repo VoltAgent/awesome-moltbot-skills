@@ -273,6 +273,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentic-security-audit](https://github.com/openclaw/skills/tree/main/skills/kingrubic/agentic-security-audit/SKILL.md) - Audit codebases, infrastructure, AND agentic AI systems for security issues.
 - [agentns](https://github.com/openclaw/skills/tree/main/skills/vibrant/agentns/SKILL.md) - Register and manage ICANN domains for AI agents.
 - [agentpay](https://github.com/openclaw/skills/tree/main/skills/kar69-96/agentpay/SKILL.md) - Buy things from real websites on behalf of your human.
+- [gui.new](https://gui.new) - POST HTML, get a shareable link. Visual output layer for AI agents — dashboards, charts, forms become live URLs with real-time sync. npm and pip SDKs.
 
 > **[View all 938 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
 </details>
