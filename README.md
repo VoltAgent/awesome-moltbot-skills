@@ -96,7 +96,7 @@ Managed OAuth, scoped permissions, and logged native toolcalls across 1000+ apps
 
 ### 🤖 Model Providers
 
-OpenClaw works with **25+ LLM providers** out of the box Anthropic, OpenAI and [many more](https://docs.openclaw.ai/providers). Switch between them with a single config change.
+OpenClaw works with **25+ LLM providers** out of the box Anthropic, OpenAI and many more. Switch between them with a single config change.
 
 <details>
 <summary><strong>Example: Using OpenAI models</strong></summary>
