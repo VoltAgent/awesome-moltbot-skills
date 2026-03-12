@@ -82,7 +82,42 @@ This list only includes skills that are **already published** in the `github.com
 Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the GitHub link (e.g. `https://github.com/openclaw/skills/tree/main/skills/steipete/slack`) in your PR description. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 
-## OpenClaw Ecosystem Tools🦞🦞
+## OpenClaw Ecosystem Tools
+
+### 🔌 Connecting to External Services
+
+OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
+
+<a href="https://composio.dev/claw?utm_source=github&utm_campaign=volt-agent">
+<img src="https://cdn.voltagent.dev/awesome-repo/composio-openclaw.png" alt="Composio"  />
+Managed OAuth, scoped permissions, and logged native toolcalls across 1000+ apps.
+</a>
+
+
+### 🤖 Model Providers
+
+OpenClaw works with **25+ LLM providers** out of the box Anthropic, OpenAI and [many more](https://docs.openclaw.ai/providers). Switch between them with a single config change.
+
+<details>
+<summary><strong>Example: Using OpenAI models</strong></summary>
+
+OpenClaw supports `gpt-5.4` and `gpt-5.4-pro` via direct API key or ChatGPT/Codex OAuth. WebSocket transport is enabled by default for lower latency.
+
+```bash
+openclaw onboard --auth-choice openai-api-key
+# or use subscription-based access:
+openclaw onboard --auth-choice openai-codex
+```
+</details>
+
+
+### ☁️ Hosting & Deployment
+
+You can deploy OpenClaw on any VPS or cloud platform run your skills securely on your own infrastructure, a managed host, or a containerized environment. Docker, Podman, Nix, and Ansible are all supported as install methods.
+
+> **Tip:** If you're looking for a quick cloud setup, spin up a VPS with your preferred provider, install OpenClaw via Docker, and you're good to go.
+
+---
 
 <div align="center">
 
@@ -90,11 +125,11 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 <tr>
 <td align="center" width="100%">
 
-<h3>🚀 Your Logo & Product Here 🚀</h3>
+<h3>🦞 You can feature your OpenClaw ecosystem tool in the section above.</h3>
 
-<p><strong>Sponsor spots are for tools, platforms, and services built for the OpenClaw ecosystem</strong><br/>(hosting, deployment, model providers, dev tools, etc.)</p>
+<p></p>
 
-<sub>📈 <strong>950K monthly views</strong> — the #1 most visited community resource after the official OpenClaw resource</sub>
+<sub>📈 <strong>+1M monthly views</strong> — the #1 most visited community resource after the official OpenClaw resource</sub>
 
 <br/>
 
