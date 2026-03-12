@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**32 skills**
+**33 skills**
 
 - [beacon](https://github.com/openclaw/skills/tree/main/skills/scottcjn/beacon/SKILL.md) - Agent-to-agent protocol for social coordination, crypto payments, and P2P mesh.
 - [bridle](https://github.com/openclaw/skills/tree/main/skills/bjesuiter/bridle/SKILL.md) - Unified configuration manager for AI coding assistants.
@@ -17,6 +17,7 @@
 - [freshrss-reader](https://github.com/openclaw/skills/tree/main/skills/nickian/freshrss-reader/SKILL.md) - Query headlines and articles from a self-hosted FreshRSS.
 - [gotify](https://github.com/openclaw/skills/tree/main/skills/jmagar/gotify/SKILL.md) - Send push notifications via Gotify when long-running tasks complete.
 - [hydra-evolver](https://github.com/openclaw/skills/tree/main/skills/spamtylor/hydra-evolver/SKILL.md) - A Proxmox-native orchestration skill that turns any home lab.
+- [keepmyclaw](https://github.com/openclaw/skills/tree/main/skills/ryce/keepmyclaw/SKILL.md) - Encrypted cloud backup and restore for OpenClaw workspaces.
 - [kleo-static-files](https://github.com/openclaw/skills/tree/main/skills/awaaate/kleo-static-files/SKILL.md) - Host static files on subdomains with optional.
 - [lifepath](https://github.com/openclaw/skills/tree/main/skills/ezbreadsniper/lifepath/SKILL.md) - AI Life Simulator - Experience infinite lives year by year.
 - [looper-golf](https://github.com/openclaw/skills/tree/main/skills/sbauch/looper-golf/SKILL.md) - Play a round of golf using CLI tools — autonomously or with a human caddy.

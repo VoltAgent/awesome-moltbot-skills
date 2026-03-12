@@ -19,7 +19,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-[![Skills Count](https://img.shields.io/badge/skills-5494-blue?style=flat-square)](#table-of-contents)
+[![Skills Count](https://img.shields.io/badge/skills-5495-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 </div>
@@ -63,7 +63,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 ### Why This List Exists?
 
-OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as of February 28, 2026. This awesome list has **5,494 skills**. Here's what we filtered out:
+OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as of February 28, 2026. This awesome list has **5,495 skills**. Here's what we filtered out:
 
 | Filter | Excluded |
 |--------|----------|
@@ -169,7 +169,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
 | [DevOps & Cloud](#devops--cloud) (409) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (65) |
 | [Image & Video Generation](#image--video-generation) (169) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) |
-| [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (32) |
+| [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (350) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (109) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (186) | [Personal Development](#personal-development) (51) | [Gaming](#gaming) (36) |
@@ -1133,6 +1133,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [freshrss-reader](https://github.com/openclaw/skills/tree/main/skills/nickian/freshrss-reader/SKILL.md) - Query headlines and articles from a self-hosted FreshRSS.
 - [gotify](https://github.com/openclaw/skills/tree/main/skills/jmagar/gotify/SKILL.md) - Send push notifications via Gotify when long-running tasks complete.
 - [hydra-evolver](https://github.com/openclaw/skills/tree/main/skills/spamtylor/hydra-evolver/SKILL.md) - A Proxmox-native orchestration skill that turns any home lab.
+- [keepmyclaw](https://github.com/openclaw/skills/tree/main/skills/ryce/keepmyclaw/SKILL.md) - Encrypted cloud backup and restore for OpenClaw workspaces.
 - [kleo-static-files](https://github.com/openclaw/skills/tree/main/skills/awaaate/kleo-static-files/SKILL.md) - Host static files on subdomains with optional.
 - [lifepath](https://github.com/openclaw/skills/tree/main/skills/ezbreadsniper/lifepath/SKILL.md) - AI Life Simulator - Experience infinite lives year by year.
 - [looper-golf](https://github.com/openclaw/skills/tree/main/skills/sbauch/looper-golf/SKILL.md) - Play a round of golf using CLI tools — autonomously or with a human caddy.
@@ -1151,7 +1152,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [sonarqube-analyzer](https://github.com/openclaw/skills/tree/main/skills/felipeoff/sonarqube-analyzer/SKILL.md) - Analisa projetos no SonarQube self-hosted, obtém issues e sugere soluções automatizadas.
 - [system-integrity-and-backup](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/system-integrity-and-backup/SKILL.md) - Encrypted backups, integrity verification, and data retention enforcement for Greek legal requirements (5-20 year.
 
-> **[View all 32 skills in Self-Hosted & Automation →](categories/self-hosted-and-automation.md)**
+> **[View all 33 skills in Self-Hosted & Automation →](categories/self-hosted-and-automation.md)**
 </details>
 
 <details>
