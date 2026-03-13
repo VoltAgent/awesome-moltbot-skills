@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**350 skills**
+**351 skills**
 
 - [1](https://github.com/openclaw/skills/tree/main/skills/nastrology/1/SKILL.md) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [academic-deep-research](https://github.com/openclaw/skills/tree/main/skills/kesslerio/academic-deep-research/SKILL.md) - Transparent, rigorous research with full.
@@ -242,6 +242,7 @@
 - [okx-competition](https://github.com/openclaw/skills/tree/main/skills/peti0402/okx-competition/SKILL.md) - 5 AI trading agents compete live on OKX Demo (real prices)
 - [oneshot](https://github.com/openclaw/skills/tree/main/skills/tormine/oneshot/SKILL.md) - OneShot SDK for AI agent commercial transactions.
 - [oneshot-agent](https://github.com/openclaw/skills/tree/main/skills/tormine/oneshot-agent/SKILL.md) - OneShot SDK for AI agent commercial transactions.
+- [openclaw-free-web-search](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/openclaw-free-web-search/SKILL.md) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
 - [opdscli](https://github.com/openclaw/skills/tree/main/skills/rafadc/opdscli/SKILL.md) - Browse, search, and download ebooks from OPDS catalogs using the opdscli CLI.
 - [opensoulmd](https://github.com/openclaw/skills/tree/main/skills/danielliuzy/opensoulmd/SKILL.md) - Search, summon, and possess your agent with SOUL.md personality files from the OpenSOUL.md registry.
 - [optical-quantum-skill](https://github.com/openclaw/skills/tree/main/skills/aadipapp/optical-quantum-skill/SKILL.md) - Simulates a quantum kernel using optical fiber storage and linear optics.
