@@ -422,7 +422,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 <details>
 <summary><h3 style="display:inline">Search & Research</h3></summary>
 
-- [openclaw-free-web-search](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/openclaw-free-web-search/SKILL.md) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
 - [1](https://github.com/openclaw/skills/tree/main/skills/nastrology/1/SKILL.md) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [academic-deep-research](https://github.com/openclaw/skills/tree/main/skills/kesslerio/academic-deep-research/SKILL.md) - Transparent, rigorous research with full.
 - [academic-writer](https://github.com/openclaw/skills/tree/main/skills/dayunyan/academic-writer/SKILL.md) - Professional LaTeX writing assistant.
@@ -453,6 +452,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ai-review](https://github.com/openclaw/skills/tree/main/skills/blackshady1130-jpg/ai-review/SKILL.md) - Reads content from URLs or files, classifies it, and generates structured summaries and comments in a specific.
 - [aihotel](https://github.com/openclaw/skills/tree/main/skills/qiao101660/aihotel/SKILL.md) - A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags)
 - [airbnb](https://github.com/openclaw/skills/tree/main/skills/stveenli/airbnb/SKILL.md) - Search Airbnb listings with prices, ratings, and direct links.
+- [openclaw-free-web-search](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/openclaw-free-web-search/SKILL.md) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
 - [xquik-x-twitter-scraper](https://github.com/openclaw/skills/tree/main/skills/kriptoburak/xquik-x-twitter-scraper/SKILL.md) - X API scraper with 40+ tools for AI agents.
 
 > **[View all 351 skills in Search & Research →](categories/search-and-research.md)**
