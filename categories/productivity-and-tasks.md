@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**206 skills**
+**207 skills**
 
 - [4to1-planner](https://github.com/openclaw/skills/tree/main/skills/qingxuantang/4to1-planner/SKILL.md) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.
 - [4todo](https://github.com/openclaw/skills/tree/main/skills/blackstorm/4todo/SKILL.md) - Manage 4todo (4to.do) from chat.
@@ -58,6 +58,7 @@
 - [call-report-writer-agent](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/call-report-writer-agent/SKILL.md) - AI agent for call report writer agent tasks.
 - [capacities](https://github.com/openclaw/skills/tree/main/skills/davidsmorais/capacities/SKILL.md) - Manage Capacities notes, daily entries, and weblinks.
 - [card-optimizer](https://github.com/openclaw/skills/tree/main/skills/scottfo/card-optimizer/SKILL.md) - Credit card rewards optimizer — helps maximize cashback.
+- [castreader](https://github.com/openclaw/skills/tree/main/skills/castreader/castreader/SKILL.md) - Read any web page aloud with natural AI voices. The only skill that extracts content from URLs (including Kindle, WeRead, Notion, Google Docs) and converts to MP3 audio with paragraph-level highlighting.
 - [catallax](https://github.com/openclaw/skills/tree/main/skills/kai-familiar/catallax/SKILL.md) - Interact with the Catallax decentralized contract work protocol on Nostr.
 - [checkmate](https://github.com/openclaw/skills/tree/main/skills/insipidpoint/checkmate/SKILL.md) - Enforces task completion: turns your goal into pass/fail criteria, runs a worker, judges the output, feeds back.
 - [chief-creative-officer](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/chief-creative-officer/SKILL.md) - AI agent for chief creative officer tasks.
