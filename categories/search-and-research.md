@@ -333,7 +333,7 @@
 - [vietstock](https://github.com/openclaw/skills/tree/main/skills/aholake/vietstock/SKILL.md) - Automated Vietnamese stock price and index checking on FireAnt.vn.
 - [vincent-twitter](https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-twitter/SKILL.md) - Use this skill to search tweets, look up user profiles, and retrieve recent tweets from X.com (Twitter).
 - [voice-memo](https://github.com/openclaw/skills/tree/main/skills/yusaku-0426/voice-memo/SKILL.md) - Manage voice memos — add transcriptions, search, and list recent memos with summaries and action items.
-- [web-search-pro](https://www.clawhub.ai/Zjianru/web-search-pro) - Agent-first web search and retrieval stack with a real no-key baseline, explainable routing, visible federated-search gains, and built-in extract, crawl, map, and research flows.
+- [web-search-pro](https://github.com/openclaw/skills/tree/main/skills/zjianru/web-search-pro/SKILL.md) - Agent-first web search and retrieval stack with a real no-key baseline, explainable routing, visible federated-search gains, and built-in extract, crawl, map, and research flows.
 - [wanikani-sync](https://github.com/openclaw/skills/tree/main/skills/mart1n-xyz/wanikani-sync/SKILL.md) - Sync WaniKani Japanese learning progress data from the API to local storage for analysis and insights.
 - [whoo-cli](https://github.com/openclaw/skills/tree/main/skills/luisgot/whoo-cli/SKILL.md) - Use the whoo CLI to retrieve and interpret WHOOP health data: recovery score, HRV, sleep quality, strain, SpO2.
 - [wiki-retriever](https://github.com/openclaw/skills/tree/main/skills/urrrich/wiki-retriever/SKILL.md) - AI agent for wiki retriever tasks.
