@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**208 skills**
+**207 skills**
 
 - [4to1-planner](https://github.com/openclaw/skills/tree/main/skills/qingxuantang/4to1-planner/SKILL.md) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.
 - [4todo](https://github.com/openclaw/skills/tree/main/skills/blackstorm/4todo/SKILL.md) - Manage 4todo (4to.do) from chat.
@@ -108,7 +108,6 @@
 - [godot-engine-3d-developer](https://github.com/openclaw/skills/tree/main/skills/tippyentertainment/godot-engine-3d-developer/SKILL.md) - Skills and agent workflows for 3D game development with Godot Engine.
 - [google-ai-usage-monitor](https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/google-ai-usage-monitor/SKILL.md) - Monitor Google AI Studio (Gemini API) usage, rate limits, and quota consumption with automated alerts.
 - [gotchi-channeling](https://github.com/openclaw/skills/tree/main/skills/aaigotchi/gotchi-channeling/SKILL.md) - Autonomous Aavegotchi Alchemica channeling via Bankr wallet.
-- [hierarchical-task-spawn](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/hierarchical-task-spawn/SKILL.md) - Decompose medium and complex tasks into a spawned work tree — simple tasks run directly, medium tasks split into fine sub-tasks, complex tasks split into medium workstreams that further split.
 - [humanod](https://github.com/openclaw/skills/tree/main/skills/armandobrazil/humanod/SKILL.md) - Hire humans for real-world tasks via the Humanod API.
 - [hylo-ghl](https://github.com/openclaw/skills/tree/main/skills/dasonshi/hylo-ghl/SKILL.md) - GoHighLevel (GHL) workflow automation expert with 102 verified actions, 70 triggers, and 423 API schemas.
 - [hz-proactive-agent](https://github.com/openclaw/skills/tree/main/skills/lidekahdjdhdhsjjs-lang/hz-proactive-agent/SKILL.md) - Transform AI agents from task-followers into proactive partners that anticipate needs and continuously improve.

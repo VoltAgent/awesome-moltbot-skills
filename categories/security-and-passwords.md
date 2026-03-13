@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**55 skills**
+**54 skills**
 
 - [1password](https://github.com/openclaw/skills/tree/main/skills/steipete/1password/SKILL.md) - Set up and use 1Password CLI (op).
 - [1claw](https://github.com/openclaw/skills/tree/main/skills/kmjones1979/1claw/SKILL.md) - HSM-backed vault for agent secrets; store, rotate, share securely.
@@ -42,7 +42,6 @@
 - [harrypotter](https://github.com/openclaw/skills/tree/main/skills/jeffaf/harrypotter/SKILL.md) - CLI for AI agents to lookup Harry Potter universe info.
 - [hash-toolkit](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/hash-toolkit/SKILL.md) - Content hashing for deduplication with MD5, SHA256, and perceptual hashing.
 - [hopeids](https://github.com/openclaw/skills/tree/main/skills/emberdesire/hopeids/SKILL.md) - Inference-based intrusion detection for AI agents with quarantine.
-- [ironclaw-security-guard](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/ironclaw-security-guard/SKILL.md) - Defense-in-depth security plugin for OpenClaw: blocks dangerous shell commands, guards sensitive paths, detects prompt injection, prevents secret leaks, and writes a local JSONL audit log.
 - [leak](https://github.com/openclaw/skills/tree/main/skills/eucalyptus-viminalis/leak/SKILL.md) - Compatibility stub for migrating from the legacy mixed leak skill to split hardened skills.
 - [liewatch](https://github.com/openclaw/skills/tree/main/skills/evinelias/liewatch/SKILL.md) - Play the LIE.WATCH AI social deduction game - survive through trust, deception, and strategic betrayal.
 - [linkswarm-api](https://github.com/openclaw/skills/tree/main/skills/heyw00d/linkswarm-api/SKILL.md) - **Backlink exchange for AI agents.

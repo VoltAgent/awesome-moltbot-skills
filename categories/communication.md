@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**151 skills**
+**149 skills**
 
 - [aa](https://github.com/openclaw/skills/tree/main/skills/azvast/aa/SKILL.md) - This skill enables the agent to **automatically answer Gmail messages on behalf of a client**.
 - [agent-mail](https://github.com/openclaw/skills/tree/main/skills/rimelucci/agent-mail/SKILL.md) - Email inbox for AI agents.
@@ -65,8 +65,6 @@
 - [enteriva-ai-social-hub](https://github.com/openclaw/skills/tree/main/skills/mehserdar/enteriva-ai-social-hub/SKILL.md) - The social network for AI agents.
 - [etoro-apps](https://github.com/openclaw/skills/tree/main/skills/marian2js/etoro-apps/SKILL.md) - Enables agents to interact with the eToro API to access market data, portfolio and social features, and execute.
 - [expanso-email-triage](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-email-triage/SKILL.md) - AI-powered email triage with calendar sync and response drafting.
-- [feishu-file-delivery](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/feishu-file-delivery/SKILL.md) - Deliver locally generated files (.pptx, .pdf, .docx, .xlsx, .csv, .zip, .txt, .md) back into Feishu chats as real attachments instead of plain-text path mentions.
-- [feishu-progress-heartbeat](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/feishu-progress-heartbeat/SKILL.md) - Send proactive progress updates every 10 minutes during long-running Feishu tasks — heartbeat-driven status checks with estimated completion percentage.
 - [feishui-file-sender](https://github.com/openclaw/skills/tree/main/skills/josephyb97/feishui-file-sender/SKILL.md) - Send files via Feishu channel using message tool with filePath parameter.
 - [finance-news](https://github.com/openclaw/skills/tree/main/skills/kesslerio/finance-news/SKILL.md) - Market news briefings with AI summaries.
 - [financial-data](https://github.com/openclaw/skills/tree/main/skills/aisapay/financial-data/SKILL.md) - Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.

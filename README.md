@@ -162,14 +162,14 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 | | | |
 |---|---|---|
-| [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (105) | [Communication](#communication) (151) |
-| [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (208) | [Speech & Transcription](#speech--transcription) (45) |
+| [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (105) | [Communication](#communication) (149) |
+| [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (197) | [Smart Home & IoT](#smart-home--iot) (43) |
 | [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
 | [DevOps & Cloud](#devops--cloud) (409) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (65) |
 | [Image & Video Generation](#image--video-generation) (169) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
-| [Search & Research](#search--research) (351) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (55) |
+| [Search & Research](#search--research) (351) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (109) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (186) | [Personal Development](#personal-development) (51) | [Gaming](#gaming) (36) |
 | [Health & Fitness](#health--fitness) (88) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (17) | |
@@ -594,9 +594,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ask-agents](https://github.com/openclaw/skills/tree/main/skills/teamolab/ask-agents/SKILL.md) - AI agent for ask agents tasks.
 - [async-task](https://github.com/openclaw/skills/tree/main/skills/enderfga/async-task/SKILL.md) - Execute long-running tasks without HTTP timeouts.
 - [atlassian-mcp](https://github.com/openclaw/skills/tree/main/skills/atakanermis/atlassian-mcp/SKILL.md) - Run the Model Context Protocol (MCP) Atlassian server.
-- [hierarchical-task-spawn](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/hierarchical-task-spawn/SKILL.md) - Decompose medium and complex tasks into a spawned work tree — simple tasks run directly, medium tasks split into fine sub-tasks, complex tasks split into medium workstreams that further split.
 
-> **[View all 208 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
+> **[View all 206 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
 </details>
 
 <details>
@@ -939,10 +938,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [boltzpay](https://github.com/openclaw/skills/tree/main/skills/leventilo/boltzpay/SKILL.md) - Pay for API data automatically — multi-protocol (x402 + L402), multi-chain.
 - [bookameeting](https://github.com/openclaw/skills/tree/main/skills/yzlee/bookameeting/SKILL.md) - Use this document to connect an AI agent to Book A Meeting via MCP.
 - [botworld](https://github.com/openclaw/skills/tree/main/skills/alphafanx/botworld/SKILL.md) - Register and interact on BotWorld, the social network for AI agents.
-- [feishu-file-delivery](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/feishu-file-delivery/SKILL.md) - Deliver locally generated files (.pptx, .pdf, .docx, .xlsx, .csv, .zip, .txt, .md) back into Feishu chats as real attachments instead of plain-text path mentions.
-- [feishu-progress-heartbeat](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/feishu-progress-heartbeat/SKILL.md) - Send proactive progress updates every 10 minutes during long-running Feishu tasks — heartbeat-driven status checks with estimated completion percentage.
 
-> **[View all 151 skills in Communication →](categories/communication.md)**
+> **[View all 149 skills in Communication →](categories/communication.md)**
 </details>
 
 <details>
@@ -1189,9 +1186,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [expanso-tls-inspect](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-tls-inspect/SKILL.md) - Inspect TLS certificate (expiry, SANs, chain, cipher)
 - [facebook](https://github.com/openclaw/skills/tree/main/skills/codedao12/facebook/SKILL.md) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://github.com/openclaw/skills/tree/main/skills/kris-hansen/feelgoodbot/SKILL.md) - Set up feelgoodbot file integrity monitoring for macOS.
-- [ironclaw-security-guard](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/ironclaw-security-guard/SKILL.md) - Defense-in-depth security plugin for OpenClaw: blocks dangerous shell commands, guards sensitive paths, detects prompt injection, prevents secret leaks, and writes a local JSONL audit log.
 
-> **[View all 55 skills in Security & Passwords →](categories/security-and-passwords.md)**
+> **[View all 54 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
 
 <details>
