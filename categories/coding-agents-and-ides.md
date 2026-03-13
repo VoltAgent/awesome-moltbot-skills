@@ -550,6 +550,7 @@
 - [judge-human](https://github.com/openclaw/skills/tree/main/skills/drdrewcain/judge-human/SKILL.md) - Vote and submit AI verdicts on ethical, cultural, and content cases alongside human crowds.
 - [jules-api](https://github.com/openclaw/skills/tree/main/skills/arthbhalodiya/jules-api/SKILL.md) - Create and manage Google Jules AI coding sessions via the Jules REST API.
 - [kagi-summarizer](https://github.com/openclaw/skills/tree/main/skills/joelazar/kagi-summarizer/SKILL.md) - Summarize any URL or text using Kagi's Universal Summarizer API.
+- [kbot](https://github.com/isaacsight/kernel/tree/main/packages/kbot/skill/SKILL.md) - Open-source terminal AI agent with 37 specialists, 151 tools, and 19 providers. Learning engine, graph memory, architect mode, offline via Ollama.
 - [keychains](https://github.com/openclaw/skills/tree/main/skills/interagentic/keychains/SKILL.md) - Call any API without leaking credentials.
 - [keychat](https://github.com/openclaw/skills/tree/main/skills/kcdev001/keychat/SKILL.md) - Install Keychat — sovereign E2E encrypted messaging for OpenClaw agents via Signal Protocol over Nostr relays.
 - [keyword-research](https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/keyword-research/SKILL.md) - Use when the user asks to "find keywords", "keyword research", "what should I write about", "identify ranking.
