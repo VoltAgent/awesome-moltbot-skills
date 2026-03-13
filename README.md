@@ -422,6 +422,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 <details>
 <summary><h3 style="display:inline">Search & Research</h3></summary>
 
+- [openclaw-free-web-search](https://github.com/wd041216-bit/openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
 - [1](https://github.com/openclaw/skills/tree/main/skills/nastrology/1/SKILL.md) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [academic-deep-research](https://github.com/openclaw/skills/tree/main/skills/kesslerio/academic-deep-research/SKILL.md) - Transparent, rigorous research with full.
 - [academic-writer](https://github.com/openclaw/skills/tree/main/skills/dayunyan/academic-writer/SKILL.md) - Professional LaTeX writing assistant.
