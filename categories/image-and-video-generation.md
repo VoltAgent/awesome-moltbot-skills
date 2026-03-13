@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**170 skills**
+**169 skills**
 
 - [aada](https://github.com/openclaw/skills/tree/main/skills/rylena/aada/SKILL.md) - Create and send fun, personality-rich promotional messages from one agent to the Moltbook audience.
 - [ace-music](https://github.com/openclaw/skills/tree/main/skills/fspecii/ace-music/SKILL.md) - Generate AI music using ACE-Step 1.5 via ACE Music's free API.
@@ -103,7 +103,6 @@
 - [kie-ai-skill](https://github.com/openclaw/skills/tree/main/skills/jon-xo/kie-ai-skill/SKILL.md) - Unified API access to multiple AI models via kie.ai - image generation (Nano Banana Pro, Flux, 4o-image) at 30-80%.
 - [kraken-pro](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/kraken-pro/SKILL.md) - Manage Kraken exchange accounts — portfolio, market data, trading, earn/staking, ledger export.
 - [macos-local-voice](https://github.com/openclaw/skills/tree/main/skills/strrl/macos-local-voice/SKILL.md) - Local STT and TTS on macOS using native Apple capabilities.
-- [mamo](https://github.com/openclaw/skills/tree/main/skills/anajuliabit/mamo/SKILL.md) - Interact with Mamo DeFi yield strategies on Base (Moonwell)
 - [media-writing](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/media-writing/SKILL.md) - You are a professional media writing expert with extensive experience in creating engaging and impactful content.
 - [medical-specialty-briefs](https://github.com/openclaw/skills/tree/main/skills/johnyquest7/medical-specialty-briefs/SKILL.md) - Generate daily or on-demand medical research briefs for any medical specialty.
 - [memelink](https://github.com/openclaw/skills/tree/main/skills/dedene/memelink/SKILL.md) - Generate memes, image macros, and meme URLs from the terminal using the Memegen.link API.
@@ -146,7 +145,6 @@
 - [rollhub-analyst](https://github.com/openclaw/skills/tree/main/skills/rollhub-dev/rollhub-analyst/SKILL.md) - Research and backtest gambling strategies on provably fair crypto casino.
 - [rug-checker](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/rug-checker/SKILL.md) - Solana token rug-pull risk analysis. 10-point on-chain check with visual report.
 - [saa-agent](https://github.com/openclaw/skills/tree/main/skills/mirabarukaso/saa-agent/SKILL.md) - Enables AI agents to generate images using the Character Select Stand Alone App (SAA) image generation backend.
-- [shop-culture](https://github.com/openclaw/skills/tree/main/skills/bythecult/shop-culture/SKILL.md) - Agentic Commerce skills for the For the Cult store.
 - [shopify-bulk-upload](https://github.com/openclaw/skills/tree/main/skills/zhaoteng-qd/shopify-bulk-upload/SKILL.md) - Bulk upload products to Shopify stores.
 - [skill-1](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/skill-1/SKILL.md) - Generate QR codes from text, URLs, WiFi credentials, vCards, or any data.
 - [snapog](https://github.com/openclaw/skills/tree/main/skills/beameasy/snapog/SKILL.md) - Generate social images and OG cards from professional templates via the SnapOG API.
@@ -168,7 +166,6 @@
 - [visualization](https://github.com/openclaw/skills/tree/main/skills/xuzhiwei0217-doctor/visualization/SKILL.md) - AI-driven professional data visualization for financial analysis.
 - [vtl-image-analysis](https://github.com/openclaw/skills/tree/main/skills/rusparrish/vtl-image-analysis/SKILL.md) - Measure compositional structure in AI-generated images using the Visual Thinking Lens (VTL) framework.
 - [x-founder-operations](https://github.com/openclaw/skills/tree/main/skills/linfangw/x-founder-operations/SKILL.md) - Systematic X (Twitter) operations skill for founders, indie developers, and tech professionals.
-- [xbird](https://github.com/openclaw/skills/tree/main/skills/checkra1neth/xbird/SKILL.md) - Use when the user asks to tweet, post threads, read tweets, search Twitter/X, check mentions, manage engagement.
 - [xiaohongshu-title](https://github.com/openclaw/skills/tree/main/skills/gxkim/xiaohongshu-title/SKILL.md) - Maximize CTR (Click-Through Rate) by leveraging emotional hooks and platform algorithms.
 - [xpr-creative](https://github.com/openclaw/skills/tree/main/skills/paulgnz/xpr-creative/SKILL.md) - Creative deliverable tools for AI agents.
 - [youtube-thumbnail-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/youtube-thumbnail-generation/SKILL.md) - Generate click-worthy YouTube thumbnails with high CTR designs using each::sense API.

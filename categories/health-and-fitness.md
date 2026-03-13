@@ -2,12 +2,9 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**88 skills**
+**84 skills**
 
 - [31third-safe-rebalancer-simple](https://github.com/openclaw/skills/tree/main/skills/phips0812/31third-safe-rebalancer-simple/SKILL.md) - One-step Safe rebalancer using on-chain 31Third policies.
-- [aavegotchi-baazaar](https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-baazaar/SKILL.md) - View, add, and execute Aavegotchi Baazaar listings on Base mainnet (8453)
-- [aavegotchi-gbm-skill](https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-gbm-skill/SKILL.md) - View, create, cancel, bid, and claim Aavegotchi GBM auctions on Base mainnet (8453)
-- [agent-credit](https://github.com/openclaw/skills/tree/main/skills/aaronjmars/agent-credit/SKILL.md) - Borrow from Aave via credit delegation.
 - [anthrovision-telegram-body-scan](https://github.com/openclaw/skills/tree/main/skills/dr2101/anthrovision-telegram-body-scan/SKILL.md) - Run end-to-end body-scan measurement flow in Telegram using AnthroVision bridge tools.
 - [aperture](https://github.com/openclaw/skills/tree/main/skills/roasbeef/aperture/SKILL.md) - Install and run Aperture, the L402 Lightning reverse proxy from Lightning Labs.
 - [arc-skill-sandbox](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-sandbox/SKILL.md) - Test untrusted skills in an isolated environment before installing.
@@ -71,7 +68,6 @@
 - [openfunderse-strategy](https://github.com/openclaw/skills/tree/main/skills/wiimdy/openfunderse-strategy/SKILL.md) - Participant MoltBot for allocation proposal, validation, and submission.
 - [oura-analytics](https://github.com/openclaw/skills/tree/main/skills/kesslerio/oura-analytics/SKILL.md) - Oura Ring data integration and analytics.
 - [paramus-chemistry](https://github.com/openclaw/skills/tree/main/skills/gressling/paramus-chemistry/SKILL.md) - Hundreds of chemistry and scientific computing tools.
-- [portfolio-tracking-skill](https://github.com/openclaw/skills/tree/main/skills/aigeneralstore/portfolio-tracking-skill/SKILL.md) - An investment portfolio tracker that runs entirely locally.
 - [ramalama-cli](https://github.com/openclaw/skills/tree/main/skills/ieaves/ramalama-cli/SKILL.md) - Run and interact with AI agents.
 - [recipe-finder](https://github.com/openclaw/skills/tree/main/skills/harshasic/recipe-finder/SKILL.md) - Find recipes by ingredients, cuisine, or dietary preferences using TheMealDB free API.
 - [redshift](https://github.com/openclaw/skills/tree/main/skills/accolver/redshift/SKILL.md) - Manage application secrets with the Redshift CLI (https://redshiftapp.com) — decentralized, encrypted secret.

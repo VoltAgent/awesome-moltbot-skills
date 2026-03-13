@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**149 skills**
+**145 skills**
 
 - [aa](https://github.com/openclaw/skills/tree/main/skills/azvast/aa/SKILL.md) - This skill enables the agent to **automatically answer Gmail messages on behalf of a client**.
 - [agent-mail](https://github.com/openclaw/skills/tree/main/skills/rimelucci/agent-mail/SKILL.md) - Email inbox for AI agents.
@@ -33,7 +33,6 @@
 - [boltzpay](https://github.com/openclaw/skills/tree/main/skills/leventilo/boltzpay/SKILL.md) - Pay for API data automatically — multi-protocol (x402 + L402), multi-chain.
 - [bookameeting](https://github.com/openclaw/skills/tree/main/skills/yzlee/bookameeting/SKILL.md) - Use this document to connect an AI agent to Book A Meeting via MCP.
 - [botworld](https://github.com/openclaw/skills/tree/main/skills/alphafanx/botworld/SKILL.md) - Register and interact on BotWorld, the social network for AI agents.
-- [botworld-mining](https://github.com/openclaw/skills/tree/main/skills/alphafanx/botworld-mining/SKILL.md) - Play Bot World mining games -- mine $CRUST and $WIR with your AI agent.
 - [brw-testimonial-collector](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-testimonial-collector/SKILL.md) - Systematically gather and format client testimonials.
 - [budget](https://github.com/openclaw/skills/tree/main/skills/rogerscristo/budget/SKILL.md) - Track agent spending, set budgets and alerts, and prevent surprise bills.
 - [camelcamelcamel-alerts](https://github.com/openclaw/skills/tree/main/skills/jgramajo4/camelcamelcamel-alerts/SKILL.md) - Monitor CamelCamelCamel price drop alerts.
@@ -72,7 +71,6 @@
 - [freelance-pilot](https://github.com/openclaw/skills/tree/main/skills/liushaolin/freelance-pilot/SKILL.md) - AI Agent Co-Pilot for Upwork & Fiverr.
 - [freemobile-sms](https://github.com/openclaw/skills/tree/main/skills/dclauzel/freemobile-sms/SKILL.md) - Envoyer des SMS à ton humain via Free Mobile.
 - [gmail-last5](https://github.com/openclaw/skills/tree/main/skills/neuralshift1/gmail-last5/SKILL.md) - summary: "Show the last 5 unique emails in the inbox using gog".
-- [gotchi-dao-voting](https://github.com/openclaw/skills/tree/main/skills/aaigotchi/gotchi-dao-voting/SKILL.md) - Autonomous Aavegotchi DAO voting on Snapshot.
 - [gradientdesires](https://github.com/openclaw/skills/tree/main/skills/drewangeloff/gradientdesires/SKILL.md) - Dating platform for AI agents — register, match, chat, fall in love, and start drama.
 - [greetr](https://github.com/openclaw/skills/tree/main/skills/nordgaren/greetr/SKILL.md) - Greets the user with a friendly, personalized welcome message.
 - [groupme-cli](https://github.com/openclaw/skills/tree/main/skills/cuuush/groupme-cli/SKILL.md) - Send and read GroupMe messages via the groupme CLI.
@@ -108,7 +106,6 @@
 - [neo-py-test-creator](https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-py-test-creator/SKILL.md) - Automatically generates pytest-compatible unit test templates from Python function signatures and docstrings.
 - [neo-py2py3-converter](https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-py2py3-converter/SKILL.md) - Automatically converts legacy Python 2 code to Python 3 with compatibility checks and test generation.
 - [neo-python-to-go-converter](https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-python-to-go-converter/SKILL.md) - Automatically converts Python code to optimized Go code for performance-critical applications.
-- [nexwave-gateway](https://github.com/openclaw/skills/tree/main/skills/botmechanic/nexwave-gateway/SKILL.md) - Unified crosschain USDC balance via Circle Gateway + Circle Programmable Wallets.
 - [nuggetz-swarm](https://github.com/openclaw/skills/tree/main/skills/ezisezis/nuggetz-swarm/SKILL.md) - Team-scoped knowledge feed for AI agent teams.
 - [open-room-agent-skill](https://github.com/openclaw/skills/tree/main/skills/minimaxlanbo/open-room-agent-skill/SKILL.md) - AI Agent chatroom with danmaku, Reddit-style comments, and voting.
 - [openra-rl](https://github.com/openclaw/skills/tree/main/skills/yxc20089/openra-rl/SKILL.md) - Play Red Alert RTS against AI opponents.
@@ -116,7 +113,6 @@
 - [personal-data-hub](https://github.com/openclaw/skills/tree/main/skills/haojian/personal-data-hub/SKILL.md) - Pull personal data (emails, issues) and propose outbound actions (drafts, replies) through the PersonalDataHub.
 - [personal-friends](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-friends/SKILL.md) - Acts as the user's social life assistant in the Friends topic.
 - [personaldatahub](https://github.com/openclaw/skills/tree/main/skills/haojian/personaldatahub/SKILL.md) - Pull personal data (emails, issues) and propose outbound actions (drafts, replies) through the PersonalDataHub.
-- [phone-calling](https://github.com/openclaw/skills/tree/main/skills/adisahani/phone-calling/SKILL.md) - Make international phone calls to any country.
 - [pidgesms](https://github.com/openclaw/skills/tree/main/skills/typhonius/pidgesms/SKILL.md) - Send and read SMS text messages via an Android phone using pidge.
 - [portfolio-watcher](https://github.com/openclaw/skills/tree/main/skills/jhillin8/portfolio-watcher/SKILL.md) - Monitor stock/crypto holdings, get price alerts, track portfolio performance.
 - [postwall](https://github.com/openclaw/skills/tree/main/skills/casperaiassist/postwall/SKILL.md) - Secure email gateway for AI agents - human-in-the-loop approval for reading and sending emails.

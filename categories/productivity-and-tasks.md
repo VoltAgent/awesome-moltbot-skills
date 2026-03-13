@@ -2,11 +2,10 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**207 skills**
+**204 skills**
 
 - [4to1-planner](https://github.com/openclaw/skills/tree/main/skills/qingxuantang/4to1-planner/SKILL.md) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.
 - [4todo](https://github.com/openclaw/skills/tree/main/skills/blackstorm/4todo/SKILL.md) - Manage 4todo (4to.do) from chat.
-- [aavegotchi-gotchiverse](https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-gotchiverse/SKILL.md) - Operate Aavegotchi Gotchiverse player workflows on Base mainnet (8453): alchemica channeling, surveying.
 - [actual-budget](https://github.com/openclaw/skills/tree/main/skills/thisisjeron/actual-budget/SKILL.md) - Query and manage personal finances via the official Actual.
 - [adaptive-reasoning](https://github.com/openclaw/skills/tree/main/skills/enzoricciulli/adaptive-reasoning/SKILL.md) - Automatically assess task complexity and adjust reasoning level.
 - [adaptlypost](https://github.com/openclaw/skills/tree/main/skills/tarasshyn/adaptlypost/SKILL.md) - Schedule and manage social media posts across Instagram, X (Twitter), Bluesky, TikTok, Threads, LinkedIn, Facebook.
@@ -24,7 +23,6 @@
 - [aiml-llm-reasoning](https://github.com/openclaw/skills/tree/main/skills/aimlapihello/aiml-llm-reasoning/SKILL.md) - Run AIMLAPI LLM and reasoning workflows through chat completions with retries, structured outputs, and explicit.
 - [airpoint](https://github.com/openclaw/skills/tree/main/skills/marioandf/airpoint/SKILL.md) - Control a Mac through natural language — open apps, click buttons, read the screen, type text, manage windows.
 - [airweave](https://github.com/openclaw/skills/tree/main/skills/lennertjansen/airweave/SKILL.md) - Context retrieval layer for AI agents across users' applications.
-- [angus-bounty-hunter](https://github.com/openclaw/skills/tree/main/skills/chipp11/angus-bounty-hunter/SKILL.md) - Automated smart contract bug bounty hunting.
 - [arc-department-manager](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-department-manager/SKILL.md) - Manage a team of AI sub-agents organized into departments.
 - [arc-warm-wake](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-warm-wake/SKILL.md) - Wake up as a person first, then a worker.
 - [arya-reminders](https://github.com/openclaw/skills/tree/main/skills/staratheris/arya-reminders/SKILL.md) - Recordatorios en lenguaje natural (Bogotá).
@@ -120,7 +118,6 @@
 - [loan](https://github.com/openclaw/skills/tree/main/skills/prabu12478/loan/SKILL.md) - I originate commercial real estate and business-purpose loans with a focus on structuring, credit quality.
 - [longrunning-agent](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/longrunning-agent/SKILL.md) - Enables AI agents to work on long-running projects across multiple sessions.
 - [loopuman-human-tasks](https://github.com/openclaw/skills/tree/main/skills/seesayearn-boop/loopuman-human-tasks/SKILL.md) - Give your AI agent access to real human workers.
-- [lyra-coin-launch-manager](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lyra-coin-launch-manager/SKILL.md) - Coin launch memory + verification workflow for Clawnch (4claw/Moltx/Moltbook)
 - [magic-api](https://github.com/openclaw/skills/tree/main/skills/heyitsaif/magic-api/SKILL.md) - Hand off tasks to human assistants and track their completion.
 - [marine-watch-planner](https://github.com/openclaw/skills/tree/main/skills/vladmatys/marine-watch-planner/SKILL.md) - Generate and adapt a sea-duty daily routine with watch rotations, sleep protection, duty handovers.
 - [mcp-workflow](https://github.com/openclaw/skills/tree/main/skills/slemo54/mcp-workflow/SKILL.md) - Workflow automation using MCP (Model Context Protocol) patterns inspired by Jason Zhou.

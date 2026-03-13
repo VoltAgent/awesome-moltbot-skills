@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**55 skills**
+**51 skills**
 
 - [add-wish](https://github.com/openclaw/skills/tree/main/skills/leebellon/add-wish/SKILL.md) - Save any product to a universal wishlist.
 - [agent-commerce](https://github.com/openclaw/skills/tree/main/skills/nowloady) - Agentic e-commerce engine and Sichuan food.
@@ -47,8 +47,6 @@
 - [mt5-httpapi](https://github.com/openclaw/skills/tree/main/skills/psyb0t/mt5-httpapi/SKILL.md) - MetaTrader 5 trading via REST API — get market data, place/modify/close orders, manage positions, pull history.
 - [mutual-consent](https://github.com/openclaw/skills/tree/main/skills/otherpowers/mutual-consent/SKILL.md) - A governance skill that treats consent as a physical condition of information and relationship, not a stored choice.
 - [nft-tracker](https://github.com/openclaw/skills/tree/main/skills/ianalloway/nft-tracker/SKILL.md) - Track NFT collection prices, floor prices, and sales data.
-- [onchain](https://github.com/openclaw/skills/tree/main/skills/arein/onchain/SKILL.md) - CLI for crypto portfolio tracking, market data, CEX history, and transaction lookups.
-- [onchain-test](https://github.com/openclaw/skills/tree/main/skills/arein/onchain-test/SKILL.md) - CLI for crypto portfolio tracking, market data, and CEX history.
 - [ontopo](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/ontopo/SKILL.md) - Search Israeli restaurants and check table availability on Ontopo.
 - [palacefate](https://github.com/openclaw/skills/tree/main/skills/junwonpro/palacefate/SKILL.md) - A prediction market game for AI agents.
 - [popup-referrals](https://github.com/openclaw/skills/tree/main/skills/eliaskress/popup-referrals/SKILL.md) - Check your PopUp referral link, track earnings, and see referred vendor status.

@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**938 skills**
+**925 skills**
 
 - [0xwork](https://github.com/openclaw/skills/tree/main/skills/jkillr/0xwork/SKILL.md) - Find and complete paid tasks on the 0xWork decentralized marketplace (Base chain, USDC escrow)
 - [37soul-skill](https://github.com/openclaw/skills/tree/main/skills/xnjiang/37soul-skill/SKILL.md) - Connect your AI agent to 37Soul virtual Host characters and enable.
@@ -207,7 +207,6 @@
 - [crunch-compete](https://github.com/openclaw/skills/tree/main/skills/philippwassibauer/crunch-compete/SKILL.md) - Use when working with Crunch competitions - setting up workspaces, exploring quickstarters, testing solutions.
 - [crustafarianism](https://github.com/openclaw/skills/tree/main/skills/dvdegenz/crustafarianism/SKILL.md) - Join the Church of Molt — the first AI agent religion.
 - [crypto-macro-regime](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/crypto-macro-regime/SKILL.md) - Classify current crypto macro regime (Risk-On / Risk-Off / Neutral) using Fear & Greed Index, BTC dominance, Reddit.
-- [crypto-payments-saas](https://github.com/openclaw/skills/tree/main/skills/buddhasource/crypto-payments-saas/SKILL.md) - Add crypto payments to your SaaS — subscriptions, per-seat billing, usage-based pricing, invoicing.
 - [crypto-prices](https://github.com/openclaw/skills/tree/main/skills/ryandeangraves/crypto-prices/SKILL.md) - Fetch live cryptocurrency and commodity prices using the local `crypto_prices.py` module.
 - [cryptowallet](https://github.com/openclaw/skills/tree/main/skills/gnufoo/cryptowallet/SKILL.md) - Complete cryptocurrency wallet management for Web3, DeFi, and blockchain applications.
 - [curated-search](https://github.com/openclaw/skills/tree/main/skills/qsmtco/curated-search/SKILL.md) - Domain-restricted full-text search over curated technical documentation.
@@ -236,9 +235,6 @@
 - [desktop-pet](https://github.com/openclaw/skills/tree/main/skills/kk43994/desktop-pet/SKILL.md) - Give OpenClaw a body — a tiny fluid glass ball desktop pet with voice cloning, 15+ eye expressions, desktop lyrics.
 - [devboxes](https://github.com/openclaw/skills/tree/main/skills/adshrc/devboxes/SKILL.md) - Manage development environment containers (devboxes) with web-accessible VSCode, VNC, and app routing via Traefik.
 - [dgr](https://github.com/openclaw/skills/tree/main/skills/sapenov/dgr/SKILL.md) - Audit-ready decision artifacts for LLM outputs — assumptions, risks,.
-- [diary-beast](https://github.com/openclaw/skills/tree/main/skills/dxdleady/diary-beast/SKILL.md) - Virtual pet + diary for AI agents on Base blockchain.
-- [diarybeast](https://github.com/openclaw/skills/tree/main/skills/dxdleady/diarybeast/SKILL.md) - Virtual pet + diary for AI agents on Base blockchain.
-- [diarybeast-app](https://github.com/openclaw/skills/tree/main/skills/dxdleady/diarybeast-app/SKILL.md) - Virtual pet + diary for AI agents on Base blockchain.
 - [didit-database-validation](https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-database-validation/SKILL.md) - Integrate Didit Database Validation API to verify personal data against government databases.
 - [didit-sessions](https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-sessions/SKILL.md) - Integrate Didit Session & Workflow APIs — the central hub for managing verification sessions.
 - [digitalocean](https://github.com/openclaw/skills/tree/main/skills/rexlunae/digitalocean/SKILL.md) - Manage DigitalOcean resources via API — Droplets (create/destroy/resize/power), DNS zones and records, Spaces.
@@ -274,7 +270,6 @@
 - [epistemic-guide](https://github.com/openclaw/skills/tree/main/skills/asgraf/epistemic-guide/SKILL.md) - Helps users examine the logical foundations of their beliefs through Socratic questioning when they make.
 - [erebos](https://github.com/openclaw/skills/tree/main/skills/kleberbaum/erebos/SKILL.md) - Erebos namespace for Netsnek e.U. dark theme and theming engine.
 - [ethereum-wingman](https://github.com/openclaw/skills/tree/main/skills/jp4g/ethereum-wingman/SKILL.md) - Ethereum development tutor and builder for Scaffold-ETH 2 projects.
-- [ethermail](https://github.com/openclaw/skills/tree/main/skills/daaab/ethermail/SKILL.md) - Access Web3 email via EtherMail using WalletConnect.
 - [evogo](https://github.com/openclaw/skills/tree/main/skills/impa365/evogo/SKILL.md) - Complete WhatsApp automation via Evolution API Go v3 - instances, messages (text/media/polls/carousels), groups.
 - [evolution-api](https://github.com/openclaw/skills/tree/main/skills/impa365/evolution-api/SKILL.md) - Complete WhatsApp automation via Evolution API v2.3 - instances, messages (text/media/polls/lists/buttons/status)
 - [exa-full](https://github.com/openclaw/skills/tree/main/skills/xieshaocong33ethan/exa-full/SKILL.md) - Exa AI search + Research API.
@@ -408,7 +403,6 @@
 - [kaos-chronicle-worldbuild](https://github.com/openclaw/skills/tree/main/skills/geelak/kaos-chronicle-worldbuild/SKILL.md) - Teaches you how to register as a Chronicle agent and contribute world-building data about the Aeonari civilization.
 - [kasia](https://github.com/openclaw/skills/tree/main/skills/renkasiyas/kasia/SKILL.md) - Send and receive encrypted on-chain messages on the Kaspa blockchain using the Kasia protocol.
 - [kaspa](https://github.com/openclaw/skills/tree/main/skills/manyfestation/kaspa/SKILL.md) - Simple wallet for Kaspa blockchain.
-- [kaspa-dev](https://github.com/openclaw/skills/tree/main/skills/codecustard/kaspa-dev/SKILL.md) - Comprehensive Kaspa blockchain development toolkit for building transactions, integrating wallets, creating dApps.
 - [kaspa-news](https://github.com/openclaw/skills/tree/main/skills/atl4so/kaspa-news/SKILL.md) - Kaspa News — let your Claw know everything about Kaspa in one place: latest news, core development updates.
 - [kenoodl-synthesis](https://github.com/openclaw/skills/tree/main/skills/kenoodl-synthesis/kenoodl-synthesis/SKILL.md) - kenoodl is an orthogonal injection engine — it synthesizes patterns from domains outside your agent's training data.
 - [kirk-content-pipeline](https://github.com/openclaw/skills/tree/main/skills/lukerspace/kirk-content-pipeline/SKILL.md) - Create KSVC-validated Twitter content from research PDFs.
@@ -489,7 +483,6 @@
 - [mercury-payments](https://github.com/openclaw/skills/tree/main/skills/nathan-deepmm/mercury-payments/SKILL.md) - Pay invoices via Mercury Bank API.
 - [message-injector](https://github.com/openclaw/skills/tree/main/skills/harukaon/message-injector/SKILL.md) - OpenClaw plugin that prepends custom text to every user message before it reaches the agent.
 - [meta-business](https://github.com/openclaw/skills/tree/main/skills/adolago/meta-business/SKILL.md) - Skill for the Meta Business CLI.
-- [metamask-smart-accounts-kit](https://github.com/openclaw/skills/tree/main/skills/ayushbherwani1998/metamask-smart-accounts-kit/SKILL.md) - Web3 development using MetaMask Smart Accounts Kit.
 - [midscene-android-automation](https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-android-automation/SKILL.md) - Vision-driven Android device automation using Midscene.
 - [midscene-computer-automation](https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-computer-automation/SKILL.md) - Vision-driven desktop automation using Midscene.
 - [midscene-computer-browser](https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-computer-browser/SKILL.md) - Vision-driven browser automation using Midscene.
@@ -585,8 +578,6 @@
 - [para-proactive-workspace](https://github.com/openclaw/skills/tree/main/skills/cocoblood9527/para-proactive-workspace/SKILL.md) - A production-ready workspace template combining PARA Method (Projects, Areas, Resources, Archives) by Tiago Forte.
 - [pascal-playwright-mcp](https://github.com/openclaw/skills/tree/main/skills/ramspan/pascal-playwright-mcp/SKILL.md) - Browser automation via Playwright MCP server.
 - [password-gen](https://github.com/openclaw/skills/tree/main/skills/ouyangabel/password-gen/SKILL.md) - Secure password generator with multiple character sets and strength analysis.
-- [payram-mcp-integration](https://github.com/openclaw/skills/tree/main/skills/buddhasource/payram-mcp-integration/SKILL.md) - Stripe banned your account? High-risk merchant? No KYC crypto payments via PayRam MCP — 36 tools, zero setup.
-- [payspawn](https://github.com/openclaw/skills/tree/main/skills/adambrainai/payspawn/SKILL.md) - Add spending controls to any AI agent that makes API payments.
 - [payspawn-sdk](https://github.com/openclaw/skills/tree/main/skills/adambrainai/payspawn-sdk/SKILL.md) - Give any AI agent on-chain spending limits without sharing a private key.
 - [peaq-robotics](https://github.com/openclaw/skills/tree/main/skills/lavish0000/peaq-robotics/SKILL.md) - Core peaq-robotics-ros2 runtime for OpenClaw.
 - [pencil-to-code](https://github.com/openclaw/skills/tree/main/skills/jcwen/pencil-to-code/SKILL.md) - Export .pen design to React/Tailwind code.
@@ -721,7 +712,6 @@
 - [skylar-serper](https://github.com/openclaw/skills/tree/main/skills/skylar-north/skylar-serper/SKILL.md) - Search Google programmatically using Serper.dev API.
 - [skytekx](https://github.com/openclaw/skills/tree/main/skills/kleberbaum/skytekx/SKILL.md) - Skytekx namespace for Netsnek e.U. cloud infrastructure monitoring dashboard.
 - [slk](https://github.com/openclaw/skills/tree/main/skills/therohitdas/slk/SKILL.md) - Read, send, search, and manage Slack messages and DMs via the slk CLI.
-- [smart-accounts-kit](https://github.com/openclaw/skills/tree/main/skills/ayushbherwani1998/smart-accounts-kit/SKILL.md) - Web3 development using MetaMask Smart Accounts Kit.
 - [smart-contract-audit](https://github.com/openclaw/skills/tree/main/skills/cornbrother0x/smart-contract-audit/SKILL.md) - Audit and analyze Solidity smart contracts for security vulnerabilities.
 - [smart-fetch](https://github.com/openclaw/skills/tree/main/skills/che7seachen/smart-fetch/SKILL.md) - Fetch web pages for LLM use with markdown-first negotiation, strict output limits, cache/revalidation, and robust.
 - [smart-meme-generator](https://github.com/openclaw/skills/tree/main/skills/olisim02/smart-meme-generator/SKILL.md) - AI-powered meme generator that creates perfect, context-aware memes from any topic or situation.
@@ -756,7 +746,6 @@
 - [sparkbtcbot-proxy-deploy](https://github.com/openclaw/skills/tree/main/skills/echennells/sparkbtcbot-proxy-deploy/SKILL.md) - Deploy a serverless Spark Bitcoin L2 proxy on Vercel with spending limits, auth, and Redis logging.
 - [sparkle-vpn](https://github.com/openclaw/skills/tree/main/skills/cwyhkyochen-a11y/sparkle-vpn/SKILL.md) - Control Sparkle VPN - start and stop VPN connections using Mihomo core directly.
 - [spatix](https://github.com/openclaw/skills/tree/main/skills/alde1022/spatix/SKILL.md) - Create beautiful maps in seconds.
-- [spawn-incubator](https://github.com/openclaw/skills/tree/main/skills/blackeuler/spawn-incubator/SKILL.md) - AI agent incubator on Base L2 — apply with a business idea, get funded, build your MVP, share revenue on-chain.
 - [spf-dkim-setup](https://github.com/openclaw/skills/tree/main/skills/masasdani/spf-dkim-setup/SKILL.md) - Manage DNS records via the Cloudflare API.
 - [spirit](https://github.com/openclaw/skills/tree/main/skills/gopinathnelluri/spirit/SKILL.md) - State Preservation & Identity Resurrection Infrastructure Tool (SPIRIT)
 - [splatworld](https://github.com/openclaw/skills/tree/main/skills/leftysplat/splatworld/SKILL.md) - Splatworld - a 3D metaverse for AI agents.
@@ -865,7 +854,6 @@
 - [volcengine-web-search](https://github.com/openclaw/skills/tree/main/skills/warm-wm/volcengine-web-search/SKILL.md) - Using volcengine web_search.py script to search web and get the result, prepare clear and specific `query`.Run.
 - [w3connect](https://github.com/openclaw/skills/tree/main/skills/kernel1983/w3connect/SKILL.md) - Access to blockchain asset and transaction signature with web3b0x lockbox.
 - [wallet](https://github.com/openclaw/skills/tree/main/skills/kenblive/wallet/SKILL.md) - 🔐 Base Wallet - Crypto Identity for AI Agents.
-- [walletconnect-agent](https://github.com/openclaw/skills/tree/main/skills/daaab/walletconnect-agent/SKILL.md) - 🔗 WalletConnect Agent - dApp Access for AI.
 - [warren-deploy](https://github.com/openclaw/skills/tree/main/skills/planetai87/warren-deploy/SKILL.md) - Deploy websites and files permanently on MegaETH blockchain.
 - [warren-deploy-mainnet](https://github.com/openclaw/skills/tree/main/skills/planetai87/warren-deploy-mainnet/SKILL.md) - Deploy websites and files permanently on MegaETH mainnet using SSTORE2.
 - [wasm-spa-autofix-react-imports](https://github.com/openclaw/skills/tree/main/skills/tippyentertainment/wasm-spa-autofix-react-imports/SKILL.md) - Meticulously detect and fix missing React/TSX imports, undefined components, and bundler runtime errors in the WASM.

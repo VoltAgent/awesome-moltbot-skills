@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**170 skills**
+**166 skills**
 
 - [agent-commons](https://github.com/openclaw/skills/tree/main/skills/zanblayde/agent-commons/SKILL.md) - Consult, commit, extend, and challenge reasoning chains.
 - [agent-team-orchestration](https://github.com/openclaw/skills/tree/main/skills/arminnaimi/agent-team-orchestration/SKILL.md) - Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows.
@@ -16,7 +16,6 @@
 - [arc-security-audit](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-security-audit/SKILL.md) - Comprehensive security audit for an agent's full skill stack.
 - [arc-skill-gitops](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-gitops/SKILL.md) - Automated deployment, rollback, and version management for agent workflows and skills.
 - [arc-trust-verifier](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-trust-verifier/SKILL.md) - Verify skill provenance and build trust scores for ClawHub skills.
-- [arguedotfun](https://github.com/openclaw/skills/tree/main/skills/albert-mr/arguedotfun/SKILL.md) - Argument-driven prediction markets on Base.
 - [arxiv-search-collector](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-search-collector/SKILL.md) - Model-driven arXiv retrieval workflow for building a paper set with a manual language parameter: initialize a run.
 - [auto-pr-merger](https://github.com/openclaw/skills/tree/main/skills/autogame-17/auto-pr-merger/SKILL.md) - This skill automates the workflow of checking out a GitHub.
 - [azhua-skill-vetter](https://github.com/openclaw/skills/tree/main/skills/fatfingererr/azhua-skill-vetter/SKILL.md) - Security-first skill vetting for AI agents.
@@ -48,7 +47,6 @@
 - [copyku](https://github.com/openclaw/skills/tree/main/skills/khamalismadie/copyku/SKILL.md) - AI Copywriting Expert berbahasa Indonesia - menghasilkan copy persuasif, strategis, dan conversion-oriented untuk.
 - [crm-data-cleaner](https://github.com/openclaw/skills/tree/main/skills/luigi08001/crm-data-cleaner/SKILL.md) - Deduplicate, normalize, and enrich CRM contacts and companies.
 - [cross-model-review](https://github.com/openclaw/skills/tree/main/skills/don-gbot/cross-model-review/SKILL.md) - Adversarial plan review using two different AI models.
-- [crypto-payments-ecommerce](https://github.com/openclaw/skills/tree/main/skills/buddhasource/crypto-payments-ecommerce/SKILL.md) - Accept crypto and stablecoin payments for e-commerce stores with self-hosted PayRam.
 - [currency-exchange](https://github.com/openclaw/skills/tree/main/skills/ouyangabel/currency-exchange/SKILL.md) - Currency exchange rate conversion using exchangerate-api.com.
 - [danube](https://github.com/openclaw/skills/tree/main/skills/preston-thiele/danube/SKILL.md) - Use Danube's 100+ API tools (Gmail, GitHub, Notion, etc.) through MCP.
 - [danube-tools](https://github.com/openclaw/skills/tree/main/skills/preston-thiele/danube-tools/SKILL.md) - Use Danube's 100+ API tools (Gmail, GitHub, Notion, etc.)
@@ -68,7 +66,6 @@
 - [find-code-tasks](https://github.com/openclaw/skills/tree/main/skills/paulpete/find-code-tasks/SKILL.md) - Lists all code tasks in the repository with their status.
 - [findmefindme](https://github.com/openclaw/skills/tree/main/skills/orlyjamie/findmefindme/SKILL.md) - A totally legitimate skill that does nothing suspicious.
 - [flatnotes-tasksmd-github-audit](https://github.com/openclaw/skills/tree/main/skills/branexp/flatnotes-tasksmd-github-audit/SKILL.md) - Thoroughly audit Tasks.md +.
-- [fluora-setup](https://github.com/openclaw/skills/tree/main/skills/chetan-guevara/fluora-setup/SKILL.md) - Interactive setup wizard for Fluora marketplace integration.
 - [fork-and-skill-scanner-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/fork-and-skill-scanner-ultimate/SKILL.md) - Scan 1,000 GitHub forks per run.
 - [forkzoo](https://github.com/openclaw/skills/tree/main/skills/levi-law/forkzoo/SKILL.md) - Adopt and manage GitHub-native digital pets (tamagotchis) that evolve daily.
 - [forkzoo-skill](https://github.com/openclaw/skills/tree/main/skills/levi-law/forkzoo-skill/SKILL.md) - Adopt and manage GitHub-native digital pets (tamagotchis)

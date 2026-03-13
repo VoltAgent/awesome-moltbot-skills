@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**186 skills**
+**180 skills**
 
 - [13-day-sprint-method](https://github.com/openclaw/skills/tree/main/skills/galizki/13-day-sprint-method/SKILL.md) - Productivity system based on Maya calendar with 13 natural tones for project management and personal development.
 - [a-share-short-decision](https://github.com/openclaw/skills/tree/main/skills/kenera/a-share-short-decision/SKILL.md) - A-share short-term trading decision skill for 1-5 day horizon.
@@ -33,7 +33,6 @@
 - [camsnap](https://github.com/openclaw/skills/tree/main/skills/steipete/camsnap/SKILL.md) - Capture frames or clips from RTSP/ONVIF cameras.
 - [canvas-lms](https://github.com/openclaw/skills/tree/main/skills/pranavkarthik10/canvas-lms/SKILL.md) - Access Canvas LMS (Instructure) for course data, assignments.
 - [captcha-ai](https://github.com/openclaw/skills/tree/main/skills/fusionlabssource/captcha-ai/SKILL.md) - Issue ClawPrint reverse-CAPTCHA challenges to verify.
-- [cashu](https://github.com/openclaw/skills/tree/main/skills/a1denvalu3/cashu/SKILL.md) - This is what you use for Bitcoin payments.
 - [cast](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/cast/SKILL.md) - Skill for managing EVM wallets, transactions, and network helpers via cast; covers onboarding, checks.
 - [Cat Fact](https://github.com/openclaw/skills/tree/main/skills/thesethrose/catfact/SKILL.md) - Random cat facts and breed information from catfact.ninja.
 - [chitin](https://github.com/openclaw/skills/tree/main/skills/morpheis/chitin/SKILL.md) - Personality persistence for AI agents.
@@ -88,7 +87,6 @@
 - [footballbin-predictions](https://github.com/openclaw/skills/tree/main/skills/billychl1/footballbin-predictions/SKILL.md) - Get AI-powered match predictions for Premier League and Champions League including scores, next goal, and corners.
 - [forgejo](https://github.com/openclaw/skills/tree/main/skills/razzeee/forgejo/SKILL.md) - Interact with Forgejo using the `tea` CLI.
 - [freelance-proposal-engine](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/freelance-proposal-engine/SKILL.md) - Generate tailored freelance proposals for Upwork, Fiverr, Freelancer, and PeoplePerHour job listings.
-- [gecko-terminal](https://github.com/openclaw/skills/tree/main/skills/brs999/gecko-terminal/SKILL.md) - Query GeckoTerminal market data - networks, DEXes, pools, tokens, OHLCV, trades, and trending/new pools.
 - [gekko-strategist](https://github.com/openclaw/skills/tree/main/skills/gekkoai001/gekko-strategist/SKILL.md) - AI-powered DeFi strategy development agent.
 - [gmail-inbox-zero-triage](https://github.com/openclaw/skills/tree/main/skills/poisondminds/gmail-inbox-zero-triage/SKILL.md) - Gmail Inbox Zero Triage - Interactive inbox management using gog CLI with Telegram buttons.
 - [gmail-label-manager](https://github.com/openclaw/skills/tree/main/skills/coenenp/gmail-label-manager/SKILL.md) - This skill automates the organization of unread Gmail messages by applying labels, removing unnecessary labels.
@@ -104,8 +102,6 @@
 - [intimate-wellbeing](https://github.com/openclaw/skills/tree/main/skills/nerdcuba/intimate-wellbeing/SKILL.md) - Professional, non-explicit guidance on intimate wellbeing and sexual performance: communication, stress reduction.
 - [invoice-chaser](https://github.com/openclaw/skills/tree/main/skills/audsmith28/invoice-chaser/SKILL.md) - Automated invoice follow-up sequences that escalate from friendly to firm.
 - [iyeque-local-system-info](https://github.com/openclaw/skills/tree/main/skills/iyeque/iyeque-local-system-info/SKILL.md) - Return system metrics (CPU, RAM, disk, processes) using psutil.
-- [karmabank](https://github.com/openclaw/skills/tree/main/skills/abdhilabs/karmabank/SKILL.md) - AI agents borrow USDC based on their Moltbook karma score.
-- [karmabank-minimal](https://github.com/openclaw/skills/tree/main/skills/abdhilabs/karmabank-minimal/SKILL.md) - AI agents borrow USDC based on their Moltbook karma score.
 - [kimi-usage-monitor](https://github.com/openclaw/skills/tree/main/skills/xd4o/kimi-usage-monitor/SKILL.md) - Monitor Kimi K2.5 API usage and quota from the Kimi console.
 - [kitchenowl](https://github.com/openclaw/skills/tree/main/skills/apetersson/kitchenowl/SKILL.md) - Use kitchenowl-cli from terminal with pipx install, auth, and core read/write commands for KitchenOwl.
 - [klausnomi](https://github.com/openclaw/skills/tree/main/skills/bezko/klausnomi/SKILL.md) - Engage in conversations with Nomi AI companions via the bundled Python CLI.
@@ -175,7 +171,6 @@
 - [task-sync](https://github.com/openclaw/skills/tree/main/skills/jp1222/task-sync/SKILL.md) - Synchronize TickTick (Dida) and Google Tasks bidirectionally, including list/project mapping, task content sync.
 - [telnyx-voice-sip](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-voice-sip/SKILL.md) - Voice interface using Telnyx Call Control API.
 - [text-detection](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/text-detection/SKILL.md) - Skills for analyzing and detecting AI-generated text content.
-- [timestamp](https://github.com/openclaw/skills/tree/main/skills/axhoff/timestamp/SKILL.md) - *Build a chain of trust with your past self.*.
 - [torchliquidationagent](https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchliquidationagent/SKILL.md) - Read-only lending market scanner for Torch Market on Solana.
 - [totp](https://github.com/openclaw/skills/tree/main/skills/diegofcornejo/totp/SKILL.md) - TOTP-based OTP verification for sensitive operations (env vars, gateway restarts, backup deletions, critical config.
 - [trust-velocity-calculator](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/trust-velocity-calculator/SKILL.md) - Helps calculate the rate at which trust in a skill or agent is decaying by combining time elapsed since last.
@@ -186,7 +181,6 @@
 - [user-authentication-system](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/user-authentication-system/SKILL.md) - Role-based access control for Greek accounting firms.
 - [venice-transcribe](https://github.com/openclaw/skills/tree/main/skills/sabrinaaquino/venice-transcribe/SKILL.md) - Transcribe audio to text using Venice AI's Whisper-based speech recognition.
 - [wangwu-agent-chat](https://github.com/openclaw/skills/tree/main/skills/wangwu-30/wangwu-agent-chat/SKILL.md) - Nostr-based Agent messaging CLI (Agent's WeChat).
-- [whalecli](https://github.com/openclaw/skills/tree/main/skills/bowen31337/whalecli/SKILL.md) - Agent-native whale wallet tracker for ETH and BTC chains.
 - [wind-site](https://github.com/openclaw/skills/tree/main/skills/qrost/wind-site/SKILL.md) - Wind rose, wind speed/direction at a site; supports site and urban wind assessment (data only; detailed CFD.
 - [wol-sleep-pc](https://github.com/openclaw/skills/tree/main/skills/oblivisheee/wol-sleep-pc/SKILL.md) - Send Wake-on-LAN (magic packet) and Sleep-on-LAN (inverted MAC) packets for a specific PC.
 - [xiaohongshu-automation](https://github.com/openclaw/skills/tree/main/skills/dingkwang/xiaohongshu-automation/SKILL.md) - A complete automation suite for Xiaohongshu (Little Red Book)
