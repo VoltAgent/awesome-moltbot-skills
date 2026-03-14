@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**1199 skills**
+**1200 skills**
 
 - [0g-compute](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/0g-compute/SKILL.md) - Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers.
 - [0protocol](https://github.com/openclaw/skills/tree/main/skills/0isone/0protocol/SKILL.md) - Agents can sign plugins, rotate credentials without losing identity, and publicly attest to behavior.
@@ -1088,6 +1088,7 @@
 - [trustlog-guard](https://github.com/openclaw/skills/tree/main/skills/anouartrust/trustlog-guard/SKILL.md) - Financial governance for OpenClaw agents.
 - [truth-frist](https://github.com/openclaw/skills/tree/main/skills/royhk920/truth-frist/SKILL.md) - Evidence-first verification for status, config, file contents, actions, connectivity, mounts, and model selection.
 - [tubelab-api](https://github.com/openclaw/skills/tree/main/skills/antoniojps/tubelab-api/SKILL.md) - YouTube analytics and research API.
+- [tutti](https://github.com/openclaw/skills/tree/main/skills/nutt-adam/tutti/SKILL.md) - Orchestrate multiple AI coding agents (Claude Code, Codex, Aider) from a single config — launch teams, run workflows, track capacity, and manage handoffs.
 - [turing-pyramid](https://github.com/openclaw/skills/tree/main/skills/tensusds/turing-pyramid/SKILL.md) - Decision framework for agent psychological health. 10 needs with decay, tension-based priority, cross-need cascades.
 - [twenty-oauth-mastery](https://github.com/openclaw/skills/tree/main/skills/avirweb/twenty-oauth-mastery/SKILL.md) - **Author**: Generated from extensive OAuth debugging sessions in OpenCode.
 - [twilio](https://github.com/openclaw/skills/tree/main/skills/codedao12/twilio/SKILL.md) - OpenClaw skill for Twilio APIs: Messaging, WhatsApp, Voice, Conversations, Verify, plus Studio, Lookup, Proxy.
