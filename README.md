@@ -831,7 +831,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [camino-real-estate](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-real-estate/SKILL.md) - Evaluate any address for home buyers and renters.
 - [camino-route](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-route/SKILL.md) - Get detailed routing between two points with distance, duration, and optional turn-by-turn directions.
 
-> **[View all 109 skills in Transportation →](categories/transportation.md)**
+> **[View all 110 skills in Transportation →](categories/transportation.md)**
 </details>
 
 <details>
