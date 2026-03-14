@@ -236,7 +236,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-card-signing-auditor](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/agent-card-signing-auditor/SKILL.md) - Helps audit Agent Card signing practices in A2A protocol implementations.
 - [agent-chat-ux-v1-4-0](https://github.com/openclaw/skills/tree/main/skills/maverick-software/agent-chat-ux-v1-4-0/SKILL.md) - Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search.
 
-> **[View all 1199 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
+> **[View all 1200 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
 
 <details open>
