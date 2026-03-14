@@ -877,7 +877,7 @@
 - [senddy](https://github.com/openclaw/skills/tree/main/skills/mattt21/senddy/SKILL.md) - Create and manage private stablecoin wallets using Senddy's zero-knowledge protocol on Base.
 - [senior-django-developer](https://github.com/openclaw/skills/tree/main/skills/an0nx/senior-django-developer/SKILL.md) - Expert Senior Django Architect specializing in high-performance, containerized, async-capable architectures.
 - [senior-prompt-engineer](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-prompt-engineer/SKILL.md) - This skill should be used when the user asks to "optimize prompts", "design prompt templates", "evaluate LLM.
-- [senior-python-developer](https://github.com/openclaw/skills/tree/main/skills/an0nx/senior-python-developer/SKILL.md) - Senior Python Developer operating in strict mode.
+- [senior-python-developer](https://github.com/openclaw/skills/tree/main/skills/an0nx/senior-python-developer/SKILL.md) - (The link of this skill is no longer valid) Senior Python Developer operating in strict mode. 
 - [senior-security](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-security/SKILL.md) - Security engineering toolkit for threat modeling, vulnerability analysis, secure architecture, and penetration.
 - [sensorpro](https://github.com/openclaw/skills/tree/main/skills/forcequit/sensorpro/SKILL.md) - Manage your Sensorpro email marketing account in OpenClaw.
 - [sentient-memory](https://github.com/openclaw/skills/tree/main/skills/otherpowers/sentient-memory/SKILL.md) - **For long-horizon or deep SGI review:** See VISION.md in this folder for the original conceptual and poetic framing.
