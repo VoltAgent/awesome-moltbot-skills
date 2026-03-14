@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**109 skills**
+**110 skills**
 
 - [accountsos](https://github.com/openclaw/skills/tree/main/skills/paulgosnell/accountsos/SKILL.md) - AI-native accounting for UK micro-businesses.
 - [aetherlang-strategy](https://github.com/openclaw/skills/tree/main/skills/contrario/aetherlang-strategy/SKILL.md) - > Game theory, Monte Carlo simulations, behavioral economics, and competitive war gaming.
@@ -65,6 +65,7 @@
 - [google-maps-search-api](https://github.com/openclaw/skills/tree/main/skills/phheng/google-maps-search-api/SKILL.md) - This skill is designed to help users.
 - [gotrain](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/gotrain/SKILL.md) - MTA system train departures (NYC Subway, LIRR, Metro-North).
 - [greek-compliance-aade](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-compliance-aade/SKILL.md) - Greek tax compliance with AADE/TAXIS integration — VAT, payroll, EFKA, municipal taxes, stamp duty.
+- [hk-bus-eta](https://github.com/openclaw/skills/tree/main/skills/tomfong/hk-bus-eta/SKILL.md) - Real-time Hong Kong bus arrival predictions for KMB, LWB, and Citybus. 香港九巴、城巴及龍運實時到站時間查詢。
 - [hudy](https://github.com/openclaw/skills/tree/main/skills/kyu1204/hudy/SKILL.md) - Korean public holidays and business day calculations via HuDy MCP.
 - [idfm-journey-navitia](https://github.com/openclaw/skills/tree/main/skills/anthonymq/idfm-journey-navitia/SKILL.md) - Query Île-de-France Mobilités (IDFM) PRIM/Navitia.
 - [idfm-journey-skill](https://github.com/openclaw/skills/tree/main/skills/anthonymq/idfm-journey-skill/SKILL.md) - Query Île-de-France Mobilités (IDFM) PRIM/Navitia.
