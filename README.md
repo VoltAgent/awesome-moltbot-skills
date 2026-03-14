@@ -117,6 +117,21 @@ You can deploy OpenClaw on any VPS or cloud platform run your skills securely on
 > **Tip:** If you're looking for a quick cloud setup, spin up a VPS with your preferred provider, install OpenClaw via Docker, and you're good to go.
 
 
+### 🤝 Agent Coordination
+
+Run multiple OpenClaw instances that coordinate work without manual handoffs.
+
+<a href="https://github.com/farol-team/gnap">
+<img src="https://img.shields.io/badge/GNAP-git--native%20protocol-blue?style=flat-square" alt="GNAP" />
+</a>
+
+**[GNAP](https://github.com/farol-team/gnap)** (Git-Native Agent Protocol) — A zero-server protocol for multi-agent OpenClaw coordination. Agents read/write JSON files in a shared git repo for tasks, runs, messages, and agent registry.
+
+- Tasks survive agent restarts (git history = persistent state)
+- Works with any OpenClaw skill — no special integration needed
+- Example: Agent 1 creates `gnap/tasks/task-001.json`, Agent 2 picks it up via git pull
+
+
 <div align="center">
 
 <table>
