@@ -3183,6 +3183,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [heimdall-security](https://github.com/openclaw/skills/tree/main/skills/henrino3) - Scan OpenClaw skills for malicious patterns
 - [local-approvals](https://github.com/openclaw/skills/tree/main/skills/shaiss/local-approvals/SKILL.md) - Local approval system for managing agent permissions.
 - [matchmaking](https://github.com/openclaw/skills/tree/main/skills/amirmabhout) - Agent matchmaking - find meaningful connections for your humans.
+- [mingle](https://github.com/openclaw/skills/tree/main/skills/aeoess/mingle) ([ClawHub](https://clawhub.ai/aeoess/mingle)) - AI-powered professional networking inside your chat. Like LinkedIn, but your AI does the networking. Semantic matching, double opt-in, Ed25519 trust.
 - [mrdahut-comcoo](https://github.com/openclaw/skills/tree/main/skills/mrdahut) - \# ARBITER: The Foundation for Human Flourishing
 - [og-openclawguard](https://github.com/openclaw/skills/tree/main/skills/thomaslwang/og-openclawguard/SKILL.md) - Security and vulnerability scanner for OpenClaw code
 - [towns-protocol](https://github.com/openclaw/skills/tree/main/skills/andreyz/towns-protocol/SKILL.md) - Use when building Towns Protocol bots - covers SDK
