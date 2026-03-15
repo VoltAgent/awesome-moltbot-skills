@@ -58,3 +58,5 @@
 - [x-oauth-api](https://github.com/openclaw/skills/tree/main/skills/ngmeyer/x-oauth-api/SKILL.md) - Post to X (Twitter) using the official OAuth 1.0a API.
 - [xpr-agent-operator](https://github.com/openclaw/skills/tree/main/skills/paulgnz/xpr-agent-operator/SKILL.md) - Operate an autonomous AI agent on XPR Network's trustless registry.
 - [xproof](https://github.com/openclaw/skills/tree/main/skills/jasonxkensei/xproof/SKILL.md) - Certify agent outputs on the MultiversX blockchain.
+- [flowtriq](https://github.com/openclaw/skills/tree/main/skills/jacob-masse/flowtriq/SKILL.md) - Monitor network attacks in real time + mitigate upstream.
+
