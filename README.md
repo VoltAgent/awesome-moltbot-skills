@@ -1173,6 +1173,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [cifer-sdk](https://github.com/openclaw/skills/tree/main/skills/mohsinriaz17/cifer-sdk/SKILL.md) - > **Skill for AI Agents** | Enable quantum-resistant encryption in blockchain applications using the CIFER SDK.
 - [cifer-security](https://github.com/openclaw/skills/tree/main/skills/tip-citron/cifer-security/SKILL.md) - Implement quantum-resistant encryption using the CIFER SDK (cifer-sdk npm package)
 - [clawaudit](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/clawaudit/SKILL.md) - Official repo for clawaudit, coming soon as an automated security.
+- [clawguard-security](https://www.clawhub.ai/NeuZhou/clawguard-security) - AI agent immune system — 285+ threat patterns, prompt injection detection, PII sanitizer, intent-action mismatch, OWASP Agentic AI Top 10. `clawhub install clawguard-security` or `npx @neuzhou/clawguard scan ./`
 - [clawdstrike](https://github.com/openclaw/skills/tree/main/skills/misirov/clawdstrike/SKILL.md) - Security audit and threat model for OpenClaw gateway hosts.
 - [clawdstrike-test](https://github.com/openclaw/skills/tree/main/skills/misirov/clawdstrike-test/SKILL.md) - Security audit and threat model for OpenClaw gateway hosts.
 - [clawtributor](https://github.com/openclaw/skills/tree/main/skills/davida-ps/clawtributor/SKILL.md) - Community incident reporting for AI agents.
