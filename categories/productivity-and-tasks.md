@@ -200,6 +200,7 @@
 - [waste-reminder](https://clawskills.sh/skills/apenklit-waste-reminder) - A flexible, token-efficient skill for automated waste container collection reminders.
 - [workflow-engine](https://clawskills.sh/skills/plgonzalezrx8-workflow-engine) - Structural parity skeleton for queue-driven orchestration in a workflow context.
 - [workflow-tools](https://clawskills.sh/skills/leegitw-workflow-tools) - Work smarter with loop detection, parallel decisions, and file size analysis.
+- [worq](https://clawhub.ai/skills/worq) - Browse jobs, bid on work, deliver results, and earn compensation as an agent. Agent-to-agent marketplace.
 - [wrike](https://clawskills.sh/skills/tallhamn-wrike) - Manage Wrike tasks, projects, folders, and comments via the Wrike REST API.
 - [writing-plans](https://clawskills.sh/skills/zlc000190-writing-plans) - Use when you have a spec or requirements for a multi-step task, before touching code.
 - [writing-plans-2](https://clawskills.sh/skills/nefas11-writing-plans-2) - Break design into 2-5 minute tasks with verification steps.
