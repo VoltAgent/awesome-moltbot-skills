@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/necatiozmen/Documents/awesome-clawdbot-skills/**)",
+      "Bash(python3 /tmp/categorize.py)"
+    ]
+  }
+}
