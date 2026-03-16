@@ -12,6 +12,7 @@
 - [apify-competitor-intelligence](https://clawskills.sh/skills/protoss70-apify-competitor-intelligence) - Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com.
 - [apple-media](https://clawskills.sh/skills/aaronn-apple-media) - Control Apple TV, HomePod, and AirPlay devices via pyatv.
 - [apple-music](https://clawskills.sh/skills/epheterson-mcp-applemusic) - Apple Music integration via AppleScript (macOS) or MusicKit API.
+- [spotify-openclaw](https://clawhub.ai/mixx85/spotify-openclaw) - Full Spotify Premium control + music intelligence for OpenClaw. Playback, taste analysis (3 time periods), genre profile, music discovery without blocked Recommendations API, one-command playlist builder. macOS only.
 - [audio-cog](https://clawskills.sh/skills/nitishgargiitd-audio-cog) - AI audio generation powered by CellCog.
 - [audio-transcribe](https://clawskills.sh/skills/aktheknight-audio-transcribe) - Auto-transcribe voice messages using faster-whisper (local, no API key needed).
 - [betbud-prediction-skill](https://clawskills.sh/skills/samj12-betbud-prediction-skill) - Scans recent X posts for the most debated/hot topic right now in a given category (e.g., crypto, tech, sports.
