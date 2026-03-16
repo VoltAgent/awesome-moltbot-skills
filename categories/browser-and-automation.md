@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**320 skills**
+**322 skills**
 
 - [1p-shortlink](https://github.com/openclaw/skills/tree/main/skills/tuanpmt/1p-shortlink/SKILL.md) - Create short URLs and submit feature requests using 1p.io.
 - [2captcha](https://github.com/openclaw/skills/tree/main/skills/adinvadim/2captcha/SKILL.md) - Solve CAPTCHAs using 2Captcha service.
@@ -154,6 +154,8 @@
 - [jup-skill](https://github.com/openclaw/skills/tree/main/skills/lifeofpavs/jup-skill/SKILL.md) - Execute Jupiter API operations on Solana - fetch quotes, sign transactions, execute swaps, prediction markets.
 - [level-design-patterns](https://github.com/openclaw/skills/tree/main/skills/cryptorabea/level-design-patterns/SKILL.md) - Use when creating Unity game scenes and prototypes, building level designs, or automating Unity Editor workflows.
 - [lifi-skill](https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/lifi-skill/SKILL.md) - v4 - Use LI.FI API for cross-chain and same-chain swaps, bridges, and contract calls.
+- [lightcone-browse](https://github.com/openclaw/skills/tree/main/skills/eddieogola/lightcone-browse/SKILL.md) - Delegate browser tasks to a cloud computer powered by Lightcone.
+- [lightcone-session](https://github.com/openclaw/skills/tree/main/skills/eddieogola/lightcone-session/SKILL.md) - Manual step-by-step computer control via Lightcone sessions.
 - [lightningprox](https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/lightningprox/SKILL.md) - Pay-per-request AI model access via Bitcoin Lightning using prepaid spend tokens.
 - [line-oa](https://github.com/openclaw/skills/tree/main/skills/picseeinc/line-oa/SKILL.md) - Operate LINE Official Account Manager (chat.line.biz) via browser automation.
 - [link-digest](https://github.com/openclaw/skills/tree/main/skills/zerone0x/link-digest/SKILL.md) - Process links and content shared in a designated 'interesting findings' Discord channel.
