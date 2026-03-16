@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**352 skills**
+**353 skills**
 
 - [1](https://github.com/openclaw/skills/tree/main/skills/nastrology/1/SKILL.md) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [academic-deep-research](https://github.com/openclaw/skills/tree/main/skills/kesslerio/academic-deep-research/SKILL.md) - Transparent, rigorous research with full.
@@ -163,6 +163,7 @@
 - [google-trends](https://github.com/openclaw/skills/tree/main/skills/satnamra/google-trends/SKILL.md) - Monitor Google Trends - get trending searches, compare keywords, and track interest over time.
 - [gsd](https://github.com/openclaw/skills/tree/main/skills/oleg-schmidt/gsd/SKILL.md) - Get Shit Done - Full project planning and execution workflow.
 - [happenstance](https://github.com/openclaw/skills/tree/main/skills/dgoss28/happenstance/SKILL.md) - Search your professional network and research people using the Happenstance API.
+- [hf-papers](https://github.com/openclaw/skills/tree/main/skills/willamhou/hf-papers/SKILL.md) - Browse trending Hugging Face Papers, search by keyword, and get paper details.
 - [hippius](https://github.com/openclaw/skills/tree/main/skills/maxquick/hippius/SKILL.md) - Hippius decentralized storage on Bittensor Subnet 75 — upload files, query storage, manage buckets.
 - [hira-hospital](https://github.com/openclaw/skills/tree/main/skills/sw326/hira-hospital/SKILL.md) - HIRA hospital information search API.
 - [hk101-living-rag](https://github.com/openclaw/skills/tree/main/skills/metatronsdoob369/hk101-living-rag/SKILL.md) - Simple RAG over local text/markdown.
