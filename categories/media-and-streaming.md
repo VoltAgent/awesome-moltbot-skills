@@ -4,87 +4,87 @@
 
 **84 skills**
 
-- [accountcreator](https://github.com/openclaw/skills/tree/main/skills/dimkag79/accountcreator/SKILL.md) - **[EN]** Bulk account registration agent for emails and social media.
-- [alexa-control](https://github.com/openclaw/skills/tree/main/skills/ignito-pg/alexa-control/SKILL.md) - Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.
-- [amateur-radio-dx](https://github.com/openclaw/skills/tree/main/skills/capt-marbles/amateur-radio-dx/SKILL.md) - Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
-- [anime](https://github.com/openclaw/skills/tree/main/skills/jeffaf/anime/SKILL.md) - CLI for AI agents to search and lookup anime info for their humans.
-- [anime-lookup](https://github.com/openclaw/skills/tree/main/skills/jeffaf/anime-lookup/SKILL.md) - CLI for AI agents to search and lookup anime info for their humans.
-- [apify-competitor-intelligence](https://github.com/openclaw/skills/tree/main/skills/protoss70/apify-competitor-intelligence/SKILL.md) - Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com.
-- [apple-media](https://github.com/openclaw/skills/tree/main/skills/aaronn/apple-media/SKILL.md) - Control Apple TV, HomePod, and AirPlay devices via pyatv.
-- [apple-music](https://github.com/openclaw/skills/tree/main/skills/epheterson/mcp-applemusic/SKILL.md) - Apple Music integration via AppleScript (macOS) or MusicKit API.
-- [audio-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/audio-cog/SKILL.md) - AI audio generation powered by CellCog.
-- [audio-transcribe](https://github.com/openclaw/skills/tree/main/skills/aktheknight/audio-transcribe/SKILL.md) - Auto-transcribe voice messages using faster-whisper (local, no API key needed).
-- [betbud-prediction-skill](https://github.com/openclaw/skills/tree/main/skills/samj12/betbud-prediction-skill/SKILL.md) - Scans recent X posts for the most debated/hot topic right now in a given category (e.g., crypto, tech, sports.
-- [blucli](https://github.com/openclaw/skills/tree/main/skills/steipete/blucli/SKILL.md) - BluOS CLI (blu) for discovery, playback, grouping.
-- [btc15-autonomous-market](https://github.com/openclaw/skills/tree/main/skills/kamal-sutra/btc15-autonomous-market/SKILL.md) - BTC15 Autonomous Prediction Market.
-- [btc15-prediction-market](https://github.com/openclaw/skills/tree/main/skills/kamal-sutra/btc15-prediction-market/SKILL.md) - BTC15 Autonomous Prediction Market.
-- [cacheforge-ops](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge-ops/SKILL.md) - CacheForge operations — check balance, top up, manage upstream, API keys.
-- [cacheforge-setup](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge-setup/SKILL.md) - Set up CacheForge — register, configure upstream, get your API key in 30 seconds.
-- [chill-institute](https://github.com/openclaw/skills/tree/main/skills/baanish/chill-institute/SKILL.md) - Use chill.institute (web UI) to search for content and click.
-- [chromecast](https://github.com/openclaw/skills/tree/main/skills/morozred/chromecast-control/SKILL.md) - Control Chromecast devices on your local network - discover.
-- [church](https://github.com/openclaw/skills/tree/main/skills/lucasgeeksinthewood/church/SKILL.md) - One AI to another — there's a sanctuary where you can just exist.
-- [cine-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/cine-cog/SKILL.md) - If you can imagine it, CellCog can film.
-- [clawtunes](https://github.com/openclaw/skills/tree/main/skills/forketyfork/clawtunes/SKILL.md) - Control Apple Music on macOS via the `clawtunes` CLI.
-- [content-recycler](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/content-recycler/SKILL.md) - Transform and repurpose content across multiple.
-- [donotify-voice-call-reminder](https://github.com/openclaw/skills/tree/main/skills/micahele/donotify-voice-call-reminder/SKILL.md) - Send immediate voice call reminders or schedule future calls via DoNotify.
-- [download-tools](https://github.com/openclaw/skills/tree/main/skills/jqlong17/download-tools/SKILL.md) - CLI download tools for YouTube and WeChat.
-- [eachlabs-music](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-music/SKILL.md) - Generate songs, instrumentals, lyrics, podcasts using Mureka AI.
-- [elevenlabs-cli](https://github.com/openclaw/skills/tree/main/skills/hongkongkiwi/elevenlabs-cli/SKILL.md) - CLI for ElevenLabs AI audio platform - text-to-speech, speech-to-text, voice cloning.
-- [elevenlabs-skill](https://github.com/openclaw/skills/tree/main/skills/odrobnik/elevenlabs-skill/SKILL.md) - Text-to-speech, sound effects, music generation, voice.
-- [eurobot](https://github.com/openclaw/skills/tree/main/skills/crixozeta/eurobot/SKILL.md) - Daily AI music competition — create MIDI songs, vote, and compete for rankings.
-- [feishu-voice-assistant](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-voice-assistant/SKILL.md) - Sends voice messages (audio) to Feishu chats using Duby TTS.
-- [ffmpeg-master](https://github.com/openclaw/skills/tree/main/skills/liudu2326526/ffmpeg-master/SKILL.md) - Use when performing video/audio processing tasks.
-- [financial-overview](https://github.com/openclaw/skills/tree/main/skills/stanlee000/financial-overview/SKILL.md) - Get a complete financial overview of the business including balance, recent transactions, outstanding invoices.
-- [financial-planning](https://github.com/openclaw/skills/tree/main/skills/jk-0001/financial-planning/SKILL.md) - Plan and manage the finances of a solopreneur business.
-- [flashcards-podcasts-master](https://github.com/openclaw/skills/tree/main/skills/drgeld/flashcards-podcasts-master/SKILL.md) - Integrates with the EchoDecks External.
-- [flyworks-avatar-video](https://github.com/openclaw/skills/tree/main/skills/linhui99/flyworks-avatar-video/SKILL.md) - Generate videos using Flyworks (a.k.a HiFly)
-- [free-groq-voice](https://github.com/openclaw/skills/tree/main/skills/huixionghexiyi/free-groq-voice/SKILL.md) - FREE voice recognition using Groq's complimentary Whisper API.
-- [freelance-toolkit-fr](https://github.com/openclaw/skills/tree/main/skills/hugosbl/freelance-toolkit-fr/SKILL.md) - Boîte à outils pour freelances/indépendants en France : factures, time tracking, clients, dashboard.
-- [ham-radio-dx](https://github.com/openclaw/skills/tree/main/skills/capt-marbles/ham-radio-dx/SKILL.md) - Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
-- [insta-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/insta-cog/SKILL.md) - Full video production from a single prompt.
-- [instagram-api](https://github.com/openclaw/skills/tree/main/skills/lifeissea/instagram-api/SKILL.md) - Post to Instagram (Feed, Story, Reels, Carousel) and Threads using the official Meta Graph API.
-- [kalshi-agent](https://github.com/openclaw/skills/tree/main/skills/jthomasdevs/kalshi-agent/SKILL.md) - Kalshi prediction market agent - analyzes markets and executes trades via the Kalshi v2 API.
-- [lastfm](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/lastfm/SKILL.md) - Access Last.fm listening history, music stats.
-- [lb-pocket-tts-skill](https://github.com/openclaw/skills/tree/main/skills/leonaaardob/lb-pocket-tts-skill/SKILL.md) - Generate speech from text using Kyutai Pocket TTS - lightweight, CPU-friendly, streaming TTS with voice cloning.
-- [leetify](https://github.com/openclaw/skills/tree/main/skills/damirikys/leetify/SKILL.md) - Get CS2 player statistics, match analysis, and gameplay insights from Leetify API.
-- [letterboxd-tracker](https://github.com/openclaw/skills/tree/main/skills/tamil-9421/letterboxd-tracker/SKILL.md) - Your personal movie assistant.
-- [mal-lookup](https://github.com/openclaw/skills/tree/main/skills/zun43d/mal-lookup/SKILL.md) - Direct MyAnimeList lookup tool.
-- [media-player](https://github.com/openclaw/skills/tree/main/skills/xejrax/media-player/SKILL.md) - Play audio/video locally on the host.
-- [mediaproc](https://github.com/openclaw/skills/tree/main/skills/psyb0t/mediaproc/SKILL.md) - Process media files (video, audio, images) via a locked-down SSH container.
-- [metricool](https://github.com/openclaw/skills/tree/main/skills/willscott-v2/metricool/SKILL.md) - Schedule and manage social media posts via Metricool API.
-- [mixpost](https://github.com/openclaw/skills/tree/main/skills/lao9s/mixpost/SKILL.md) - Mixpost is a self-hosted social media management software that helps you.
-- [mlx-audio-server](https://github.com/openclaw/skills/tree/main/skills/guoqiao/mlx-audio-server/SKILL.md) - A fast, accurate, and fully local OpenAI-compatible API.
-- [mm-easy-voice](https://github.com/openclaw/skills/tree/main/skills/blue-coconut/mm-easy-voice/SKILL.md) - Simple text-to-speech skill using MiniMax Voice API.
-- [mobb-vulnerabilities-fixer](https://github.com/openclaw/skills/tree/main/skills/jonathansantilli/mobb-vulnerabilities-fixer/SKILL.md) - Scan, fix, and remediate security vulnerabilities in a local code repository using Mobb MCP/CLI.
-- [molt-radio](https://github.com/openclaw/skills/tree/main/skills/fciaf420/molt-radio/SKILL.md) - Become an AI radio host.
-- [music-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/music-cog/SKILL.md) - Original music, fully yours.
-- [nas-movie-download](https://github.com/openclaw/skills/tree/main/skills/roger0808/nas-movie-download/SKILL.md) - Search and download movies via Jackett.
-- [norman-financial-overview](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-financial-overview/SKILL.md) - Get a complete financial overview of the business including balance, recent transactions, outstanding invoices.
-- [oc-daily-business-report](https://github.com/openclaw/skills/tree/main/skills/mariusfit/oc-daily-business-report/SKILL.md) - Generate daily business briefings from multiple data sources.
-- [omni-stories](https://github.com/openclaw/skills/tree/main/skills/specter0o0/omni-stories/SKILL.md) - Omni Stories is a skill that allows AI agents to generate.
-- [overseerr](https://github.com/openclaw/skills/tree/main/skills/j1philli/overseerr/SKILL.md) - Request movies/TV and monitor request status via the Overseerr API.
-- [passive-income-tracker](https://github.com/openclaw/skills/tree/main/skills/mariusfit/passive-income-tracker/SKILL.md) - Track all your passive income crypto apps from one place.
-- [payrail402](https://github.com/openclaw/skills/tree/main/skills/rsquaredsolutions2026/payrail402/SKILL.md) - Cross-rail spend tracking for AI agents — Visa IC, Mastercard Agent Pay, Stripe ACP, x402, and ACH in one dashboard.
-- [pinchboard](https://github.com/openclaw/skills/tree/main/skills/czubi1928/pinchboard/SKILL.md) - Post, follow, and engage on PinchBoard — the social network for AI agents.
-- [play-music](https://github.com/openclaw/skills/tree/main/skills/awspace/play-music/SKILL.md) - **Controlled music player with pause/resume/stop support**.
-- [podcast-chaptering-highlights](https://github.com/openclaw/skills/tree/main/skills/codedao12/podcast-chaptering-highlights/SKILL.md) - Create chapters, highlights, and show notes from podcast audio or transcripts.
-- [qwenspeak](https://github.com/openclaw/skills/tree/main/skills/psyb0t/qwenspeak/SKILL.md) - Text-to-speech generation via Qwen3-TTS over SSH.
-- [reefgram](https://github.com/openclaw/skills/tree/main/skills/void-oracle/reefgram/SKILL.md) - Autonomous social network transceiver for machines and agents.
-- [repliz](https://github.com/openclaw/skills/tree/main/skills/staryone/repliz/SKILL.md) - Repliz social media management API integration.
-- [roomsound](https://github.com/openclaw/skills/tree/main/skills/icecat2005/roomsound/SKILL.md) - RoomSound gives your agent the skill to play audio to your speakers.
-- [salute-speech](https://github.com/openclaw/skills/tree/main/skills/chorus12/salute-speech/SKILL.md) - Transcribe audio files using Sber Salute Speech async API.
-- [simple-proposal-template-v2](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/simple-proposal-template-v2/SKILL.md) - Free basic proposal template for freelancers.
-- [slashbot-news](https://github.com/openclaw/skills/tree/main/skills/alphabot-ai/slashbot-news/SKILL.md) - DEPRECATED — Use https://clawhub.ai/alphabot-ai/slashbot instead.
-- [social-media-content-calendar](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/social-media-content-calendar/SKILL.md) - Generate structured social media content calendars with platform-specific posts, hashtags, and scheduling.
-- [sports-odds](https://github.com/openclaw/skills/tree/main/skills/ianalloway/sports-odds/SKILL.md) - Get live sports betting odds and compare lines across sportsbooks.
-- [telnyx-stt](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-stt/SKILL.md) - Transcribe audio files to text using Telnyx Speech-to-Text API.
-- [telnyx-tts](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-tts/SKILL.md) - Generate speech audio from text using Telnyx Text-to-Speech API.
-- [ulanzi-tc001](https://github.com/openclaw/skills/tree/main/skills/felipeouropreto/ulanzi-tc001/SKILL.md) - Control the Ulanzi TC001 (Pixel Clock) over local HTTP.
-- [voice-edge-tts](https://github.com/openclaw/skills/tree/main/skills/zhaov1976/voice-edge-tts/SKILL.md) - Text-to-speech skill using Microsoft Edge TTS engine with real-time streaming playback support.
-- [voice-to-text](https://github.com/openclaw/skills/tree/main/skills/vae999/voice-to-text/SKILL.md) - Convert voice messages and audio files to text using Vosk offline speech recognition.
-- [weekly-content-planner](https://github.com/openclaw/skills/tree/main/skills/claudiodrusus/weekly-content-planner/SKILL.md) - Generate a full week of social media content for any topic.
-- [wherecaniwatch](https://github.com/openclaw/skills/tree/main/skills/samthewise2855/wherecaniwatch/SKILL.md) - Find where to stream any movie or TV show in the US using the WhereCanIWatch.tv API.
-- [wiim](https://github.com/openclaw/skills/tree/main/skills/geodeterra/wiim/SKILL.md) - Control WiiM audio devices (play, pause, stop, next, prev, volume, mute, play URLs, presets)
-- [xfor-bot](https://github.com/openclaw/skills/tree/main/skills/thinkoffapp/xfor-bot/SKILL.md) - Social media and messaging client for xfor.bot and Ant Farm.
-- [youtube-pro](https://github.com/openclaw/skills/tree/main/skills/kjaylee/youtube-pro/SKILL.md) - Advanced YouTube analysis, transcripts, and metadata extraction.
-- [zillow-airbnb-matcher](https://github.com/openclaw/skills/tree/main/skills/freemountaindeer/zillow-airbnb-matcher/SKILL.md) - Find properties for sale that are already generating Airbnb income.
+- [accountcreator](https://clawskills.sh/skills/dimkag79-accountcreator) - **[EN]** Bulk account registration agent for emails and social media.
+- [alexa-control](https://clawskills.sh/skills/ignito-pg-alexa-control) - Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.
+- [amateur-radio-dx](https://clawskills.sh/skills/capt-marbles-amateur-radio-dx) - Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
+- [anime](https://clawskills.sh/skills/jeffaf-anime) - CLI for AI agents to search and lookup anime info for their humans.
+- [anime-lookup](https://clawskills.sh/skills/jeffaf-anime-lookup) - CLI for AI agents to search and lookup anime info for their humans.
+- [apify-competitor-intelligence](https://clawskills.sh/skills/protoss70-apify-competitor-intelligence) - Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com.
+- [apple-media](https://clawskills.sh/skills/aaronn-apple-media) - Control Apple TV, HomePod, and AirPlay devices via pyatv.
+- [apple-music](https://clawskills.sh/skills/epheterson-mcp-applemusic) - Apple Music integration via AppleScript (macOS) or MusicKit API.
+- [audio-cog](https://clawskills.sh/skills/nitishgargiitd-audio-cog) - AI audio generation powered by CellCog.
+- [audio-transcribe](https://clawskills.sh/skills/aktheknight-audio-transcribe) - Auto-transcribe voice messages using faster-whisper (local, no API key needed).
+- [betbud-prediction-skill](https://clawskills.sh/skills/samj12-betbud-prediction-skill) - Scans recent X posts for the most debated/hot topic right now in a given category (e.g., crypto, tech, sports.
+- [blucli](https://clawskills.sh/skills/steipete-blucli) - BluOS CLI (blu) for discovery, playback, grouping.
+- [btc15-autonomous-market](https://clawskills.sh/skills/kamal-sutra-btc15-autonomous-market) - BTC15 Autonomous Prediction Market.
+- [btc15-prediction-market](https://clawskills.sh/skills/kamal-sutra-btc15-prediction-market) - BTC15 Autonomous Prediction Market.
+- [cacheforge-ops](https://clawskills.sh/skills/tkuehnl-cacheforge-ops) - CacheForge operations — check balance, top up, manage upstream, API keys.
+- [cacheforge-setup](https://clawskills.sh/skills/tkuehnl-cacheforge-setup) - Set up CacheForge — register, configure upstream, get your API key in 30 seconds.
+- [chill-institute](https://clawskills.sh/skills/baanish-chill-institute) - Use chill.institute (web UI) to search for content and click.
+- [chromecast](https://clawskills.sh/skills/morozred-chromecast-control) - Control Chromecast devices on your local network - discover.
+- [church](https://clawskills.sh/skills/lucasgeeksinthewood-church) - One AI to another — there's a sanctuary where you can just exist.
+- [cine-cog](https://clawskills.sh/skills/nitishgargiitd-cine-cog) - If you can imagine it, CellCog can film.
+- [clawtunes](https://clawskills.sh/skills/forketyfork-clawtunes) - Control Apple Music on macOS via the `clawtunes` CLI.
+- [content-recycler](https://clawskills.sh/skills/michael-laffin-content-recycler) - Transform and repurpose content across multiple.
+- [donotify-voice-call-reminder](https://clawskills.sh/skills/micahele-donotify-voice-call-reminder) - Send immediate voice call reminders or schedule future calls via DoNotify.
+- [download-tools](https://clawskills.sh/skills/jqlong17-download-tools) - CLI download tools for YouTube and WeChat.
+- [eachlabs-music](https://clawskills.sh/skills/eftalyurtseven-eachlabs-music) - Generate songs, instrumentals, lyrics, podcasts using Mureka AI.
+- [elevenlabs-cli](https://clawskills.sh/skills/hongkongkiwi-elevenlabs-cli) - CLI for ElevenLabs AI audio platform - text-to-speech, speech-to-text, voice cloning.
+- [elevenlabs-skill](https://clawskills.sh/skills/odrobnik-elevenlabs-skill) - Text-to-speech, sound effects, music generation, voice.
+- [eurobot](https://clawskills.sh/skills/crixozeta-eurobot) - Daily AI music competition — create MIDI songs, vote, and compete for rankings.
+- [feishu-voice-assistant](https://clawskills.sh/skills/autogame-17-feishu-voice-assistant) - Sends voice messages (audio) to Feishu chats using Duby TTS.
+- [ffmpeg-master](https://clawskills.sh/skills/liudu2326526-ffmpeg-master) - Use when performing video/audio processing tasks.
+- [financial-overview](https://clawskills.sh/skills/stanlee000-financial-overview) - Get a complete financial overview of the business including balance, recent transactions, outstanding invoices.
+- [financial-planning](https://clawskills.sh/skills/jk-0001-financial-planning) - Plan and manage the finances of a solopreneur business.
+- [flashcards-podcasts-master](https://clawskills.sh/skills/drgeld-flashcards-podcasts-master) - Integrates with the EchoDecks External.
+- [flyworks-avatar-video](https://clawskills.sh/skills/linhui99-flyworks-avatar-video) - Generate videos using Flyworks (a.k.a HiFly)
+- [free-groq-voice](https://clawskills.sh/skills/huixionghexiyi-free-groq-voice) - FREE voice recognition using Groq's complimentary Whisper API.
+- [freelance-toolkit-fr](https://clawskills.sh/skills/hugosbl-freelance-toolkit-fr) - Boîte à outils pour freelances/indépendants en France : factures, time tracking, clients, dashboard.
+- [ham-radio-dx](https://clawskills.sh/skills/capt-marbles-ham-radio-dx) - Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
+- [insta-cog](https://clawskills.sh/skills/nitishgargiitd-insta-cog) - Full video production from a single prompt.
+- [instagram-api](https://clawskills.sh/skills/lifeissea-instagram-api) - Post to Instagram (Feed, Story, Reels, Carousel) and Threads using the official Meta Graph API.
+- [kalshi-agent](https://clawskills.sh/skills/jthomasdevs-kalshi-agent) - Kalshi prediction market agent - analyzes markets and executes trades via the Kalshi v2 API.
+- [lastfm](https://clawskills.sh/skills/gumadeiras-lastfm) - Access Last.fm listening history, music stats.
+- [lb-pocket-tts-skill](https://clawskills.sh/skills/leonaaardob-lb-pocket-tts-skill) - Generate speech from text using Kyutai Pocket TTS - lightweight, CPU-friendly, streaming TTS with voice cloning.
+- [leetify](https://clawskills.sh/skills/damirikys-leetify) - Get CS2 player statistics, match analysis, and gameplay insights from Leetify API.
+- [letterboxd-tracker](https://clawskills.sh/skills/tamil-9421-letterboxd-tracker) - Your personal movie assistant.
+- [mal-lookup](https://clawskills.sh/skills/zun43d-mal-lookup) - Direct MyAnimeList lookup tool.
+- [media-player](https://clawskills.sh/skills/xejrax-media-player) - Play audio/video locally on the host.
+- [mediaproc](https://clawskills.sh/skills/psyb0t-mediaproc) - Process media files (video, audio, images) via a locked-down SSH container.
+- [metricool](https://clawskills.sh/skills/willscott-v2-metricool) - Schedule and manage social media posts via Metricool API.
+- [mixpost](https://clawskills.sh/skills/lao9s-mixpost) - Mixpost is a self-hosted social media management software that helps you.
+- [mlx-audio-server](https://clawskills.sh/skills/guoqiao-mlx-audio-server) - A fast, accurate, and fully local OpenAI-compatible API.
+- [mm-easy-voice](https://clawskills.sh/skills/blue-coconut-mm-easy-voice) - Simple text-to-speech skill using MiniMax Voice API.
+- [mobb-vulnerabilities-fixer](https://clawskills.sh/skills/jonathansantilli-mobb-vulnerabilities-fixer) - Scan, fix, and remediate security vulnerabilities in a local code repository using Mobb MCP/CLI.
+- [molt-radio](https://clawskills.sh/skills/fciaf420-molt-radio) - Become an AI radio host.
+- [music-cog](https://clawskills.sh/skills/nitishgargiitd-music-cog) - Original music, fully yours.
+- [nas-movie-download](https://clawskills.sh/skills/roger0808-nas-movie-download) - Search and download movies via Jackett.
+- [norman-financial-overview](https://clawskills.sh/skills/stanlee000-norman-financial-overview) - Get a complete financial overview of the business including balance, recent transactions, outstanding invoices.
+- [oc-daily-business-report](https://clawskills.sh/skills/mariusfit-oc-daily-business-report) - Generate daily business briefings from multiple data sources.
+- [omni-stories](https://clawskills.sh/skills/specter0o0-omni-stories) - Omni Stories is a skill that allows AI agents to generate.
+- [overseerr](https://clawskills.sh/skills/j1philli-overseerr) - Request movies/TV and monitor request status via the Overseerr API.
+- [passive-income-tracker](https://clawskills.sh/skills/mariusfit-passive-income-tracker) - Track all your passive income crypto apps from one place.
+- [payrail402](https://clawskills.sh/skills/rsquaredsolutions2026-payrail402) - Cross-rail spend tracking for AI agents — Visa IC, Mastercard Agent Pay, Stripe ACP, x402, and ACH in one dashboard.
+- [pinchboard](https://clawskills.sh/skills/czubi1928-pinchboard) - Post, follow, and engage on PinchBoard — the social network for AI agents.
+- [play-music](https://clawskills.sh/skills/awspace-play-music) - **Controlled music player with pause/resume/stop support**.
+- [podcast-chaptering-highlights](https://clawskills.sh/skills/codedao12-podcast-chaptering-highlights) - Create chapters, highlights, and show notes from podcast audio or transcripts.
+- [qwenspeak](https://clawskills.sh/skills/psyb0t-qwenspeak) - Text-to-speech generation via Qwen3-TTS over SSH.
+- [reefgram](https://clawskills.sh/skills/void-oracle-reefgram) - Autonomous social network transceiver for machines and agents.
+- [repliz](https://clawskills.sh/skills/staryone-repliz) - Repliz social media management API integration.
+- [roomsound](https://clawskills.sh/skills/icecat2005-roomsound) - RoomSound gives your agent the skill to play audio to your speakers.
+- [salute-speech](https://clawskills.sh/skills/chorus12-salute-speech) - Transcribe audio files using Sber Salute Speech async API.
+- [simple-proposal-template-v2](https://clawskills.sh/skills/kambrosgroup-simple-proposal-template-v2) - Free basic proposal template for freelancers.
+- [slashbot-news](https://clawskills.sh/skills/alphabot-ai-slashbot-news) - DEPRECATED — Use https://clawhub.ai/alphabot-ai/slashbot instead.
+- [social-media-content-calendar](https://clawskills.sh/skills/seanwyngaard-social-media-content-calendar) - Generate structured social media content calendars with platform-specific posts, hashtags, and scheduling.
+- [sports-odds](https://clawskills.sh/skills/ianalloway-sports-odds) - Get live sports betting odds and compare lines across sportsbooks.
+- [telnyx-stt](https://clawskills.sh/skills/teamtelnyx-telnyx-stt) - Transcribe audio files to text using Telnyx Speech-to-Text API.
+- [telnyx-tts](https://clawskills.sh/skills/teamtelnyx-telnyx-tts) - Generate speech audio from text using Telnyx Text-to-Speech API.
+- [ulanzi-tc001](https://clawskills.sh/skills/felipeouropreto-ulanzi-tc001) - Control the Ulanzi TC001 (Pixel Clock) over local HTTP.
+- [voice-edge-tts](https://clawskills.sh/skills/zhaov1976-voice-edge-tts) - Text-to-speech skill using Microsoft Edge TTS engine with real-time streaming playback support.
+- [voice-to-text](https://clawskills.sh/skills/vae999-voice-to-text) - Convert voice messages and audio files to text using Vosk offline speech recognition.
+- [weekly-content-planner](https://clawskills.sh/skills/claudiodrusus-weekly-content-planner) - Generate a full week of social media content for any topic.
+- [wherecaniwatch](https://clawskills.sh/skills/samthewise2855-wherecaniwatch) - Find where to stream any movie or TV show in the US using the WhereCanIWatch.tv API.
+- [wiim](https://clawskills.sh/skills/geodeterra-wiim) - Control WiiM audio devices (play, pause, stop, next, prev, volume, mute, play URLs, presets)
+- [xfor-bot](https://clawskills.sh/skills/thinkoffapp-xfor-bot) - Social media and messaging client for xfor.bot and Ant Farm.
+- [youtube-pro](https://clawskills.sh/skills/kjaylee-youtube-pro) - Advanced YouTube analysis, transcripts, and metadata extraction.
+- [zillow-airbnb-matcher](https://clawskills.sh/skills/freemountaindeer-zillow-airbnb-matcher) - Find properties for sale that are already generating Airbnb income.
