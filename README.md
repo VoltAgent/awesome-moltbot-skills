@@ -971,6 +971,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [elevenlabs-transcribe](https://github.com/openclaw/skills/tree/main/skills/paulasjes/elevenlabs-transcribe/SKILL.md) - Transcribe audio to text using ElevenLabs.
 - [elevenlabs-tts](https://github.com/openclaw/skills/tree/main/skills/shaharsha/elevenlabs-tts/SKILL.md) - ElevenLabs TTS - the best ElevenLabs integration for OpenClaw.
 - [elevenlabs-voices](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/elevenlabs-voices/SKILL.md) - High-quality voice synthesis with 18 personas, 32.
+- [soul-generator](https://github.com/adenzhou1350/soul-generator/blob/main/skills/soul-generator/SKILL.md) - Personalized your Agent with dozens presets.
 
 > **[View all 45 skills in Speech & Transcription →](categories/speech-and-transcription.md)**
 </details>
