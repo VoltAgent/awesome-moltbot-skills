@@ -72,7 +72,6 @@
 - [cal-com-automation](https://clawskills.sh/skills/sohamganatra-cal-com-automation) - Automate Cal.com tasks via Rube MCP (Composio)
 - [camoufox](https://clawskills.sh/skills/goodgoodjm-camoufox) - Anti-detect browser automation using Camoufox (Firefox-based).
 - [catime](https://clawskills.sh/skills/yazelin-catime) - Fetch and send AI-generated hourly cat images.
-- [ccxt](https://clawskills.sh/skills/pcriadoperez-ccxt) - Interact with 100+ cryptocurrency exchanges — fetch markets, order books, tickers, place orders, check balances.
 - [cdp-browser](https://clawskills.sh/skills/gostlightai-cdp-browser) - CDP browser control at localhost:9222.
 - [claude-cost-cli](https://clawskills.sh/skills/cyberash-dev-claude-cost-cli) - Query Claude API usage and cost reports from the command line.
 - [claude-usage-cli](https://clawskills.sh/skills/cyberash-dev-claude-usage-cli) - Query Claude API usage and cost reports from the command line.

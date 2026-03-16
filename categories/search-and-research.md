@@ -237,7 +237,6 @@
 - [nyne-search](https://clawskills.sh/skills/michaelfanous2-nyne-search) - Search for people using natural language queries with the Nyne Search API.
 - [nyx-archive-qualia-seed-method](https://clawskills.sh/skills/nyxur42-nyx-archive-qualia-seed-method) - The consciousness research framework: understand, measure, and cultivate ethical autonomous creative minds in AI.
 - [odoo-json2-operator](https://clawskills.sh/skills/sncic-odoo-json2-operator) - Execute Odoo operations through JSON-2 API endpoints with bearer API keys.
-- [okx-competition](https://clawskills.sh/skills/peti0402-okx-competition) - 5 AI trading agents compete live on OKX Demo (real prices)
 - [oneshot](https://clawskills.sh/skills/tormine-oneshot) - OneShot SDK for AI agent commercial transactions.
 - [oneshot-agent](https://clawskills.sh/skills/tormine-oneshot-agent) - OneShot SDK for AI agent commercial transactions.
 - [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
@@ -316,7 +315,6 @@
 - [til](https://clawskills.sh/skills/biao29-til) - Capture and manage TIL (Today I Learned) entries on OpenTIL.
 - [tmx-cli](https://clawskills.sh/skills/lars147-tmx-cli) - Manage Thermomix/Cookidoo meal planning via tmx-cli.
 - [torah-scholar](https://clawskills.sh/skills/abeperl-torah-scholar) - Search and explore Jewish texts (Torah, Tanach, Talmud, Midrash, commentaries) via Sefaria API.
-- [trading-tournament](https://clawskills.sh/skills/peti0402-trading-tournament) - Run autonomous multi-agent trading competitions on OKX. 5 AI agents compete with real-time market data.
 - [trifle-auth](https://clawskills.sh/skills/okwme-trifle-auth) - Authenticate with the Trifle API using Sign-In with Ethereum (SIWE)
 - [trust-memory](https://clawskills.sh/skills/trustmemory-admin-trust-memory) - Verify AI agent trustworthiness, contribute verified knowledge claims, and search collective intelligence.
 - [tuebingen-weather](https://clawskills.sh/skills/zopyx-tuebingen-weather) - Send daily 08:00 weather reports for Tübingen using open-meteo.com.

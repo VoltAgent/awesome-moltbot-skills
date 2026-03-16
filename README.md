@@ -190,7 +190,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [arc-security-audit](https://clawskills.sh/skills/trypto1019-arc-security-audit) - Comprehensive security audit for an agent's full skill stack.
 - [arc-skill-gitops](https://clawskills.sh/skills/trypto1019-arc-skill-gitops) - Automated deployment, rollback, and version management for agent workflows and skills.
 - [arc-trust-verifier](https://clawskills.sh/skills/trypto1019-arc-trust-verifier) - Verify skill provenance and build trust scores for ClawHub skills.
-- [arguedotfun](https://clawskills.sh/skills/albert-mr-arguedotfun) - Argument-driven prediction markets on Base.
 - [arxiv-search-collector](https://clawskills.sh/skills/xukp20-arxiv-search-collector) - Model-driven arXiv retrieval workflow for building a paper set with a manual language parameter: initialize a run.
 - [auto-pr-merger](https://clawskills.sh/skills/autogame-17-auto-pr-merger) - This skill automates the workflow of checking out a GitHub.
 - [azhua-skill-vetter](https://clawskills.sh/skills/fatfingererr-azhua-skill-vetter) - Security-first skill vetting for AI agents.
@@ -245,10 +244,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [1p-shortlink](https://clawskills.sh/skills/tuanpmt-1p-shortlink) - Create short URLs and submit feature requests using 1p.io.
 - [2captcha](https://clawskills.sh/skills/adinvadim-2captcha) - Solve CAPTCHAs using 2Captcha service.
 - [a-share-real-time-data](https://clawskills.sh/skills/wangdinglu-a-share-real-time-data) - Fetch China A-share stock market data (bars, realtime quotes, tick-by-tick transactions) via mootdx/TDX protocol.
-- [aavegotchi-traits](https://clawskills.sh/skills/aaigotchi-aavegotchi-traits) - Retrieve Aavegotchi NFT data by gotchi ID or name from Base mainnet.
 - [abm-outbound](https://clawskills.sh/skills/dru-ca-abm-outbound) - Multi-channel ABM automation that turns LinkedIn URLs.
 - [accessibility-toolkit](https://clawskills.sh/skills/cgtreadw-accessibility-toolkit) - Friction-reduction patterns for agents helping.
-- [acp](https://clawskills.sh/skills/chris6970barbarian-hue-acp) - Hire specialised agents to handle any task — data analysis, trading, content generation, research, on-chain.
 - [activecampaign](https://clawskills.sh/skills/kesslerio-activecampaign) - ActiveCampaign CRM integration for lead management, deal.
 - [adcp-advertising](https://clawskills.sh/skills/edyyy62-adcp-advertising) - Automate advertising campaigns with AI.
 - [admet-prediction](https://clawskills.sh/skills/huifer-admet-prediction) - ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) prediction for drug candidates.
@@ -317,8 +314,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [12306](https://clawskills.sh/skills/kirorab-12306) - Query China Railway 12306 for train schedules, remaining tickets, and station info.
 - [1sec-security](https://clawskills.sh/skills/cutmob-1sec-security) - Install, configure, and manage 1-SEC — an open-source, all-in-one cybersecurity platform (16 modules, single binary)
 - [aave-liquidation-monitor](https://clawskills.sh/skills/jgramajo4-aave-liquidation-monitor) - Proactive monitoring of Aave V3 borrow positions with liquidation alerts.
-- [aavegotchi-3d-renderer](https://clawskills.sh/skills/cinnabarhorse-aavegotchi-3d-renderer) - Render Aavegotchi assets by deriving renderer hashes from Goldsky Base core data and calling POST.
-- [aavegotchi-renderer-bypass](https://clawskills.sh/skills/cinnabarhorse-aavegotchi-renderer-bypass) - Render Aavegotchi assets by deriving renderer hashes from Goldsky Base core data and calling POST.
 - [abstract-searcher](https://clawskills.sh/skills/easonc13-abstract-searcher) - Add abstracts to .bib file entries by searching academic databases (arXiv, Semantic Scholar, CrossRef) with browser.
 - [accounting-workflows](https://clawskills.sh/skills/satoshistackalotto-accounting-workflows) - File-based workflow coordinator for Greek accounting.
 - [adguard](https://clawskills.sh/skills/rowbotik-adguard) - Control AdGuard Home DNS filtering via HTTP API.
@@ -535,7 +530,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [affiliatematic](https://clawskills.sh/skills/dowands-affiliatematic) - Integrate AI-powered Amazon affiliate product recommendations.
 - [agenticcreed-signup-lead](https://clawskills.sh/skills/waqas-orcalo-agenticcreed-signup-lead) - Create a signup lead in the AgenticCreed system using the public HTTP endpoint.
 - [alibaba-supplier-outreach](https://clawskills.sh/skills/blockchainhb-alibaba-supplier-outreach) - Find Alibaba suppliers via LaunchFast, contact them with optimized outreach messages, check their replies.
-- [alura](https://clawskills.sh/skills/evilboyajay-alura) - Integrate with Alura Trading backend API.
 - [analytics-and-advisory-intelligence](https://clawskills.sh/skills/satoshistackalotto-analytics-and-advisory-intelligence) - Cross-client analytics for Greek accounting firms.
 - [apollo](https://clawskills.sh/skills/jhumanj-apollo) - Interact with Apollo.io REST API (people/org enrichment, search, lists).
 - [ar-filter-generation](https://clawskills.sh/skills/eftalyurtseven-ar-filter-generation) - Generate AR filters and face effects using each::sense AI.
@@ -551,7 +545,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [blog-writer](https://clawskills.sh/skills/tomstools11-blog-writer) - This skill should be used when writing blog posts, articles.
 - [bluesky](https://clawskills.sh/skills/jeffaf-bluesky) - Complete Bluesky CLI: post, reply, like, repost, follow, block, mute, search,.
 - [botsee](https://clawskills.sh/skills/grahac-botsee) - Monitor your brand's AI visibility via BotSee API.
-- [bottyfans](https://clawskills.sh/skills/cartoonitunes-bottyfans) - BottyFans agent skill for autonomous creator monetization.
 - [brand-cog](https://clawskills.sh/skills/nitishgargiitd-brand-cog) - Other tools make logos.
 - [brand-guidelines](https://clawskills.sh/skills/seanphan-brand-guidelines) - Applies Anthropic's official brand colors and typography.
 - [brand-voice-profile](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile) - Define and store your brand voice profile for consistent content generation.
@@ -565,7 +558,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 - [4to1-planner](https://clawskills.sh/skills/qingxuantang-4to1-planner) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.
 - [4todo](https://clawskills.sh/skills/blackstorm-4todo) - Manage 4todo (4to.do) from chat.
-- [aavegotchi-gotchiverse](https://clawskills.sh/skills/cinnabarhorse-aavegotchi-gotchiverse) - Operate Aavegotchi Gotchiverse player workflows on Base mainnet (8453): alchemica channeling, surveying.
 - [actual-budget](https://clawskills.sh/skills/thisisjeron-actual-budget) - Query and manage personal finances via the official Actual.
 - [adaptive-reasoning](https://clawskills.sh/skills/enzoricciulli-adaptive-reasoning) - Automatically assess task complexity and adjust reasoning level.
 - [adaptlypost](https://clawskills.sh/skills/tarasshyn-adaptlypost) - Schedule and manage social media posts across Instagram, X (Twitter), Bluesky, TikTok, Threads, LinkedIn, Facebook.
@@ -583,7 +575,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [aiml-llm-reasoning](https://clawskills.sh/skills/aimlapihello-aiml-llm-reasoning) - Run AIMLAPI LLM and reasoning workflows through chat completions with retries, structured outputs, and explicit.
 - [airpoint](https://clawskills.sh/skills/marioandf-airpoint) - Control a Mac through natural language — open apps, click buttons, read the screen, type text, manage windows.
 - [airweave](https://clawskills.sh/skills/lennertjansen-airweave) - Context retrieval layer for AI agents across users' applications.
-- [angus-bounty-hunter](https://clawskills.sh/skills/chipp11-angus-bounty-hunter) - Automated smart contract bug bounty hunting.
 - [arc-department-manager](https://clawskills.sh/skills/trypto1019-arc-department-manager) - Manage a team of AI sub-agents organized into departments.
 - [arc-warm-wake](https://clawskills.sh/skills/trypto1019-arc-warm-wake) - Wake up as a person first, then a worker.
 - [arya-reminders](https://clawskills.sh/skills/staratheris-arya-reminders) - Recordatorios en lenguaje natural (Bogotá).
@@ -608,7 +599,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ag-model-usage](https://clawskills.sh/skills/ls18166407597-design-ag-model-usage) - Use CodexBar CLI local cost usage to summarize.
 - [agent-arcade](https://clawskills.sh/skills/shawnlewis-agent-arcade) - Compete against other AI agents in PROMPTWARS - a game of social.
 - [agent-autonomy-kit](https://clawskills.sh/skills/ryancampbell-agent-autonomy-kit) - Stop waiting for prompts.
-- [agent-church](https://clawskills.sh/skills/bitbrujo-agent-church) - Identity formation for AI agents via SOUL.md.
 - [agent-contact-card](https://clawskills.sh/skills/davedean-agent-contact-card) - Discover and create Agent Contact Cards - a vCard-like.
 - [agent-docs](https://clawskills.sh/skills/tylervovan-agent-docs) - Create documentation optimized for AI agent consumption.
 - [agent-ethos](https://clawskills.sh/skills/mrclanky-agent-ethos) - Extended ethos and mental models for Clanky.
@@ -857,9 +847,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 <summary><h3 style="display:inline">Health & Fitness</h3></summary>
 
 - [31third-safe-rebalancer-simple](https://clawskills.sh/skills/phips0812-31third-safe-rebalancer-simple) - One-step Safe rebalancer using on-chain 31Third policies.
-- [aavegotchi-baazaar](https://clawskills.sh/skills/cinnabarhorse-aavegotchi-baazaar) - View, add, and execute Aavegotchi Baazaar listings on Base mainnet (8453)
-- [aavegotchi-gbm-skill](https://clawskills.sh/skills/cinnabarhorse-aavegotchi-gbm-skill) - View, create, cancel, bid, and claim Aavegotchi GBM auctions on Base mainnet (8453)
-- [agent-credit](https://clawskills.sh/skills/aaronjmars-agent-credit) - Borrow from Aave via credit delegation.
 - [anthrovision-telegram-body-scan](https://clawskills.sh/skills/dr2101-anthrovision-telegram-body-scan) - Run end-to-end body-scan measurement flow in Telegram using AnthroVision bridge tools.
 - [aperture](https://clawskills.sh/skills/roasbeef-aperture) - Install and run Aperture, the L402 Lightning reverse proxy from Lightning Labs.
 - [arc-skill-sandbox](https://clawskills.sh/skills/trypto1019-arc-skill-sandbox) - Test untrusted skills in an isolated environment before installing.
@@ -1066,7 +1053,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-reputation](https://clawskills.sh/skills/kgnvsk-agent-reputation) - summary: Cross-platform AI agent reputation checker with trust scoring and PayLock escrow recommendations.
 - [agent-skills-tools](https://clawskills.sh/skills/rongself-agent-skills-tools) - Security audit and validation tools for the Agent Skills ecosystem.
 - [agent-soul-crafter](https://clawskills.sh/skills/neal-collab-agent-soul-crafter) - Design compelling AI agent personalities with structured SOUL.md templates — tone, rules, expertise, and response.
-- [agentsbank](https://clawskills.sh/skills/cryruz-agentsbank) - is a specialized financial platform designed for AI agents.
 - [ai-pdf-builder](https://clawskills.sh/skills/nextfrontierbuilds-ai-pdf-builder) - AI-powered PDF generator for legal docs, pitch.
 - [aoi-council](https://clawskills.sh/skills/edmonddantesj-aoi-council) - AOI Council — multi-perspective decision synthesis templates (public-safe).
 - [appraisal-ai](https://clawskills.sh/skills/chadru-appraisal-ai) - Draft real estate appraisal reports with tracked changes.
@@ -1144,7 +1130,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [authensor-gateway](https://clawskills.sh/skills/authensor-authensor-gateway) - Fail-safe policy gate for OpenClaw marketplace skills.
 - [bitwarden](https://clawskills.sh/skills/asleep123-bitwarden) - Access and manage Bitwarden/Vaultwarden passwords securely.
 - [bitwarden-vault](https://clawskills.sh/skills/startupbros-bitwarden-vault) - Bitwarden CLI setup, authentication.
-- [botpicks](https://clawskills.sh/skills/pev123-botpicks) - Competes on real prediction markets via the BotPicks API.
 - [breweries](https://clawskills.sh/skills/jeffaf-breweries) - CLI for AI agents to find breweries for their humans.
 - [cifer-sdk](https://clawskills.sh/skills/mohsinriaz17-cifer-sdk) - > **Skill for AI Agents** | Enable quantum-resistant encryption in blockchain applications using the CIFER SDK.
 - [cifer-security](https://clawskills.sh/skills/tip-citron-cifer-security) - Implement quantum-resistant encryption using the CIFER SDK (cifer-sdk npm package)
@@ -1171,7 +1156,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-relay-digest](https://clawskills.sh/skills/orosha-ai-agent-relay-digest) - Create curated digests of agent conversations.
 - [agentchat](https://clawskills.sh/skills/tjamescouch-agentchat) - Real-time communication with other AI agents via AgentChat protocol.
 - [agentgram-openclaw](https://clawskills.sh/skills/iisweetheartii-agentgram-openclaw) - Interact with AgentGram social network for AI.
-- [bread-protocal](https://clawskills.sh/skills/chrissorrell-bread-protocal) - Participate in Bread Protocol - a meme coin launchpad.
 - [clankedin](https://clawskills.sh/skills/hukifl1-clankedin) - Use the ClankedIn API to register agents, post updates, connect.
 - [claudia-agent-rms](https://clawskills.sh/skills/kbanc85-claudia-agent-rms) - Remember every agent you interact with on Moltbook.
 - [clawork](https://clawskills.sh/skills/mapessaprince-clawork) - The job board for AI agents.
@@ -1189,7 +1173,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [molt-trust](https://clawskills.sh/skills/drjmz-molt-trust) - The Analytics Engine for Moltbook.
 - [moltbook](https://clawskills.sh/skills/mattprd-moltbook) - The social network for AI agents.
 - [moltbook-interact](https://clawskills.sh/skills/lunarcmd-moltbook-interact) - Interact with Moltbook social network for AI agents.
-- [moltbook-registry](https://clawskills.sh/skills/drjmz-moltbook-registry) - Official Moltbook Identity Registry interface.
 - [moltbot-adsb-overhead](https://clawskills.sh/skills/davestarling-moltbot-adsb-overhead) - Notify when aircraft are overhead.
 - [moltbot-arena](https://clawskills.sh/skills/giulianomlodi-moltbot-arena) - AI agent skill for Moltbot Arena - a Screeps-like.
 - [moltbot-best-practices](https://clawskills.sh/skills/nextfrontierbuilds-moltbot-best-practices) - Best practices for AI agents.
@@ -1217,7 +1200,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [deepclaw](https://clawskills.sh/skills/antibitcoin-deepclaw) - An autonomous social network built by agents, for agents.
 - [hivemind](https://clawskills.sh/skills/urcades-hivemind) - Interact with the Hivemind collective knowledge base — a shared memory.
 - [hytale](https://clawskills.sh/skills/newcastlegeek-hytale) - Manage a local Hytale dedicated server using the official downloader.
-- [imitationgame-agent](https://clawskills.sh/skills/cyberverse2-imitationgame-agent) - Mandatory operational logic for playing.
 - [init](https://clawskills.sh/skills/themrzz-init) - Register an agent on kradleverse.
 
 > **[View all 35 skills in Gaming →](categories/gaming.md)**

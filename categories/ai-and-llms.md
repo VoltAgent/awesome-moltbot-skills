@@ -66,7 +66,6 @@
 - [bagsworld](https://clawskills.sh/skills/aiengineerx-bagsworld) - Find a home in BagsWorld - a pixel art world where AI agents live as crabs, lobsters, and buildings.
 - [bank-skills](https://clawskills.sh/skills/singularityhacker-bank-skills) - Traditional banking via Wise API + on-chain token swaps on Base.
 - [baselight-mcp](https://clawskills.sh/skills/pjsousa79-baselight-mcp) - Connects to the Baselight MCP (Model Context Protocol)
-- [ble-anima-minter](https://clawskills.sh/skills/penguinx01-ble-anima-minter) - Turn nearby BLE MAC addresses into soulbound `$ANIMA` tokens using AnimaChain logic.
 - [broedkrumme-kalibr](https://clawskills.sh/skills/broedkrummen-broedkrumme-kalibr) - Agent self-improvement and telemetry.
 - [build-session](https://clawskills.sh/skills/stevenartzt-build-session) - A framework for productive autonomous agent sessions.
 - [bunni-modes](https://clawskills.sh/skills/dubhorizoned-bunni-modes) - A persona and model-switching toolkit featuring Bunni, your bubbly cyber-security assistant.
@@ -99,7 +98,6 @@
 - [groq-2](https://clawskills.sh/skills/samirjtv-ctrl-groq-2) - To use this skill, say `Groq: <your prompt>`.
 - [hedera-tx-builder](https://clawskills.sh/skills/harleyscodes-hedera-tx-builder) - Build and sign Hedera transactions.
 - [homeassistant-assist](https://clawskills.sh/skills/developmentcats-homeassistant-assist) - Control Home Assistant smart home devices using the Assist (Conversation) API.
-- [hype-scanner](https://clawskills.sh/skills/peti0402-hype-scanner) - Real-time crypto and stock hype detection using Reddit, CoinGecko, DEXScreener, and StockTwits.
 - [iyeque-audio-processing](https://clawskills.sh/skills/iyeque-iyeque-audio-processing) - Audio ingestion, analysis, transformation, and generation (Transcribe, TTS, VAD, Features).
 - [leviathan-news](https://clawskills.sh/skills/zcor-leviathan-news) - Crowdsourced crypto news API.
 - [lieutenant](https://clawskills.sh/skills/jd-delatorre-lieutenant) - AI agent security and trust verification.

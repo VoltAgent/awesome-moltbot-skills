@@ -14,7 +14,6 @@
 - [authensor-gateway](https://clawskills.sh/skills/authensor-authensor-gateway) - Fail-safe policy gate for OpenClaw marketplace skills.
 - [bitwarden](https://clawskills.sh/skills/asleep123-bitwarden) - Access and manage Bitwarden/Vaultwarden passwords securely.
 - [bitwarden-vault](https://clawskills.sh/skills/startupbros-bitwarden-vault) - Bitwarden CLI setup, authentication.
-- [botpicks](https://clawskills.sh/skills/pev123-botpicks) - Competes on real prediction markets via the BotPicks API.
 - [breweries](https://clawskills.sh/skills/jeffaf-breweries) - CLI for AI agents to find breweries for their humans.
 - [cifer-sdk](https://clawskills.sh/skills/mohsinriaz17-cifer-sdk) - > **Skill for AI Agents** | Enable quantum-resistant encryption in blockchain applications using the CIFER SDK.
 - [cifer-security](https://clawskills.sh/skills/tip-citron-cifer-security) - Implement quantum-resistant encryption using the CIFER SDK (cifer-sdk npm package)

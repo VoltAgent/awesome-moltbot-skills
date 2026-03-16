@@ -576,7 +576,6 @@
 - [para-proactive-workspace](https://clawskills.sh/skills/cocoblood9527-para-proactive-workspace) - A production-ready workspace template combining PARA Method (Projects, Areas, Resources, Archives) by Tiago Forte.
 - [pascal-playwright-mcp](https://clawskills.sh/skills/ramspan-pascal-playwright-mcp) - Browser automation via Playwright MCP server.
 - [password-gen](https://clawskills.sh/skills/ouyangabel-password-gen) - Secure password generator with multiple character sets and strength analysis.
-- [payspawn-sdk](https://clawskills.sh/skills/adambrainai-payspawn-sdk) - Give any AI agent on-chain spending limits without sharing a private key.
 - [peaq-robotics](https://clawskills.sh/skills/lavish0000-peaq-robotics) - Core peaq-robotics-ros2 runtime for OpenClaw.
 - [pencil-to-code](https://clawskills.sh/skills/jcwen-pencil-to-code) - Export .pen design to React/Tailwind code.
 - [perplexity](https://clawskills.sh/skills/zats-perplexity) - Search the web with AI-powered answers via Perplexity API.
