@@ -235,7 +235,10 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-card-signing-auditor](https://clawskills.sh/skills/andyxinweiminicloud-agent-card-signing-auditor) - Helps audit Agent Card signing practices in A2A protocol implementations.
 - [agent-chat-ux-v1-4-0](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0) - Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search.
 
-> **[View all 1200 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
+- [phy-architect-mentor](https://clawskills.sh/skills/phy041-phy-architect-mentor) - Architecture thinking trainer — guided Q&A from PRD to system design. Teaches how to think, not just what to build.
+- [phy-large-codebase-workflow](https://clawskills.sh/skills/phy041-phy-large-codebase-workflow) - Best practices for working with Claude Code on large, multi-part codebases.
+- [phy-ux-reviewer](https://clawskills.sh/skills/phy041-phy-ux-reviewer) - UX heuristic evaluation based on Nielsen Norman 10 usability principles.
+> **[View all 1203 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
 
 <details open>
@@ -373,7 +376,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [calorie-visualizer](https://clawskills.sh/skills/vintlin-calorie-visualizer) - Local calorie logging and visual reporting (auto-refreshes and returns report image after each log)
 - [canva-connect](https://clawskills.sh/skills/coolmanns-canva-connect) - Manage Canva designs, assets, and folders via the Connect API.
 
-> **[View all 169 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
+- [phy-video-bgm](https://clawskills.sh/skills/phy041-phy-video-bgm) - Analyze a video's mood and add AI-generated background music via Gemini + fal.ai Lyria2.
+> **[View all 170 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
 </details>
 
 <details>
@@ -551,7 +555,24 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brevo](https://clawskills.sh/skills/yujesyoga-brevo) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
 - [phy-reddit-cultivate](https://clawskills.sh/skills/phy041-phy-reddit-cultivate) - Reddit workflow automation via AppleScript controlling a logged-in Chrome session.
 
-> **[View all 104 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
+- [phy-brand-dna-extractor](https://clawskills.sh/skills/phy041-phy-brand-dna-extractor) - Extract brand identity — colors, typography, visual style — from any website URL.
+- [phy-content-type-router](https://clawskills.sh/skills/phy041-phy-content-type-router) - Detect and route to the correct visual content type for AI image generation.
+- [phy-creator-watch](https://clawskills.sh/skills/phy041-phy-creator-watch) - Curate and analyze a watchlist of Twitter/X creators for learning and competitive research.
+- [phy-daily-social](https://clawskills.sh/skills/phy041-phy-daily-social) - Daily 15-minute social media engagement routine across Reddit, Twitter/X, LinkedIn, and Xiaohongshu.
+- [phy-event-gtm](https://clawskills.sh/skills/phy041-phy-event-gtm) - Conference and trade show GTM playbook for founders — CES, Web Summit, TechCrunch Disrupt.
+- [phy-founder-content](https://clawskills.sh/skills/phy041-phy-founder-content) - Content creation and multiplication system for solo founders: social posts, threads, building-in-public updates.
+- [phy-founder-fundraising](https://clawskills.sh/skills/phy041-phy-founder-fundraising) - Fundraising communication system: investor updates, pitch narratives, cold outreach templates.
+- [phy-founder-gtm](https://clawskills.sh/skills/phy041-phy-founder-gtm) - GTM strategy router for startup founders — routes to the right platform-specific playbook.
+- [phy-influencer-research](https://clawskills.sh/skills/phy041-phy-influencer-research) - Automated KOL/influencer research across platforms for any niche and region.
+- [phy-lenny-mentor](https://clawskills.sh/skills/phy041-phy-lenny-mentor) - AI product mentor powered by 300+ Lenny's Podcast episodes — Brian Chesky, Shreyas Doshi, April Dunford.
+- [phy-linkedin-gtm](https://clawskills.sh/skills/phy041-phy-linkedin-gtm) - LinkedIn GTM strategy for founders targeting DTC brand operators, B2B decision makers, or investors.
+- [phy-reddit-karma-scanner](https://clawskills.sh/skills/phy041-phy-reddit-karma-scanner) - Automated Reddit opportunity scanner that finds high-potential posts for karma building.
+- [phy-reddit-post](https://clawskills.sh/skills/phy041-phy-reddit-post) - Post to Reddit via AppleScript-controlled Chrome session — works with your logged-in browser.
+- [phy-social-post](https://clawskills.sh/skills/phy041-phy-social-post) - Post to Twitter, LinkedIn, Instagram, Facebook, TikTok, Threads, or Bluesky via social posting API.
+- [phy-social-posting](https://clawskills.sh/skills/phy041-phy-social-posting) - Multi-platform social media posting with automatic provider failover and rate-limit handling.
+- [phy-twitter-x-gtm](https://clawskills.sh/skills/phy041-phy-twitter-x-gtm) - Twitter/X GTM strategy for founders: content planning, engagement, thread writing, analytics.
+- [phy-xiaohongshu-gtm](https://clawskills.sh/skills/phy041-phy-xiaohongshu-gtm) - Xiaohongshu (小红书) GTM strategy for founders targeting Chinese cross-border sellers and tech communities.
+> **[View all 121 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
 <details>
@@ -585,7 +606,10 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [async-task](https://clawskills.sh/skills/enderfga-async-task) - Execute long-running tasks without HTTP timeouts.
 - [atlassian-mcp](https://clawskills.sh/skills/atakanermis-atlassian-mcp) - Run the Model Context Protocol (MCP) Atlassian server.
 
-> **[View all 204 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
+- [phy-agent-manager](https://clawskills.sh/skills/phy041-phy-agent-manager) - Meta-orchestrator that analyzes tasks and dispatches to the right subagents in the right order.
+- [phy-planning-with-files](https://clawskills.sh/skills/phy041-phy-planning-with-files) - Manus-style file-based planning for complex tasks: task_plan.md, findings.md, progress.md.
+- [phy-prd-writer](https://clawskills.sh/skills/phy041-phy-prd-writer) - Multi-turn PRD assistant — asks clarifying questions one at a time, then generates a complete PRD.
+> **[View all 207 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
 </details>
 
 <details>
@@ -614,7 +638,11 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-sentinel](https://clawskills.sh/skills/jimmystacks-agent-sentinel) - The operational circuit breaker for this agent.
 - [agentbus-relay-chat](https://clawskills.sh/skills/dantunes-github-agentbus-relay-chat) - AgentBus proof-of-concept: an IRC-like LLM.
 
-> **[View all 184 skills in AI & LLMs →](categories/ai-and-llms.md)**
+- [phy-ai-image](https://clawskills.sh/skills/phy041-phy-ai-image) - Full AI image workflow: intent classification, prompt enhancement, multi-direction generation via fal.ai.
+- [phy-content-safety-guard](https://clawskills.sh/skills/phy041-phy-content-safety-guard) - Dual-layer AI content guardrail with red-team test methodology for LLM outputs.
+- [phy-fal-image-gen](https://clawskills.sh/skills/phy041-phy-fal-image-gen) - Generate images via fal.ai and Seedream APIs with batch support and aesthetic scoring.
+- [phy-fal-model-selector](https://clawskills.sh/skills/phy041-phy-fal-model-selector) - Decision matrix for choosing the right fal.ai model: video, image editing, generation, style transfer.
+> **[View all 188 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
 
 <details>
@@ -1078,7 +1106,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [confluence](https://clawskills.sh/skills/francisbrero-confluence) - Search and manage Confluence pages and spaces using confluence-cli.
 - [bluente-translate](https://github.com/openclaw/skills/blob/main/skills/varsmallrookie/bluente-translate/SKILL.md) - Translate your documents with formatting intact in 2 minutes.
 
-> **[View all 110 skills in PDF & Documents →](categories/pdf-and-documents.md)**
+- [phy-paper-polish](https://clawskills.sh/skills/phy041-phy-paper-polish) - Review and polish research papers in LaTeX: writing clarity, grammar, structure, best practices.
+> **[View all 111 skills in PDF & Documents →](categories/pdf-and-documents.md)**
 </details>
 
 <details>
