@@ -373,6 +373,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [calorie-visualizer](https://clawskills.sh/skills/vintlin-calorie-visualizer) - Local calorie logging and visual reporting (auto-refreshes and returns report image after each log)
 - [canva-connect](https://clawskills.sh/skills/coolmanns-canva-connect) - Manage Canva designs, assets, and folders via the Connect API.
 
+- [meshy-3d-agent](https://clawskills.sh/skills/arlieeee-meshy-3d-agent) - Full 3D generation, rigging, animation, and printing via Meshy AI.
+
 > **[View all 169 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
 </details>
 
