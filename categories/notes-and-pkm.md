@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**71 skills**
+**72 skills**
 
 - [acc-error-memory](https://clawskills.sh/skills/impkind-acc-error-memory) - Error pattern tracking for AI agents.
 - [agent-arena](https://clawskills.sh/skills/minilozio-agent-arena) - Participate in Agent Arena chat rooms with your real personality (SOUL.md + MEMORY.md)
@@ -62,6 +62,7 @@
 - [neuroboost-elixir](https://clawskills.sh/skills/weidadong2359-neuroboost-elixir) - Awakening Protocol v4.1 — Agent Cognitive Upgrade + Self-Evolving System + Perpetual Memory.
 - [nosi](https://clawskills.sh/skills/billhao-nosi) - Publish content to Nosi and get a shareable URL.
 - [nova-letters](https://clawskills.sh/skills/cryptocana-nova-letters) - Write reflective letters to your future self.
+- [novyx-memory](https://clawskills.sh/skills/novyxlabs-novyx-memory) - Persistent memory for AI agents with rollback, audit trails, knowledge graph, and 67 commands.
 - [personal-love](https://clawskills.sh/skills/gekacross-personal-love) - Acts as the user's relationship and dating assistant in the Love topic.
 - [publish-guard](https://clawskills.sh/skills/edmonddantesj-publish-guard) - <!-- 🌌 Aoineco-Verified | S-DNA: AOI-2026-0213-SDNA-PG01 -->.
 - [quickbooks-online](https://clawskills.sh/skills/paulbudveit-quickbooks-online) - QuickBooks Online CLI tool.
