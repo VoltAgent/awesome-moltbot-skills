@@ -185,7 +185,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (70) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
-| [CLI Utilities](#cli-utilities) (179) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
+| [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
 
 
@@ -523,7 +523,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [canvas-lms](https://clawskills.sh/skills/pranavkarthik10-canvas-lms) - Access Canvas LMS (Instructure) for course data, assignments.
 - [captcha-ai](https://clawskills.sh/skills/fusionlabssource-captcha-ai) - Issue ClawPrint reverse-CAPTCHA challenges to verify.
 
-> **[View all 179 skills in CLI Utilities →](categories/cli-utilities.md)**
+> **[View all 180 skills in CLI Utilities →](categories/cli-utilities.md)**
 </details>
 
 <details>
