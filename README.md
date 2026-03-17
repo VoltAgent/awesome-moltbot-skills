@@ -1246,3 +1246,10 @@ MIT License - see [LICENSE](LICENSE)
 Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
 If you find an issue with a listed skill or want your skill removed, please open an issue and we'll take care of it promptly.
+
+### Social Media & Publishing
+
+| Skill | Description | Install |
+|-------|-------------|---------|
+| [sendit-openclaw](https://github.com/Shree-git/sendit) | 14 workflow guides for AI-native social publishing, scheduling, analytics, campaigns, CRM, and automation across 32 platforms. Bundled with `@senditapp/openclaw` plugin. | `clawhub install sendit-openclaw` |
+
