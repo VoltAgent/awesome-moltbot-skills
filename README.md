@@ -1251,5 +1251,4 @@ If you find an issue with a listed skill or want your skill removed, please open
 
 | Skill | Description | Install |
 |-------|-------------|---------|
-| [sendit-openclaw](https://github.com/Shree-git/sendit) | 14 workflow guides for AI-native social publishing, scheduling, analytics, campaigns, CRM, and automation across 32 platforms. Bundled with `@senditapp/openclaw` plugin. | `clawhub install sendit-openclaw` |
-
+| [sendit-openclaw](https://www.npmjs.com/package/@senditapp/openclaw) | 14 workflow guides for AI-native social publishing, scheduling, analytics, campaigns, CRM, and automation across 32 platforms. Bundled with `@senditapp/openclaw` plugin. | `clawhub install sendit-openclaw` |
