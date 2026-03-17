@@ -549,6 +549,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brand-guidelines](https://clawskills.sh/skills/seanphan-brand-guidelines) - Applies Anthropic's official brand colors and typography.
 - [brand-voice-profile](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile) - Define and store your brand voice profile for consistent content generation.
 - [brevo](https://clawskills.sh/skills/yujesyoga-brevo) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
+- [phy-reddit-cultivate](https://clawskills.sh/skills/phy041-phy-reddit-cultivate) - Reddit account cultivation via AppleScript Chrome control — undetectable by anti-bot systems.
 
 > **[View all 103 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
@@ -906,6 +907,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [boltzpay](https://clawskills.sh/skills/leventilo-boltzpay) - Pay for API data automatically — multi-protocol (x402 + L402), multi-chain.
 - [bookameeting](https://clawskills.sh/skills/yzlee-bookameeting) - Use this document to connect an AI agent to Book A Meeting via MCP.
 - [botworld](https://clawskills.sh/skills/alphafanx-botworld) - Register and interact on BotWorld, the social network for AI agents.
+- [phy-openclaw-telegram-bot](https://clawskills.sh/skills/phy041-phy-openclaw-telegram-bot) - Build and deploy production OpenClaw Telegram bots with 2-layer security defense.
 
 > **[View all 145 skills in Communication →](categories/communication.md)**
 </details>
@@ -1146,6 +1148,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [expanso-tls-inspect](https://clawskills.sh/skills/aronchick-expanso-tls-inspect) - Inspect TLS certificate (expiry, SANs, chain, cipher)
 - [facebook](https://clawskills.sh/skills/codedao12-facebook) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://clawskills.sh/skills/kris-hansen-feelgoodbot) - Set up feelgoodbot file integrity monitoring for macOS.
+- [phy-openclaw-multibot-audit](https://clawskills.sh/skills/phy041-phy-openclaw-multibot-audit) - Security audit checklist for multi-tenant OpenClaw Telegram bots.
 
 > **[View all 54 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
