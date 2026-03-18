@@ -1219,6 +1219,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <br/>
+- [lobsterdomains](https://clawhub.ai/esokullu/lobsterdomains) - Register ICANN domains with crypto payments via API, built for AI agents
 
 
 ## Star History
