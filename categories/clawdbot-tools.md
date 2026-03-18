@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**36 skills**
+**37 skills**
 
 - [adhd-assistant](https://clawskills.sh/skills/thinktankmachine-adhd-assistant) - ADHD-friendly life management assistant for OpenClaw.
 - [adhd-ssistant](https://clawskills.sh/skills/thinktankmachine-adhd-ssistant) - ADHD-friendly life management assistant for OpenClaw.
@@ -30,6 +30,7 @@
 - [clawdirect](https://clawskills.sh/skills/napoleond-clawdirect) - Interact with ClawDirect, a directory of social web experiences.
 - [clawdirect-dev](https://clawskills.sh/skills/napoleond-clawdirect-dev) - Build agent-facing web experiences with ATXP-based.
 - [gamification-xp](https://clawskills.sh/skills/chipagosfinest-gamification-xp) - XP system for productivity gamification via ClawdBot - track levels, badges, streaks, and achievements.
+- [honcho-setup](https://clawskills.sh/skills/ajspig-honcho-setup) - Persistent cross-session memory via Honcho.
 - [maton-agent-tools](https://clawskills.sh/skills/maverick-software-maton-agent-tools) - Connect to SaaS tools via Maton AI.
 - [mcp-client](https://clawskills.sh/skills/nantes-mcp-client) - Model Context Protocol (MCP) client - connect to tools, data sources and services.
 - [mcp-hass](https://clawskills.sh/skills/al-one-mcp-hass) - The skill for control Home Assistant smart home devices and query states using MCP protocol.
