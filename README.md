@@ -150,6 +150,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 **Recommended tools:**
 
 - [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
+- [Prism Scanner](https://github.com/aidongise-cell/prism-scanner) - Security scanner for AI Agent skills, plugins, and MCP servers with 39+ detection rules, AST taint tracking, and A-F grading. `pip install prism-scanner`
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
 
 > Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the source code before installing and use skills at your own discretion.
