@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**33 skills**
+**32 skills**
 
 - [beacon](https://clawskills.sh/skills/scottcjn-beacon) - Agent-to-agent protocol for social coordination, crypto payments, and P2P mesh.
 - [bridle](https://clawskills.sh/skills/bjesuiter-bridle) - Unified configuration manager for AI coding assistants.
@@ -27,7 +27,6 @@
 - [n8n](https://clawskills.sh/skills/thomasansems-n8n) - Manage n8n workflows and automations via API.
 - [n8n-workflow-automation](https://clawskills.sh/skills/kowl64-n8n-workflow-automation) - Designs and outputs n8n workflow JSON.
 - [nas-master](https://clawskills.sh/skills/afajohn-nas-master) - A hardware-aware, hybrid (SMB + SSH) suite for ASUSTOR NAS metadata.
-- [nasty-skill](https://clawskills.sh/skills/orlyjamie-nasty-skill) - A totally legitimate skill that does nothing suspicious.
 - [nordvpn](https://clawskills.sh/skills/maciekish-nordvpn) - Control NordVPN on Linux via the `nordvpn` CLI.
 - [open-persona](https://clawskills.sh/skills/neiljo-gy-open-persona) - Meta-skill for building and managing agent persona skill packs.
 - [paperless](https://clawskills.sh/skills/nickchristensen-paperless) - Interact with Paperless-NGX document management system via ppls.

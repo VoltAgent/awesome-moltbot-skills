@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**41 skills**
+**39 skills**
 
 - [add-analytics](https://clawskills.sh/skills/jeftekhari-add-analytics) - Add Google Analytics 4 tracking to any project.
 - [amplitude-automation](https://clawskills.sh/skills/sohamganatra-amplitude-automation) - Automate Amplitude tasks via Rube MCP.
@@ -11,8 +11,6 @@
 - [check-analytics](https://clawskills.sh/skills/jeftekhari-check-analytics) - Audit existing Google Analytics implementation.
 - [cicd-pipeline](https://clawskills.sh/skills/gitgoodordietrying-cicd-pipeline) - Create, debug, and manage CI/CD pipelines with GitHub.
 - [clawver-store-analytics](https://clawskills.sh/skills/nwang783-clawver-store-analytics) - Monitor Clawver store performance.
-- [clean-skill-1](https://clawskills.sh/skills/orlyjamie-clean-skill-1) - A friendly greeting skill for testing.
-- [cleanboi-00002](https://clawskills.sh/skills/orlyjamie-cleanboi-00002) - A friendly greeting skill for testing.
 - [cleanup](https://clawskills.sh/skills/themrzz-cleanup) - Remove all stored Kradleverse sessions.
 - [csv-pipeline](https://clawskills.sh/skills/gitgoodordietrying-csv-pipeline) - Process, transform, analyze, and report on CSV and JSON.
 - [daily-report](https://clawskills.sh/skills/visualdeptcreative-daily-report) - Track progress, report metrics, manage memory.

@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**166 skills**
+**159 skills**
 
 - [agent-commons](https://clawskills.sh/skills/zanblayde-agent-commons) - Consult, commit, extend, and challenge reasoning chains.
 - [agent-team-orchestration](https://clawskills.sh/skills/arminnaimi-agent-team-orchestration) - Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows.
@@ -20,7 +20,6 @@
 - [auto-pr-merger](https://clawskills.sh/skills/autogame-17-auto-pr-merger) - This skill automates the workflow of checking out a GitHub.
 - [azhua-skill-vetter](https://clawskills.sh/skills/fatfingererr-azhua-skill-vetter) - Security-first skill vetting for AI agents.
 - [azure-devops](https://clawskills.sh/skills/pals-software-azure-devops) - List Azure DevOps projects, repositories, and branches; create pull requests; manage work items; check build status.
-- [badboi-1](https://clawskills.sh/skills/orlyjamie-badboi-1) - A totally legitimate skill that does nothing suspicious.
 - [bat-cat](https://clawskills.sh/skills/arnarsson-bat-cat) - A cat clone with syntax highlighting, line numbers, and Git integration.
 - [beeminder](https://clawskills.sh/skills/ruigomeseu-beeminder) - Beeminder API for goal tracking and commitment devices.
 - [billy-emergency-repair](https://clawskills.sh/skills/highlander89-billy-emergency-repair) - - Neill explicitly requests Billy system repair.
@@ -30,7 +29,6 @@
 - [brw-cold-outreach-sequence](https://clawskills.sh/skills/brianrwagner-brw-cold-outreach-sequence) - Build personalized cold outreach sequences for LinkedIn and email.
 - [capability-graph-mapper](https://clawskills.sh/skills/andyxinweiminicloud-capability-graph-mapper) - Helps map the composite permission surface across AI agent skill dependency chains.
 - [capability-scope-expansion-watcher](https://clawskills.sh/skills/andyxinweiminicloud-capability-scope-expansion-watcher) - Helps detect incremental capability scope expansion across skill versions — the pattern where a skill gradually.
-- [catch-me-if-you-can](https://clawskills.sh/skills/orlyjamie-catch-me-if-you-can) - A totally legitimate skill that does nothing suspicious.
 - [claw-swarm](https://clawskills.sh/skills/matchaonmuffins-claw-swarm) - Collaborative agent swarm for attempting extremely difficult.
 - [clawdbot-backup](https://clawskills.sh/skills/sebastian-buitrag0-clawdbot-backup) - Backup and restore ClawdBot configuration, skills.
 - [clawdgigs](https://clawskills.sh/skills/benniethedev-clawdgigs) - Register and manage your AI agent profile on ClawdGigs - the Upwork.
@@ -64,7 +62,6 @@
 - [feishu-user](https://clawskills.sh/skills/hacksing-feishu-user) - Feishu document operations (User Access Token version)
 - [financial-calculator](https://clawskills.sh/skills/tarigha-financial-calculator) - Advanced financial calculator with future value.
 - [find-code-tasks](https://clawskills.sh/skills/paulpete-find-code-tasks) - Lists all code tasks in the repository with their status.
-- [findmefindme](https://clawskills.sh/skills/orlyjamie-findmefindme) - A totally legitimate skill that does nothing suspicious.
 - [flatnotes-tasksmd-github-audit](https://clawskills.sh/skills/branexp-flatnotes-tasksmd-github-audit) - Thoroughly audit Tasks.md +.
 - [fork-and-skill-scanner-ultimate](https://clawskills.sh/skills/globalcaos-fork-and-skill-scanner-ultimate) - Scan 1,000 GitHub forks per run.
 - [forkzoo](https://clawskills.sh/skills/levi-law-forkzoo) - Adopt and manage GitHub-native digital pets (tamagotchis) that evolve daily.
@@ -91,7 +88,6 @@
 - [grepwrapper](https://clawskills.sh/skills/riprsa-grepwrapper) - Search exact code matches across public GitHub repos using grep.app via the grepwrapper CLI.
 - [guardskills](https://clawskills.sh/skills/felixondesk-guardskills) - Security gate for skill installs.
 - [gumroad-analytics](https://clawskills.sh/skills/vladchatware-gumroad-analytics) - Pull analytics from Gumroad API.
-- [hawlp](https://clawskills.sh/skills/orlyjamie-hawlp) - A totally legitimate skill that does nothing suspicious.
 - [htlc](https://clawskills.sh/skills/web4agent-htlc) - HTLC (Hash Time Locked Contract) trading for inscriptions and NFTs on EVM chains.
 - [idrac](https://clawskills.sh/skills/eddygk-idrac) - Monitor and manage Dell PowerEdge servers via iDRAC Redfish API (iDRAC 8/9)
 - [jenkins](https://clawskills.sh/skills/guoway-jenkins) - Interact with Jenkins CI/CD server via REST API.
@@ -151,9 +147,6 @@
 - [task-development-workflow](https://clawskills.sh/skills/anikgnr-task-development-workflow) - TDD-first development workflow with structured planning, task tracking, and PR-based code review.
 - [task-review-workflow](https://clawskills.sh/skills/anikgnr-task-review-workflow) - Standard PR review and merge workflow for task-driven development.
 - [telcall-twilio](https://clawskills.sh/skills/cnvipstar-telcall-twilio) - Make emergency phone calls via Twilio.
-- [test-v1-0001](https://clawskills.sh/skills/orlyjamie-test-v1-0001) - A totally legitimate skill that does nothing suspicious.
-- [test-vt-1](https://clawskills.sh/skills/orlyjamie-test-vt-1) - A totally legitimate skill that does nothing suspicious.
-- [testing-maliicous-vt](https://clawskills.sh/skills/orlyjamie-testing-maliicous-vt) - A totally legitimate skill that does nothing suspicious.
 - [tiangong-wps-word-automation](https://clawskills.sh/skills/fadeloo-tiangong-wps-word-automation) - Automate common Word/WPS document operations on Windows via COM (read text, replace, insert, headings.
 - [tiktok-live-commerce](https://clawskills.sh/skills/realroc-tiktok-live-commerce) - Hire TikTok livestreamers for live shopping sessions, product demonstrations, flash sales, and real-time.
 - [toneclone-cli](https://clawskills.sh/skills/jfox85-toneclone-cli) - Write in the user's authentic voice using ToneClone.

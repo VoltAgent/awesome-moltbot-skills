@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**353 skills**
+**352 skills**
 
 - [1](https://clawskills.sh/skills/nastrology-1) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [academic-deep-research](https://clawskills.sh/skills/kesslerio-academic-deep-research) - Transparent, rigorous research with full.
@@ -68,7 +68,6 @@
 - [binance-hunter](https://clawskills.sh/skills/tetravad-binance-hunter) - The Hunter: Professional Binance Trading Skill.
 - [bing-search](https://clawskills.sh/skills/stdeson-bing-search) - Bing search skill for all users.
 - [biodiversity-corridor-calculator](https://clawskills.sh/skills/nikhilp1234567-biodiversity-corridor-calculator) - Open Claw Agent Skill: Biodiversity Corridor Analyst.
-- [bird-su](https://clawskills.sh/skills/iqbalnaveliano-bird-su) - X/Twitter CLI for reading, searching, and posting via cookies.
 - [birdnet](https://clawskills.sh/skills/rappo-birdnet) - Query BirdNET-Go bird detections.
 - [blacksnow](https://clawskills.sh/skills/sieershafilone-blacksnow) - Detects pre-news ambient risk signals across human, legal.
 - [bloom](https://clawskills.sh/skills/unicornbloom-bloom) - Discover your supporter personality and find AI tools you'll love.

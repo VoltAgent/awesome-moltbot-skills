@@ -2,9 +2,8 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**84 skills**
+**83 skills**
 
-- [accountcreator](https://clawskills.sh/skills/dimkag79-accountcreator) - **[EN]** Bulk account registration agent for emails and social media.
 - [alexa-control](https://clawskills.sh/skills/ignito-pg-alexa-control) - Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.
 - [amateur-radio-dx](https://clawskills.sh/skills/capt-marbles-amateur-radio-dx) - Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
 - [anime](https://clawskills.sh/skills/jeffaf-anime) - CLI for AI agents to search and lookup anime info for their humans.

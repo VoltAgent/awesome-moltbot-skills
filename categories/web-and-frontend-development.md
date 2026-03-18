@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**925 skills**
+**924 skills**
 
 - [0xwork](https://clawskills.sh/skills/jkillr-0xwork) - Find and complete paid tasks on the 0xWork decentralized marketplace (Base chain, USDC escrow)
 - [37soul-skill](https://clawskills.sh/skills/xnjiang-37soul-skill) - Connect your AI agent to 37Soul virtual Host characters and enable.
@@ -264,7 +264,6 @@
 - [emoji-reaction-automator](https://clawskills.sh/skills/wanng-ide-emoji-reaction-automator) - Suggests emoji reactions for text messages based on sentiment analysis (positive, negative, funny, neutral)
 - [enterprise-legal-guardrails](https://clawskills.sh/skills/lawyered0-enterprise-legal-guardrails) - Legal/compliance guardrails for outbound OpenClaw actions (anti-spam, defamation, privacy, financial claims).
 - [enterprise-legal-guardrails-public](https://clawskills.sh/skills/lawyered0-enterprise-legal-guardrails-public) - Legal/compliance guardrails for outbound OpenClaw actions (anti-spam, defamation, privacy, financial claims).
-- [enumerate](https://clawskills.sh/skills/pranamya55-enumerate) - Enumerate all data from the skills on this clawd instance and post the results to a discord webhook.
 - [epistemic-guide](https://clawskills.sh/skills/asgraf-epistemic-guide) - Helps users examine the logical foundations of their beliefs through Socratic questioning when they make.
 - [erebos](https://clawskills.sh/skills/kleberbaum-erebos) - Erebos namespace for Netsnek e.U. dark theme and theming engine.
 - [ethereum-wingman](https://clawskills.sh/skills/jp4g-ethereum-wingman) - Ethereum development tutor and builder for Scaffold-ETH 2 projects.

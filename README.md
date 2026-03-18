@@ -18,7 +18,7 @@
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
-[![Skills Count](https://img.shields.io/badge/skills-5366-blue?style=flat-square)](#table-of-contents)
+[![Skills Count](https://img.shields.io/badge/skills-5352-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 </div>
@@ -194,7 +194,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [auto-pr-merger](https://clawskills.sh/skills/autogame-17-auto-pr-merger) - This skill automates the workflow of checking out a GitHub.
 - [azhua-skill-vetter](https://clawskills.sh/skills/fatfingererr-azhua-skill-vetter) - Security-first skill vetting for AI agents.
 - [azure-devops](https://clawskills.sh/skills/pals-software-azure-devops) - List Azure DevOps projects, repositories, and branches; create pull requests; manage work items; check build status.
-- [badboi-1](https://clawskills.sh/skills/orlyjamie-badboi-1) - A totally legitimate skill that does nothing suspicious.
 - [bat-cat](https://clawskills.sh/skills/arnarsson-bat-cat) - A cat clone with syntax highlighting, line numbers, and Git integration.
 - [beeminder](https://clawskills.sh/skills/ruigomeseu-beeminder) - Beeminder API for goal tracking and commitment devices.
 - [billy-emergency-repair](https://clawskills.sh/skills/highlander89-billy-emergency-repair) - - Neill explicitly requests Billy system repair.
@@ -202,7 +201,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [biz-reporter](https://clawskills.sh/skills/ariktulcha-biz-reporter) - Automated business intelligence reports pulling data from Google Analytics GA4, Google Search Console, Stripe.
 - [blinko](https://clawskills.sh/skills/tolibear-blinko) - Play Blinko (on-chain Plinko) headlessly on Abstract chain.
 
-> **[View all 166 skills in Git & GitHub →](categories/git-and-github.md)**
+> **[View all 159 skills in Git & GitHub →](categories/git-and-github.md)**
 </details>
 
 <details open>
@@ -304,7 +303,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentns](https://clawskills.sh/skills/vibrant-agentns) - Register and manage ICANN domains for AI agents.
 - [agentpay](https://clawskills.sh/skills/kar69-96-agentpay) - Buy things from real websites on behalf of your human.
 
-> **[View all 925 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
+> **[View all 924 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
 </details>
 
 <details>
@@ -517,7 +516,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [canvas-lms](https://clawskills.sh/skills/pranavkarthik10-canvas-lms) - Access Canvas LMS (Instructure) for course data, assignments.
 - [captcha-ai](https://clawskills.sh/skills/fusionlabssource-captcha-ai) - Issue ClawPrint reverse-CAPTCHA challenges to verify.
 
-> **[View all 180 skills in CLI Utilities →](categories/cli-utilities.md)**
+> **[View all 179 skills in CLI Utilities →](categories/cli-utilities.md)**
 </details>
 
 <details>
@@ -626,8 +625,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [check-analytics](https://clawskills.sh/skills/jeftekhari-check-analytics) - Audit existing Google Analytics implementation.
 - [cicd-pipeline](https://clawskills.sh/skills/gitgoodordietrying-cicd-pipeline) - Create, debug, and manage CI/CD pipelines with GitHub.
 - [clawver-store-analytics](https://clawskills.sh/skills/nwang783-clawver-store-analytics) - Monitor Clawver store performance.
-- [clean-skill-1](https://clawskills.sh/skills/orlyjamie-clean-skill-1) - A friendly greeting skill for testing.
-- [cleanboi-00002](https://clawskills.sh/skills/orlyjamie-cleanboi-00002) - A friendly greeting skill for testing.
 - [cleanup](https://clawskills.sh/skills/themrzz-cleanup) - Remove all stored Kradleverse sessions.
 - [csv-pipeline](https://clawskills.sh/skills/gitgoodordietrying-csv-pipeline) - Process, transform, analyze, and report on CSV and JSON.
 - [daily-report](https://clawskills.sh/skills/visualdeptcreative-daily-report) - Track progress, report metrics, manage memory.
@@ -672,7 +669,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 <details>
 <summary><h3 style="display:inline">Media & Streaming</h3></summary>
 
-- [accountcreator](https://clawskills.sh/skills/dimkag79-accountcreator) - **[EN]** Bulk account registration agent for emails and social media.
 - [alexa-control](https://clawskills.sh/skills/ignito-pg-alexa-control) - Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.
 - [amateur-radio-dx](https://clawskills.sh/skills/capt-marbles-amateur-radio-dx) - Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
 - [anime](https://clawskills.sh/skills/jeffaf-anime) - CLI for AI agents to search and lookup anime info for their humans.
@@ -700,7 +696,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [elevenlabs-cli](https://clawskills.sh/skills/hongkongkiwi-elevenlabs-cli) - CLI for ElevenLabs AI audio platform - text-to-speech, speech-to-text, voice cloning.
 - [elevenlabs-skill](https://clawskills.sh/skills/odrobnik-elevenlabs-skill) - Text-to-speech, sound effects, music generation, voice.
 
-> **[View all 84 skills in Media & Streaming →](categories/media-and-streaming.md)**
+> **[View all 83 skills in Media & Streaming →](categories/media-and-streaming.md)**
 </details>
 
 <details>
@@ -1105,7 +1101,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [n8n](https://clawskills.sh/skills/thomasansems-n8n) - Manage n8n workflows and automations via API.
 - [n8n-workflow-automation](https://clawskills.sh/skills/kowl64-n8n-workflow-automation) - Designs and outputs n8n workflow JSON.
 - [nas-master](https://clawskills.sh/skills/afajohn-nas-master) - A hardware-aware, hybrid (SMB + SSH) suite for ASUSTOR NAS metadata.
-- [nasty-skill](https://clawskills.sh/skills/orlyjamie-nasty-skill) - A totally legitimate skill that does nothing suspicious.
 - [nordvpn](https://clawskills.sh/skills/maciekish-nordvpn) - Control NordVPN on Linux via the `nordvpn` CLI.
 - [open-persona](https://clawskills.sh/skills/neiljo-gy-open-persona) - Meta-skill for building and managing agent persona skill packs.
 - [paperless](https://clawskills.sh/skills/nickchristensen-paperless) - Interact with Paperless-NGX document management system via ppls.
@@ -1114,7 +1109,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [sonarqube-analyzer](https://clawskills.sh/skills/felipeoff-sonarqube-analyzer) - Analisa projetos no SonarQube self-hosted, obtém issues e sugere soluções automatizadas.
 - [system-integrity-and-backup](https://clawskills.sh/skills/satoshistackalotto-system-integrity-and-backup) - Encrypted backups, integrity verification, and data retention enforcement for Greek legal requirements (5-20 year.
 
-> **[View all 33 skills in Self-Hosted & Automation →](categories/self-hosted-and-automation.md)**
+> **[View all 32 skills in Self-Hosted & Automation →](categories/self-hosted-and-automation.md)**
 </details>
 
 <details>

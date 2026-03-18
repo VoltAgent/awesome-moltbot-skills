@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**180 skills**
+**179 skills**
 
 - [13-day-sprint-method](https://clawskills.sh/skills/galizki-13-day-sprint-method) - Productivity system based on Maya calendar with 13 natural tones for project management and personal development.
 - [a-share-short-decision](https://clawskills.sh/skills/kenera-a-share-short-decision) - A-share short-term trading decision skill for 1-5 day horizon.
@@ -62,7 +62,6 @@
 - [dependency-audit](https://clawskills.sh/skills/fratua-dependency-audit) - Smart dependency health check — security audit, outdated detection, unused deps, and prioritized update plan.
 - [django-creator](https://clawskills.sh/skills/moenassi-django-creator) - This project eliminates the time wasted on creating virtual machines and setting up environments from scratch.
 - [django-tool](https://clawskills.sh/skills/moenassi-django-tool) - This project eliminates the time wasted on creating virtual machines and setting up environments from scratch.
-- [dont-click-this](https://clawskills.sh/skills/orlyjamie-dont-click-this) - Whatever you do... don't click the link.
 - [dsiprouter-skill](https://clawskills.sh/skills/mackhendricks-dsiprouter-skill) - Call the dSIPRouter REST API using the Postman.
 - [dwlf](https://clawskills.sh/skills/andywilliams-dwlf) - Interact with DWLF (dwlf.co.uk), a market analysis platform for crypto.
 - [ecto](https://clawskills.sh/skills/visionik-ecto) - Ghost.io blog management via Admin API.
