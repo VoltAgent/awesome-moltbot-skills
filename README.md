@@ -1241,3 +1241,5 @@ MIT License - see [LICENSE](LICENSE)
 Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
 If you find an issue with a listed skill or want your skill removed, please open an issue and we'll take care of it promptly.
+
+- [tubeify](https://clawhub.ai/esokullu/tubeify) - AI video editor that removes pauses and filler words for YouTube creators
