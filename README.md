@@ -696,6 +696,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [elevenlabs-cli](https://clawskills.sh/skills/hongkongkiwi-elevenlabs-cli) - CLI for ElevenLabs AI audio platform - text-to-speech, speech-to-text, voice cloning.
 - [elevenlabs-skill](https://clawskills.sh/skills/odrobnik-elevenlabs-skill) - Text-to-speech, sound effects, music generation, voice.
 
+- [tubeify](https://clawskills.sh/skills/esokullu-tubeify) - AI video editor for YouTube — removes pauses, filler words, and dead air automatically via API
 > **[View all 83 skills in Media & Streaming →](categories/media-and-streaming.md)**
 </details>
 
