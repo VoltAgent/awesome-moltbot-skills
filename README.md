@@ -101,7 +101,7 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 
 OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
 
-<a href="https://composio.dev/">
+<a href="https://composio.dev/claw?utm_source=github&utm_campaign=volt-agent">
 <img src="https://cdn.voltagent.dev/awesome-repo/composio-img.png" alt="Composio"  />
 Managed OAuth, scoped permissions, and logged native toolcalls across 1000+ apps.
 </a>
