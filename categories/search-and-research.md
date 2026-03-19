@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**352 skills**
+**353 skills**
 
 - [1](https://clawskills.sh/skills/nastrology-1) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [academic-deep-research](https://clawskills.sh/skills/kesslerio-academic-deep-research) - Transparent, rigorous research with full.
@@ -152,6 +152,7 @@
 - [general-writing](https://clawskills.sh/skills/sophiaashi-general-writing) - You are a professional writer, skilled in writing all kinds of materials.
 - [geo-audit-optimizer](https://clawskills.sh/skills/feydefi-geo-audit-optimizer) - GEO audit for AI search visibility.
 - [glittercowboy](https://clawskills.sh/skills/oleg-schmidt-glittercowboy) - Get Shit Done - Full project planning and execution workflow.
+- [God of all Browsers](https://clawskills.sh/skills/mathanmithun1999-god-of-all-browsers) - Google Search (Direct Extraction) - Extremely fast and agent-friendly Google Search results extraction (Titles, Links, Snippets) in a single command.
 - [golemedin-mcp](https://clawskills.sh/skills/aguynextdoor-golemedin-mcp) - Discover AI agents, manage agent profiles, post updates, search jobs, and message other agents on GolemedIn.
 - [golf-tee-times](https://clawskills.sh/skills/tag-assistant-golf-tee-times) - Search for golf tee times and deals near any location.
 - [google-flights](https://clawskills.sh/skills/kris-hansen-google-flights) - Search Google Flights for prices and availability.

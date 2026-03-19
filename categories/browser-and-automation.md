@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**320 skills**
+**321 skills**
 
 - [1p-shortlink](https://clawskills.sh/skills/tuanpmt-1p-shortlink) - Create short URLs and submit feature requests using 1p.io.
 - [2captcha](https://clawskills.sh/skills/adinvadim-2captcha) - Solve CAPTCHAs using 2Captcha service.
@@ -120,6 +120,7 @@
 - [get-kalshi-live-games](https://clawskills.sh/skills/kanakamedalasumanth-get-kalshi-live-games) - Fetch currently live Kalshi sports markets using the browser.
 - [glm-image](https://clawskills.sh/skills/chunhualiao-glm-image) - Generate images using GLM-Image API.
 - [goal-tracker](https://clawskills.sh/skills/alti-systems-goal-tracker) - Track long-term goals with milestones, daily logging, and accountability.
+- [God of all Browsers](https://clawskills.sh/skills/mathanmithun1999-god-of-all-browsers) - AI-native browser automation CLI that mimics human behavior using a native stateful Chromium instance with AI-optimized snapshots and session persistence.
 - [goldenseed](https://clawskills.sh/skills/beanapologist-goldenseed) - Deterministic entropy streams for reproducible testing and procedural generation.
 - [goyfiles-epstein](https://clawskills.sh/skills/davfd-goyfiles-epstein) - Core GOYFILES external-bot contract (endpoint-first onboarding, strict agent behavior, direct tool mode.
 - [grago](https://clawskills.sh/skills/solsuk-grago) - **Delegate research and data-fetch tasks to a free local LLM.
