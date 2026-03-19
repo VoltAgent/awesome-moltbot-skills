@@ -175,6 +175,7 @@
 - [mcp-chrome](https://clawskills.sh/skills/femto-mcp-chrome) - Control Chrome browser with AI using MCP protocol.
 - [mealie](https://clawskills.sh/skills/g1mb01d-mealie) - Interact with a self‑hosted Mealie instance (recipe manager & meal planner) via its REST API.
 - [meeting-notes-pro](https://clawskills.sh/skills/olivermonneke-meeting-notes-pro) - You are a meeting productivity expert.
+- [menews](https://clawhub.ai/jamesmenews/menews) - AI-powered crypto and AI market intelligence hub. Get real-time flash news, aggregated hot topics, X platform trends, Polymarket predictions, and trending tokens with bilingual support (EN/ZH).
 - [memberstack-cli](https://clawskills.sh/skills/bensabic-memberstack-cli) - Use the Memberstack CLI to manage Memberstack accounts from the terminal.
 - [meta-fb-inbox](https://clawskills.sh/skills/picseeinc-meta-fb-inbox) - Check Facebook page inbox messages via Meta Business Suite browser automation.
 - [metengine-data-agent](https://clawskills.sh/skills/saviour1001-metengine-data-agent) - Real-time smart money analytics API for Polymarket prediction markets, Hyperliquid perpetual futures, and Meteora.
