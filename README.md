@@ -697,7 +697,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [elevenlabs-skill](https://clawskills.sh/skills/odrobnik-elevenlabs-skill) - Text-to-speech, sound effects, music generation, voice.
 
 - [tubeify](https://clawskills.sh/skills/esokullu-tubeify) - AI video editor for YouTube — removes pauses, filler words, and dead air automatically via API
-> **[View all 83 skills in Media & Streaming →](categories/media-and-streaming.md)**
+> **[View all 84 skills in Media & Streaming →](categories/media-and-streaming.md)**
 </details>
 
 <details>
