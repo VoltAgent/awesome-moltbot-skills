@@ -78,6 +78,7 @@
 - [sports-odds](https://clawskills.sh/skills/ianalloway-sports-odds) - Get live sports betting odds and compare lines across sportsbooks.
 - [telnyx-stt](https://clawskills.sh/skills/teamtelnyx-telnyx-stt) - Transcribe audio files to text using Telnyx Speech-to-Text API.
 - [telnyx-tts](https://clawskills.sh/skills/teamtelnyx-telnyx-tts) - Generate speech audio from text using Telnyx Text-to-Speech API.
+- [tubeify](https://clawskills.sh/skills/esokullu-tubeify) - AI video editor for YouTube — removes pauses, filler words, and dead air automatically via API
 - [ulanzi-tc001](https://clawskills.sh/skills/felipeouropreto-ulanzi-tc001) - Control the Ulanzi TC001 (Pixel Clock) over local HTTP.
 - [voice-edge-tts](https://clawskills.sh/skills/zhaov1976-voice-edge-tts) - Text-to-speech skill using Microsoft Edge TTS engine with real-time streaming playback support.
 - [voice-to-text](https://clawskills.sh/skills/vae999-voice-to-text) - Convert voice messages and audio files to text using Vosk offline speech recognition.
