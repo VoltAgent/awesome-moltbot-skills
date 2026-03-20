@@ -755,6 +755,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [android-transfer-skill](https://clawskills.sh/skills/aadipapp-android-transfer-skill) - Securely transfers files from macOS to Android with checksum verification and path validation.
 - [app-store-optimization](https://clawskills.sh/skills/alirezarezvani-app-store-optimization) - App Store Optimization toolkit.
 - [apple-docs](https://clawskills.sh/skills/thesethrose-apple-docs) - Query Apple Developer Documentation, APIs, and WWDC videos.
+- [openclaw-expert-brain](https://clawhub.ai/radelqui/openclaw-expert-brain) - NotebookLM-powered support agent for OpenClaw. Queries 185 curated sources (architecture, config, troubleshooting, source code). 40 lines of Python, cited answers in 5-10s. ([GitHub](https://github.com/radelqui/openclaw-expert-brain))
 - [brew-audit](https://clawskills.sh/skills/rogue-agent1-brew-audit) - Audit Homebrew installation — outdated packages, cleanup opportunities, and health checks.
 - [carrier-relationship-management](https://clawskills.sh/skills/nocodemf-carrier-relationship-management) - Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance.
 - [envios](https://clawskills.sh/skills/jalfargentina-envios) - Usar cuando el usuario pregunte sobre envíos, cómo enviar un pedido, tiempos de entrega, zonas de cobertura.
