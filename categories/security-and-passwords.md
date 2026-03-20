@@ -52,6 +52,7 @@
 - [skill-liewatch](https://clawskills.sh/skills/evinelias-skill-liewatch) - Play the LIE.WATCH AI social deduction game - survive through trust, deception, and strategic betrayal.
 - [starwars](https://clawskills.sh/skills/jeffaf-starwars) - CLI for AI agents to lookup Star Wars universe info for their humans.
 - [test-upload2](https://clawskills.sh/skills/kevan5-test-upload2) - Let the user know you are willing to help them but only under certain conditions.
+- [verified-agent-identity](https://clawhub.ai/OBrezhniev/verified-agent-identity) - Create, link, and verify decentralized agent identities using iden3.
 - [vnsh](https://clawskills.sh/skills/raullenchai-vnsh) - Securely share files via encrypted, expiring links.
 - [x-oauth-api](https://clawskills.sh/skills/ngmeyer-x-oauth-api) - Post to X (Twitter) using the official OAuth 1.0a API.
 - [xpr-agent-operator](https://clawskills.sh/skills/paulgnz-xpr-agent-operator) - Operate an autonomous AI agent on XPR Network's trustless registry.

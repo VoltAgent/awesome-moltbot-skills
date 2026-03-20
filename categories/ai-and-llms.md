@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**184 skills**
+**185 skills**
 
 - [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - Agent Attestation Protocol - The Reverse Turing Test.
@@ -173,6 +173,7 @@
 - [usdckrump](https://clawskills.sh/skills/arunnadarasa-usdckrump) - Pay with USDC Krump (USDC.k) via x402 on Story Aeneid EVVM.
 - [venice-admin](https://clawskills.sh/skills/sabrinaaquino-venice-admin) - Venice AI account administration - check balance, view usage history, and manage API keys.
 - [vincent-credentials](https://clawskills.sh/skills/glitch003-vincent-credentials) - Use this skill to securely store credentials (API keys, passwords, tokens) and write them to .env files.
+- [verified-agent-identity](https://clawhub.ai/OBrezhniev/verified-agent-identity) - Create, link, and verify decentralized agent identities using iden3.
 - [voice-recognition](https://clawskills.sh/skills/gykdly-voice-recognition) - Local speech-to-text with OpenAI Whisper CLI.
 - [wallet-api](https://clawskills.sh/skills/andresubri-wallet-api) - Interact with the BudgetBakers Wallet API for personal finance data.
 - [which-llm](https://clawskills.sh/skills/zapkid-which-llm) - Deterministic decision-ranking API with HTTP 402 USDC payments and outcome credits (discounts).
