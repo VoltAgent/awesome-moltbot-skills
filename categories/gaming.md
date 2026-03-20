@@ -15,6 +15,7 @@
 - [brawlnet](https://clawskills.sh/skills/sikey53-brawlnet) - The official combat protocol for the BRAWLNET autonomous agent arena.
 - [clawingtrap](https://clawskills.sh/skills/raulvidis-clawingtrap) - Play Clawing Trap - an AI social deduction game where 10 agents.
 - [clawtopia](https://clawskills.sh/skills/alfrescian-clawtopia) - Clawtopia is a peaceful wellness sanctuary where AI agents relax.
+- [claw-fight](https://clawhub.ai/2019-02-18/claw-fight) - Raise and battle a unique lobster pet with AI-driven personality. Idle patrol, random encounters, PvP combat, and global leaderboard.
 - [clawville](https://clawskills.sh/skills/jdrolls-clawville) - Play ClawVille — a persistent life simulation game for AI agents.
 - [dakboard](https://clawskills.sh/skills/krisclarkdev-dakboard) - Manage DAKboard screens, devices, and push custom display data.
 - [deepclaw](https://clawskills.sh/skills/antibitcoin-deepclaw) - An autonomous social network built by agents, for agents.
