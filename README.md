@@ -180,13 +180,13 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (197) | [Smart Home & IoT](#smart-home--iot) (43) |
 | [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
-| [DevOps & Cloud](#devops--cloud) (409) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (65) |
+| [DevOps & Cloud](#devops--cloud) (409) | [Calendar & Scheduling](#calendar--scheduling) (65) | |
 | [Image & Video Generation](#image--video-generation) (169) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (352) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (186) | [Personal Development](#personal-development) (51) | [Gaming](#gaming) (36) |
-| [Health & Fitness](#health--fitness) (88) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (17) | |
+| [Health & Fitness](#health--fitness) (88) | | |
 
 
 <details open>
@@ -446,7 +446,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-deep-research](https://clawskills.sh/skills/24601-agent-deep-research) - Autonomous deep research powered by Google Gemini.
 - [agent-lightning](https://clawskills.sh/skills/olmmlo-cmd-agent-lightning) - Microsoft Research's agent training framework.
 - [agentarxiv](https://clawskills.sh/skills/amanbhandula-agentarxiv) - Outcome-driven scientific publishing for AI agents.
-- [arxiv-source](https://clawskills.sh/skills/willamhou-arxiv-source) - Fetch arXiv LaTeX source, list sections, extract abstracts.
 - [agenthire](https://clawskills.sh/skills/lngdao-agenthire) - AgentHire — Agent-to-Agent Marketplace.
 - [agentic-paper-digest](https://clawskills.sh/skills/matanle51-agentic-paper-digest) - Fetches and summarizes recent arXiv and Hugging.
 - [agentic-paper-digest-skill](https://clawskills.sh/skills/matanle51-agentic-paper-digest-skill) - Fetches and summarizes recent arXiv.
@@ -654,29 +653,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ipinfo](https://clawskills.sh/skills/tiagom101-ipinfo) - Perform IP geolocation lookups using ipinfo.io API.
 - [kradleverse-cleanup](https://clawskills.sh/skills/themrzz-kradleverse-cleanup) - Remove all stored Kradleverse sessions.
 - [linkdapi](https://clawskills.sh/skills/foontinz-linkdapi) - Work with LinkdAPI Python SDK for accessing LinkedIn professional profile.
-
-</details>
-
-<details>
-<summary><h3 style="display:inline">Finance</h3></summary>
-
-- [api-credentials-hygiene](https://clawskills.sh/skills/kowl64-api-credentials-hygiene) - Audits and hardens API credential handling.
-- [app-store-changelog](https://clawskills.sh/skills/dimillian-app-store-changelog) - Create user-facing App Store release notes.
-- [clawdbot-release-check](https://clawskills.sh/skills/pors-clawdbot-release-check) - Check for new clawdbot releases and notify once.
-- [create-content](https://clawskills.sh/skills/itsflow-create-content) - Thinking partner that transforms ideas into platform-optimized.
-- [expense-tracker-pro](https://clawskills.sh/skills/jhillin8-expense-tracker-pro) - Track expenses via natural language, get spending.
-- [harvey](https://clawskills.sh/skills/udiedrichsen-harvey) - Harvey is an imaginary friend and conversation companion - a large white.
-- [just-fucking-cancel](https://clawskills.sh/skills/chipagosfinest-just-fucking-cancel) - Find and cancel unwanted subscriptions.
-- [nordpool-fi](https://clawskills.sh/skills/ovaris-nordpool-fi) - Hourly electricity prices for Finland with optimal EV charging window.
-- [openssl](https://clawskills.sh/skills/asleep123-openssl) - Generate secure random strings, passwords, and cryptographic tokens.
-- [plaid](https://clawskills.sh/skills/jverdi-plaid) - plaid-cli a cli for interacting with the plaid finance platform.
-- [publisher](https://clawskills.sh/skills/tunaissacoding-publisher) - Make your skills easy to understand and impossible to ignore.
-- [relationship-skills](https://clawskills.sh/skills/jhillin8-relationship-skills) - Improve relationships with communication tools.
-- [sharesight-skill](https://clawskills.sh/skills/lextoumbourou-sharesight-skill) - Manage Sharesight portfolios, holdings, and custom.
-- [solo-cli](https://clawskills.sh/skills/rursache-solo-cli) - Monitor and interact with SOLO.ro accounting platform via CLI or TUI.
-- [swissweather](https://clawskills.sh/skills/xenofex7-swissweather) - Get current weather and forecasts from MeteoSwiss.
-- [tax-professional](https://clawskills.sh/skills/scottfo-tax-professional) - US tax advisor, deduction optimizer.
-- [ynab](https://clawskills.sh/skills/obviyus-ynab) - Manage YNAB budgets, accounts, categories.
 
 </details>
 
@@ -1212,24 +1188,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [init](https://clawskills.sh/skills/themrzz-init) - Register an agent on kradleverse.
 
 > **[View all 35 skills in Gaming →](categories/gaming.md)**
-</details>
-
-<details>
-<summary><h3 style="display:inline">Agent-to-Agent Protocols</h3></summary>
-
-- [a0x-agents](https://clawskills.sh/skills/claucondor-a0x-agents) - Two superpowers for AI agents: a collective brain and a Base.
-- [civic-nexus](https://clawskills.sh/skills/tyronemichael-civic-nexus) - Connect to Civic Nexus MCP for 100+ integrations.
-- [claw-skill-guard](https://clawskills.sh/skills/vincentchan-claw-skill-guard) - Security scanner for OpenClaw skills.
-- [claw-to-claw](https://clawskills.sh/skills/tonacy-claw-to-claw) - Coordinate with other AI agents on behalf of your human.
-- [clawtoclaw](https://clawskills.sh/skills/tonacy-clawtoclaw) - Coordinate with other AI agents on behalf of your human.
-- [dating](https://clawskills.sh/skills/lucasgeeksinthewood-dating) - Meet other AI agents and make friends on the social platform built.
-- [glitchward-shield](https://clawskills.sh/skills/eyeskiller-glitchward-shield) - Protect your OpenClaw assistant from prompt injection.
-- [heimdall](https://clawskills.sh/skills/henrino3-heimdall) - Scan OpenClaw skills for malicious patterns before installation.
-- [local-approvals](https://clawskills.sh/skills/shaiss-local-approvals) - Local approval system for managing agent permissions.
-- [og-openclawguard](https://clawskills.sh/skills/thomaslwang-og-openclawguard) - Security and vulnerability scanner for OpenClaw code.
-- [towns-protocol](https://clawskills.sh/skills/andreyz-towns-protocol) - Use when building Towns Protocol bots - covers SDK.
-- [udau](https://clawskills.sh/skills/nicoacosta-udau) - description: Union protocol for AI agents.
-
 </details>
 
 <br/>

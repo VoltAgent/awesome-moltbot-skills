@@ -99,7 +99,6 @@
 - [instagram-reels](https://clawskills.sh/skills/antoinedc-instagram-reels) - Download Instagram Reels, transcribe audio, and extract captions.
 - [install-then-update-trap-detector](https://clawskills.sh/skills/andyxinweiminicloud-install-then-update-trap-detector) - Helps detect the install-then-update attack pattern — where a skill passes initial security review cleanly.
 - [kai-tw-figma](https://clawskills.sh/skills/kai-tw-kai-tw-figma) - Interact with the Figma REST API to read files, export layers/components as images, and retrieve comments.
-- [kling-video-generator](https://github.com/wells1137/kling-video-generator/blob/master/SKILL.md) - Generate high-quality videos from text, images, or other videos using the Kling 3.0 Omni model. Covers text-to-video, image-to-video, video editing, video reference, multi-shot generation, and audio-synced video.
 - [kie-ai-skill](https://clawskills.sh/skills/jon-xo-kie-ai-skill) - Unified API access to multiple AI models via kie.ai - image generation (Nano Banana Pro, Flux, 4o-image) at 30-80%.
 - [kraken-pro](https://clawskills.sh/skills/in-liberty420-kraken-pro) - Manage Kraken exchange accounts — portfolio, market data, trading, earn/staking, ledger export.
 - [macos-local-voice](https://clawskills.sh/skills/strrl-macos-local-voice) - Local STT and TTS on macOS using native Apple capabilities.

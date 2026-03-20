@@ -159,7 +159,6 @@
 - [google-trends](https://clawskills.sh/skills/satnamra-google-trends) - Monitor Google Trends - get trending searches, compare keywords, and track interest over time.
 - [gsd](https://clawskills.sh/skills/oleg-schmidt-gsd) - Get Shit Done - Full project planning and execution workflow.
 - [happenstance](https://clawskills.sh/skills/dgoss28-happenstance) - Search your professional network and research people using the Happenstance API.
-- [hf-papers](https://clawskills.sh/skills/willamhou-hf-papers) - Browse trending Hugging Face Papers, search by keyword, and get paper details.
 - [hippius](https://clawskills.sh/skills/maxquick-hippius) - Hippius decentralized storage on Bittensor Subnet 75 — upload files, query storage, manage buckets.
 - [hira-hospital](https://clawskills.sh/skills/sw326-hira-hospital) - HIRA hospital information search API.
 - [hk101-living-rag](https://clawskills.sh/skills/metatronsdoob369-hk101-living-rag) - Simple RAG over local text/markdown.
