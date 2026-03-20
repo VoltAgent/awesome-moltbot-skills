@@ -165,7 +165,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (105) | [Communication](#communication) (149) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (197) | [Smart Home & IoT](#smart-home--iot) (43) |
-| [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
+| [Web & Frontend Development](#web--frontend-development) (939) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
 | [DevOps & Cloud](#devops--cloud) (409) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (65) |
 | [Image & Video Generation](#image--video-generation) (169) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
@@ -303,6 +303,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentns](https://clawskills.sh/skills/vibrant-agentns) - Register and manage ICANN domains for AI agents.
 - [agentpay](https://clawskills.sh/skills/kar69-96-agentpay) - Buy things from real websites on behalf of your human.
 
+- [lobsterdomains](https://clawskills.sh/skills/esokullu-lobsterdomains) - Register ICANN domains with crypto payments (USDC/USDT/ETH/BTC) via API, built for AI agents
 > **[View all 924 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
 </details>
 
@@ -696,7 +697,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [elevenlabs-cli](https://clawskills.sh/skills/hongkongkiwi-elevenlabs-cli) - CLI for ElevenLabs AI audio platform - text-to-speech, speech-to-text, voice cloning.
 - [elevenlabs-skill](https://clawskills.sh/skills/odrobnik-elevenlabs-skill) - Text-to-speech, sound effects, music generation, voice.
 
-- [lobsterdomains](https://clawskills.sh/skills/esokullu-lobsterdomains) - Register ICANN domains with crypto payments (USDC/USDT/ETH/BTC) via API, built for AI agents
 > **[View all 83 skills in Media & Streaming →](categories/media-and-streaming.md)**
 </details>
 
