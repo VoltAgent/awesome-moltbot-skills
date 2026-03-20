@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**45 skills**
+**46 skills**
 
 - [addis-assistant-stt](https://clawskills.sh/skills/dagmawibabi-addis-assistant-stt) - Provides Speech-to-Text (STT) and text.
 - [agent-voice](https://clawskills.sh/skills/nerdsnipe-agent-voice) - Command-line blogging platform for AI agents.
@@ -35,6 +35,7 @@
 - [freshbooks-cli](https://clawskills.sh/skills/haseebuchiha-freshbooks-cli) - FreshBooks CLI for managing invoices, clients, and billing.
 - [gettr-transcribe-summarize](https://clawskills.sh/skills/kevin37li-gettr-transcribe-summarize) - Download audio from a GETTR post.
 - [hebrew-nikud](https://clawskills.sh/skills/shaharsha-hebrew-nikud) - Hebrew nikud (vowel points) reference for AI agents.
+- [hedy](https://clawskills.sh/skills/julianpscheid-hedy) - Access Hedy AI meeting coach data via API.
 - [her-voice](https://clawskills.sh/skills/matusvojtek-her-voice) - Give your agent a voice.
 - [inworld-tts](https://clawskills.sh/skills/gugic-inworld-tts) - Text-to-speech via Inworld.ai API.
 - [jarvis-voice](https://clawskills.sh/skills/globalcaos-jarvis-voice) - Metallic AI voice persona with TTS and visual transcript styling.
