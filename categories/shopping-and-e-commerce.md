@@ -53,3 +53,4 @@
 - [tradekix](https://clawskills.sh/skills/jamesjohnfox-tradekix) - Query financial market data via the Tradekix API — stock prices, crypto, forex, indices, market news, earnings.
 - [turnip-prophet](https://clawskills.sh/skills/nicholasjackson-turnip-prophet) - Predict Animal Crossing New Horizons turnip prices using the game's exact algorithm.
 - [whop-cli](https://clawskills.sh/skills/g9pedro-whop-cli) - Manage Whop digital products store — create products, plans, track payments, manage memberships.
+- [mineswap-agent](https://clawskills.sh/skills/skylerthegoldgod-mineswap-agent) - Swap any token on Base via MineSwap DEX aggregator. 8-DEX routing, BG cashback on every trade, autonomous buyback-and-burn. Industry-standard 0.3% fee but you get 0.075% back as BG.
