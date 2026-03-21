@@ -247,6 +247,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-audit-trail](https://clawskills.sh/skills/roosch269-agent-audit-trail) - Tamper-evident, hash-chained audit logging for AI agents.
 - [agent-card-signing-auditor](https://clawskills.sh/skills/andyxinweiminicloud-agent-card-signing-auditor) - Helps audit Agent Card signing practices in A2A protocol implementations.
 - [agent-chat-ux-v1-4-0](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0) - Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search.
+- [cost-optimizer](https://clawhub.ai/s/cost-optimizer) - Save 60-80% on AI token costs with smart model routing, context compression, and heartbeat tuning.
+- [overnight-worker](https://clawhub.ai/s/overnight-worker) - Autonomous overnight work agent. Assign tasks before sleep, get structured results by morning.
+- [smart-pr-review](https://clawhub.ai/s/smart-pr-review) - Opinionated AI code reviewer with 6-layer deep review, Devil's Advocate mode, MUST FIX/SHOULD FIX/SUGGESTION output.
 
 > **[View all 1200 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
@@ -348,6 +351,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentic-devops](https://clawskills.sh/skills/tkuehnl-agentic-devops) - Production-grade agent DevOps toolkit — Docker, process management, log analysis, and health monitoring.
 - [agentkeys](https://clawskills.sh/skills/alexandr-belogubov-agentkeys) - Secure credential proxy for AI agents.
 - [agentmemory](https://clawskills.sh/skills/badaramoni-agentmemory) - End-to-end encrypted cloud memory for AI agents.
+- [devops-agent](https://clawhub.ai/s/devops-agent) - One-click deploy, monitoring setup, scheduled backups, fault diagnosis with safety-first design.
 
 > **[View all 392 skills in DevOps & Cloud →](categories/devops-and-cloud.md)**
 </details>
@@ -561,6 +565,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brand-guidelines](https://clawskills.sh/skills/seanphan-brand-guidelines) - Applies Anthropic's official brand colors and typography.
 - [brand-voice-profile](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile) - Define and store your brand voice profile for consistent content generation.
 - [brevo](https://clawskills.sh/skills/yujesyoga-brevo) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
+- [cn-content-matrix](https://clawhub.ai/s/cn-content-matrix) - Chinese multi-platform content generator for Xiaohongshu, WeChat, Douyin, Bilibili with true style transfer.
 
 > **[View all 103 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
