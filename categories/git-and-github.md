@@ -46,8 +46,6 @@
 - [crm-data-cleaner](https://clawskills.sh/skills/luigi08001-crm-data-cleaner) - Deduplicate, normalize, and enrich CRM contacts and companies.
 - [cross-model-review](https://clawskills.sh/skills/don-gbot-cross-model-review) - Adversarial plan review using two different AI models.
 - [currency-exchange](https://clawskills.sh/skills/ouyangabel-currency-exchange) - Currency exchange rate conversion using exchangerate-api.com.
-- [danube](https://clawskills.sh/skills/preston-thiele-danube) - Use Danube's 100+ API tools (Gmail, GitHub, Notion, etc.) through MCP.
-- [danube-tools](https://clawskills.sh/skills/preston-thiele-danube-tools) - Use Danube's 100+ API tools (Gmail, GitHub, Notion, etc.)
 - [dataforseo-cli](https://clawskills.sh/skills/alexgusevski-dataforseo-cli) - LLM-friendly keyword research CLI for AI agents.
 - [deai-image](https://clawskills.sh/skills/swaylq-deai-image) - Detect and remove AI fingerprints from AI-generated images.
 - [deepwiki](https://clawskills.sh/skills/arun-8687-deepwiki) - Query the DeepWiki MCP server for GitHub repository documentation, wiki.
@@ -88,7 +86,6 @@
 - [grepwrapper](https://clawskills.sh/skills/riprsa-grepwrapper) - Search exact code matches across public GitHub repos using grep.app via the grepwrapper CLI.
 - [guardskills](https://clawskills.sh/skills/felixondesk-guardskills) - Security gate for skill installs.
 - [gumroad-analytics](https://clawskills.sh/skills/vladchatware-gumroad-analytics) - Pull analytics from Gumroad API.
-- [htlc](https://clawskills.sh/skills/web4agent-htlc) - HTLC (Hash Time Locked Contract) trading for inscriptions and NFTs on EVM chains.
 - [idrac](https://clawskills.sh/skills/eddygk-idrac) - Monitor and manage Dell PowerEdge servers via iDRAC Redfish API (iDRAC 8/9)
 - [jenkins](https://clawskills.sh/skills/guoway-jenkins) - Interact with Jenkins CI/CD server via REST API.
 - [jentic](https://clawskills.sh/skills/seanblanchfield-jentic) - Call external APIs through Jentic — AI agent API middleware.

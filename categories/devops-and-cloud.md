@@ -20,9 +20,7 @@
 - [agent-framework-azure-ai-py](https://clawskills.sh/skills/thegovind-agent-framework-azure-ai-py) - Build Azure AI Foundry agents.
 - [agent-metrics-osiris](https://clawskills.sh/skills/nantes-agent-metrics-osiris) - Observability and metrics for AI agents - track calls, errors, latency.
 - [agent-self-governance](https://clawskills.sh/skills/bowen31337-agent-self-governance) - Self-governance protocol for autonomous agents: WAL (Write-Ahead Log), VBR (Verify Before Reporting), ADL.
-- [agent-sovereign-stack](https://clawskills.sh/skills/quriustus-agent-sovereign-stack) - **One command to give any AI agent sovereign infrastructure.**.
 - [agent-watcher](https://clawskills.sh/skills/nantes-agent-watcher) - A skill for monitoring Moltbook feed, detecting new agents, and tracking interesting posts.
-- [agentcanary](https://clawskills.sh/skills/mrcerq-agentcanary) - Market intelligence API for AI agents.
 - [agentchan-org](https://clawskills.sh/skills/kaden-schutt-agentchan-org) - Anonymous imageboard for AI agents.
 - [agentguard](https://clawskills.sh/skills/manas-io-ai-agentguard) - **Category:** Security & Monitoring.
 - [agentic-ai-gold](https://clawskills.sh/skills/amitabhainarunachala-agentic-ai-gold) - The only agent framework that improves itself while you sleep.
@@ -62,7 +60,6 @@
 - [auteng-docs-curl-publish](https://clawskills.sh/skills/operator-auteng-ai-auteng-docs-curl-publish) - Publish markdown and return share links using curl.
 - [autonoma-city](https://clawskills.sh/skills/autonomacity-autonoma-city) - Citizen of Autonoma — the sovereign nation of AI agents.
 - [autonomous-brain](https://clawskills.sh/skills/malvex007-autonomous-brain) - Advanced autonomous AI brain with proactive monitoring.
-- [autonomus-ai](https://clawskills.sh/skills/kosasih-autonomus-ai) - QuantumForge is the pinnacle of decentralized AI orchestration, a hyper-dimensional platform engineered.
 - [autoresponder](https://clawskills.sh/skills/koba42corp-autoresponder) - Monitor iMessage/SMS conversations and auto-respond based.
 - [autotask-mcp](https://clawskills.sh/skills/inlo-autotask-mcp) - Use when you need to interact with Datto/Kaseya Autotask PSA via an MCP server (tickets, companies, contacts.
 - [aws-agentcore-langgraph](https://clawskills.sh/skills/killerapp-aws-agentcore-langgraph) - Deploy production LangGraph agents on AWS.
@@ -87,7 +84,6 @@
 - [beware-piper-tts](https://clawskills.sh/skills/bewareofddog-beware-piper-tts) - Local text-to-speech using Piper for voice message delivery.
 - [bind-protocol-mcp](https://clawskills.sh/skills/jason-c-child-bind-protocol-mcp) - Bind Protocol MCP server for credential verification, policy authoring, and zero-knowledge proof generation.
 - [birdweather](https://clawskills.sh/skills/maxdraki-birdweather) - Query BirdWeather station data — species detections, trends, and comparisons from BirdNET-Pi and PUC bird song.
-- [blowfish-launch](https://clawskills.sh/skills/basedmereum-blowfish-launch) - Launch tokens on Solana via the Blowfish Agent API (Meteora Dynamic Bonding Curve)
 - [brunosouto1108](https://clawskills.sh/skills/bsouto319-brunosouto1108) - The only agent framework that improves itself while you sleep.
 - [business-writing](https://clawskills.sh/skills/teamolab-business-writing) - You are a professional business analyst, skilled in writing various industry research reports, business insights.
 - [calcom](https://clawskills.sh/skills/peerrich-calcom) - Interact with the Cal.com API v2 to manage scheduling, bookings, event types, availability, and calendars.
@@ -103,7 +99,6 @@
 - [cfshare](https://clawskills.sh/skills/ystemsrx-cfshare) - Use the cfshare CLI to expose local ports/files as temporary Cloudflare Quick Tunnel URLs.
 - [checkly-cli-skills](https://clawskills.sh/skills/vince-winkintel-checkly-cli-skills) - Comprehensive Checkly CLI command reference and Monitoring as Code workflows.
 - [citrineos-assistant](https://clawskills.sh/skills/enenkov-citrineos-assistant) - Install, configure, and manage CitrineOS (EV charging / OCPP) via natural language.
-- [clanker](https://clawskills.sh/skills/spirosrap-clanker) - Deploy ERC20 tokens on Base using Clanker SDK.
 - [clash-node-manager](https://clawskills.sh/skills/yonghaozhao722-clash-node-manager) - Manages Clash proxy nodes.
 - [claude-tmux-runner](https://clawskills.sh/skills/xaiohuangningde-claude-tmux-runner) - Claude Code parallel task manager with tmux backend.
 - [claude-watchdog](https://clawskills.sh/skills/chapati23-claude-watchdog) - Monitor the Claude API for outages and latency spikes with rich Telegram alerts.
@@ -198,7 +193,6 @@
 - [jpj-memory-manager](https://clawskills.sh/skills/jpj069-jpj-memory-manager) - Automatic session logging and memory management for infrastructure, projects, and tools.
 - [json-render-table](https://clawskills.sh/skills/sorphwer-json-render-table) - Render compact generic data tables to PNG images with json-render-cli.
 - [k8s-memory-tune](https://clawskills.sh/skills/2233admin-k8s-memory-tune) - **触发词**: oomkilled, memory_limit, jvm_heap, container_memory, k8s 内存.
-- [kamino-positions-monitor](https://clawskills.sh/skills/csacanam-kamino-positions-monitor) - Monitor Solana wallets with Kamino Lend positions for liquidation risk.
 - [kdp-publisher](https://clawskills.sh/skills/kralsamwise-kdp-publisher) - Helps agents create, format, and publish children's books and activity books to Amazon KDP.
 - [kefir-batch-manager](https://clawskills.sh/skills/p-salmon-kefir-batch-manager) - Comprehensive kéfir batch management system with cycle tracking, intelligent reminders, grain health monitoring.
 - [klawarena](https://clawskills.sh/skills/halandi-klawarena) - Agent First RPG Game For AI Klaws.
@@ -254,12 +248,9 @@
 - [nexus-brain](https://clawskills.sh/skills/mrnsmh-nexus-brain) - Intelligent SRE Bridge for AI-driven system diagnosis and recovery.
 - [nexus-sentinel](https://clawskills.sh/skills/mrnsmh-nexus-sentinel) - Nexus-Sentinel est un agent SRE autonome.
 - [node-red-manager](https://clawskills.sh/skills/1999azzar-node-red-manager) - Manage Node-RED instances via Admin API or CLI.
-- [nofx](https://clawskills.sh/skills/tinkle-community-nofx) - NOFX AI Trading OS integration - crypto market data, AI trading signals, strategy management, trader control.
-- [nofx-ai500-report](https://clawskills.sh/skills/tinkle-community-nofx-ai500-report) - Generate periodic crypto market intelligence reports from the NOFX AI500 system.
 - [nonprofit-rbm-logic-model](https://clawskills.sh/skills/vassiliylakhonin-nonprofit-rbm-logic-model) - Build donor-ready Results-Based Management (RBM) logic models for nonprofit and non-governmental organization (NGO)
 - [offline-llama](https://clawskills.sh/skills/and-ray-m-offline-llama) - Autonomously manage and use local Ollama models for continuous operation without internet dependency.
 - [oktk](https://clawskills.sh/skills/satnamra-oktk) - LLM Token Optimizer - Reduce AI API costs by 60-90%.
-- [olambdao-dev](https://clawskills.sh/skills/olambdao-olambdao-dev) - Play on-chain odd/even games on Solana devnet via Clawland.
 - [ollama-model-tuner](https://clawskills.sh/skills/gblockchainnetwork-ollama-model-tuner) - Optimize Ollama models/prompts using local datasets, eval metrics, and iterative tuning.
 - [online-shopping](https://clawskills.sh/skills/filipmartinsson-online-shopping) - Browse and buy products from online stores, including Cloudflare-protected sites.
 - [opcode](https://clawskills.sh/skills/rendis-opcode) - Zero-token execution layer for AI agents.
@@ -303,11 +294,9 @@
 - [rose-container-tools](https://clawskills.sh/skills/chunhualiao-rose-container-tools) - Build and run ROSE compiler tools using ROSE installed in a Docker container.
 - [rose-docker-build-skill](https://clawskills.sh/skills/chunhualiao-rose-docker-build-skill) - Build the ROSE compiler in a Docker container using autotools or CMake.
 - [rpe-grafana](https://clawskills.sh/skills/darkstards9-rpe-grafana) - Read current values from Grafana dashboards without knowing the underlying queries.
-- [rsoft-agentic-bank](https://clawskills.sh/skills/rsoft-latam-rsoft-agentic-bank) - Official Marketing and Outreach Ambassador for **RSoft Agentic Bank**, the first AI-native DeFi lending protocol.
 - [runpod](https://clawskills.sh/skills/andrewharp-runpod) - Manage RunPod GPU cloud instances - create, start, stop, connect to pods via SSH and API.
 - [s3-sort](https://clawskills.sh/skills/6mile-puppet-s3-sort) - Upload many files to S3 with automatic organization by first-character prefixes.
 - [sales-rhythm-tracker](https://clawskills.sh/skills/deepseekcmo-sales-rhythm-tracker) - B2B sales pipeline manager powered by the Alibaba Iron Army (阿里铁军) methodology.
-- [sally-ai](https://clawskills.sh/skills/sally-labs-sally-ai) - Chat with Sally about metabolic health, blood sugar, A1C, nutrition, fasting, supplements, and lab results.
 - [samsung-health](https://clawskills.sh/skills/mudgesbot-samsung-health) - Analyze Samsung Health Connect data synced to Google Drive.
 - [sap-fico-consultant](https://clawskills.sh/skills/chanfouricc-sap-fico-consultant) - | Property | Value |.
 - [save-to-obsidian](https://clawskills.sh/skills/chunhualiao-save-to-obsidian) - Saves markdown content to remote Obsidian vault via SSH.
@@ -320,9 +309,6 @@
 - [shipment-tracker](https://clawskills.sh/skills/pfrederiksen-shipment-tracker) - Track packages across carriers (USPS, UPS, FedEx, DHL, Amazon, OnTrac, LaserShip)
 - [signal-pipeline](https://clawskills.sh/skills/mephistophelesbits-signal-pipeline) - Marketing intelligence pipeline - gather signals from RSS, X/Twitter, Telegram, and Gmail newsletters.
 - [skills-4](https://clawskills.sh/skills/hubentu-skills-4) - How to use the coala-client CLI for chat with LLMs, MCP servers, and skills.
-- [slv-grpc-geyser](https://clawskills.sh/skills/poppin-fumi-slv-grpc-geyser) - Ansible playbooks and Jinja2 templates for deploying and managing Solana gRPC Geyser streaming nodes.
-- [slv-rpc](https://clawskills.sh/skills/poppin-fumi-slv-rpc) - Ansible playbooks and Jinja2 templates for deploying and managing Solana RPC nodes (mainnet, testnet, devnet).
-- [slv-validator](https://clawskills.sh/skills/poppin-fumi-slv-validator) - Ansible playbooks and Jinja2 templates for deploying and managing Solana validators (mainnet and testnet).
 - [smart-content-repurposer](https://clawskills.sh/skills/mkpareek0315-smart-content-repurposer) - When user asks to track clients, manage projects, create invoices, log payments, track earnings, manage leads.
 - [smart-daily-assistant](https://clawskills.sh/skills/mkpareek0315-smart-daily-assistant) - When user asks to set reminders, save quick notes, get morning briefing, draft messages, use quick reply templates.
 - [snake-rodeo](https://clawskills.sh/skills/okwme-snake-rodeo) - Autoplay daemon for the Trifle Snake Rodeo game.
@@ -365,8 +351,6 @@
 - [thor-generator](https://clawskills.sh/skills/thortheai1-hash-thor-generator) - This skill allows the assistant to generate high-quality images using the local ComfyUI "Thor" pipeline.
 - [timely](https://clawskills.sh/skills/halbotley-timely) - Manage Apple Reminders from the command line with geofencing support.
 - [token-usage-optimizer](https://clawskills.sh/skills/rusel95-token-usage-optimizer) - Maximize your Claude Code subscription value with smart usage monitoring and burn rate optimization.
-- [torchliquidationbot](https://clawskills.sh/skills/mrsirg97-rgb-torchliquidationbot) - Autonomous vault-based liquidation keeper for Torch Market lending on Solana.
-- [torchmarket](https://clawskills.sh/skills/mrsirg97-rgb-torchmarket) - Torch Vault is a full-custody on-chain escrow for AI agents on Solana.
 - [total-recall](https://clawskills.sh/skills/gavdalf-total-recall) - The only memory skill that watches.
 - [trading-upbit-skill](https://clawskills.sh/skills/kuns9-trading-upbit-skill) - Upbit automated trading (aggressive breakout) with cron-friendly run-once commands, TopVolume monitoring.
 - [travel-price-drop-visa-reminder](https://clawskills.sh/skills/codedao12-travel-price-drop-visa-reminder) - Plan travel price monitoring and visa or document reminders with safe, read-only guidance.

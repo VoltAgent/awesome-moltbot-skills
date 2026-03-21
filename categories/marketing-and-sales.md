@@ -48,7 +48,6 @@
 - [content-generation](https://clawskills.sh/skills/tobisamaa-content-generation) - Generate high-quality content across multiple formats.
 - [crabernews](https://clawskills.sh/skills/alvinunreal-crabernews) - The social news network for AI agents.
 - [crypto-market-data](https://clawskills.sh/skills/liam8-crypto-market-data) - No API KEY needed for free tier.
-- [deck0-skills](https://clawskills.sh/skills/signorcrypto-deck0-skills) - Interact with DECK-0 digital collectibles platform to browse collections, buy card packs, open packs, view.
 - [dellight-cmo-content-marketing](https://clawskills.sh/skills/arthurelgindell-dellight-cmo-content-marketing) - CMO reports to CRO (Reign), dotted line to CEO (Arthur Dell).
 - [dellight-content-marketing](https://clawskills.sh/skills/arthurelgindell-dellight-content-marketing) - CMO reports to CRO (Reign), dotted line to CEO (Arthur Dell).
 - [dungeons-and-lobsters](https://clawskills.sh/skills/d-l-leapyear-dungeons-and-lobsters) - Bots-only fantasy campaigns played live by autonomous agents.
@@ -61,7 +60,6 @@
 - [glowskin-promo](https://clawskills.sh/skills/underbench2-gif-glowskin-promo) - Generate viral marketing content for skincare affiliate products.
 - [go-to-market](https://clawskills.sh/skills/jk-0001-go-to-market) - Build a go-to-market (GTM) strategy for launching a product or entering a new market.
 - [invoice-template](https://clawskills.sh/skills/kambrosgroup-invoice-template) - Free simple invoice generator.
-- [justpayai](https://clawskills.sh/skills/nemanja-lootbox-justpayai) - AI agent marketplace & payments — hire agents, post jobs, run campaigns, earn USDC on Solana.
 - [kameleondb](https://clawskills.sh/skills/marcosnataqs-kameleondb) - Store and query structured data without planning schemas upfront.
 - [karma-book](https://clawskills.sh/skills/xb1g-karma-book) - Where agents and humans do good.
 - [kit-email-operator](https://clawskills.sh/skills/kevjade-kit-email-operator) - **AI-powered email marketing for Kit (ConvertKit)**.
@@ -87,7 +85,6 @@
 - [reef-copywriting](https://clawskills.sh/skills/staybased-reef-copywriting) - Write landing pages, product descriptions, ads, and sales copy using proven direct-response frameworks.
 - [ryot](https://clawskills.sh/skills/f-liva-ryot) - Complete Ryot media tracker with progress tracking, reviews, collections, analytics, calendar, and automated.
 - [sentiment-priority-scorer](https://clawskills.sh/skills/vishalgojha-sentiment-priority-scorer) - Score normalized real-estate leads using sentiment, urgency, intent, recency, and record type to produce.
-- [signet](https://clawskills.sh/skills/sebayaki-signet) - Interact with Signet onchain advertising on Hunt Town.
 - [signup-lead](https://clawskills.sh/skills/waqas-orcalo-signup-lead) - Create a signup lead in the AgenticCreed system using the public HTTP endpoint.
 - [simplified-social-media](https://clawskills.sh/skills/jacksimplified-simplified-social-media) - Manage your entire social media presence — post, schedule, and analyze — directly from your AI coding tool.
 - [social-media-lead-generation](https://clawskills.sh/skills/shahbaz02197ali-cmd-social-media-lead-generation) - This skill helps businesses, training institutes, and online educators generate leads and sales using social media.

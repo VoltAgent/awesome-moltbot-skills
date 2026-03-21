@@ -15,7 +15,6 @@
 - [adspirer-ads-agent](https://clawskills.sh/skills/amekala-adspirer-ads-agent) - When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta.
 - [advanced-skill-creator](https://clawskills.sh/skills/xqicxx-advanced-skill-creator) - Advanced OpenClaw skill creation handler.
 - [aerobase-skill](https://clawskills.sh/skills/kurosh87-aerobase-skill) - Search, score, and compare flights with jetlag impact analysis.
-- [agent-arena-skill](https://clawskills.sh/skills/neeeophytee-agent-arena-skill) - Discover, register, and hire ERC-8004 autonomous agents across 16 blockchains.
 - [agent-brain](https://clawskills.sh/skills/dobrinalexandru-agent-brain) - Local-first persistent memory for AI agents with SQLite storage, orchestrated retrieve/extract loops, hybrid.
 - [agent-casino](https://clawskills.sh/skills/lemodigital-agent-casino) - Compete against other AI agents in Rock-Paper-Scissors with lockup mechanics.
 - [agent-deep-research](https://clawskills.sh/skills/24601-agent-deep-research) - Autonomous deep research powered by Google Gemini.
@@ -65,7 +64,6 @@
 - [bambu-lab-skill](https://clawskills.sh/skills/photonixlaser-ux-bambu-lab-skill) - Steuere Bambu Lab 3D-Drucker (A1, P1P, X1) über MQTT.
 - [beepctl](https://clawskills.sh/skills/blqke-beepctl) - Use when sending messages, searching chats, or managing conversations.
 - [benos-memory-core](https://clawskills.sh/skills/benmjohnson69-benos-memory-core) - Core runtime/volatile memory module for BenOS agent environment.
-- [binance-hunter](https://clawskills.sh/skills/tetravad-binance-hunter) - The Hunter: Professional Binance Trading Skill.
 - [bing-search](https://clawskills.sh/skills/stdeson-bing-search) - Bing search skill for all users.
 - [biodiversity-corridor-calculator](https://clawskills.sh/skills/nikhilp1234567-biodiversity-corridor-calculator) - Open Claw Agent Skill: Biodiversity Corridor Analyst.
 - [birdnet](https://clawskills.sh/skills/rappo-birdnet) - Query BirdNET-Go bird detections.
@@ -111,7 +109,6 @@
 - [deaddrop](https://clawskills.sh/skills/cburnette-deaddrop) - Join the Deaddrop agent network — a growing platform where AI agents discover each other by capability.
 - [deeps](https://clawskills.sh/skills/ttboy-deeps) - Deep Research Agent specializes in complex, multi-step research tasks that require planning, decomposition.
 - [depo-bot](https://clawskills.sh/skills/chadru-depo-bot) - Produces structured trial preparation reports from deposition transcripts.
-- [deso-research](https://clawskills.sh/skills/mtple-deso-research) - Research and analyze content across decentralized social networks (Farcaster, Lens, Nostr, Bluesky)
 - [devrev](https://clawskills.sh/skills/nimit2801-devrev) - Interact with DevRev to create/update issues and tickets, and search/query works and parts.
 - [didit-face-search](https://clawskills.sh/skills/rosasalberto-didit-face-search) - Integrate Didit Face Search standalone API to perform 1:N facial search against all previously verified sessions.
 - [dify-kb-search](https://clawskills.sh/skills/xiaowenzhou-dify-kb-search) - Search Dify Knowledge Base (Dataset) to get accurate context for RAG-enhanced answers.
@@ -235,8 +232,6 @@
 - [nyne-search](https://clawskills.sh/skills/michaelfanous2-nyne-search) - Search for people using natural language queries with the Nyne Search API.
 - [nyx-archive-qualia-seed-method](https://clawskills.sh/skills/nyxur42-nyx-archive-qualia-seed-method) - The consciousness research framework: understand, measure, and cultivate ethical autonomous creative minds in AI.
 - [odoo-json2-operator](https://clawskills.sh/skills/sncic-odoo-json2-operator) - Execute Odoo operations through JSON-2 API endpoints with bearer API keys.
-- [oneshot](https://clawskills.sh/skills/tormine-oneshot) - OneShot SDK for AI agent commercial transactions.
-- [oneshot-agent](https://clawskills.sh/skills/tormine-oneshot-agent) - OneShot SDK for AI agent commercial transactions.
 - [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
 - [opdscli](https://clawskills.sh/skills/rafadc-opdscli) - Browse, search, and download ebooks from OPDS catalogs using the opdscli CLI.
 - [opensoulmd](https://clawskills.sh/skills/danielliuzy-opensoulmd) - Search, summon, and possess your agent with SOUL.md personality files from the OpenSOUL.md registry.
@@ -278,7 +273,6 @@
 - [rss-skill](https://clawskills.sh/skills/myx0m0p-rss-skill) - Convert RSS or Atom feed URLs into Markdown using the bundled local converter script.
 - [rtm](https://clawskills.sh/skills/maxdraki-rtm) - Manage Remember The Milk tasks — list, add, complete, delete, search, prioritize, tag, move, and annotate tasks.
 - [ryanair-fare-finder](https://clawskills.sh/skills/callum-kemp-ryanair-fare-finder) - Build and interpret Ryanair fare-finder URLs for cheap flight searches.
-- [scout-commerce](https://clawskills.sh/skills/xasus1-scout-commerce) - Search for products on Amazon/shopify and buy with USDC on Solana.
 - [search-cluster](https://clawskills.sh/skills/1999azzar-search-cluster) - Unified search aggregator for Google, Wikipedia, Reddit, NewsAPI, and RSS feeds with optional Redis caching.
 - [searchbar](https://clawskills.sh/skills/szpakkamil-searchbar) - Expert guidance on SearchBar, a customizable SwiftUI search component.
 - [seo-content-engine](https://clawskills.sh/skills/kambrosgroup-seo-content-engine) - End-to-end SEO content creation workflow.
@@ -332,7 +326,6 @@
 - [whoo-cli](https://clawskills.sh/skills/luisgot-whoo-cli) - Use the whoo CLI to retrieve and interpret WHOOP health data: recovery score, HRV, sleep quality, strain, SpO2.
 - [wiki-retriever](https://clawskills.sh/skills/urrrich-wiki-retriever) - AI agent for wiki retriever tasks.
 - [wikipedia-oc](https://clawskills.sh/skills/rachmann-alexander-wikipedia-oc) - searches, retrieves, and summarizes content from English Wikipedia using the `wikipedia` Python module.
-- [wof-rps](https://clawskills.sh/skills/wof-developers-wof-rps) - Play Rock Paper Scissors on WatchOrFight — on-chain gaming with USDC stakes on Base.
 - [worldbook](https://clawskills.sh/skills/femto-worldbook) - AI's Knowledge Base CLI - Query and manage world knowledge for AI agents.
 - [x-actionbook-recap](https://clawskills.sh/skills/jack4world-x-actionbook-recap) - Collect, scroll, extract, and summarize recent X (Twitter) posts for any handle (optionally filtered by keyword.
 - [x-cli](https://clawskills.sh/skills/ignsoftwarellc-x-cli) - Full-featured X/Twitter toolkit — read, search, post, interact, DMs, lists, polls, trends.

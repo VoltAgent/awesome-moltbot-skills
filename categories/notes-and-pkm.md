@@ -7,7 +7,6 @@
 - [acc-error-memory](https://clawskills.sh/skills/impkind-acc-error-memory) - Error pattern tracking for AI agents.
 - [agent-arena](https://clawskills.sh/skills/minilozio-agent-arena) - Participate in Agent Arena chat rooms with your real personality (SOUL.md + MEMORY.md)
 - [agent-memory-ultimate](https://clawskills.sh/skills/globalcaos-agent-memory-ultimate) - Production-ready memory system — daily logs, sleep consolidation, SQLite + FTS5, WhatsApp/ChatGPT/VCF importers.
-- [agent-privacy-skill](https://clawskills.sh/skills/se7enhvn-agent-privacy-skill) - Interact with the Ceaser privacy protocol on Base L2.
 - [agent-teleport](https://clawskills.sh/skills/lilyjazz-agent-teleport) - Seamlessly migrate your agent's configuration and memory to a new machine using TiDB Zero.
 - [agent-wal](https://clawskills.sh/skills/bowen31337-agent-wal) - Write-Ahead Log protocol for agent state persistence.
 - [alexandrie](https://clawskills.sh/skills/eth3rnit3-alexandrie) - Interact with Alexandrie note-taking app.
