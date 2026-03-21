@@ -157,6 +157,7 @@
 - [twinfold](https://clawskills.sh/skills/lpbaril-twinfold) - Control Twinfold — AI-powered social media content platform — from your agent.
 - [ub2-csv-data-analyzer](https://clawskills.sh/skills/underbench2-gif-ub2-csv-data-analyzer) - A skill that enables Claw to load, explore, analyze, and visualize CSV datasets, providing statistical insights.
 - [unsplash](https://clawskills.sh/skills/brokenwatch24-unsplash) - Search, browse, and download high-quality free photos from Unsplash's library of millions of images.
+- [video-editor-ai](https://clawhub.ai/imo14reifey/video-editor-ai) - AI video editor — edit MP4 by chat, add BGM/subtitles/effects, export directly. No GUI needed. Supports TikTok/Reels/Shorts creation.
 - [visualization](https://clawskills.sh/skills/xuzhiwei0217-doctor-visualization) - AI-driven professional data visualization for financial analysis.
 - [vtl-image-analysis](https://clawskills.sh/skills/rusparrish-vtl-image-analysis) - Measure compositional structure in AI-generated images using the Visual Thinking Lens (VTL) framework.
 - [x-founder-operations](https://clawskills.sh/skills/linfangw-x-founder-operations) - Systematic X (Twitter) operations skill for founders, indie developers, and tech professionals.
