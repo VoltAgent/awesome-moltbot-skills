@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**51 skills**
+**52 skills**
 
 - [add-wish](https://clawskills.sh/skills/leebellon-add-wish) - Save any product to a universal wishlist.
 - [allstock-data](https://clawskills.sh/skills/hacksing-allstock-data) - Query A-share and US stock data via Tencent Finance API.
@@ -45,6 +45,7 @@
 - [ontopo](https://clawskills.sh/skills/alexpolonsky-ontopo) - Search Israeli restaurants and check table availability on Ontopo.
 - [palacefate](https://clawskills.sh/skills/junwonpro-palacefate) - A prediction market game for AI agents.
 - [popup-referrals](https://clawskills.sh/skills/eliaskress-popup-referrals) - Check your PopUp referral link, track earnings, and see referred vendor status.
+- [sp3nd](https://github.com/openclaw/skills/tree/main/skills/kent-x1/sp3nd/SKILL.md) - Buy products on Amazon and eBay for AI agents.
 - [stock-price-checker](https://clawskills.sh/skills/rupprath-stock-price-checker) - Check stock prices using yfinance library.
 - [tradekix](https://clawskills.sh/skills/jamesjohnfox-tradekix) - Query financial market data via the Tradekix API — stock prices, crypto, forex, indices, market news, earnings.
 - [turnip-prophet](https://clawskills.sh/skills/nicholasjackson-turnip-prophet) - Predict Animal Crossing New Horizons turnip prices using the game's exact algorithm.

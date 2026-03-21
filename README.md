@@ -15,7 +15,7 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Skills Count](https://img.shields.io/badge/skills-5197-blue?style=flat-square)](#table-of-contents)
+[![Skills Count](https://img.shields.io/badge/skills-5198-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
@@ -179,7 +179,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (102) | [Communication](#communication) (146) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (203) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (322) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
-| [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
+| [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (52) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (65) | |
 | [Image & Video Generation](#image--video-generation) (164) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (70) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
@@ -977,7 +977,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [dupe](https://clawskills.sh/skills/crisanmm-dupe) - Uses dupe.com APIs in order to find similar products for the product found in the input URL given by the user.
 - [eachlabs-product-visuals](https://clawskills.sh/skills/eftalyurtseven-eachlabs-product-visuals) - Generate e-commerce product photography and videos.
 
-> **[View all 51 skills in Shopping & E-commerce →](categories/shopping-and-e-commerce.md)**
+> **[View all 52 skills in Shopping & E-commerce →](categories/shopping-and-e-commerce.md)**
 </details>
 
 <details>
