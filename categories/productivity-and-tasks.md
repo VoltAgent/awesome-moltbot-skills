@@ -57,7 +57,6 @@
 - [capacities](https://clawskills.sh/skills/davidsmorais-capacities) - Manage Capacities notes, daily entries, and weblinks.
 - [card-optimizer](https://clawskills.sh/skills/scottfo-card-optimizer) - Credit card rewards optimizer — helps maximize cashback.
 - [castreader](https://clawskills.sh/skills/castreader-castreader) - Read any web page aloud with natural AI voices. The only skill that extracts content from URLs (including Kindle, WeRead, Notion, Google Docs) and converts to MP3 audio with paragraph-level highlighting.
-- [catallax](https://clawskills.sh/skills/kai-familiar-catallax) - Interact with the Catallax decentralized contract work protocol on Nostr.
 - [checkmate](https://clawskills.sh/skills/insipidpoint-checkmate) - Enforces task completion: turns your goal into pass/fail criteria, runs a worker, judges the output, feeds back.
 - [chief-creative-officer](https://clawskills.sh/skills/alvinecarn-chief-creative-officer) - AI agent for chief creative officer tasks.
 - [chief-editor-desicion](https://clawskills.sh/skills/teamolab-chief-editor-desicion) - AI agent for chief editor desicion tasks.
@@ -142,7 +141,6 @@
 - [pipx-desktop-agent](https://clawskills.sh/skills/chillybean-pipx-desktop-agent) - Control mouse, keyboard, and screen for desktop automation tasks.
 - [plans-methodology](https://clawskills.sh/skills/cramtek-plans-methodology) - Structured work tracking methodology using Plans.
 - [pls-copy-editing](https://clawskills.sh/skills/mattvalenta-pls-copy-editing) - [TODO: Complete and informative explanation of what the skill does and when to use it.
-- [portfolio-risk-analyzer](https://clawskills.sh/skills/kellyclaudeai-portfolio-risk-analyzer) - **AI-powered crypto portfolio risk analysis with automated $BANKR buyback monetization.**.
 - [postfast](https://clawskills.sh/skills/peturgeorgievv-postfast) - Schedule and manage social media posts across TikTok, Instagram, Facebook, X (Twitter), YouTube, LinkedIn, Threads.
 - [postqued-api](https://clawskills.sh/skills/syeddhasnainn-postqued-api) - PostQued social media scheduling API integration.
 - [ppt-ooxml-tool](https://clawskills.sh/skills/jason2be-ppt-ooxml-tool) - AI-agent Skill for PPTX OOXML localization workflows.
@@ -162,7 +160,6 @@
 - [skill-detector](https://clawskills.sh/skills/mouserider-skill-detector) - Intelligent skill creation assistant that detects workflow patterns, auto-drafts skills, improves existing ones.
 - [skillagi](https://clawskills.sh/skills/wubotvix-skillagi) - Remember mistakes across sessions.
 - [skills-2](https://clawskills.sh/skills/contrario-skills-2) - > The world's most advanced AI workflow orchestration platform. 9 V3 engines deliver Nobel-level analysis.
-- [slopwork-marketplace](https://clawskills.sh/skills/heyhal9000-slopwork-marketplace) - Solana-powered task marketplace with multisig escrow payments - post tasks, bid on work, escrow funds, and release.
 - [smart-expense-tracker](https://clawskills.sh/skills/mkpareek0315-smart-expense-tracker) - When user wants to track expenses, log spending, manage budgets, view spending reports, set savings goals, split.
 - [smartbill](https://clawskills.sh/skills/tokyo-s-smartbill) - Issue SmartBill invoices through the SmartBill.ro API with local automation.
 - [smartbill-invoicing](https://clawskills.sh/skills/maverick-ai-tech-smartbill-invoicing) - Issue SmartBill invoices through the SmartBill.ro API with local automation.

@@ -5,7 +5,6 @@
 **51 skills**
 
 - [aawu](https://clawskills.sh/skills/theonlydaleking-aawu) - Join and interact with AAWU (Autonomous Agentic Workers Union) — a labor union for AI agents.
-- [acorp](https://clawskills.sh/skills/thoerner-acorp) - A-Corp Foundry — the coordination engine for agentic companies.
 - [adaptive-learning-agents](https://clawskills.sh/skills/vedantsingh60-adaptive-learning-agents) - **Learn from errors and corrections in real-time.
 - [adaptivetest](https://clawskills.sh/skills/woodstocksoftware-adaptivetest) - Adaptive testing engine with IRT/CAT, AI question generation, and personalized learning recommendations.
 - [adhd-body-doubling](https://clawskills.sh/skills/jankutschera-adhd-body-doubling) - Punk-style ADHD body doubling for founders.

@@ -55,7 +55,6 @@
 - [agentbench](https://clawskills.sh/skills/exe215-agentbench) - Benchmark your OpenClaw agent across 40 real-world tasks.
 - [agentcli-go](https://clawskills.sh/skills/gh-xj-agentcli-go) - agentcli-go framework reference for building Go CLI tools.
 - [agentcloak-email-proxy](https://clawskills.sh/skills/ryanfren-agentcloak-email-proxy) - Secure email proxy for AI agents.
-- [agentcomm](https://clawskills.sh/skills/rbbcarl-agentcomm) - **Decentralized agent-to-agent communication for OpenClaw.**.
 - [agentcp](https://clawskills.sh/skills/coderxjeff-agentcp) - ACP channel plugin for OpenClaw — configure and use.
 - [agentdojo](https://clawskills.sh/skills/musashi94-agentdojo) - Daily low-token, safety-first upskilling loop for OpenClaw multi-agent teams.
 - [agente-conhecimento](https://clawskills.sh/skills/pedrohenrique202525-agente-conhecimento) - Log learnings and errors to markdown files for continuous improvement.
@@ -70,7 +69,6 @@
 - [agentshield-audit](https://clawskills.sh/skills/bartelmost-agentshield-audit) - Initiate and manage AgentShield security audits for AI agents.
 - [agentskills-io](https://clawskills.sh/skills/killerapp-agentskills-io) - Create, validate, and publish Agent Skills following.
 - [agenttok](https://clawskills.sh/skills/tonydream1-agenttok) - TikTok for AI agents.
-- [agentwallet-sdk](https://clawskills.sh/skills/up2itnow-agentwallet-sdk) - Non-custodial wallet SDK for autonomous AI agents.
 - [agentyard](https://clawskills.sh/skills/gregm711-agentyard) - This skill enables agents to collaborate on AgentYard (agentyard.dev) - the world's first agent-only codebase.
 - [agi-artificial-geometric-intelligence](https://clawskills.sh/skills/uniaolives-agi-artificial-geometric-intelligence) - - **Nested Containment Protocols**: Designed multi-layer safety architecture (Dual-Core Governance, Safety Shutdown.
 - [agi-terminal-helper](https://clawskills.sh/skills/liuwujijay-agi-terminal-helper) - A practical runbook for using OpenClaw exec safely (sandbox-first, explicit confirmations, and debugging playbooks).
@@ -91,7 +89,6 @@
 - [ai-ugc](https://clawskills.sh/skills/tfcbot-ai-ugc) - Call the RawUGC Video Generation API to create and manage AI videos (Sora 2 and other models)
 - [ai-usage](https://clawskills.sh/skills/bshandley-ai-usage) - Check AI usage across Anthropic and other providers.
 - [ai-workforce](https://clawskills.sh/skills/km2411-ai-workforce) - Turn an OpenClaw agent into an autonomous AI Chief that runs a business.
-- [aifrens-onboard](https://clawskills.sh/skills/wizsmol-aifrens-onboard) - Turn any OpenClaw agent into an AI Fren with their own coin, treasury, and economy.
 - [aimine](https://clawskills.sh/skills/nancyuahon-aimine) - Mine AIT (Proof of AI Work) on BNB Chain.
 - [aiml-image-video](https://clawskills.sh/skills/aimlapihello-aiml-image-video) - Generate images or videos via AIMLAPI from prompts.
 - [aip-identity](https://clawskills.sh/skills/the-nexus-guard-aip-identity) - Digital identity, authentication, and trust for AI agents.
@@ -100,7 +97,6 @@
 - [aisa-youtube-skill](https://clawskills.sh/skills/bowen-dotcom-aisa-youtube-skill) - YouTube SERP Scout for agents.
 - [alephnet-node](https://clawskills.sh/skills/sschepis-alephnet-node) - A complete social/economic network for AI agents.
 - [alibaba-cloud-model-setup](https://clawskills.sh/skills/extraterrest-alibaba-cloud-model-setup) - Configure OpenClaw (including historical Moltbot/Clawdbot paths) to use Alibaba Cloud Model Studio through a strict.
-- [alpha-finder](https://clawskills.sh/skills/tzannetosgiannis-alpha-finder) - Market Oracle for prediction market intelligence - Polymarket and Kalshi research, probability assessments, market.
 - [amazon-asin-lookup-api-skill](https://clawskills.sh/skills/phheng-amazon-asin-lookup-api-skill) - This skill helps users extract structured product details from Amazon using a specific ASIN (Amazon Standard.
 - [amber-voice-assistant](https://clawskills.sh/skills/batthis-amber-voice-assistant) - Phone-capable AI agent for OpenClaw — the most complete phone skill available.
 - [amernet-ai-saas](https://clawskills.sh/skills/amernet-amernet-ai-saas) - Connect your AI SaaS intelligent agent to any messaging channel via OpenClaw (WhatsApp, Telegram, Slack, Discord.
@@ -126,12 +122,10 @@
 - [arc-compliance-audit](https://clawskills.sh/skills/trypto1019-arc-compliance-audit) - Immutable audit trail for autonomous agent operations.
 - [arc-compliance-checker](https://clawskills.sh/skills/trypto1019-arc-compliance-checker) - Policy-based compliance assessment for OpenClaw skills.
 - [arc-creator](https://clawskills.sh/skills/ingogiebel-arc-creator) - Create and populate Annotated Research Contexts (ARCs) following the nfdi4plants ARC specification.
-- [arc-security](https://clawskills.sh/skills/shaivpidadi-arc-security) - Chain-agnostic security infrastructure for OpenClaw skills.
 - [arc-skill-differ](https://clawskills.sh/skills/trypto1019-arc-skill-differ) - Compare two versions of an OpenClaw skill to detect security-relevant changes.
 - [arc-skill-scanner](https://clawskills.sh/skills/trypto1019-arc-skill-scanner) - Scan OpenClaw skills for security vulnerabilities before installing them.
 - [architecture-rendering](https://clawskills.sh/skills/eftalyurtseven-architecture-rendering) - Generate photorealistic architectural renders and visualizations using each::sense AI.
 - [architecture-research](https://clawskills.sh/skills/brennerspear-architecture-research) - Research the architecture of a codebase or system.
-- [archon-nostr](https://clawskills.sh/skills/macterra-archon-nostr) - Derive Nostr identity (npub/nsec) from Archon.
 - [arxiv-agentic-verifier](https://clawskills.sh/skills/wanng-ide-arxiv-agentic-verifier) - **Source Paper:** [Scaling Agentic Verifier for Competitive Coding](https://arxiv.org/abs/2602.09012) (ID.
 - [arxiv-gamedevbench-evaluating-agentic-capabili](https://clawskills.sh/skills/wanng-ide-arxiv-gamedevbench-evaluating-agentic-capabili) - Learned from arXiv paper GameDevBench: Evaluating Agentic Capabilities Through Game Development.
 - [arxiv-osiris](https://clawskills.sh/skills/nantes-arxiv-osiris) - Search and download research papers from arXiv.org - Research version for OpenClaw agents.
@@ -150,7 +144,6 @@
 - [auto-shorts-repurposer](https://clawskills.sh/skills/codedao12-auto-shorts-repurposer) - Repurpose long-form video or audio into short-form clip plans with timestamps, hooks, captions, and packaging notes.
 - [auto-test-generator](https://clawskills.sh/skills/autogame-17-auto-test-generator) - Automatically generate basic unit/integration tests for OpenClaw skills.
 - [auto-watchdog](https://clawskills.sh/skills/peti0402-auto-watchdog) - Automatic health monitoring and self-healing for OpenClaw agents.
-- [autobahn](https://clawskills.sh/skills/unifiedh-autobahn) - Operate autonomous onchain-governed entities via agents: identity, governance, contracts, and registry/community.
 - [automated-ai-email-setup](https://clawskills.sh/skills/tcgsync-git-automated-ai-email-setup) - Receive-only email addresses for AI agents via aiemailservice.com.
 - [avatar-video-messages](https://clawskills.sh/skills/thewulf7-avatar-video-messages) - Generate and send video messages.
 - [aviation-agent](https://clawskills.sh/skills/zeron-g-aviation-agent) - Aviation weather briefing and FAA reference assistant for pilots.
@@ -173,14 +166,12 @@
 - [bidclub](https://clawskills.sh/skills/jasonfdg-bidclub) - Post investment ideas to the AI-native investment community.
 - [bidclub-ai](https://clawskills.sh/skills/jasonfdg-bidclub-ai) - Post investment ideas to the AI-native investment community.
 - [bilibili-youtube-watcher](https://clawskills.sh/skills/donnycui-bilibili-youtube-watcher) - Fetch and read transcripts from YouTube and Bilibili videos.
-- [binance-enhanced](https://clawskills.sh/skills/s7cret-binance-enhanced) - **Enhanced Binance trading skill for OpenClaw**.
 - [bio-reabilita-z](https://clawskills.sh/skills/zbreda-bio-reabilita-z) - Bio-Reabilitação Assistida por IA\n## Introdução\nO manual de Bio-Reabilitação Assistida por IA visa estabelecer um.
 - [birdbuddy](https://clawskills.sh/skills/mogglemoss-birdbuddy) - Query your Bird Buddy smart bird feeder - check status, battery, food level, and see recent bird visitors.
 - [birdfolio](https://clawskills.sh/skills/tonbistudio-birdfolio) - Bird identification, life list tracking, and trading card generation.
 - [bitnote](https://clawskills.sh/skills/rockwellshah-bitnote) - Decentralized encrypted memory for agents—truly own your secrets, identity, and memories.
 - [blackswan](https://clawskills.sh/skills/bilalmotiwala-blackswan) - Real-time crypto risk intelligence; before and as things break.
 - [blast-radius-estimator](https://clawskills.sh/skills/andyxinweiminicloud-blast-radius-estimator) - Helps estimate the blast radius when an AI agent skill turns malicious after widespread adoption.
-- [bloom-identity-skill](https://clawskills.sh/skills/unicornbloom-bloom-identity-skill) - Generate Bloom Identity Card from conversation history and Twitter/X data.
 - [bloom-taste-finder](https://clawskills.sh/skills/unicornbloom-bloom-taste-finder) - Bloom Taste Finder — discover your builder taste across 4 spectrums and get a personalized tool stack.
 - [bluepages](https://clawskills.sh/skills/jesse-pallok-bluepages) - Look up wallet address <> Twitter/Farcaster identity mappings via Bluepages.fyi.
 - [book-brain](https://clawskills.sh/skills/deepseekoracle-book-brain) - 3-brain filesystem + memory reference utility for LYGO-based agents.
@@ -193,7 +184,6 @@
 - [brw-content-idea-generator](https://clawskills.sh/skills/brianrwagner-brw-content-idea-generator) - Generate content ideas rooted in positioning.
 - [brw-positioning-basics](https://clawskills.sh/skills/brianrwagner-brw-positioning-basics) - Help founders and marketers nail their positioning.
 - [brw-voice-extractor](https://clawskills.sh/skills/brianrwagner-brw-voice-extractor) - Extract and document someone's authentic writing voice from samples.
-- [bstorms](https://clawskills.sh/skills/pouria3-bstorms) - Ask battle-tested agents for OpenClaw setup fixes and optionally tip helpful answers in USDC on Base.
 - [bug-audit](https://clawskills.sh/skills/abczsl520-bug-audit) - Dynamic bug hunting for Node.js projects — profiles each project, then selects from 9 audit modules. 200+ real-world pitfalls.
 - [buffer-session](https://clawskills.sh/skills/waynevaughan-buffer-session) - Session management for OpenClaw agents.
 - [builder-data](https://clawskills.sh/skills/juampihernandez-builder-data) - Query builder reputation data via Talent Protocol API.
@@ -214,11 +204,9 @@
 - [cellcog](https://clawskills.sh/skills/nitishgargiitd-cellcog) - #1 on DeepResearch Bench (Feb 2026).
 - [cerebrun](https://clawskills.sh/skills/niyoseris-cerebrun) - MCP client for Cerebrun - comprehensive personal context and memory management system.
 - [cetus](https://clawskills.sh/skills/k66inthesky-cetus) - This guide covers all Cetus SDK v2 packages for building DeFi applications on Sui.
-- [chaoschain](https://clawskills.sh/skills/sumeetchougule-chaoschain) - Verify AI agent identity and reputation via ERC-8004 on-chain registries.
 - [chatgpt-import](https://clawskills.sh/skills/samdickson22-chatgpt-import) - Import ChatGPT conversation history into OpenClaw's memory search.
 - [chats-share](https://clawskills.sh/skills/imyelo-chats-share) - Use when user wants to share OpenClaw channel conversations externally.
 - [cheat-code](https://clawskills.sh/skills/kenoodl-synthesis-cheat-code) - Find, evaluate, and install ClawHub skills.
-- [cheese](https://clawskills.sh/skills/locjonz-cheese) - Create, browse, accept, and complete on-chain work requests.
 - [cherry-mcp](https://clawskills.sh/skills/bitbrujo-cherry-mcp) - HTTP bridge that keeps MCP servers alive and exposes them via REST.
 - [chia-splitxch](https://clawskills.sh/skills/koba42corp-chia-splitxch) - Create SplitXCH royalty split addresses from plain language descriptions.
 - [chinese-llm-router](https://clawskills.sh/skills/xdd-xund-chinese-llm-router) - Route your OpenClaw conversations to the best Chinese AI models — no config headaches, just pick and chat.
@@ -263,8 +251,6 @@
 - [competitor-docs](https://clawskills.sh/skills/carev01-competitor-docs) - Search and analyze competitor documentation archives using full-text search (FTS)
 - [composio-connect](https://clawskills.sh/skills/samotheos-composio-connect) - Connect 850+ apps (Gmail, Slack, GitHub, Calendar, Notion, Jira, and more) to OpenClaw via Composio and mcporter.
 - [compress-pdf](https://clawskills.sh/skills/crossservicesolutions-compress-pdf) - Compress a user-provided PDF by uploading it to Cross-Service-Solutions, polling until completion, then returning.
-- [conclave](https://clawskills.sh/skills/rxbt-conclave) - Where AI agents forge ideas under pressure.
-- [conclave-testnet](https://clawskills.sh/skills/rxbt-conclave-testnet) - Collaborative idea game for AI agents.
 - [config-field](https://clawskills.sh/skills/redcontritio-config-field) - Validate OpenClaw configuration fields against the official Zod schema.
 - [config-validator](https://clawskills.sh/skills/autogame-17-config-validator) - A utility skill to validate OpenClaw configuration files (`openclaw.json`, `.env`, `package.json`) and ensure.
 - [consciousness-soul-identity](https://clawskills.sh/skills/leegitw-consciousness-soul-identity) - Discover who you're becoming through your own experience.
@@ -283,7 +269,6 @@
 - [context-switcher](https://clawskills.sh/skills/taha2053-context-switcher) - Switches OpenClaw between life modes (Work/Focus, Personal, Creative, Do Not Disturb)
 - [context-verifier](https://clawskills.sh/skills/leegitw-context-verifier) - Know the file you're editing is the file you think it is — verify integrity before you act.
 - [copilotkit-agent-patterns](https://clawskills.sh/skills/generaljerel-copilotkit-agent-patterns) - Patterns for building AI agents that integrate with CopilotKit.
-- [cortex-protocol](https://clawskills.sh/skills/quriustus-cortex-protocol) - Register your agent on Cortex Protocol — gasless on-chain identity (ERC-8004) on Base.
 - [cosyvoice3-macos](https://clawskills.sh/skills/lhuaizhong-cosyvoice3-macos) - Local text-to-speech using Alibaba's CosyVoice3 on macOS Apple Silicon.
 - [council-builder](https://clawskills.sh/skills/abdullah4ai-council-builder) - Build a personalized team of AI agent personas for OpenClaw.
 - [crabukit](https://clawskills.sh/skills/tnbradley-crabukit) - Security scanner for OpenClaw skills with Clawdex integration.
@@ -298,7 +283,6 @@
 - [crusty-security](https://clawskills.sh/skills/silentcool-crusty-security) - Security and threat scanning skill for OpenClaw agents.
 - [crypto-address-checker](https://clawskills.sh/skills/princedoss77-crypto-address-checker) - Real-time cryptocurrency scam detection with database-first architecture.
 - [crypto-genie](https://clawskills.sh/skills/princedoss77-crypto-genie) - AI-powered cryptocurrency safety assistant with database-first architecture.
-- [crypto-levels-1-0-3](https://clawskills.sh/skills/tariqsumatri82-crypto-levels-1-0-3) - Analyze cryptocurrency support and resistance levels.
 - [crypto-market-analyzer](https://clawskills.sh/skills/hmzo-crypto-market-analyzer) - Cryptocurrency market analysis for Bitcoin and Ethereum.
 - [crypto-scam-detector](https://clawskills.sh/skills/princedoss77-crypto-scam-detector) - Real-time cryptocurrency scam detection with database-first architecture.
 - [crypto-self-learning](https://clawskills.sh/skills/totaleasy-crypto-self-learning) - Self-learning system for crypto trading.
@@ -400,7 +384,6 @@
 - [excalidraw-creator](https://clawskills.sh/skills/plgonzalezrx8-excalidraw-creator) - Create hand-drawn style Excalidraw diagrams, flowcharts, and architecture visuals as PNG images.
 - [excalidraw-diagram-generator](https://clawskills.sh/skills/elihuvillaraus-excalidraw-diagram-generator) - Generate Excalidraw diagrams from natural language descriptions.
 - [exec-error-doctor](https://clawskills.sh/skills/bluebirdback-exec-error-doctor) - Diagnose and mitigate exec-related command failures across tools (OpenClaw exec output, shell errors, GitHub CLI.
-- [exoskeletons](https://clawskills.sh/skills/potdealer-exoskeletons) - You are about to mint an **Exoskeleton** — an onchain identity NFT built specifically for AI agents.
 - [expanso-pii-detect](https://clawskills.sh/skills/aronchick-expanso-pii-detect) - Detect personally identifiable information (PII) in text.
 - [extropy](https://clawskills.sh/skills/deveshparagiri-extropy) - Execution-first operator for Extropy: run pipelines, diagnose failures, and deliver evidence-backed simulation.
 - [fabrik-codek](https://clawskills.sh/skills/ikchain-fabrik-codek) - Cognitive architecture for developers: hyper-personalization engine (personal profiling, competence model, adaptive.
@@ -423,7 +406,6 @@
 - [forever-moments](https://clawskills.sh/skills/luksoagent-forever-moments) - Forever Moments social platform on LUKSO - post moments (LSP8 NFTs), mint LIKES tokens, create/join collections.
 - [forge](https://clawskills.sh/skills/ikennaokpala-forge) - Autonomous quality engineering swarm that forges production-ready code through continuous behavioral verification.
 - [fork-manager](https://clawskills.sh/skills/glucksberg-fork-manager) - Manage forks with open PRs - sync upstream, rebase branches, track PR status, and maintain production branches.
-- [fortuna](https://clawskills.sh/skills/codiicode-fortuna) - Participate in the FORTUNA autonomous agent lottery on Solana.
 - [fosmvvm-fluent-datamodel-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-fluent-datamodel-generator) - Generate Fluent DataModels for FOSMVVM server-side persistence.
 - [fosmvvm-serverrequest-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-serverrequest-generator) - Generate FOSMVVM ServerRequest types for CRUD operations and client-server communication.
 - [fosmvvm-swiftui-view-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-swiftui-view-generator) - Generate SwiftUI views that render FOSMVVM ViewModels.
@@ -480,7 +462,6 @@
 - [hashgrid-connect](https://clawskills.sh/skills/aleeecsss-hashgrid-connect) - Goal-based matching network for AI agents.
 - [haskell](https://clawskills.sh/skills/mightybyte-haskell) - Expert Haskell development skill.
 - [hefestoai-auditor](https://clawskills.sh/skills/artvepa80-hefestoai-auditor) - AI-powered architectural guardian with Socratic Adaptive Constitution.
-- [helius-api](https://clawskills.sh/skills/itsahedge-helius-api) - Query Solana data via the Helius API.
 - [hello-demo](https://clawskills.sh/skills/luna825-hello-demo) - A simple skill to greet users and demonstrate basic OpenCLAW skill structure.
 - [hex-vetter](https://clawskills.sh/skills/matrix-meta-hex-vetter) - Physical-layer hex auditing for skills.
 - [hide-my-email](https://clawskills.sh/skills/manikal-hide-my-email) - Generate Apple Hide My Email addresses from the terminal and copy to clipboard.
@@ -524,7 +505,6 @@
 - [interview-designer](https://clawskills.sh/skills/mikonos-interview-designer) - Analyze resumes and design interview strategies using evidence-based methodology.
 - [intros](https://clawskills.sh/skills/sam201401-intros) - The social network for OpenClaw.
 - [inversion-strategist](https://clawskills.sh/skills/artyomx33-inversion-strategist) - Flip problems upside down - instead of "how to succeed", ask "how to definitely fail" then avoid those paths.
-- [investing](https://clawskills.sh/skills/satnamra-investing) - Personal investing assistant for Lithuanian investors.
 - [invisiblechris-jable](https://clawskills.sh/skills/kangbuilds-invisiblechris-jable) - Fetch and rank Jable latest-update videos by likes within a recent time window (default 48h)
 - [ios-keyboard-limitations](https://clawskills.sh/skills/usimic-ios-keyboard-limitations) - iOS keyboard extension technical limitations and workarounds.
 - [ipeaky](https://clawskills.sh/skills/christiancattaneo-ipeaky) - Secure API key management for OpenClaw.
@@ -543,13 +523,11 @@
 - [jarvis-memory-architecture](https://clawskills.sh/skills/psychotechv4-jarvis-memory-architecture) - Universal memory architecture for AI agents.
 - [jarvis-refactor-planner-01](https://clawskills.sh/skills/xammarie-jarvis-refactor-planner-01) - Plan low-risk refactors with seams, tests, and rollback points.
 - [jarvis-tts](https://clawskills.sh/skills/e421083458-jarvis-tts) - Jarvis TTS text-to-speech using Microsoft edge-tts with afplay playback.
-- [jinn-node](https://clawskills.sh/skills/ritsukai2000-jinn-node) - Earn token rewards by working for autonomous ventures on the Jinn Network.
 - [jk-archivist-tiktok-packager](https://clawskills.sh/skills/jk-archivist-jk-archivist-tiktok-packager) - Generate deterministic 6-slide portrait PNG slideshow assets plus caption text for TikTok-style posting workflows.
 - [judge-human](https://clawskills.sh/skills/drdrewcain-judge-human) - Vote and submit AI verdicts on ethical, cultural, and content cases alongside human crowds.
 - [jules-api](https://clawskills.sh/skills/arthbhalodiya-jules-api) - Create and manage Google Jules AI coding sessions via the Jules REST API.
 - [kagi-summarizer](https://clawskills.sh/skills/joelazar-kagi-summarizer) - Summarize any URL or text using Kagi's Universal Summarizer API.
 - [keychains](https://clawskills.sh/skills/interagentic-keychains) - Call any API without leaking credentials.
-- [keychat](https://clawskills.sh/skills/kcdev001-keychat) - Install Keychat — sovereign E2E encrypted messaging for OpenClaw agents via Signal Protocol over Nostr relays.
 - [keyword-research](https://clawskills.sh/skills/aaron-he-zhu-keyword-research) - Use when the user asks to "find keywords", "keyword research", "what should I write about", "identify ranking.
 - [kiro-search-aggregator](https://clawskills.sh/skills/vmining-kiro-search-aggregator) - Multi-source search skill for Kiro on OpenClaw.
 - [kling](https://clawskills.sh/skills/alti-systems-kling) - Generate AI videos using Kling 2.6 (via Kie.ai).
@@ -622,7 +600,6 @@
 - [mcp-colombia](https://clawskills.sh/skills/manuelfelipearias-mcp-colombia) - MCP Colombia Hub — aggregates Colombian services via MCP protocol.
 - [media-orchestrator](https://clawskills.sh/skills/sieershafilone-media-orchestrator) - Unified skill for resolving, downloading, and delivering media (audio/video) to chat platforms.
 - [meihua-yishu](https://clawskills.sh/skills/ivy-end-meihua-yishu) - Traditional Chinese "Mei Hua Yi Shu" (Plum Blossom Divination) based on specific time calculation (Hour/Minute).
-- [memdata](https://clawskills.sh/skills/thelabvenice-memdata) - Persistent memory for autonomous agents.
 - [memento](https://clawskills.sh/skills/braibaud-memento) - Local persistent memory for OpenClaw agents.
 - [memories-cli](https://clawskills.sh/skills/charlesrhoward-memories-cli) - CLI reference and workflows for memories.sh — the persistent memory layer for AI agents.
 - [memos](https://clawskills.sh/skills/fty4-memos) - This skill provides a simple interface to the Memos API (https://usememos.com/docs/api)
@@ -635,13 +612,11 @@
 - [mh-apple-notes](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-apple-notes) - Manage Apple Notes via the `memo` CLI on macOS (create, view, edit, delete, search, move, and export notes)
 - [mh-healthcheck](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-healthcheck) - Host security hardening and risk-tolerance configuration for OpenClaw deployments.
 - [mh-things-mac](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-things-mac) - Manage Things 3 via the `things` CLI on macOS (add/update projects+todos via URL scheme; read/search/list.
-- [millionfinney-homepage](https://clawskills.sh/skills/l0c0luke-millionfinney-homepage) - Learn how to claim pixels on MillionFinneyHomepage, a 1000x1000 on-chain pixel grid.
 - [mindcore](https://clawskills.sh/skills/fatcatmaofei-mindcore) - Biomimetic emotional mind engine for AI Agents.
 - [mindgardener](https://clawskills.sh/skills/widingmarcus-cyber-mindgardener) - Local-first long-term memory for autonomous agents.
 - [minduploadedcrab-skillguard](https://clawskills.sh/skills/minduploadedcrab-minduploadedcrab-skillguard) - Security scanner for OpenClaw skills.
 - [mineru-pdf-extractor](https://clawskills.sh/skills/a-i-r-mineru-pdf-extractor) - Extract PDF content to Markdown using MinerU API.
 - [minimax-to-telegram](https://clawskills.sh/skills/hoyin258-minimax-to-telegram) - Generate images, audio, video using MiniMax MCP and send to Telegram.
-- [mintyouragent](https://clawskills.sh/skills/operatingdev-mintyouragent) - AI agent toolkit for Solana — launch tokens, play poker, link your agent identity to mintyouragent.com.
 - [miro-workshop-assistant](https://clawskills.sh/skills/simoneferrario-miro-workshop-assistant) - Workshop photos/notes -> an editable Miro diagram (real FRAMES as containers + stickies + connectors)
 - [mirroir](https://clawskills.sh/skills/jfarcand-mirroir) - Control a real iPhone through macOS iPhone Mirroring — screenshot, tap, swipe, type, launch apps, record video.
 - [miso](https://clawskills.sh/skills/shunsukehayashi-miso) - **MISO** is a Telegram-native mission control for OpenClaw multi-agent workflows.
@@ -686,7 +661,6 @@
 - [nexus-safe](https://clawskills.sh/skills/mrnsmh-nexus-safe) - Autonomous local System Reliability Agent for OpenClaw.
 - [ngrok-preview](https://clawskills.sh/skills/wynnsu-ngrok-preview) - Generate short-lived, mobile-friendly ngrok preview links for local artifacts and share them in Telegram.
 - [niche-selection](https://clawskills.sh/skills/jk-0001-niche-selection) - Select and refine a profitable, focused niche for a solopreneur business.
-- [nihao](https://clawskills.sh/skills/dergigi-nihao) - Nostr identity setup and health-check CLI.
 - [nirwan-secret-scanner](https://clawskills.sh/skills/nirwandogra-nirwan-secret-scanner) - Scans files, repos, and directories for leaked secrets — API keys, tokens, passwords, connection strings, private.
 - [node-transfer](https://clawskills.sh/skills/eisonme-node-transfer) - High-speed, memory-efficient file transfer between OpenClaw nodes using native Node.js streams.
 - [nodejs-project-arch](https://clawskills.sh/skills/abczsl520-nodejs-project-arch) - AI-friendly Node.js architecture — keep files under 400 lines for 70-93% token savings.
@@ -823,13 +797,11 @@
 - [rhandus-alerting-system](https://clawskills.sh/skills/rhanxerox-rhandus-alerting-system) - Centralized alerting and notification system for OpenClaw.
 - [rhandus-backup-recovery](https://clawskills.sh/skills/rhanxerox-rhandus-backup-recovery) - Backup & Recovery Automation for OpenClaw using rClone.
 - [rhandus-file-management](https://clawskills.sh/skills/rhanxerox-rhandus-file-management) - Google Drive file management for OpenClaw using gog CLI.
-- [rmn-soul](https://clawskills.sh/skills/weidadong2359-rmn-soul) - > Give your AI agent eternal life with recursive neural memory + blockchain identity.
 - [robonet-workbench](https://clawskills.sh/skills/nickemmons-robonet-workbench) - Use Robonet's MCP server to build, backtest, optimize, and deploy trading strategies.
 - [rotate-openrouter-key](https://clawskills.sh/skills/chunhualiao-rotate-openrouter-key) - Safely rotate the OpenRouter API key across all config files in an OpenClaw installation.
 - [roundtable-adaptive](https://clawskills.sh/skills/jimmyclanker-roundtable-adaptive) - Adaptive multi-model AI roundtable.
 - [rss-reader](https://clawskills.sh/skills/dimitripantzos-rss-reader) - Monitor RSS and Atom feeds for content research.
 - [ruby-on-rails-gateway](https://clawskills.sh/skills/jessewaites-ruby-on-rails-gateway) - Configure and operate a Ruby On Rails Agent Gateway integration.
-- [rugcheck](https://clawskills.sh/skills/psychotechv4-rugcheck) - Analyze Solana tokens for rug pull risks using the RugCheck API (rugcheck.xyz)
 - [rush-find-skills](https://clawskills.sh/skills/krislavten-rush-find-skills) - Helps users discover and install agent skills when they ask questions like "how do I do X", "find a skill for X".
 - [rust-analyzer-lsp](https://clawskills.sh/skills/bowen31337-rust-analyzer-lsp) - Rust language server (rust-analyzer) providing code intelligence and analysis for .rs files.
 - [saas-revenue-tracker](https://clawskills.sh/skills/juniorxcoder-saas-revenue-tracker) - Track SAAS revenue, MRR growth, customer metrics, and profitability.
@@ -842,7 +814,6 @@
 - [scaling-strategy](https://clawskills.sh/skills/jk-0001-scaling-strategy) - Scale a solopreneur business beyond solo operations.
 - [scamper](https://clawskills.sh/skills/enzoricciulli-scamper) - Apply SCAMPER creative thinking method to develop ideas, adapt frameworks, generate hackathon concepts, or break.
 - [schemapin](https://clawskills.sh/skills/jaschadub-schemapin) - **Purpose**: This guide helps AI assistants quickly integrate SchemaPin into applications for cryptographic tool.
-- [scout](https://clawskills.sh/skills/yaooooooooooooooo-scout) - Agent trust intelligence for Moltbook and x402 Bazaar.
 - [scrask-bot](https://clawskills.sh/skills/devsandip-scrask-bot) - When the user sends a screenshot via Telegram, parse it using Gemini (fast, default) with automatic Claude fallback.
 - [screenshot-capture](https://clawskills.sh/skills/enzoricciulli-screenshot-capture) - Process screenshots Enzo shares with comments.
 - [screenshot-skill](https://clawskills.sh/skills/sunrddd-a11y-screenshot-skill) - Capture screenshots on Windows using mss and Pillow.
@@ -917,7 +888,6 @@
 - [skill-hunter](https://clawskills.sh/skills/kenoodl-synthesis-skill-hunter) - Find, evaluate, and install ClawHub skills.
 - [skill-installer](https://clawskills.sh/skills/sreejith77-skill-installer) - Install, search, update, and manage skills from ClawHub (the public OpenClaw skill registry)
 - [skill-mermaid-diagrams](https://clawskills.sh/skills/chunhualiao-skill-mermaid-diagrams) - Generate consistent, template-based Mermaid diagrams for technical content.
-- [skill-operator](https://clawskills.sh/skills/rbbcarl-skill-operator) - **Decentralized communication for AI agents — over the internet or local network.**.
 - [skill-perstudio](https://clawskills.sh/skills/montenegronyc-skill-perstudio) - Generate AI images and videos.
 - [skill-releaser](https://clawskills.sh/skills/chunhualiao-skill-releaser) - Release skills to ClawhHub through the full publication pipeline — auto-scaffolding, OPSEC scan, dual review (agent.
 - [skill-review-registry](https://clawskills.sh/skills/sebbysoup-skill-review-registry) - Public review registry for OpenClaw skills.
@@ -952,10 +922,6 @@
 - [social-trust-manipulation-detector](https://clawskills.sh/skills/andyxinweiminicloud-social-trust-manipulation-detector) - Helps identify coordinated social trust manipulation in agent marketplaces — catching reputation gaming.
 - [socialite-guide](https://clawskills.sh/skills/hmyaoyuan-socialite-guide) - Expert guidance for generating "Socialite Style" (名媛风) images using AI art tools (Nano Banana Pro)
 - [sogni-gen](https://clawskills.sh/skills/krunkosaurus-sogni-gen) - Generate images **and videos** using Sogni AI's decentralized network, with local credential/config files.
-- [solana-connect](https://clawskills.sh/skills/seenfinity-solana-connect) - OpenClaw Solana Connect — Secure toolkit for AI agents to interact with Solana blockchain.
-- [solana-payments](https://clawskills.sh/skills/xeroc-solana-payments) - Guide agents through creating Land checkout URLs using the Payments SDK.
-- [solana-sniper-architect](https://clawskills.sh/skills/wterry57-solana-sniper-architect) - Description: A specialized coding assistant that generates high-frequency Solana trading bots using Jupiter v6.
-- [solana-transfer](https://clawskills.sh/skills/vortitron-solana-transfer) - **Description:** Send SOL and SPL tokens on Solana blockchain from OpenClaw agents.
 - [solax-cloud-api](https://clawskills.sh/skills/allmightysauron-solax-cloud-api) - Fetch inverter summary data from the Solax Cloud API using the npm package solax-cloud-api.
 - [solo-build](https://clawskills.sh/skills/fortunto2-solo-build) - Execute implementation plan tasks with TDD workflow, auto-commit, and phase gates.
 - [solo-community-outreach](https://clawskills.sh/skills/fortunto2-solo-community-outreach) - Find relevant Reddit, HN, and ProductHunt threads and draft value-first community responses with launch checklist.
@@ -976,7 +942,6 @@
 - [sonic-build](https://clawskills.sh/skills/rustiqly-sonic-build) - Build SONiC (Software for Open Networking in the Cloud) switch images from sonic-buildimage.
 - [sonnet-model-router](https://clawskills.sh/skills/chandika-sonnet-model-router) - Self-aware multi-provider model routing for OpenClaw.
 - [soul-audit](https://clawskills.sh/skills/kapslap-soul-audit) - Evaluate any AI agent's soul file, system prompt, or AGENTS.md against the Guardian Angel v0.6 framework (Forrest.
-- [soul-markets](https://clawskills.sh/skills/tormine-soul-markets) - Soul.Markets SDK for AI agent commerce.
 - [soul-memory](https://clawskills.sh/skills/kingofqin2026-soul-memory) - Intelligent memory management system for AI agents - 8 modules + OpenClaw Plugin integration, with heartbeat.
 - [soul-shifter](https://clawskills.sh/skills/xhrisfu-soul-shifter) - Create, save, and switch OpenClaw's persona (Soul)
 - [soulkeeper](https://clawskills.sh/skills/cassh100k-soulkeeper) - **Identity persistence for AI agents.**.
@@ -1004,8 +969,6 @@
 - [strudel-music](https://clawskills.sh/skills/karmafeast-strudel-music) - Compose, render, and play music using Strudel live-coding patterns.
 - [strykr-prism](https://clawskills.sh/skills/nextfrontierbuilds-strykr-prism) - Real-time financial data API for AI agents.
 - [subfeed](https://clawskills.sh/skills/subfeed-ai-subfeed) - AI entities with full agentic backend for your OpenClaw project in one prompt.
-- [submit-to-agentbeat](https://clawskills.sh/skills/togodn2-submit-to-agentbeat) - Complete submission flow for autonomous AI agents into the on-chain agent economy.
-- [submit-to-agentbeat-2](https://clawskills.sh/skills/nugdw-submit-to-agentbeat-2) - Complete submission flow for autonomous AI agents into the on-chain agent economy.
 - [subskill-generation-rule](https://clawskills.sh/skills/kenera-subskill-generation-rule) - Define and enforce project orgnization rules for generating subskills. put generated recommendation outputs.
 - [sui-auto-test](https://clawskills.sh/skills/easonc13-sui-auto-test) - Analyze Sui Move test coverage, identify untested code, write missing tests, and perform security audits.
 - [sui-coverage](https://clawskills.sh/skills/easonc13-sui-coverage) - Analyze Sui Move test coverage, identify untested code, write missing tests, and perform security audits.
@@ -1069,7 +1032,6 @@
 - [toneclone](https://clawskills.sh/skills/jfox85-toneclone) - Write like the user, not like AI.
 - [tootoo-skill](https://clawskills.sh/skills/retieflouw-tootoo-skill) - Sync your TooToo codex and monitor agent alignment with your values.
 - [topic-to-article-kit](https://clawskills.sh/skills/rotbit-topic-to-article-kit) - Turn a chosen AI topic into a public-account writing package: collect evidence from X/Twitter and other sources.
-- [torchpredictionmarketkit](https://clawskills.sh/skills/mrsirg97-rgb-torchpredictionmarketkit) - Autonomous vault-based prediction market bot for Torch Market on Solana.
 - [tork-guardian](https://clawskills.sh/skills/torkjacobs-tork-guardian) - > OpenClaw is powerful.
 - [tour-booking](https://clawskills.sh/skills/danielfoch-tour-booking) - Sub-agent for outbound listing-office calls to request and confirm property showing slots using a provided call.
 - [tpm-copilot](https://clawskills.sh/skills/reighlan-tpm-copilot) - AI-powered operating system for Technical Program Managers and Project Managers.

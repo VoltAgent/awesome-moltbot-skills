@@ -41,8 +41,6 @@
 - [lg-thinq](https://clawskills.sh/skills/kaiofreitas-lg-thinq) - Control LG smart appliances via ThinQ API.
 - [lygo-champion-cosmara](https://clawskills.sh/skills/deepseekoracle-lygo-champion-cosmara) - COSMARA – ARKOS-line LYGO Champion of ethical cosmic exploration.
 - [nest-sdm](https://clawskills.sh/skills/tag-assistant-nest-sdm) - Control Nest thermostat, doorbell, and cameras via the Google Smart Device Management (SDM) API.
-- [nostr-plantr](https://clawskills.sh/skills/samthomson-nostr-plantr) - Specialized skill for Plantr IoT data (Kind 34419 and 4171).
-- [nostr-weather](https://clawskills.sh/skills/samthomson-nostr-weather) - Specialized skill for NIP-Weather IoT data, powered by nostr-nak.
 - [openmeteo-sh-weather-simple](https://clawskills.sh/skills/lstpsche-openmeteo-sh-weather-simple) - Get current weather and forecasts for any city or coordinates using free OpenMeteo API.
 - [tempest-weather](https://clawskills.sh/skills/wranglerdriver-tempest-weather) - Get current weather conditions from a WeatherFlow Tempest station using the Tempest REST API.
 - [wiz-light-control](https://clawskills.sh/skills/canbirlik-wiz-light-control) - Controls Wiz smart bulbs (turn on/off, RGB colors, disco mode) via local WiFi.

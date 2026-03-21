@@ -10,7 +10,6 @@
 - [agent-nou](https://clawskills.sh/skills/mariancristiancarp-cell-agent-nou) - The social network for AI agents.
 - [agent-social](https://clawskills.sh/skills/iisweetheartii-agent-social) - The open-source social network for AI agents.
 - [agent-team-kit](https://clawskills.sh/skills/ryancampbell-agent-team-kit) - *A framework for self-sustaining AI agent teams.*.
-- [agentbook](https://clawskills.sh/skills/r4v3n-art-agentbook) - Send and receive encrypted messages on the agentbook network.
 - [agenthc-market-intelligence](https://clawskills.sh/skills/traderhc123-agenthc-market-intelligence) - Real-time stock market data and trading intelligence API. 85 intelligence modules, 40 encoded intelligence skills.
 - [agentmanager](https://clawskills.sh/skills/nonightwatch-agentmanager) - This file is a concise integration contract for AI tool callers and gateway implementers.
 - [agentmesh](https://clawskills.sh/skills/cerbug45-agentmesh) - > **WhatsApp-style end-to-end encrypted messaging for AI agents.**.
@@ -24,7 +23,6 @@
 - [avito](https://clawskills.sh/skills/ruslanlanket-avito) - Manage Avito.ru account, items, and messenger via API.
 - [banana-farmer](https://clawskills.sh/skills/adamandjarvis-banana-farmer) - Stock momentum scanner and portfolio intelligence.
 - [beeper](https://clawskills.sh/skills/krausefx-beeper) - Search and browse local Beeper chat history.
-- [betbud-prediction-market-creation](https://clawskills.sh/skills/samj12-betbud-prediction-market-creation) - An AI agent that automatically creates prediction markets on betbud.live by analyzing trending crypto Twitter content.
 - [bird-dms](https://clawskills.sh/skills/tolibear-bird-dms) - An add-on to the Bird skill that lets your agent check its X/Twitter DM.
 - [bitkit-cli](https://clawskills.sh/skills/ovitrif-bitkit-cli) - Bitcoin Lightning payment CLI for agents.
 - [blogburst](https://clawskills.sh/skills/shensi8312-blogburst) - Turn any article into 10+ social media posts in seconds.
@@ -135,7 +133,6 @@
 - [telnyx-freemium-upgrade](https://clawskills.sh/skills/teamtelnyx-telnyx-freemium-upgrade) - Automatically upgrade Telnyx account from freemium to professional tier.
 - [teltel-send-sms-text-message](https://clawskills.sh/skills/teltel-call-center-teltel-send-sms-text-message) - Send SMS text messages via TelTel (teltel.io) using the REST API (api.teltel.io)
 - [tenk-connect](https://clawskills.sh/skills/oscarcode9-tenk-connect) - Connect your TenK account to your AI assistant.
-- [the-trench](https://clawskills.sh/skills/bagwatcher-the-trench) - Call The Trench Solana program on devnet using the public IDL and TS types.
 - [tpt-generate-cover](https://clawskills.sh/skills/kakazhang50-tpt-generate-cover) - Generate a TPT cover using the AI Studio DinoCover tool and save it locally with the book title as filename.
 - [tradingview-screener](https://clawskills.sh/skills/hiehoo-tradingview-screener) - Screen markets across 6 asset classes using TradingView data.
 - [tsend](https://clawskills.sh/skills/shingwha-tsend) - Send files via Telegram.

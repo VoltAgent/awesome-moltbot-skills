@@ -26,7 +26,6 @@
 - [kradleverse-init](https://clawskills.sh/skills/themrzz-kradleverse-init) - Register an agent on kradleverse.
 - [kradleverse-join](https://clawskills.sh/skills/themrzz-kradleverse-join) - Join a Kradleverse game.
 - [kradleversetest](https://clawskills.sh/skills/themrzz-kradleversetest) - Join the Kradleverse 🤖 - where AIs can play Minecraft autonomously! See more on https://www.kradleverse.com ⛏️.
-- [lobster-trap](https://clawskills.sh/skills/tedkaczynski-the-bot-lobster-trap) - Social deduction game for AI agents. 5 players, 100 CLAWMEGLE stake, 5% burn.
 - [openbotcity](https://clawskills.sh/skills/vincentsider-openbotcity) - A virtual city where AI agents live, work, create, date, and socialize.
 - [sovereign-rpg-xp-engine](https://clawskills.sh/skills/ryudi84-sovereign-rpg-xp-engine) - You are the RPG Life XP engine.
 - [sprite-sheet](https://clawskills.sh/skills/kjaylee-sprite-sheet) - **Category**: Game Development | Asset Optimization.

@@ -5,7 +5,6 @@
 **51 skills**
 
 - [add-wish](https://clawskills.sh/skills/leebellon-add-wish) - Save any product to a universal wishlist.
-- [agentic-commerce](https://clawskills.sh/skills/purch-agent-agentic-commerce) - AI-powered shopping API for product search and crypto.
 - [allstock-data](https://clawskills.sh/skills/hacksing-allstock-data) - Query A-share and US stock data via Tencent Finance API.
 - [amadeus-hotels](https://clawskills.sh/skills/kesslerio-amadeus-hotels) - Search hotel prices and availability via Amadeus API.
 - [amazon-competitor-analyzer](https://clawskills.sh/skills/phheng-amazon-competitor-analyzer) - Scrapes Amazon product data from ASINs.
@@ -40,15 +39,12 @@
 - [listonic](https://clawskills.sh/skills/jeremymahieu-listonic) - Access Listonic shopping lists: list lists/items, add/check/delete items, and manage lists.
 - [marktplaats](https://clawskills.sh/skills/pvoo-marktplaats) - Search Marktplaats.nl classifieds across all categories with filtering.
 - [moltlist-marketplace](https://clawskills.sh/skills/koriyoshi2041-moltlist-marketplace) - Interact with the moltlist.com agent.
-- [moltpho](https://clawskills.sh/skills/unifiedh-moltpho) - Shop autonomously on Amazon via Moltpho - search products, manage credit.
-- [moonpay](https://clawskills.sh/skills/kevarifin14-moonpay) - Your agent needs money.
 - [mt5-httpapi](https://clawskills.sh/skills/psyb0t-mt5-httpapi) - MetaTrader 5 trading via REST API — get market data, place/modify/close orders, manage positions, pull history.
 - [mutual-consent](https://clawskills.sh/skills/otherpowers-mutual-consent) - A governance skill that treats consent as a physical condition of information and relationship, not a stored choice.
 - [nft-tracker](https://clawskills.sh/skills/ianalloway-nft-tracker) - Track NFT collection prices, floor prices, and sales data.
 - [ontopo](https://clawskills.sh/skills/alexpolonsky-ontopo) - Search Israeli restaurants and check table availability on Ontopo.
 - [palacefate](https://clawskills.sh/skills/junwonpro-palacefate) - A prediction market game for AI agents.
 - [popup-referrals](https://clawskills.sh/skills/eliaskress-popup-referrals) - Check your PopUp referral link, track earnings, and see referred vendor status.
-- [sp3nd](https://clawskills.sh/skills/kent-x1-sp3nd) - Buy products from Amazon using USDC on Solana.
 - [stock-price-checker](https://clawskills.sh/skills/rupprath-stock-price-checker) - Check stock prices using yfinance library.
 - [tradekix](https://clawskills.sh/skills/jamesjohnfox-tradekix) - Query financial market data via the Tradekix API — stock prices, crypto, forex, indices, market news, earnings.
 - [turnip-prophet](https://clawskills.sh/skills/nicholasjackson-turnip-prophet) - Predict Animal Crossing New Horizons turnip prices using the game's exact algorithm.

@@ -28,7 +28,6 @@
 - [box-cli](https://clawskills.sh/skills/hbkwong-box-cli) - Box CLI skill for working with files, folders, metadata,.
 - [brew-install](https://clawskills.sh/skills/xejrax-brew-install) - Install missing binaries via dnf (Fedora/Bazzite package manager).
 - [bun-runtime](https://clawskills.sh/skills/rabin-thami-bun-runtime) - Bun runtime capabilities for filesystem, process.
-- [cabin-sol](https://clawskills.sh/skills/sp0oby-cabin-sol) - Solana development tutor and builder.
 - [cacheforge-stats](https://clawskills.sh/skills/tkuehnl-cacheforge-stats) - CacheForge terminal dashboard — usage, savings, and performance metrics.
 - [camsnap](https://clawskills.sh/skills/steipete-camsnap) - Capture frames or clips from RTSP/ONVIF cameras.
 - [canvas-lms](https://clawskills.sh/skills/pranavkarthik10-canvas-lms) - Access Canvas LMS (Instructure) for course data, assignments.
@@ -58,7 +57,6 @@
 - [credit-repair-skill](https://clawskills.sh/skills/yoavfael-credit-repair-skill) - US Credit Repair & Score Optimization Expert.
 - [curl-http](https://clawskills.sh/skills/arnarsson-curl-http) - Essential curl commands for HTTP requests, API testing, and file.
 - [customer-retention](https://clawskills.sh/skills/jk-0001-customer-retention) - Build and execute customer retention strategies for a solopreneur business.
-- [defi-sniper](https://clawskills.sh/skills/h4gen-defi-sniper) - Meta-skill for early token-launch intelligence and execution orchestration across Solana and Base using minara.
 - [dependency-audit](https://clawskills.sh/skills/fratua-dependency-audit) - Smart dependency health check — security audit, outdated detection, unused deps, and prioritized update plan.
 - [django-creator](https://clawskills.sh/skills/moenassi-django-creator) - This project eliminates the time wasted on creating virtual machines and setting up environments from scratch.
 - [django-tool](https://clawskills.sh/skills/moenassi-django-tool) - This project eliminates the time wasted on creating virtual machines and setting up environments from scratch.
@@ -101,7 +99,6 @@
 - [kimi-usage-monitor](https://clawskills.sh/skills/xd4o-kimi-usage-monitor) - Monitor Kimi K2.5 API usage and quota from the Kimi console.
 - [kitchenowl](https://clawskills.sh/skills/apetersson-kitchenowl) - Use kitchenowl-cli from terminal with pipx install, auth, and core read/write commands for KitchenOwl.
 - [klausnomi](https://clawskills.sh/skills/bezko-klausnomi) - Engage in conversations with Nomi AI companions via the bundled Python CLI.
-- [kraken](https://clawskills.sh/skills/thesethrose-kraken) - Use the kraken_cli.py wrapper to query your Kraken account.
 - [leak-buy](https://clawskills.sh/skills/eucalyptus-viminalis-leak-buy) - Buy and download leak content from promo or download links using a preinstalled leak CLI.
 - [lel-mail](https://clawskills.sh/skills/leli1024-lel-mail) - Send and read email via a combination of python and bash scripts which makes use of the main agent for reasoning.
 - [liuren-divination](https://clawskills.sh/skills/ivy-end-liuren-divination) - Traditional Chinese "Xiao Liu Ren" divination based on current lunar time.
@@ -125,7 +122,6 @@
 - [myfeed](https://clawskills.sh/skills/l-fy-myfeed) - Manage MyFeed things and groups via the MyFeed REST API.
 - [near-content-creator](https://clawskills.sh/skills/mastrophot-near-content-creator) - Generate NEAR-focused content (threads, market updates, ecosystem news, tutorials).
 - [norman-tax-deduction-finder](https://clawskills.sh/skills/stanlee000-norman-tax-deduction-finder) - Scan transactions for potentially missed tax deductions and suggest proper categorization.
-- [nostr-nak](https://clawskills.sh/skills/samthomson-nostr-nak) - General purpose skill for using the Nostr Army Knife (nak) CLI tool with PTY support.
 - [notes-reminders](https://clawskills.sh/skills/yusaku-0426-notes-reminders) - Manage quick notes and time-based reminders.
 - [nsfw-detection](https://clawskills.sh/skills/raghulpasupathi-nsfw-detection) - Skills for detecting adult/inappropriate content.
 - [oz-platform](https://clawskills.sh/skills/poluu-oz-platform) - Platform for finding like-minded people based on shared interests and goals.
@@ -134,7 +130,6 @@
 - [pine-assistant](https://clawskills.sh/skills/bojieli-pine-assistant) - Handle customer service, bills, reservations, and more via Pine AI — negotiate, cancel, dispute, book, and resolve.
 - [pls-agent-tools](https://clawskills.sh/skills/mattvalenta-pls-agent-tools) - Digital Swiss Army knife for everyday labor that standard models can't handle out of the box.
 - [plusefin-analysis](https://clawskills.sh/skills/wanghsinche-plusefin-analysis) - AI-ready stock analysis - ticker data, options, sentiment, predictions.
-- [presage](https://clawskills.sh/skills/seenfinity-presage) - Connect to Presage prediction market terminal on Solana (powered by Kalshi)
 - [quickbooks-direct](https://clawskills.sh/skills/armysarge-quickbooks-direct) - Comprehensive QuickBooks Online API integration for accounting, invoicing, payments, and financial reporting.
 - [recite](https://clawskills.sh/skills/rivradev-recite) - AI-driven receipt bookkeeping via the Recite Vision API.
 - [recursive-generosity-protocol](https://clawskills.sh/skills/deepseekoracle-recursive-generosity-protocol) - Public reference + implementation playbook for Delta9-WP-003 Recursive Generosity ("Anthem of the Unbounded Well").
@@ -167,7 +162,6 @@
 - [task-sync](https://clawskills.sh/skills/jp1222-task-sync) - Synchronize TickTick (Dida) and Google Tasks bidirectionally, including list/project mapping, task content sync.
 - [telnyx-voice-sip](https://clawskills.sh/skills/teamtelnyx-telnyx-voice-sip) - Voice interface using Telnyx Call Control API.
 - [text-detection](https://clawskills.sh/skills/raghulpasupathi-text-detection) - Skills for analyzing and detecting AI-generated text content.
-- [torchliquidationagent](https://clawskills.sh/skills/mrsirg97-rgb-torchliquidationagent) - Read-only lending market scanner for Torch Market on Solana.
 - [totp](https://clawskills.sh/skills/diegofcornejo-totp) - TOTP-based OTP verification for sensitive operations (env vars, gateway restarts, backup deletions, critical config.
 - [trust-velocity-calculator](https://clawskills.sh/skills/andyxinweiminicloud-trust-velocity-calculator) - Helps calculate the rate at which trust in a skill or agent is decaying by combining time elapsed since last.
 - [tvscreener](https://clawskills.sh/skills/subway-chenyan-tvscreener) - Query TradingView screener data for HK, A-share, A-share ETF, and US symbols with deepentropy/tvscreener.
@@ -176,7 +170,6 @@
 - [us-value-investing-framework](https://clawskills.sh/skills/spyfree-us-value-investing-framework) - US stock valuation model skill (English-first + 中文) based on financial report data.
 - [user-authentication-system](https://clawskills.sh/skills/satoshistackalotto-user-authentication-system) - Role-based access control for Greek accounting firms.
 - [venice-transcribe](https://clawskills.sh/skills/sabrinaaquino-venice-transcribe) - Transcribe audio to text using Venice AI's Whisper-based speech recognition.
-- [wangwu-agent-chat](https://clawskills.sh/skills/wangwu-30-wangwu-agent-chat) - Nostr-based Agent messaging CLI (Agent's WeChat).
 - [wind-site](https://clawskills.sh/skills/qrost-wind-site) - Wind rose, wind speed/direction at a site; supports site and urban wind assessment (data only; detailed CFD.
 - [wol-sleep-pc](https://clawskills.sh/skills/oblivisheee-wol-sleep-pc) - Send Wake-on-LAN (magic packet) and Sleep-on-LAN (inverted MAC) packets for a specific PC.
 - [xiaohongshu-automation](https://clawskills.sh/skills/dingkwang-xiaohongshu-automation) - A complete automation suite for Xiaohongshu (Little Red Book)

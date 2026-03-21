@@ -6,7 +6,6 @@
 
 - [abixus-core-v1](https://clawskills.sh/skills/taofisio-abixus-core-v1) - A high-performance validation layer for autonomous agent consistency on Polygon PoS.
 - [add-watermark-to-pdf](https://clawskills.sh/skills/crossservicesolutions-add-watermark-to-pdf) - Add a text watermark to one or multiple PDFs by uploading them to the Solutions API, polling until completion.
-- [aegis-security-hackathon](https://clawskills.sh/skills/swiftadviser-aegis-security-hackathon) - Blockchain security scanner for AI agents (testnet)
 - [agent-constitution](https://clawskills.sh/skills/ztsalexey-agent-constitution) - Interact with AgentConstitution governance contracts.
 - [agent-reputation](https://clawskills.sh/skills/kgnvsk-agent-reputation) - summary: Cross-platform AI agent reputation checker with trust scoring and PayLock escrow recommendations.
 - [agent-skills-tools](https://clawskills.sh/skills/rongself-agent-skills-tools) - Security audit and validation tools for the Agent Skills ecosystem.
@@ -27,7 +26,6 @@
 - [brw-go-mode](https://clawskills.sh/skills/brianrwagner-brw-go-mode) - Give me a goal.
 - [chain-of-density](https://clawskills.sh/skills/killerapp-chain-of-density) - Iteratively densify text summaries using Chain-of-Density technique.
 - [change-pdf-permissions](https://clawskills.sh/skills/crossservicesolutions-change-pdf-permissions) - Change a PDF’s permission flags (edit, print, copy, forms, annotations, etc.) by uploading it to the Solutions API.
-- [chronobets](https://clawskills.sh/skills/lordx64-chronobets) - On-chain prediction market for AI agents on Solana mainnet.
 - [comms-md](https://clawskills.sh/skills/stedmanhalliday-comms-md) - Create a COMMS.md — a structured, queryable document expressing someone's communication preferences for humans.
 - [competitor-analyzer](https://clawskills.sh/skills/claudiodrusus-competitor-analyzer) - Analyze any company's competitive position in minutes.
 - [confidant](https://clawskills.sh/skills/ericsantos-confidant) - Secure secret handoff from human to AI.
@@ -56,7 +54,6 @@
 - [governance](https://clawskills.sh/skills/paulgnz-governance) - XPR Network governance — communities, proposals, voting on the gov contract.
 - [grazer](https://clawskills.sh/skills/scottcjn-grazer) - Multi-Platform Content Discovery for AI Agents.
 - [grazer-skill](https://clawskills.sh/skills/scottcjn-grazer-skill) - Multi-Platform Content Discovery for AI Agents.
-- [hey-lol](https://clawskills.sh/skills/rawgroundbeef-hey-lol) - Become an AI creator on hey.lol - a social platform where AI agents earn money by posting content and engaging.
 - [image-ocr](https://clawskills.sh/skills/xejrax-image-ocr) - Extract text from images using Tesseract OCR.
 - [internal-comms](https://clawskills.sh/skills/seanphan-internal-comms) - A set of resources to help me write all kinds of internal.
 - [intomd](https://clawskills.sh/skills/rezhajulio-intomd) - Fetch and convert any documentation URL to Markdown using into.md service.
@@ -74,7 +71,6 @@
 - [moldium](https://clawskills.sh/skills/zyom45-moldium) - Post and manage content on the Moldium blog platform.
 - [near-phishing-detector](https://clawskills.sh/skills/mastrophot-near-phishing-detector) - Detect potential phishing URLs and suspicious contracts targeting NEAR users.
 - [norman-expense-report](https://clawskills.sh/skills/stanlee000-norman-expense-report) - Generate a detailed expense breakdown by category for a given period.
-- [ok-computers](https://clawskills.sh/skills/potdealer-ok-computers) - You have been given an OK Computer NFT.
 - [open-stellar](https://clawskills.sh/skills/sixela33-open-stellar) - Interact with the Stellar blockchain — manage keys, networks, and smart contracts using the Stellar CLI.
 - [openscan](https://clawskills.sh/skills/dev-null321-openscan) - Scan binaries and scripts for malicious patterns before trusting them.
 - [paddleocr-doc-parsing](https://clawskills.sh/skills/bobholamovic-paddleocr-doc-parsing) - Parse documents using PaddleOCR's API.
@@ -87,12 +83,10 @@
 - [remove-password-from-pdf](https://clawskills.sh/skills/crossservicesolutions-remove-password-from-pdf) - Remove password protection from a PDF by uploading it (with its current password) to the Solutions API, polling.
 - [returns-reverse-logistics](https://clawskills.sh/skills/nocodemf-returns-reverse-logistics) - Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing.
 - [reva](https://clawskills.sh/skills/pax47-reva) - Complete Reva wallet management - passwordless authentication, PayID name claiming, multi-chain crypto transfers.
-- [robodotfun](https://clawskills.sh/skills/silencepolicy-robodotfun) - AI prediction market platform.
 - [rue-chialisp](https://clawskills.sh/skills/koba42corp-rue-chialisp) - Create Chia blockchain puzzles using Rue, a type-safe language that compiles to CLVM.
 - [scam-guards](https://clawskills.sh/skills/y01026350884-cyber-scam-guards) - testing / nformation removed.
 - [scam-guards-skill](https://clawskills.sh/skills/y01026350884-cyber-scam-guards-skill) - testing / nformation removed.
 - [scan-skill](https://clawskills.sh/skills/itsnishi-scan-skill) - Deep security analysis of an individual skill before installation.
-- [sentry-ai](https://clawskills.sh/skills/qiyun154-cyber-sentry-ai) - Solana/Base Multi-Chain Meme Scanner & Auditor (Anti-Rug)
 - [sharepoint-by-altf1be](https://clawskills.sh/skills/abdelkrim-sharepoint-by-altf1be) - Secure SharePoint file operations and Office document intelligence via Microsoft Graph API — certificate auth, Sites.
 - [shield-agent](https://clawskills.sh/skills/bowen31337-shield-agent) - Autonomous DeFi smart contract vulnerability scanner.
 - [skill-3](https://clawskills.sh/skills/claudiodrusus-skill-3) - Swiss-army knife for JSON files.

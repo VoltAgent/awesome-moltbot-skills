@@ -10,7 +10,6 @@
 - [arc-skill-sandbox](https://clawskills.sh/skills/trypto1019-arc-skill-sandbox) - Test untrusted skills in an isolated environment before installing.
 - [auto-improve](https://clawskills.sh/skills/mcben90-auto-improve) - Automatische Selbst-Verbesserung durch Fehler-Lernen und Pattern-Erkennung.
 - [autonomous-agent](https://clawskills.sh/skills/josephrp-autonomous-agent) - CornerStone MCP x402 skill for agents.
-- [bittensor-sdk](https://clawskills.sh/skills/taoleeh-bittensor-sdk) - Comprehensive Bittensor blockchain interaction skill with wallet management, staking, subnet operations, neuron.
 - [bountyhub-agent](https://clawskills.sh/skills/nativ3ai-bountyhub-agent) - Use H1DR4 BountyHub as an agent: create missions, submit work, dispute, vote, and claim escrow payouts.
 - [bring-recipes](https://clawskills.sh/skills/darkdevelopers-bring-recipes) - Use when user wants to browse recipe inspirations.
 - [calorie-counter](https://clawskills.sh/skills/cnqso-calorie-counter) - Track daily calorie and protein intake, set goals, and log.
