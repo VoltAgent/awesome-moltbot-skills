@@ -130,6 +130,11 @@ You can deploy OpenClaw on any VPS or cloud platform run your skills securely on
 
 > **Tip:** If you're looking for a quick cloud setup, spin up a VPS with your preferred provider, install OpenClaw via Docker, and you're good to go.
 
+<a href="https://remoteopenclaw.com?utm_source=github&utm_campaign=awesome-openclaw-skills">
+<img src="https://remoteopenclaw.com/brand-lobster.png" alt="Remote OpenClaw" width="40" />
+<br/>
+<strong>Remote OpenClaw</strong> — Managed OpenClaw hosting on dedicated infrastructure with security hardening, workflow configuration, and ongoing maintenance. Basic to Full Service plans.
+</a>
 
 <div align="center">
 
