@@ -248,6 +248,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-card-signing-auditor](https://clawskills.sh/skills/andyxinweiminicloud-agent-card-signing-auditor) - Helps audit Agent Card signing practices in A2A protocol implementations.
 - [agent-chat-ux-v1-4-0](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0) - Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search.
 
+- [cost-optimizer](https://clawhub.ai/s/cost-optimizer) - Save 60-80% on AI token costs with smart model routing, context compression, heartbeat tuning, usage reports, and config generation
 > **[View all 1200 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
 
