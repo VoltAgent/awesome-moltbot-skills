@@ -129,6 +129,7 @@
 - [preisrunter](https://clawskills.sh/skills/davidus05-preisrunter) - Search and compare grocery prices and promotions in Austria and Germany via the Preisrunter API.
 - [publora-instagram](https://clawskills.sh/skills/sergebulaev-publora-instagram) - Post or schedule content to Instagram using the Publora API.
 - [qr-gen](https://clawskills.sh/skills/claudiodrusus-qr-gen) - Generate QR codes from text, URLs, WiFi credentials, vCards, or any data.
+- [qstar-video-ecom](https://clawhub.ai/hubtiger123/qstar-video-ecom) - AI product video generation for Chinese e-commerce platforms with TTS voiceover.
 - [quest-board](https://clawskills.sh/skills/yx2601816404-sys-quest-board) - You are equipped with the **Quest Board** skill, a visual project dashboard.
 - [quote0](https://clawskills.sh/skills/yangguangzhou-quote0) - Control MindReset Dot Quote/0 through the local quote0.js script and Dot Developer Platform APIs.
 - [reepl](https://clawskills.sh/skills/abhibavishi-reepl) - Manage your LinkedIn presence with Reepl -- create drafts, publish and schedule posts, manage contacts.
