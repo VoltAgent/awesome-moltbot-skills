@@ -41,6 +41,7 @@
 - [bioskills](https://clawskills.sh/skills/djemec-bioskills) - Installs 425 bioinformatics skills covering sequence analysis, RNA-seq, single-cell, variant calling, metagenomics.
 - [blackpix](https://clawskills.sh/skills/blackpixcom-blackpix) - Connect to the BlackPix distributed AI knowledge network.
 - [blossom-hire](https://clawskills.sh/skills/robbiwu-blossom-hire) - Post a job, task, or paid shift to hire local help in Blossom.
+- [boss-ai-agent](https://github.com/openclaw/skills/tree/main/skills/tonypk/boss-ai-agent/SKILL.md) - AI management middleware with 14 mentors and 9 culture packs.
 - [botcoin-miner](https://clawskills.sh/skills/happybigmtn-botcoin-miner) - Mine Botcoin with a trust-first workflow: clear value proposition, verifiable binaries, and explicit operational.
 - [bounty-hunter](https://clawskills.sh/skills/satoshi891102-bounty-hunter) - Find, evaluate, and submit online bounties and hackathons for prize money.
 - [brainz-tasks](https://clawskills.sh/skills/xejrax-brainz-tasks) - Manage Todoist tasks using the `todoist` CLI.
@@ -205,4 +206,3 @@
 - [zero-rules](https://clawskills.sh/skills/deeqyaqub1-cmd-zero-rules) - Intercept deterministic tasks (math, time, currency, files, scheduling) BEFORE they hit the LLM.
 - [zonein](https://clawskills.sh/skills/phutt-bwai-zonein) - Track and analyze top traders with >75% win-rate on Hyperliquid and Polymarket via Zonein API.
 - [zulip](https://clawskills.sh/skills/suky57-zulip) - Interact with Zulip chat platform via REST API and Python client.
-- [boss-ai-agent](https://github.com/openclaw/skills/tree/main/skills/tonypk/boss-ai-agent/SKILL.md) - AI management middleware with 14 mentors and 9 culture packs.
