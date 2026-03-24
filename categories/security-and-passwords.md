@@ -44,6 +44,7 @@
 - [linkswarm-api](https://clawskills.sh/skills/heyw00d-linkswarm-api) - **Backlink exchange for AI agents.
 - [mfa-word](https://clawskills.sh/skills/cenralsolution-mfa-word) - Challenges the user for a secret word before allowing access to sensitive files or system commands.
 - [page-behavior-audit](https://clawskills.sh/skills/youdaolee-page-behavior-audit) - Deep behavioral audit with hashed policy (CSP-compliant, no plaintext badwords)
+- [pre-flight](https://github.com/openclaw/skills/tree/main/skills/wyattbenno777/pre-flight/SKILL.md) - Policy guardrails that check every agent action before it executes. Write rules in plain English, get a definitive allowed or blocked. Free logic checker included.
 - [outtake-bounty-network](https://clawskills.sh/skills/jamesouttake-outtake-bounty-network) - Earn $5 USDC per verified malicious domain. Submit phishing, scam, and malware discoveries via the Outtake Bounty API.
 - [safe-encryption-skill](https://clawskills.sh/skills/grittygrease-safe-encryption-skill) - Encrypt, decrypt, and manage keys with the SAFE CLI — a modern GPG alternative with post-quantum support.
 - [saysigned](https://clawskills.sh/skills/klsv-saysigned) - > **E-signatures for AI agents.** Legally binding under ESIGN Act & UETA Section 14.
