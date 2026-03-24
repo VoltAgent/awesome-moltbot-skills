@@ -731,6 +731,7 @@
 - [personality-switcher](https://clawskills.sh/skills/robb1010-personality-switcher) - Create and switch between AI assistant personalities.
 - [pest-disease-tracker](https://clawskills.sh/skills/johstracke-pest-disease-tracker) - Track garden pests and diseases with treatments.
 - [phenoskill](https://clawskills.sh/skills/kaichop-phenoskill) - Extract clinical phenotypes and medication entities from user-provided text using PhenoSnap, producing.
+- [pharaoh](https://clawhub.ai/pharaoh-so/pharaoh) - Codebase knowledge graph with 23 development workflow skills. Query architecture, dependencies, blast radius, dead code instead of reading files one at a time. MCP-native. `npx @pharaoh-so/mcp --install-skills`
 - [pi-workflow](https://clawskills.sh/skills/kai-tw-pi-workflow) - Workflow orchestration for Pi's task management, self-improvement, and code quality standards.
 - [pinchbench](https://clawskills.sh/skills/olearycrew-pinchbench) - Run PinchBench benchmarks to evaluate OpenClaw agent performance across real-world tasks.
 - [pixel-lobster](https://clawskills.sh/skills/joeproai-pixel-lobster) - Pixel art desktop lobster that lip-syncs to OpenClaw TTS speech.
