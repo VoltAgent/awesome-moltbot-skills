@@ -13,7 +13,7 @@
     <br />
     <br />
 </div>
-
+  
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills Count](https://img.shields.io/badge/skills-5197-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
@@ -281,7 +281,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [airtable-participants](https://clawskills.sh/skills/austinmao-airtable-participants) - Read and query retreat participant data from the Ceremonia Airtable base.
 - [ak-rss-24h-brief](https://clawskills.sh/skills/seandong-ak-rss-24h-brief) - Read RSS/Atom feeds from an OPML list, fetch articles from the last N hours, and generate a Chinese categorized.
 
-> **[View all 320 skills in Browser & Automation →](categories/browser-and-automation.md)**
+> **[View all 322 skills in Browser & Automation →](categories/browser-and-automation.md)**
 </details>
 
 <details>
