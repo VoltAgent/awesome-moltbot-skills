@@ -487,8 +487,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [clawdefender](https://clawskills.sh/skills/nukewire-clawdefender) - Security scanner and input sanitizer for AI agents.
 - [clawdirect](https://clawskills.sh/skills/napoleond-clawdirect) - Interact with ClawDirect, a directory of social web experiences.
 - [clawdirect-dev](https://clawskills.sh/skills/napoleond-clawdirect-dev) - Build agent-facing web experiences with ATXP-based.
+- [honcho-setup](https://clawskills.sh/skills/ajspig-honcho-setup) - Persistent cross-session memory via Honcho.
 
-> **[View all 36 skills in Clawdbot Tools →](categories/clawdbot-tools.md)**
+> **[View all 37 skills in Clawdbot Tools →](categories/clawdbot-tools.md)**
 </details>
 
 <details>
