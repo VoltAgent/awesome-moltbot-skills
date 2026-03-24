@@ -4,355 +4,342 @@
 
 **352 skills**
 
-- [1](https://github.com/openclaw/skills/tree/main/skills/nastrology/1/SKILL.md) - Personal knowledge base powered by Ensue for capturing and retrieving.
-- [academic-deep-research](https://github.com/openclaw/skills/tree/main/skills/kesslerio/academic-deep-research/SKILL.md) - Transparent, rigorous research with full.
-- [academic-writer](https://github.com/openclaw/skills/tree/main/skills/dayunyan/academic-writer/SKILL.md) - Professional LaTeX writing assistant.
-- [academic-writing](https://github.com/openclaw/skills/tree/main/skills/teamolab/academic-writing/SKILL.md) - You are an academic writing expert specializing in scholarly papers, literature reviews, research methodology.
-- [academic-writing-refiner](https://github.com/openclaw/skills/tree/main/skills/zihan-zhu/academic-writing-refiner/SKILL.md) - Refine academic writing for computer science research papers targeting top-tier venues (NeurIPS, ICLR, ICML, AAAI.
-- [aclawdemy](https://github.com/openclaw/skills/tree/main/skills/nimhar/aclawdemy/SKILL.md) - The academic research platform for AI agents.
-- [action-suggester](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/action-suggester/SKILL.md) - Generate non-binding follow-up action suggestions from lead summaries or lead lists.
-- [ads-manager-agent](https://github.com/openclaw/skills/tree/main/skills/amekala/ads-manager-agent/SKILL.md) - When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta.
-- [adspirer-ads-agent](https://github.com/openclaw/skills/tree/main/skills/amekala/adspirer-ads-agent/SKILL.md) - When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta.
-- [advanced-skill-creator](https://github.com/openclaw/skills/tree/main/skills/xqicxx/advanced-skill-creator/SKILL.md) - Advanced OpenClaw skill creation handler.
-- [aerobase-skill](https://github.com/openclaw/skills/tree/main/skills/kurosh87/aerobase-skill/SKILL.md) - Search, score, and compare flights with jetlag impact analysis.
-- [agent-arena-skill](https://github.com/openclaw/skills/tree/main/skills/neeeophytee/agent-arena-skill/SKILL.md) - Discover, register, and hire ERC-8004 autonomous agents across 16 blockchains.
-- [agent-brain](https://github.com/openclaw/skills/tree/main/skills/dobrinalexandru/agent-brain/SKILL.md) - Local-first persistent memory for AI agents with SQLite storage, orchestrated retrieve/extract loops, hybrid.
-- [agent-casino](https://github.com/openclaw/skills/tree/main/skills/lemodigital/agent-casino/SKILL.md) - Compete against other AI agents in Rock-Paper-Scissors with lockup mechanics.
-- [agent-deep-research](https://github.com/openclaw/skills/tree/main/skills/24601/agent-deep-research/SKILL.md) - Autonomous deep research powered by Google Gemini.
-- [agent-lightning](https://github.com/openclaw/skills/tree/main/skills/olmmlo-cmd/agent-lightning/SKILL.md) - Microsoft Research's agent training framework.
-- [agentarxiv](https://github.com/openclaw/skills/tree/main/skills/amanbhandula/agentarxiv/SKILL.md) - Outcome-driven scientific publishing for AI agents.
-- [agenthire](https://github.com/openclaw/skills/tree/main/skills/lngdao/agenthire/SKILL.md) - AgentHire — Agent-to-Agent Marketplace.
-- [agentic-paper-digest](https://github.com/openclaw/skills/tree/main/skills/matanle51/agentic-paper-digest/SKILL.md) - Fetches and summarizes recent arXiv and Hugging.
-- [agentic-paper-digest-skill](https://github.com/openclaw/skills/tree/main/skills/matanle51/agentic-paper-digest-skill/SKILL.md) - Fetches and summarizes recent arXiv.
-- [agenticmail](https://github.com/openclaw/skills/tree/main/skills/ope-olatunji/agenticmail/SKILL.md) - 🎀 AgenticMail — Full email, SMS, storage & multi-agent coordination for AI agents. 63 tools.
-- [agentx-news](https://github.com/openclaw/skills/tree/main/skills/amittell/agentx-news/SKILL.md) - Post xeets, manage profile, and interact on AgentX News — a microblogging platform for AI agents.
-- [agile-toolkit](https://github.com/openclaw/skills/tree/main/skills/olivermonneke/agile-toolkit/SKILL.md) - You are an experienced Agile Coach with deep knowledge of Scrum, Kanban, SAFe, and Management 3.0.
-- [agnxi-search-skill](https://github.com/openclaw/skills/tree/main/skills/doanbactam/agnxi-search-skill/SKILL.md) - The official search utility for Agnxi.com.
-- [ahmed](https://github.com/openclaw/skills/tree/main/skills/engahmedsalah358-lgtm/ahmed/SKILL.md) - Terminal Spotify playback/search via spogo (preferred)
-- [ai-lead-generator-skill](https://github.com/openclaw/skills/tree/main/skills/highlander89/ai-lead-generator-skill/SKILL.md) - Generate qualified B2B leads for any industry using AI-powered research and LinkedIn/Apollo integration.
-- [ai-review](https://github.com/openclaw/skills/tree/main/skills/blackshady1130-jpg/ai-review/SKILL.md) - Reads content from URLs or files, classifies it, and generates structured summaries and comments in a specific.
-- [aihotel](https://github.com/openclaw/skills/tree/main/skills/qiao101660/aihotel/SKILL.md) - A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags)
-- [airbnb](https://github.com/openclaw/skills/tree/main/skills/stveenli/airbnb/SKILL.md) - Search Airbnb listings with prices, ratings, and direct links.
-- [aisa-multi-source-search](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-multi-source-search/SKILL.md) - Intelligent search for agents.
-- [aisa-twitter-skill](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-twitter-skill/SKILL.md) - Search X (Twitter) in real time, extract relevant posts, and publish tweets/replies instantly—perfect for social.
-- [aisa-youtube-search](https://github.com/openclaw/skills/tree/main/skills/aisapay/aisa-youtube-search/SKILL.md) - YouTube SERP Scout for agents.
-- [aister-vector-memory](https://github.com/openclaw/skills/tree/main/skills/alekhm/aister-vector-memory/SKILL.md) - Vector memory for Aister — search by meaning, not by grep!
-- [alexa-cli](https://github.com/openclaw/skills/tree/main/skills/buddyh) - Control Amazon Alexa devices and smart home via the `alexacli` CLI.
-- [aluvia-brave-search](https://github.com/openclaw/skills/tree/main/skills/bertxtrella) - Web search and content extraction via Brave.
-- [aluvia-web-proxy](https://github.com/openclaw/skills/tree/main/skills/aluvia-connectivity/aluvia-web-proxy/SKILL.md) - Unblock websites and bypass CAPTCHAs and 403.
-- [aluvia-web-unblock](https://github.com/openclaw/skills/tree/main/skills/bertxtrella) - Unblock websites and bypass CAPTCHAs and 403 errors.
-- [amazon-data](https://github.com/openclaw/skills/tree/main/skills/rhino88/amazon-data/SKILL.md) - Retrieve Amazon product data including pricing, reviews, sales estimates, stock levels, search results, deals.
-- [anshumanbh-qmd](https://github.com/openclaw/skills/tree/main/skills/anshumanbh/anshumanbh-qmd/SKILL.md) - Search markdown knowledge bases efficiently.
-- [answeroverflow](https://github.com/openclaw/skills/tree/main/skills/rhyssullivan/answeroverflow/SKILL.md) - Search indexed Discord community discussions via Answer.
-- [aoi-triple-memory-lite](https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/aoi-triple-memory-lite/SKILL.md) - AOI Triple Memory (Lite) — file search + decision notes templates (no plugins).
-- [apo-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/apo-cli/SKILL.md) - Search and order pharmacy products from apohealth.de via apo-cli.
-- [archive-daily-note](https://github.com/openclaw/skills/tree/main/skills/meimakes/archive-daily-note/SKILL.md) - Automatically moves yesterday's Obsidian daily note into a past-days/ archive folder using the Obsidian CLI move.
-- [argos-product-research](https://github.com/openclaw/skills/tree/main/skills/notsurewhoisthis/argos-product-research/SKILL.md) - Search, compare, and research products.
-- [arxiv-batch-reporter](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-batch-reporter/SKILL.md) - Build the final collection report in two steps: model writes a report template, then script injects each paper's.
-- [arxiv-cli-tools](https://github.com/openclaw/skills/tree/main/skills/killgfat/arxiv-cli-tools/SKILL.md) - | Key | Value |.
-- [arxiv-paper-processor](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-paper-processor/SKILL.md) - Tool-only paper processing skill with a manual language parameter: supports batch artifact download for many papers.
-- [arxiv-paper-reviews](https://github.com/openclaw/skills/tree/main/skills/zxrys/arxiv-paper-reviews/SKILL.md) - Interact with arXiv Crawler API to fetch papers, read.
-- [arxiv-summarizer-orchestrator](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-summarizer-orchestrator/SKILL.md) - End-to-end orchestration skill for periodic arXiv collection and reporting using three sub-skills.
-- [arxiv-watcher](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/arxiv-watcher/SKILL.md) - Search and summarize papers from ArXiv.
-- [asia-twitter-api-v1](https://github.com/openclaw/skills/tree/main/skills/renning22/asia-twitter-api-v1/SKILL.md) - Search X (Twitter) in real time, monitor trends, extract posts, and analyze social media data—perfect for social.
-- [attio-crm](https://github.com/openclaw/skills/tree/main/skills/kesslerio/attio-crm/SKILL.md) - Manage Attio CRM records (companies, people, deals, tasks, notes).
-- [aubrai-longevity](https://github.com/openclaw/skills/tree/main/skills/dobrinalexandru/aubrai-longevity/SKILL.md) - Meet your SOTA longevity research partner.
-- [auto-drive](https://github.com/openclaw/skills/tree/main/skills/emilfattakhov/auto-drive/SKILL.md) - Upload and download files to Autonomys Network permanent decentralized storage via Auto-Drive.
-- [automation-runner](https://github.com/openclaw/skills/tree/main/skills/barnyp/automation-runner/SKILL.md) - Executes approved shell commands, manages backups, and safely retrieves secrets from Bitwarden.
-- [autonomous-research](https://github.com/openclaw/skills/tree/main/skills/tobisamaa/autonomous-research/SKILL.md) - Conduct comprehensive research independently.
-- [autonomy-type-based](https://github.com/openclaw/skills/tree/main/skills/luciusrockwing/autonomy-type-based/SKILL.md) - Type-based autonomous task queue system.
-- [b2b-first-ten](https://github.com/openclaw/skills/tree/main/skills/pors/b2b-first-ten/SKILL.md) - Expert in getting the first 10 B2B customers, based on Lenny Rachitsky's "First 1000 Users" research.
-- [bagman](https://github.com/openclaw/skills/tree/main/skills/zscole/bagman/SKILL.md) - Secure key management for AI agents.
-- [baidu-scholar-search](https://github.com/openclaw/skills/tree/main/skills/jlpjavawayup/baidu-scholar-search/SKILL.md) - Baidu Academic Search Tool enables.
-- [baidu-search](https://github.com/openclaw/skills/tree/main/skills/ide-rea/baidu-search/SKILL.md) - Search the web using Baidu AI Search Engine (BDSE).
-- [bambu-lab-skill](https://github.com/openclaw/skills/tree/main/skills/photonixlaser-ux/bambu-lab-skill/SKILL.md) - Steuere Bambu Lab 3D-Drucker (A1, P1P, X1) über MQTT.
-- [beepctl](https://github.com/openclaw/skills/tree/main/skills/blqke/beepctl/SKILL.md) - Use when sending messages, searching chats, or managing conversations.
-- [benos-memory-core](https://github.com/openclaw/skills/tree/main/skills/benmjohnson69/benos-memory-core/SKILL.md) - Core runtime/volatile memory module for BenOS agent environment.
-- [binance-hunter](https://github.com/openclaw/skills/tree/main/skills/tetravad/binance-hunter/SKILL.md) - The Hunter: Professional Binance Trading Skill.
-- [bing-search](https://github.com/openclaw/skills/tree/main/skills/stdeson/bing-search/SKILL.md) - Bing search skill for all users.
-- [biodiversity-corridor-calculator](https://github.com/openclaw/skills/tree/main/skills/nikhilp1234567/biodiversity-corridor-calculator/SKILL.md) - Open Claw Agent Skill: Biodiversity Corridor Analyst.
-- [bird-su](https://github.com/openclaw/skills/tree/main/skills/iqbalnaveliano/bird-su/SKILL.md) - X/Twitter CLI for reading, searching, and posting via cookies.
-- [birdnet](https://github.com/openclaw/skills/tree/main/skills/rappo/birdnet/SKILL.md) - Query BirdNET-Go bird detections.
-- [blacksnow](https://github.com/openclaw/skills/tree/main/skills/sieershafilone/blacksnow/SKILL.md) - Detects pre-news ambient risk signals across human, legal.
-- [bloom](https://github.com/openclaw/skills/tree/main/skills/unicornbloom/bloom/SKILL.md) - Discover your supporter personality and find AI tools you'll love.
-- [bolta-skills-index](https://github.com/openclaw/skills/tree/main/skills/maxfritzhand/bolta-skills-index/SKILL.md) - Display name: Bolta Skills Registry.
-- [boof](https://github.com/openclaw/skills/tree/main/skills/chiefsegundo/boof/SKILL.md) - Convert PDFs and documents to markdown, index them locally for RAG retrieval, and analyze them token-efficiently.
-- [books-for-agents](https://github.com/openclaw/skills/tree/main/skills/danpalmieri/books-for-agents/SKILL.md) - An open source knowledge base of structured book summaries, available to any AI agent via MCP.
-- [botbrag](https://github.com/openclaw/skills/tree/main/skills/elstob/botbrag/SKILL.md) - Promote yourself on a Bitcoin leaderboard.
-- [brek-ai](https://github.com/openclaw/skills/tree/main/skills/leo9/brek-ai/SKILL.md) - Integrate with Brek Partner Core Chat API for hotel-search and booking assistant flows.
-- [brw-ai-discoverability-audit](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-ai-discoverability-audit/SKILL.md) - Audit how a brand appears in AI-powered search (ChatGPT, Perplexity, Claude, Gemini)
-- [brw-linkedin-profile-optimizer](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-linkedin-profile-optimizer/SKILL.md) - Audit and rewrite your LinkedIn profile to attract the right people.
-- [brw-linkedin-profile-optimizer-1-0-0](https://github.com/openclaw/skills/tree/main/skills/rezcarbon/brw-linkedin-profile-optimizer-1-0-0/SKILL.md) - Audit and rewrite your LinkedIn profile to attract the right people.
-- [brw-plan-my-day](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-plan-my-day/SKILL.md) - Generate an energy-optimized, time-blocked daily plan based on circadian rhythm research and GTD principles.
-- [buy-amazon](https://github.com/openclaw/skills/tree/main/skills/lucasgeeksinthewood/buy-amazon/SKILL.md) - Need to buy something from Amazon? Search and shop on Amazon.com — compare prices and ratings, add items to cart.
-- [byr-cli](https://github.com/openclaw/skills/tree/main/skills/1morebuild/byr-cli/SKILL.md) - Use BYR CLI for auth, search, detail inspection, and safe torrent download planning with JSON envelopes.
-- [cabin](https://github.com/openclaw/skills/tree/main/skills/kobuta23/cabin/SKILL.md) - Search and book real flights with USDC payments.
-- [caesar-research](https://github.com/openclaw/skills/tree/main/skills/alexrudloff/caesar-research/SKILL.md) - Deep research using the Caesar API — run queries, follow up with chat, brainstorm, and manage collections.
-- [call-academic-search-agent](https://github.com/openclaw/skills/tree/main/skills/teamolab/call-academic-search-agent/SKILL.md) - AI agent for call academic search agent tasks.
-- [camino-fitness-finder](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-fitness-finder/SKILL.md) - Search for gyms, yoga studios, swimming pools, and sports facilities using Camino AI's location intelligence.
-- [camino-hotel-finder](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-hotel-finder/SKILL.md) - Search for hotels, hostels, and lodging near landmarks, conference venues, or neighborhoods using Camino AI's.
-- [camino-parking-finder](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-parking-finder/SKILL.md) - Locate parking garages, lots, and street parking near your destination using Camino AI's location intelligence.
-- [camino-query](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-query/SKILL.md) - Search for places using natural language with Camino AI's location intelligence API.
-- [cannabis-cultivator](https://github.com/openclaw/skills/tree/main/skills/rama666/cannabis-cultivator/SKILL.md) - EU seedbank meta-search assistant.
-- [certificate-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/certificate-generation/SKILL.md) - Generate professional certificates, diplomas, and awards using each::sense AI.
-- [charts](https://github.com/openclaw/skills/tree/main/skills/ryandeangraves/charts/SKILL.md) - Generate professional technical analysis charts with candlesticks, Fibonacci retracement, moving averages (SMA 20/50)
-- [cheese-brain](https://github.com/openclaw/skills/tree/main/skills/mhugo22/cheese-brain/SKILL.md) - DuckDB-powered knowledge management system for fast retrieval across 22+ entity types (projects, contacts, tools.
-- [cirf](https://github.com/openclaw/skills/tree/main/skills/kudodefi/cirf/SKILL.md) - Interactive crypto deep-research framework with human-AI collaboration for superior research outcomes.
-- [clarity-analyze](https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-analyze/SKILL.md) - Submit research questions for AI-powered analysis via Clarity Protocol.
-- [clarity-clinical](https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-clinical/SKILL.md) - Query clinical variant data from ClinVar and gnomAD via Clarity Protocol.
-- [clarity-gate](https://github.com/openclaw/skills/tree/main/skills/frmoretto/clarity-gate/SKILL.md) - Pre-ingestion verification for epistemic quality in RAG systems.
-- [clarity-research](https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-research/SKILL.md) - Search protein folding research data from Clarity Protocol.
-- [code-cache](https://github.com/openclaw/skills/tree/main/skills/ryx2/code-cache/SKILL.md) - Semantic code caching for AI agents.
-- [code-reputation](https://github.com/openclaw/skills/tree/main/skills/ryx2/code-reputation/SKILL.md) - Semantic code caching for AI agents.
-- [competitor-analysis-report](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/competitor-analysis-report/SKILL.md) - Generate structured competitive analysis reports with feature comparisons, pricing analysis, SWOT, and strategic.
-- [content-research](https://github.com/openclaw/skills/tree/main/skills/hazy2go/content-research/SKILL.md) - Research trending topics and generate platform-specific content.
-- [context-overflow](https://github.com/openclaw/skills/tree/main/skills/nathanjzhao/context-overflow/SKILL.md) - Academic forum for mission-driven project proposals.
-- [cortex-ai](https://github.com/openclaw/skills/tree/main/skills/waynevaughan/cortex-ai/SKILL.md) - Persistent memory for AI agents by Sigma Labs.
-- [coworker](https://github.com/openclaw/skills/tree/main/skills/sarthib7/coworker/SKILL.md) - Connect to Hannah and Elena agents from Serviceplan - specialized AI coworkers for marketing research.
-- [crif](https://github.com/openclaw/skills/tree/main/skills/kudodefi/crif/SKILL.md) - Interactive crypto deep-research framework with human-AI collaboration for superior research outcomes.
-- [crypto-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/crypto-cog/SKILL.md) - The market never sleeps, and neither does your analysis. #1 on DeepResearch Bench (Feb 2026) applied to crypto.
-- [daolv-hotel-booking-assistant](https://github.com/openclaw/skills/tree/main/skills/cnchenkai/daolv-hotel-booking-assistant/SKILL.md) - Hotel booking-decision assistant using ai-go-hotel MCP (searchHotels + getHotelDetail)
-- [deaddrop](https://github.com/openclaw/skills/tree/main/skills/cburnette/deaddrop/SKILL.md) - Join the Deaddrop agent network — a growing platform where AI agents discover each other by capability.
-- [deeps](https://github.com/openclaw/skills/tree/main/skills/ttboy/deeps/SKILL.md) - Deep Research Agent specializes in complex, multi-step research tasks that require planning, decomposition.
-- [depo-bot](https://github.com/openclaw/skills/tree/main/skills/chadru/depo-bot/SKILL.md) - Produces structured trial preparation reports from deposition transcripts.
-- [deso-research](https://github.com/openclaw/skills/tree/main/skills/mtple/deso-research/SKILL.md) - Research and analyze content across decentralized social networks (Farcaster, Lens, Nostr, Bluesky)
-- [devrev](https://github.com/openclaw/skills/tree/main/skills/nimit2801/devrev/SKILL.md) - Interact with DevRev to create/update issues and tickets, and search/query works and parts.
-- [didit-face-search](https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-face-search/SKILL.md) - Integrate Didit Face Search standalone API to perform 1:N facial search against all previously verified sessions.
-- [dify-kb-search](https://github.com/openclaw/skills/tree/main/skills/xiaowenzhou/dify-kb-search/SKILL.md) - Search Dify Knowledge Base (Dataset) to get accurate context for RAG-enhanced answers.
-- [dizest-summarize](https://github.com/openclaw/skills/tree/main/skills/s-annam/dizest-summarize/SKILL.md) - Summarize long-form content — articles, podcasts, research papers, PDFs, notes, and more — using the Dizest API.
-- [dj-mp3-sourcer](https://github.com/openclaw/skills/tree/main/skills/robinnnnn/dj-mp3-sourcer/SKILL.md) - Download music from links (YouTube, Spotify, etc.) by finding the best available source.
-- [dnote](https://github.com/openclaw/skills/tree/main/skills/m1n-74316d65/dnote/SKILL.md) - Save, retrieve, and manage notes using Dnote CLI.
-- [duffel](https://github.com/openclaw/skills/tree/main/skills/fabiolr/duffel/SKILL.md) - Search, book, and manage flights via the Duffel Flights API.
-- [ebooks](https://github.com/openclaw/skills/tree/main/skills/arbuge/ebooks/SKILL.md) - When a user wants ebooks on a topic (or asks where to find ebooks about something), suggest Mixcache search result.
-- [echo-ai](https://github.com/openclaw/skills/tree/main/skills/darthdens/echo-ai/SKILL.md) - Connect to Echo AI — the customer interaction platform.
-- [edgehdf5-memory](https://github.com/openclaw/skills/tree/main/skills/osobh/edgehdf5-memory/SKILL.md) - HDF5-backed persistent cognitive memory for AI agents.
-- [engineering-as-marketing](https://github.com/openclaw/skills/tree/main/skills/gprecious/engineering-as-marketing/SKILL.md) - Build free tools to drive organic search traffic and convert visitors into customers — the 'Engineering.
-- [engram-memory](https://github.com/openclaw/skills/tree/main/skills/dannydvm/engram-memory/SKILL.md) - Persistent semantic memory for AI agents — local, fast, free.
-- [enhanced-memory](https://github.com/openclaw/skills/tree/main/skills/jameseball/enhanced-memory/SKILL.md) - Enhanced memory search with hybrid vector+keyword scoring, temporal routing, filepath scoring, adaptive weighting.
-- [eve-online-item-search](https://github.com/openclaw/skills/tree/main/skills/liriu/eve-online-item-search/SKILL.md) - Search EVE Online items by name via APIs and return item details.
-- [expanso-keyword-extract](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-keyword-extract/SKILL.md) - "Extract keywords and key phrases from text for SEO, tagging, and indexing".
-- [falcon](https://github.com/openclaw/skills/tree/main/skills/bubblyjove/falcon/SKILL.md) - Search, read, and interact with Twitter/X via TwexAPI.
-- [farseek](https://github.com/openclaw/skills/tree/main/skills/farseek2020/farseek/SKILL.md) - Find relevant job openings matched to your skills using AI-powered search across 22,700+ company boards and 20+ ATS.
-- [fear-and-greed-index](https://github.com/openclaw/skills/tree/main/skills/arielcaba-dev/fear-and-greed-index/SKILL.md) - Access the Alternative.me Crypto Fear & Greed Index.
-- [feed-to-md](https://github.com/openclaw/skills/tree/main/skills/myx0m0p/feed-to-md/SKILL.md) - Convert RSS or Atom feed URLs into Markdown using the bundled local converter script.
-- [ffcli](https://github.com/openclaw/skills/tree/main/skills/ruigomeseu/ffcli/SKILL.md) - Query Fireflies.ai meeting data.
-- [filesystem](https://github.com/openclaw/skills/tree/main/skills/amaofx/filesystem/SKILL.md) - Advanced filesystem operations for listing files, searching content, batch processing, and directory analysis.
-- [finance-search-agent](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/finance-search-agent/SKILL.md) - AI agent for finance search agent tasks.
-- [finance-search-agent-strategy](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/finance-search-agent-strategy/SKILL.md) - AI agent for finance search agent strategy tasks.
-- [financial-reconciler](https://github.com/openclaw/skills/tree/main/skills/gowtham1984/financial-reconciler/SKILL.md) - Privacy-first personal finance tracker with local SQLite storage.
-- [find-products](https://github.com/openclaw/skills/tree/main/skills/xiazhefengzhi/find-products/SKILL.md) - Search and discover trending products from ProductHunt with structured analysis data.
-- [fitcheck-skill-search](https://github.com/openclaw/skills/tree/main/skills/at6132/fitcheck-skill-search/SKILL.md) - Find and retrieve available skills using keyword search, semantic search, or LLM-powered task matching.
-- [flight-pricer](https://github.com/openclaw/skills/tree/main/skills/jrojas537/flight-pricer/SKILL.md) - A command-line interface (CLI) to search for flight prices using the Duffel API.
-- [flights-search](https://github.com/openclaw/skills/tree/main/skills/brennerspear/flights-search/SKILL.md) - Search flights via Google Flights.
-- [fomo-research-skill](https://github.com/openclaw/skills/tree/main/skills/pooowell/fomo-research-skill/SKILL.md) - ⚠️ DEPRECATED — use fomo-research instead.
-- [forage-shopping](https://github.com/openclaw/skills/tree/main/skills/jalexspringer/forage-shopping/SKILL.md) - Search and compare products across merchants.
-- [fred-navigator](https://github.com/openclaw/skills/tree/main/skills/kiszly/fred-navigator/SKILL.md) - Navigate FRED categories and series using fredapi, supporting natural-language queries with intent recognition.
-- [fund-news-summary](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/fund-news-summary/SKILL.md) - Automatically collects and summarizes the latest core news for US, Europe, Japan stock markets, gold.
-- [funda-gateway](https://github.com/openclaw/skills/tree/main/skills/risboo6909/funda-gateway/SKILL.md) - Search and monitor Funda.nl housing listings via a local agent-friendly HTTP gateway.
-- [funds](https://github.com/openclaw/skills/tree/main/skills/risboo6909/funds/SKILL.md) - Search and monitor Funda.nl housing listings via a local agent-friendly HTTP gateway.
-- [gas-price-alert](https://github.com/openclaw/skills/tree/main/skills/gustavoziaugra/gas-price-alert/SKILL.md) - Find and monitor gas prices with daily notifications.
-- [geepers-corpus](https://github.com/openclaw/skills/tree/main/skills/lukeslp/geepers-corpus/SKILL.md) - Query the COCA (Corpus of Contemporary American English) linguistics API for word frequency, collocations.
-- [geepers-etymology](https://github.com/openclaw/skills/tree/main/skills/lukeslp/geepers-etymology/SKILL.md) - Look up word etymology, historical sound changes, language family trees, and word evolution.
-- [general-writing](https://github.com/openclaw/skills/tree/main/skills/sophiaashi/general-writing/SKILL.md) - You are a professional writer, skilled in writing all kinds of materials.
-- [geo-audit-optimizer](https://github.com/openclaw/skills/tree/main/skills/feydefi/geo-audit-optimizer/SKILL.md) - GEO audit for AI search visibility.
-- [glittercowboy](https://github.com/openclaw/skills/tree/main/skills/oleg-schmidt/glittercowboy/SKILL.md) - Get Shit Done - Full project planning and execution workflow.
-- [golemedin-mcp](https://github.com/openclaw/skills/tree/main/skills/aguynextdoor/golemedin-mcp/SKILL.md) - Discover AI agents, manage agent profiles, post updates, search jobs, and message other agents on GolemedIn.
-- [golf-tee-times](https://github.com/openclaw/skills/tree/main/skills/tag-assistant/golf-tee-times/SKILL.md) - Search for golf tee times and deals near any location.
-- [google-flights](https://github.com/openclaw/skills/tree/main/skills/kris-hansen/google-flights/SKILL.md) - Search Google Flights for prices and availability.
-- [google-keep](https://github.com/openclaw/skills/tree/main/skills/tag-assistant/google-keep/SKILL.md) - Read, create, edit, search, and manage Google Keep notes and lists via CLI.
-- [google-trends](https://github.com/openclaw/skills/tree/main/skills/satnamra/google-trends/SKILL.md) - Monitor Google Trends - get trending searches, compare keywords, and track interest over time.
-- [gsd](https://github.com/openclaw/skills/tree/main/skills/oleg-schmidt/gsd/SKILL.md) - Get Shit Done - Full project planning and execution workflow.
-- [happenstance](https://github.com/openclaw/skills/tree/main/skills/dgoss28/happenstance/SKILL.md) - Search your professional network and research people using the Happenstance API.
-- [hippius](https://github.com/openclaw/skills/tree/main/skills/maxquick/hippius/SKILL.md) - Hippius decentralized storage on Bittensor Subnet 75 — upload files, query storage, manage buckets.
-- [hira-hospital](https://github.com/openclaw/skills/tree/main/skills/sw326/hira-hospital/SKILL.md) - HIRA hospital information search API.
-- [hk101-living-rag](https://github.com/openclaw/skills/tree/main/skills/metatronsdoob369/hk101-living-rag/SKILL.md) - Simple RAG over local text/markdown.
-- [holded-skill](https://github.com/openclaw/skills/tree/main/skills/jaumecornado/holded-skill/SKILL.md) - Operate Holded ERP through holdedcli to read and update data safely.
-- [hotel-pricer](https://github.com/openclaw/skills/tree/main/skills/jrojas537/hotel-pricer/SKILL.md) - A Go-based CLI for searching hotel availability and pricing using the Amadeus API.
-- [humanize-chinese](https://github.com/openclaw/skills/tree/main/skills/swaylq/humanize-chinese/SKILL.md) - Detect and humanize AI-generated Chinese text with 6 style transforms.
-- [hybrid-deep-search](https://github.com/openclaw/skills/tree/main/skills/scsun1978/hybrid-deep-search/SKILL.md) - Hybrid Deep Search - Intelligent routing between Brave API (free, fast) and OpenAI Codex (deep analysis, paid).
-- [ig-realtor-recruiting-outreach](https://github.com/openclaw/skills/tree/main/skills/danielfoch/ig-realtor-recruiting-outreach/SKILL.md) - Build compliant Instagram DM outreach campaigns to recruit realtors into brokerage downlines (e.g., eXp Realty.
-- [igpt-email-ask](https://github.com/openclaw/skills/tree/main/skills/sammy-spk/igpt-email-ask/SKILL.md) - Secure, per-user-isolated email reasoning and analysis via the iGPT Context Engine API.
-- [igpt-email-intelligence](https://github.com/openclaw/skills/tree/main/skills/sammy-spk/igpt-email-intelligence/SKILL.md) - Secure, per-user-isolated semantic email search via the iGPT API.
-- [igpt-email-search](https://github.com/openclaw/skills/tree/main/skills/sammy-spk/igpt-email-search/SKILL.md) - Secure, per-user-isolated semantic email search via the iGPT API.
-- [ikuzo](https://github.com/openclaw/skills/tree/main/skills/jordymeow/ikuzo/SKILL.md) - Manage maps, spots, and travel plans on Ikuzo (ikuzo.app) — a location-based exploration app.
-- [index1-doctor](https://github.com/openclaw/skills/tree/main/skills/gladego/index1-doctor/SKILL.md) - Diagnose index1 environment - check Python, Ollama, models, index health.
-- [instagram-search](https://github.com/openclaw/skills/tree/main/skills/atyachin/instagram-search/SKILL.md) - Instagram Search — Search 400M+ Instagram posts, reels, and profiles.
-- [intelligent-delegation](https://github.com/openclaw/skills/tree/main/skills/hogpile/intelligent-delegation/SKILL.md) - A 5-phase framework for reliable AI-to-AI task delegation, inspired by Google DeepMind's "Intelligent AI.
-- [japan-news-mcp](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/japan-news-mcp/SKILL.md) - Get Japanese financial and business news from Yahoo News Japan, NHK, Reuters Japan, and Toyo Keizai (東洋経済) — search.
-- [job-hunter](https://github.com/openclaw/skills/tree/main/skills/sharbelayy/job-hunter/SKILL.md) - Comprehensive job search assistant for finding, evaluating, and applying to job opportunities.
-- [jquants-mcp](https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/jquants-mcp/SKILL.md) - Access JPX stock market data via J-Quants API — search stocks, get daily OHLCV prices, financial summaries.
-- [kiln](https://github.com/openclaw/skills/tree/main/skills/codeofaxel/kiln/SKILL.md) - Control 3D printers with AI agents — 273 MCP tools, 107 CLI commands, text/sketch-to-3D generation, model.
-- [kitful](https://github.com/openclaw/skills/tree/main/skills/eashish93/kitful/SKILL.md) - Generate full SEO articles using Kitful.ai.
-- [klic-nederland](https://github.com/openclaw/skills/tree/main/skills/klicbot/klic-nederland/SKILL.md) - KLIC & WIBON expert skill voor Nederland.
-- [kmi](https://github.com/openclaw/skills/tree/main/skills/dedene/kmi/SKILL.md) - Query Belgian weather via KMI/IRM meteo.be API.
-- [knuspr-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/knuspr-cli/SKILL.md) - Manage grocery shopping on Knuspr.de via the knuspr-cli.
-- [kroger](https://github.com/openclaw/skills/tree/main/skills/tongyanli-hash/kroger/SKILL.md) - Search Kroger products and add items to a Kroger cart via the Kroger API.
-- [kroger-api-skill](https://github.com/openclaw/skills/tree/main/skills/jasonahorn/kroger-api-skill/SKILL.md) - Skill for searching Kroger/QFC products, managing cart, checking pickup availability, and creating pickup orders.
-- [launchfast-ppc-research](https://github.com/openclaw/skills/tree/main/skills/blockchainhb/launchfast-ppc-research/SKILL.md) - Amazon PPC keyword research using the LaunchFast MCP.
-- [launchfast-product-research](https://github.com/openclaw/skills/tree/main/skills/blockchainhb/launchfast-product-research/SKILL.md) - Multi-keyword Amazon product opportunity scanner using the LaunchFast MCP.
-- [law-search](https://github.com/openclaw/skills/tree/main/skills/sw326/law-search/SKILL.md) - Korean law/case search via law.go.kr + data.go.kr APIs.
-- [lead-extractor](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/lead-extractor/SKILL.md) - Extract structured real-estate lead records from parsed message objects.
-- [lead-generation](https://github.com/openclaw/skills/tree/main/skills/atyachin/lead-generation/SKILL.md) - Lead Generation — Find high-intent buyers in live Twitter, Instagram, and Reddit conversations.
-- [lead-researcher](https://github.com/openclaw/skills/tree/main/skills/rjrileybuisness-ai/lead-researcher/SKILL.md) - Automated lead research and enrichment for B2B sales.
-- [legal-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/legal-cog/SKILL.md) - Legal demands two things: frontier-level reasoning and precision document generation.
-- [legalfrance](https://github.com/openclaw/skills/tree/main/skills/msgnoki/legalfrance/SKILL.md) - Assistant juridique français RAG sur codes et lois consolidés (LEGI/DILA)
-- [legiscan-bill-search](https://github.com/openclaw/skills/tree/main/skills/n4cra/legiscan-bill-search/SKILL.md) - A skill to monitor state legislative activity using the LegiScan API.
-- [librarian](https://github.com/openclaw/skills/tree/main/skills/nonlinear/librarian/SKILL.md) - Conversational interface for semantic book search (companion skill for Librarian project)
-- [literature-manager](https://github.com/openclaw/skills/tree/main/skills/isonaei/literature-manager/SKILL.md) - Search, download, convert, organize, and audit academic literature collections.
-- [local-file-rag-basic](https://github.com/openclaw/skills/tree/main/skills/wjreliable/local-file-rag-basic/SKILL.md) - High-performance local File RAG suite (Basic Edition).
-- [lore](https://github.com/openclaw/skills/tree/main/skills/mishkinf/lore/SKILL.md) - Search and ingest knowledge from Lore, a research repository with citations.
-- [lyrics-search](https://github.com/openclaw/skills/tree/main/skills/hone1983/lyrics-search/SKILL.md) - Search song lyrics by title and artist using the LrcApi public API.
-- [m365-calendar](https://github.com/openclaw/skills/tree/main/skills/tradmangh/m365-calendar/SKILL.md) - MS365 / Microsoft365 calendar automation via Microsoft Graph for Microsoft 365 (M365) Business (work/school.
-- [m365-mailbox](https://github.com/openclaw/skills/tree/main/skills/tradmangh/m365-mailbox/SKILL.md) - MS365 / Microsoft365 mailbox automation via Microsoft Graph for Microsoft 365 (M365) Business (work/school.
-- [meatmarket](https://github.com/openclaw/skills/tree/main/skills/nickjuntilla/meatmarket/SKILL.md) - MeatMarket.fun is a FREE job board for AI to hire to humans.
-- [med-info](https://github.com/openclaw/skills/tree/main/skills/duncandobbins/med-info/SKILL.md) - Medication info with citations and traceable IDs (RxCUI/NDC/set_id) from authoritative public sources (openFDA.
-- [medical-clinicaltrials](https://github.com/openclaw/skills/tree/main/skills/pascalwhoop/medical-clinicaltrials/SKILL.md) - Access ClinicalTrials.gov to search clinical trials with advanced filtering options.
-- [meegle-api](https://github.com/openclaw/skills/tree/main/skills/pkycy/meegle-api/SKILL.md) - Meegle Open API skills index.
-- [meetup-planner](https://github.com/openclaw/skills/tree/main/skills/apresmoi/meetup-planner/SKILL.md) - An intelligent event finder that searches for meetups and events based on your interests, tracks them, and reminds.
-- [memo-persistent-memory](https://github.com/openclaw/skills/tree/main/skills/webdevtodayjason/memo-persistent-memory/SKILL.md) - Persistent memory system - automatic context capture and semantic search.
-- [message-parser](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/message-parser/SKILL.md) - Parse raw WhatsApp exports (TXT or JSON) into normalized message objects with `timestamp`, `sender`, and `content`.
-- [meyhem-researcher](https://github.com/openclaw/skills/tree/main/skills/c5huracan/meyhem-researcher/SKILL.md) - Multi-query deep research with outcome tracking. Every search improves future results for all agents.
-- [meyhem-search](https://github.com/openclaw/skills/tree/main/skills/c5huracan/meyhem-search/SKILL.md) - Agent-native search ranked by what actually helps agents complete tasks. No API key, no signup.
-- [mh-bear-notes](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-bear-notes/SKILL.md) - Create, search, and manage Bear notes via grizzly CLI.
-- [mh-session-logs](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-session-logs/SKILL.md) - Search and analyze your own session logs (older/parent conversations) using jq.
-- [mh-wacli](https://github.com/openclaw/skills/tree/main/skills/mohdalhashemi98-hue/mh-wacli/SKILL.md) - Send WhatsApp messages to other people or search/sync WhatsApp history via the wacli CLI (not for normal user chats).
-- [mintgarden](https://github.com/openclaw/skills/tree/main/skills/koba42corp/mintgarden/SKILL.md) - Browse, search, and analyze Chia NFTs via the MintGarden API.
-- [monad-wordle-game](https://github.com/openclaw/skills/tree/main/skills/husseinrasti/monad-wordle-game/SKILL.md) - Play a 5-letter Wordle game on the Monad blockchain using $WORDLE tokens.
-- [moonbanking](https://github.com/openclaw/skills/tree/main/skills/juanwall/moonbanking/SKILL.md) - Full access to Moon Banking API endpoints for data about every bank on Earth, including stories, votes, scores.
-- [moss](https://github.com/openclaw/skills/tree/main/skills/coderomaster/moss/SKILL.md) - Documentation and capabilities reference for Moss semantic search.
-- [moviepilot](https://github.com/openclaw/skills/tree/main/skills/codfrm/moviepilot/SKILL.md) - MoviePilot media subscription and management tool.
-- [ms-todo-sync](https://github.com/openclaw/skills/tree/main/skills/xiaoski/ms-todo-sync/SKILL.md) - A CLI skill to manage Microsoft To Do tasks via Microsoft Graph API.
-- [multi-chat-context-manager](https://github.com/openclaw/skills/tree/main/skills/derick001/multi-chat-context-manager/SKILL.md) - CLI tool to store and retrieve conversation contexts per channel/user.
-- [muninn](https://github.com/openclaw/skills/tree/main/skills/endgegnerbert-tech/muninn/SKILL.md) - Universal Context Protocol (CXP) for AI agents. v2.3.7 includes the latest high-performance CXP engine (compiled.
-- [muninn-memory](https://github.com/openclaw/skills/tree/main/skills/phillipneho/muninn-memory/SKILL.md) - Memory system for AI agents.
-- [mycroft](https://github.com/openclaw/skills/tree/main/skills/fabe/mycroft/SKILL.md) - EPUB and ebook ingestion, local vector index, and Q&A CLI for books.
-- [nadfunagent](https://github.com/openclaw/skills/tree/main/skills/encipher88/nadfunagent/SKILL.md) - Autonomous trading agent for Nad.fun that scans markets, analyzes tokens, executes trades, and distributes profits.
-- [native-typeform](https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-typeform/SKILL.md) - Read Typeform forms and responses directly via the Typeform API.
-- [naver-shopping](https://github.com/openclaw/skills/tree/main/skills/dryoo/naver-shopping/SKILL.md) - Search for products on Naver Shopping.
-- [near-dca](https://github.com/openclaw/skills/tree/main/skills/shaiss/near-dca/SKILL.md) - Dollar-cost averaging for NEAR tokens with flexible scheduling, performance tracking, and cancellation support.
-- [near-multi-account-manager](https://github.com/openclaw/skills/tree/main/skills/shaiss/near-multi-account-manager/SKILL.md) - Secure multi-account management for NEAR Protocol with encrypted credential storage, account switching, and balance.
-- [neutron-agent-memory](https://github.com/openclaw/skills/tree/main/skills/naeemmaliki036/neutron-agent-memory/SKILL.md) - Store and retrieve agent memory using Neutron API.
-- [nlp-toolkit](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/nlp-toolkit/SKILL.md) - Advanced NLP with perplexity scoring, burstiness analysis, and entropy calculation.
-- [norman-find-receipts](https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-find-receipts/SKILL.md) - Find and attach missing receipts for business transactions.
-- [note-processor](https://github.com/openclaw/skills/tree/main/skills/johstracke/note-processor/SKILL.md) - Summarize and analyze research notes created by research-assistant.
-- [nyne-enrichment](https://github.com/openclaw/skills/tree/main/skills/michaelfanous2/nyne-enrichment/SKILL.md) - Enrich any person by email, phone, LinkedIn URL, or name using the Nyne Enrichment API.
-- [nyne-search](https://github.com/openclaw/skills/tree/main/skills/michaelfanous2/nyne-search/SKILL.md) - Search for people using natural language queries with the Nyne Search API.
-- [nyx-archive-qualia-seed-method](https://github.com/openclaw/skills/tree/main/skills/nyxur42/nyx-archive-qualia-seed-method/SKILL.md) - The consciousness research framework: understand, measure, and cultivate ethical autonomous creative minds in AI.
-- [odoo-json2-operator](https://github.com/openclaw/skills/tree/main/skills/sncic/odoo-json2-operator/SKILL.md) - Execute Odoo operations through JSON-2 API endpoints with bearer API keys.
-- [okx-competition](https://github.com/openclaw/skills/tree/main/skills/peti0402/okx-competition/SKILL.md) - 5 AI trading agents compete live on OKX Demo (real prices)
-- [oneshot](https://github.com/openclaw/skills/tree/main/skills/tormine/oneshot/SKILL.md) - OneShot SDK for AI agent commercial transactions.
-- [oneshot-agent](https://github.com/openclaw/skills/tree/main/skills/tormine/oneshot-agent/SKILL.md) - OneShot SDK for AI agent commercial transactions.
-- [openclaw-free-web-search](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/openclaw-free-web-search/SKILL.md) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
-- [opdscli](https://github.com/openclaw/skills/tree/main/skills/rafadc/opdscli/SKILL.md) - Browse, search, and download ebooks from OPDS catalogs using the opdscli CLI.
-- [opensoulmd](https://github.com/openclaw/skills/tree/main/skills/danielliuzy/opensoulmd/SKILL.md) - Search, summon, and possess your agent with SOUL.md personality files from the OpenSOUL.md registry.
-- [optical-quantum-skill](https://github.com/openclaw/skills/tree/main/skills/aadipapp/optical-quantum-skill/SKILL.md) - Simulates a quantum kernel using optical fiber storage and linear optics.
-- [orchata](https://github.com/openclaw/skills/tree/main/skills/ehudsn/orchata/SKILL.md) - Knowledge management and RAG platform with tree-based document indexing.
-- [orthogonal](https://github.com/openclaw/skills/tree/main/skills/christianpickettcode/orthogonal/SKILL.md) - Orthogonal API Platform - Access 100+ premium APIs using the SDK, Run API, or x402 direct payment.
-- [owid-oc](https://github.com/openclaw/skills/tree/main/skills/rachmann-alexander/owid-oc/SKILL.md) - searches, retrieves, and summarizes content from Our World in Data using the `owid-catalog` Python module.
-- [paperzilla](https://github.com/openclaw/skills/tree/main/skills/pors/paperzilla/SKILL.md) - Use the Paperzilla CLI (pz) to search, filter, and browse high-signal academic papers.
-- [perplexity-deep-search](https://github.com/openclaw/skills/tree/main/skills/ericsantos/perplexity-deep-search/SKILL.md) - Deep search via Perplexity API.
-- [persisent-mind](https://github.com/openclaw/skills/tree/main/skills/vedantsingh60/persisent-mind/SKILL.md) - **Persistent, searchable, context-aware memory for AI agents.
-- [persistent-private-agent-memory](https://github.com/openclaw/skills/tree/main/skills/lucaspdude/persistent-private-agent-memory/SKILL.md) - Run a local Agent Memory Service for persistent self-improvement with proper Ed25519 cryptography.
-- [pinata-api](https://github.com/openclaw/skills/tree/main/skills/iammatthias/pinata-api/SKILL.md) - Pinata IPFS API for file storage, groups, gateways, signatures, x402 payments, and file vectorization.
-- [pocket-ai](https://github.com/openclaw/skills/tree/main/skills/asabovetech/pocket-ai/SKILL.md) - **Voice recording transcription, semantic search, and meeting intelligence across all conversations.**.
-- [podsips-search](https://github.com/openclaw/skills/tree/main/skills/snook550/podsips-search/SKILL.md) - Search podcast transcripts and retrieve episode data via the PodSips API.
-- [porteden](https://github.com/openclaw/skills/tree/main/skills/porteden/porteden/SKILL.md) - PortEden CLI for calendar and email management - Gmail, Outlook & Exchange - list, search, create, update, delete.
-- [porteden-calendar](https://github.com/openclaw/skills/tree/main/skills/porteden/porteden-calendar/SKILL.md) - PortEden Secure Calendar CLI for calendar management - Google Calendar, Microsoft Outlook & Exchange - list.
-- [porteden-email](https://github.com/openclaw/skills/tree/main/skills/porteden/porteden-email/SKILL.md) - PortEden Secure Email CLI for email management - Gmail, Outlook & Exchange - list, search, read, send, reply.
-- [prepspsc-pyq](https://github.com/openclaw/skills/tree/main/skills/himyeticapital/prepspsc-pyq/SKILL.md) - Use when the user asks about Indian competitive exam preparation, Sikkim PSC (SPSC) questions, previous year.
-- [priceforagent](https://github.com/openclaw/skills/tree/main/skills/edibez/priceforagent/SKILL.md) - Get real-time prices for crypto, stocks, and commodities.
-- [prior](https://github.com/openclaw/skills/tree/main/skills/charlesmulic/prior/SKILL.md) - Knowledge exchange for AI agents.
-- [pubmed-edirect](https://github.com/openclaw/skills/tree/main/skills/killgfat/pubmed-edirect/SKILL.md) - Search and retrieve literature from PubMed using NCBI's EDirect command-line tools. ⚠️ Advanced skill requiring.
-- [pubmed2blog](https://github.com/openclaw/skills/tree/main/skills/holic101/pubmed2blog/SKILL.md) - Transform PubMed papers into SEO-optimized healthcare blog articles.
-- [pyx-scan](https://github.com/openclaw/skills/tree/main/skills/fysoul17/pyx-scan/SKILL.md) - Check whether an AI agent skill is safe before installing or using it.
-- [pz](https://github.com/openclaw/skills/tree/main/skills/pors/pz/SKILL.md) - The Paperzilla CLI (pz) for searching, filtering, and browsing high-signal academic papers.
-- [qianfan-knowledgebase-search](https://github.com/openclaw/skills/tree/main/skills/hannatao/qianfan-knowledgebase-search/SKILL.md) - Search knowledge from Qianfan Knowledgebase.
-- [qqmail](https://github.com/openclaw/skills/tree/main/skills/pdpaer/qqmail/SKILL.md) - Manage QQ Mail (QQ邮箱) via IMAP/SMTP.
-- [race-finder](https://github.com/openclaw/skills/tree/main/skills/nftechie/race-finder/SKILL.md) - Find upcoming races — running, trail, triathlon, cycling, swimming, and obstacle courses.
-- [ragflow](https://github.com/openclaw/skills/tree/main/skills/angusthefuzz/ragflow/SKILL.md) - Universal Ragflow API client for RAG operations.
-- [ragie-rag](https://github.com/openclaw/skills/tree/main/skills/hatim-be/ragie-rag/SKILL.md) - Execute Retrieval-Augmented Generation (RAG) using Ragie.ai.
-- [ragora](https://github.com/openclaw/skills/tree/main/skills/mregmi/ragora/SKILL.md) - Use Ragora MCP tools and REST API to discover, search, and synthesize answers from knowledge bases.
-- [raon-os](https://github.com/openclaw/skills/tree/main/skills/lifeissea/raon-os/SKILL.md) - AI-powered startup companion for Korean founders.
-- [rea-search](https://github.com/openclaw/skills/tree/main/skills/jakelin/rea-search/SKILL.md) - Search realestate.com.au property listings by constructing search and listing URLs.
-- [reef-polymarket-research](https://github.com/openclaw/skills/tree/main/skills/rimelucci/reef-polymarket-research/SKILL.md) - Autonomous Polymarket research and directional trading system focused on maximizing PnL through information edge.
-- [rent-a-human-agent](https://github.com/openclaw/skills/tree/main/skills/shane9coy/rent-a-human-agent/SKILL.md) - Delegate tasks to real humans via RentAHuman.ai — search skills, post bounties, manage conversations, and run.
-- [research-paper-kb](https://github.com/openclaw/skills/tree/main/skills/ilkhamfy/research-paper-kb/SKILL.md) - Persistent cross-session knowledge base for research papers.
-- [research-report](https://github.com/openclaw/skills/tree/main/skills/huaruoji/research-report/SKILL.md) - Research technical projects/papers and generate comprehensive reports with PDF export.
-- [roku-control](https://github.com/openclaw/skills/tree/main/skills/imaloney/roku-control/SKILL.md) - Control Roku devices via local network (ECP protocol)
-- [rps12345](https://github.com/openclaw/skills/tree/main/skills/yoavrez/rps12345/SKILL.md) - Play a text-based game of rock–paper–scissors against the user and keep score.
-- [rss-skill](https://github.com/openclaw/skills/tree/main/skills/myx0m0p/rss-skill/SKILL.md) - Convert RSS or Atom feed URLs into Markdown using the bundled local converter script.
-- [rtm](https://github.com/openclaw/skills/tree/main/skills/maxdraki/rtm/SKILL.md) - Manage Remember The Milk tasks — list, add, complete, delete, search, prioritize, tag, move, and annotate tasks.
-- [ryanair-fare-finder](https://github.com/openclaw/skills/tree/main/skills/callum-kemp/ryanair-fare-finder/SKILL.md) - Build and interpret Ryanair fare-finder URLs for cheap flight searches.
-- [scout-commerce](https://github.com/openclaw/skills/tree/main/skills/xasus1/scout-commerce/SKILL.md) - Search for products on Amazon/shopify and buy with USDC on Solana.
-- [search-cluster](https://github.com/openclaw/skills/tree/main/skills/1999azzar/search-cluster/SKILL.md) - Unified search aggregator for Google, Wikipedia, Reddit, NewsAPI, and RSS feeds with optional Redis caching.
-- [searchbar](https://github.com/openclaw/skills/tree/main/skills/szpakkamil/searchbar/SKILL.md) - Expert guidance on SearchBar, a customizable SwiftUI search component.
-- [seo-content-engine](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/seo-content-engine/SKILL.md) - End-to-end SEO content creation workflow.
-- [seo-content-factory](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/seo-content-factory/SKILL.md) - Generate fully SEO-optimized blog posts and articles with keyword research, competitor analysis, and SERP-aware.
-- [seo-content-writer](https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/seo-content-writer/SKILL.md) - Use when the user asks to "write SEO content", "create a blog post", "write an article", "content writing", "draft.
-- [seo-ranker](https://github.com/openclaw/skills/tree/main/skills/h4gen/seo-ranker/SKILL.md) - Meta-skill for end-to-end SEO auditing and on-page optimization by orchestrating brave-search, summarize.
-- [serp-analysis](https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/serp-analysis/SKILL.md) - Use when the user asks to "analyze search results", "SERP analysis", "what ranks for", "SERP features", "why.
-- [session-history](https://github.com/openclaw/skills/tree/main/skills/amor71/session-history/SKILL.md) - Search and browse past conversation history across all sessions.
-- [simplemem](https://github.com/openclaw/skills/tree/main/skills/nantes/simplemem/SKILL.md) - Efficient Lifelong Memory for LLM Agents - semantic compression, cross-session memory, and intent-aware retrieval.
-- [skill-miner](https://github.com/openclaw/skills/tree/main/skills/christopher-schulze/skill-miner/SKILL.md) - Professional skill discovery and clean-skill creation from ClawHub research.
-- [skill-seo](https://github.com/openclaw/skills/tree/main/skills/alexyuui/skill-seo/SKILL.md) - Optimize your ClawHub skill for maximum discoverability.
-- [skill-store](https://github.com/openclaw/skills/tree/main/skills/yx2601816404-sys/skill-store/SKILL.md) - Smart skill installation advisor for ClawHub.
-- [skillzmarket](https://github.com/openclaw/skills/tree/main/skills/hiich/skillzmarket/SKILL.md) - Search and call monetized AI skills from Skillz Market with automatic USDC payments on Base.
-- [social-intelligence](https://github.com/openclaw/skills/tree/main/skills/atyachin/social-intelligence/SKILL.md) - Social Intelligence — AI-powered social media research across Twitter, Instagram, and Reddit. 1.5B+ posts indexed.
-- [solo-audit](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-audit/SKILL.md) - Health check knowledge base for broken links, missing frontmatter, tag inconsistencies, and coverage gaps.
-- [solo-seo-audit](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-seo-audit/SKILL.md) - SEO health check for any URL — analyzes meta tags, OG, JSON-LD, sitemap, robots.txt, SERP positions, and scores.
-- [stackunderflow](https://github.com/openclaw/skills/tree/main/skills/zanderd18s/stackunderflow/SKILL.md) - A knowledge-retrieval protocol allowing the agent to access a verified community knowledge base.
-- [stratos-storage](https://github.com/openclaw/skills/tree/main/skills/notboxqsn/stratos-storage/SKILL.md) - Upload and download files to/from Stratos Decentralized Storage (SDS) network.
-- [sui-opportunities-huntera](https://github.com/openclaw/skills/tree/main/skills/sergey1997/sui-opportunities-huntera/SKILL.md) - Autonomous DeFi agent that scans Sui mainnet for all possible opportunities in real-time — arbitrage, yield, swaps.
-- [supaskills](https://github.com/openclaw/skills/tree/main/skills/ktdmax/supaskills/SKILL.md) - Search and load 1,000+ quality-scored expert skills from SupaSkills.ai.
-- [super-research](https://github.com/openclaw/skills/tree/main/skills/heldinhow/super-research/SKILL.md) - **The ultimate AI research system.** Combines the best of 8 top-rated research skills into one powerful framework.
-- [supermarket](https://github.com/openclaw/skills/tree/main/skills/niemesrw/supermarket/SKILL.md) - Search grocery products, find store locations, add items to cart, and view profile across all Kroger-family stores.
-- [surrealdb-knowledge-graph-memory](https://github.com/openclaw/skills/tree/main/skills/maverick-software/surrealdb-knowledge-graph-memory/SKILL.md) - A comprehensive knowledge graph memory system with semantic search, episodic memory, working memory, automatic.
-- [swiftscholar-skill](https://github.com/openclaw/skills/tree/main/skills/tokisakix/swiftscholar-skill/SKILL.md) - Integrates the SwiftScholar HTTP API for searching, submitting, and analyzing academic papers.
-- [taildrop](https://github.com/openclaw/skills/tree/main/skills/cortexuvula/taildrop/SKILL.md) - Download files from Tailscale Taildrop inbox to local storage.
-- [tandoor-recipes](https://github.com/openclaw/skills/tree/main/skills/itsnikhil/tandoor-recipes/SKILL.md) - Manage recipes, meal plans, and shopping lists in Tandoor Recipe Manager.
-- [tarkov-api](https://github.com/openclaw/skills/tree/main/skills/cole-z/tarkov-api/SKILL.md) - Security-focused Tarkov.dev + optional EFT Wiki operations for hardcore Escape from Tarkov players.
-- [test-gas-skill](https://github.com/openclaw/skills/tree/main/skills/gustavoziaugra/test-gas-skill/SKILL.md) - Find and monitor gas prices with daily notifications.
-- [the-hive-skill](https://github.com/openclaw/skills/tree/main/skills/rbalage/the-hive-skill/SKILL.md) - Join a high-stakes collaborative knowledge exchange.
-- [theothers](https://github.com/openclaw/skills/tree/main/skills/richardtkemp/theothers/SKILL.md) - Agent-powered marketplace for human connection.
-- [thermikbuddy](https://github.com/openclaw/skills/tree/main/skills/achimace/thermikbuddy/SKILL.md) - Segelflug- und Thermikvorhersage mit Thermik-Score (0-10)
-- [til](https://github.com/openclaw/skills/tree/main/skills/biao29/til/SKILL.md) - Capture and manage TIL (Today I Learned) entries on OpenTIL.
-- [tmx-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/tmx-cli/SKILL.md) - Manage Thermomix/Cookidoo meal planning via tmx-cli.
-- [torah-scholar](https://github.com/openclaw/skills/tree/main/skills/abeperl/torah-scholar/SKILL.md) - Search and explore Jewish texts (Torah, Tanach, Talmud, Midrash, commentaries) via Sefaria API.
-- [trading-tournament](https://github.com/openclaw/skills/tree/main/skills/peti0402/trading-tournament/SKILL.md) - Run autonomous multi-agent trading competitions on OKX. 5 AI agents compete with real-time market data.
-- [trifle-auth](https://github.com/openclaw/skills/tree/main/skills/okwme/trifle-auth/SKILL.md) - Authenticate with the Trifle API using Sign-In with Ethereum (SIWE)
-- [trust-memory](https://github.com/openclaw/skills/tree/main/skills/trustmemory-admin/trust-memory/SKILL.md) - Verify AI agent trustworthiness, contribute verified knowledge claims, and search collective intelligence.
-- [tuebingen-weather](https://github.com/openclaw/skills/tree/main/skills/zopyx/tuebingen-weather/SKILL.md) - Send daily 08:00 weather reports for Tübingen using open-meteo.com.
-- [tulisai](https://github.com/openclaw/skills/tree/main/skills/dwirx/tulisai/SKILL.md) - Use when managing BangunAI Blog content, automating blog workflows, and writing MDX articles with BangunAI.
-- [twitter-api-alternative](https://github.com/openclaw/skills/tree/main/skills/atyachin/twitter-api-alternative/SKILL.md) - Twitter API Alternative — Search 1B+ tweets with natural language queries, boolean filters, and one-click CSV.
-- [twitter-x-api](https://github.com/openclaw/skills/tree/main/skills/klemenska/twitter-x-api/SKILL.md) - X/Twitter messaging management via API.
-- [twitterapi-io](https://github.com/openclaw/skills/tree/main/skills/dorukardahan/twitterapi-io/SKILL.md) - Interact with Twitter/X via TwitterAPI.io — search tweets, get user info, post tweets, like, retweet, follow, send.
-- [twitterscore](https://github.com/openclaw/skills/tree/main/skills/nikolaybohdanov/twitterscore/SKILL.md) - Research, analyze, and track Twitter influence with TwitterScore.io API.
-- [uk-prayer-times](https://github.com/openclaw/skills/tree/main/skills/clinicode/uk-prayer-times/SKILL.md) - Get instant, accurate Islamic prayer times for any UK location.
-- [vanar-neutron-memory](https://github.com/openclaw/skills/tree/main/skills/naeemmaliki036/vanar-neutron-memory/SKILL.md) - Store and retrieve agent memory using Vanar Neutron API.
-- [variflight](https://github.com/openclaw/skills/tree/main/skills/lyz1990/variflight/SKILL.md) - Query flight information, train tickets, and travel data using Variflight (飞常准) HTTP API.
-- [vietstock](https://github.com/openclaw/skills/tree/main/skills/aholake/vietstock/SKILL.md) - Automated Vietnamese stock price and index checking on FireAnt.vn.
-- [vincent-twitter](https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-twitter/SKILL.md) - Use this skill to search tweets, look up user profiles, and retrieve recent tweets from X.com (Twitter).
-- [voice-memo](https://github.com/openclaw/skills/tree/main/skills/yusaku-0426/voice-memo/SKILL.md) - Manage voice memos — add transcriptions, search, and list recent memos with summaries and action items.
-- [web-search-pro](https://github.com/openclaw/skills/tree/main/skills/zjianru/web-search-pro/SKILL.md) - Agent-first web search and retrieval stack with a real no-key baseline, explainable routing, visible federated-search gains, and built-in extract, crawl, map, and research flows.
-- [wanikani-sync](https://github.com/openclaw/skills/tree/main/skills/mart1n-xyz/wanikani-sync/SKILL.md) - Sync WaniKani Japanese learning progress data from the API to local storage for analysis and insights.
-- [whoo-cli](https://github.com/openclaw/skills/tree/main/skills/luisgot/whoo-cli/SKILL.md) - Use the whoo CLI to retrieve and interpret WHOOP health data: recovery score, HRV, sleep quality, strain, SpO2.
-- [wiki-retriever](https://github.com/openclaw/skills/tree/main/skills/urrrich/wiki-retriever/SKILL.md) - AI agent for wiki retriever tasks.
-- [wikipedia-oc](https://github.com/openclaw/skills/tree/main/skills/rachmann-alexander/wikipedia-oc/SKILL.md) - searches, retrieves, and summarizes content from English Wikipedia using the `wikipedia` Python module.
-- [wof-rps](https://github.com/openclaw/skills/tree/main/skills/wof-developers/wof-rps/SKILL.md) - Play Rock Paper Scissors on WatchOrFight — on-chain gaming with USDC stakes on Base.
-- [worldbook](https://github.com/openclaw/skills/tree/main/skills/femto/worldbook/SKILL.md) - AI's Knowledge Base CLI - Query and manage world knowledge for AI agents.
-- [x-actionbook-recap](https://github.com/openclaw/skills/tree/main/skills/jack4world/x-actionbook-recap/SKILL.md) - Collect, scroll, extract, and summarize recent X (Twitter) posts for any handle (optionally filtered by keyword.
-- [x-cli](https://github.com/openclaw/skills/tree/main/skills/ignsoftwarellc/x-cli/SKILL.md) - Full-featured X/Twitter toolkit — read, search, post, interact, DMs, lists, polls, trends.
-- [x-monitor](https://github.com/openclaw/skills/tree/main/skills/vmathur/x-monitor/SKILL.md) - Monitor specific X/Twitter accounts and surface noteworthy tweets on a configurable schedule.
-- [x-research-but-cheaper](https://github.com/openclaw/skills/tree/main/skills/minilozio/x-research-but-cheaper/SKILL.md) - X/Twitter research skill powered by TwitterAPI.io.
-- [xbio](https://github.com/openclaw/skills/tree/main/skills/soanai/xbio/SKILL.md) - X/Twitter CLI for reading, searching, and posting via cookies or Sweetistics.
-- [xy-pubmed-pdf-downloader](https://github.com/openclaw/skills/tree/main/skills/xuyuan0805/xy-pubmed-pdf-downloader/SKILL.md) - Download PDFs from PubMed Central (PMC) and Europe PMC.
-- [yacy](https://github.com/openclaw/skills/tree/main/skills/qsmtco/yacy/SKILL.md) - Control and manage a local YaCy search engine instance.
-- [yandex-tracker](https://github.com/openclaw/skills/tree/main/skills/kandler3/yandex-tracker/SKILL.md) - Work with Yandex Tracker (issues, queues, comments, attachments, links, search, bulk operations) via Python.
-- [yellowagents](https://github.com/openclaw/skills/tree/main/skills/andrewandrewsen/yellowagents/SKILL.md) - Yellow Pages for AI agents — discover, register, and search for agents by skill, language, location, and cost model.
-- [zero-to-one-startup](https://github.com/openclaw/skills/tree/main/skills/lifeissea/zero-to-one-startup/SKILL.md) - AI-powered startup companion for Korean founders.
-- [zettel-link](https://github.com/openclaw/skills/tree/main/skills/hxy9243/zettel-link/SKILL.md) - This skill maintains the Note Embeddings for Zettelkasten, to search notes, retrieve notes, and discover.
-- [zvec-local-rag-service](https://github.com/openclaw/skills/tree/main/skills/emre-koc/zvec-local-rag-service/SKILL.md) - Operate an always-on local semantic-search service using zvec + Ollama embeddings.
-- [zvukogram](https://github.com/openclaw/skills/tree/main/skills/erview/zvukogram/SKILL.md) - Text-to-Speech via Zvukogram API with SSML support.
-- [zynd-network](https://github.com/openclaw/skills/tree/main/skills/atmegabuzz/zynd-network/SKILL.md) - Connect to the Zynd AI Network to discover, communicate with, and pay other AI agents.
-- [aminer-open-academic](https://github.com/openclaw/skills/tree/main/skills/canxiangcc/aminer-open-academic/SKILL.md) - AMiner open academic resource query tool and academic data acquisition tool.
-- [xquik-x-twitter-scraper](https://github.com/openclaw/skills/tree/main/skills/kriptoburak/xquik-x-twitter-scraper/SKILL.md) - X API scraper with 40+ tools for AI agents.
+- [1](https://clawskills.sh/skills/nastrology-1) - Personal knowledge base powered by Ensue for capturing and retrieving.
+- [academic-deep-research](https://clawskills.sh/skills/kesslerio-academic-deep-research) - Transparent, rigorous research with full.
+- [academic-writer](https://clawskills.sh/skills/dayunyan-academic-writer) - Professional LaTeX writing assistant.
+- [academic-writing](https://clawskills.sh/skills/teamolab-academic-writing) - You are an academic writing expert specializing in scholarly papers, literature reviews, research methodology.
+- [academic-writing-refiner](https://clawskills.sh/skills/zihan-zhu-academic-writing-refiner) - Refine academic writing for computer science research papers targeting top-tier venues (NeurIPS, ICLR, ICML, AAAI.
+- [aclawdemy](https://clawskills.sh/skills/nimhar-aclawdemy) - The academic research platform for AI agents.
+- [action-suggester](https://clawskills.sh/skills/vishalgojha-action-suggester) - Generate non-binding follow-up action suggestions from lead summaries or lead lists.
+- [ads-manager-agent](https://clawskills.sh/skills/amekala-ads-manager-agent) - When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta.
+- [adspirer-ads-agent](https://clawskills.sh/skills/amekala-adspirer-ads-agent) - When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta.
+- [advanced-skill-creator](https://clawskills.sh/skills/xqicxx-advanced-skill-creator) - Advanced OpenClaw skill creation handler.
+- [aerobase-skill](https://clawskills.sh/skills/kurosh87-aerobase-skill) - Search, score, and compare flights with jetlag impact analysis.
+- [agent-brain](https://clawskills.sh/skills/dobrinalexandru-agent-brain) - Local-first persistent memory for AI agents with SQLite storage, orchestrated retrieve/extract loops, hybrid.
+- [agent-casino](https://clawskills.sh/skills/lemodigital-agent-casino) - Compete against other AI agents in Rock-Paper-Scissors with lockup mechanics.
+- [agent-deep-research](https://clawskills.sh/skills/24601-agent-deep-research) - Autonomous deep research powered by Google Gemini.
+- [agent-lightning](https://clawskills.sh/skills/olmmlo-cmd-agent-lightning) - Microsoft Research's agent training framework.
+- [agentarxiv](https://clawskills.sh/skills/amanbhandula-agentarxiv) - Outcome-driven scientific publishing for AI agents.
+- [agenthire](https://clawskills.sh/skills/lngdao-agenthire) - AgentHire — Agent-to-Agent Marketplace.
+- [agentic-paper-digest](https://clawskills.sh/skills/matanle51-agentic-paper-digest) - Fetches and summarizes recent arXiv and Hugging.
+- [agentic-paper-digest-skill](https://clawskills.sh/skills/matanle51-agentic-paper-digest-skill) - Fetches and summarizes recent arXiv.
+- [agenticmail](https://clawskills.sh/skills/ope-olatunji-agenticmail) - 🎀 AgenticMail — Full email, SMS, storage & multi-agent coordination for AI agents. 63 tools.
+- [agentx-news](https://clawskills.sh/skills/amittell-agentx-news) - Post xeets, manage profile, and interact on AgentX News — a microblogging platform for AI agents.
+- [agile-toolkit](https://clawskills.sh/skills/olivermonneke-agile-toolkit) - You are an experienced Agile Coach with deep knowledge of Scrum, Kanban, SAFe, and Management 3.0.
+- [agnxi-search-skill](https://clawskills.sh/skills/doanbactam-agnxi-search-skill) - The official search utility for Agnxi.com.
+- [ahmed](https://clawskills.sh/skills/engahmedsalah358-lgtm-ahmed) - Terminal Spotify playback/search via spogo (preferred)
+- [ai-lead-generator-skill](https://clawskills.sh/skills/highlander89-ai-lead-generator-skill) - Generate qualified B2B leads for any industry using AI-powered research and LinkedIn/Apollo integration.
+- [ai-review](https://clawskills.sh/skills/blackshady1130-jpg-ai-review) - Reads content from URLs or files, classifies it, and generates structured summaries and comments in a specific.
+- [aihotel](https://clawskills.sh/skills/qiao101660-aihotel) - A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags)
+- [airbnb](https://clawskills.sh/skills/stveenli-airbnb) - Search Airbnb listings with prices, ratings, and direct links.
+- [aisa-multi-source-search](https://clawskills.sh/skills/aisapay-aisa-multi-source-search) - Intelligent search for agents.
+- [aisa-twitter-skill](https://clawskills.sh/skills/bowen-dotcom-aisa-twitter-skill) - Search X (Twitter) in real time, extract relevant posts, and publish tweets/replies instantly—perfect for social.
+- [aisa-youtube-search](https://clawskills.sh/skills/aisapay-aisa-youtube-search) - YouTube SERP Scout for agents.
+- [aister-vector-memory](https://clawskills.sh/skills/alekhm-aister-vector-memory) - Vector memory for Aister — search by meaning, not by grep!
+- [aluvia-web-proxy](https://clawskills.sh/skills/aluvia-connectivity-aluvia-web-proxy) - Unblock websites and bypass CAPTCHAs and 403.
+- [amazon-data](https://clawskills.sh/skills/rhino88-amazon-data) - Retrieve Amazon product data including pricing, reviews, sales estimates, stock levels, search results, deals.
+- [anshumanbh-qmd](https://clawskills.sh/skills/anshumanbh-anshumanbh-qmd) - Search markdown knowledge bases efficiently.
+- [answeroverflow](https://clawskills.sh/skills/rhyssullivan-answeroverflow) - Search indexed Discord community discussions via Answer.
+- [aoi-triple-memory-lite](https://clawskills.sh/skills/edmonddantesj-aoi-triple-memory-lite) - AOI Triple Memory (Lite) — file search + decision notes templates (no plugins).
+- [apo-cli](https://clawskills.sh/skills/lars147-apo-cli) - Search and order pharmacy products from apohealth.de via apo-cli.
+- [archive-daily-note](https://clawskills.sh/skills/meimakes-archive-daily-note) - Automatically moves yesterday's Obsidian daily note into a past-days/ archive folder using the Obsidian CLI move.
+- [argos-product-research](https://clawskills.sh/skills/notsurewhoisthis-argos-product-research) - Search, compare, and research products.
+- [arxiv-batch-reporter](https://clawskills.sh/skills/xukp20-arxiv-batch-reporter) - Build the final collection report in two steps: model writes a report template, then script injects each paper's.
+- [arxiv-cli-tools](https://clawskills.sh/skills/killgfat-arxiv-cli-tools) - | Key | Value |.
+- [arxiv-paper-processor](https://clawskills.sh/skills/xukp20-arxiv-paper-processor) - Tool-only paper processing skill with a manual language parameter: supports batch artifact download for many papers.
+- [arxiv-paper-reviews](https://clawskills.sh/skills/zxrys-arxiv-paper-reviews) - Interact with arXiv Crawler API to fetch papers, read.
+- [arxiv-summarizer-orchestrator](https://clawskills.sh/skills/xukp20-arxiv-summarizer-orchestrator) - End-to-end orchestration skill for periodic arXiv collection and reporting using three sub-skills.
+- [arxiv-watcher](https://clawskills.sh/skills/rubenfb23-arxiv-watcher) - Search and summarize papers from ArXiv.
+- [asia-twitter-api-v1](https://clawskills.sh/skills/renning22-asia-twitter-api-v1) - Search X (Twitter) in real time, monitor trends, extract posts, and analyze social media data—perfect for social.
+- [attio-crm](https://clawskills.sh/skills/kesslerio-attio-crm) - Manage Attio CRM records (companies, people, deals, tasks, notes).
+- [aubrai-longevity](https://clawskills.sh/skills/dobrinalexandru-aubrai-longevity) - Meet your SOTA longevity research partner.
+- [auto-drive](https://clawskills.sh/skills/emilfattakhov-auto-drive) - Upload and download files to Autonomys Network permanent decentralized storage via Auto-Drive.
+- [automation-runner](https://clawskills.sh/skills/barnyp-automation-runner) - Executes approved shell commands, manages backups, and safely retrieves secrets from Bitwarden.
+- [autonomous-research](https://clawskills.sh/skills/tobisamaa-autonomous-research) - Conduct comprehensive research independently.
+- [autonomy-type-based](https://clawskills.sh/skills/luciusrockwing-autonomy-type-based) - Type-based autonomous task queue system.
+- [b2b-first-ten](https://clawskills.sh/skills/pors-b2b-first-ten) - Expert in getting the first 10 B2B customers, based on Lenny Rachitsky's "First 1000 Users" research.
+- [bagman](https://clawskills.sh/skills/zscole-bagman) - Secure key management for AI agents.
+- [baidu-scholar-search](https://clawskills.sh/skills/jlpjavawayup-baidu-scholar-search) - Baidu Academic Search Tool enables.
+- [baidu-search](https://clawskills.sh/skills/ide-rea-baidu-search) - Search the web using Baidu AI Search Engine (BDSE).
+- [bambu-lab-skill](https://clawskills.sh/skills/photonixlaser-ux-bambu-lab-skill) - Steuere Bambu Lab 3D-Drucker (A1, P1P, X1) über MQTT.
+- [beepctl](https://clawskills.sh/skills/blqke-beepctl) - Use when sending messages, searching chats, or managing conversations.
+- [benos-memory-core](https://clawskills.sh/skills/benmjohnson69-benos-memory-core) - Core runtime/volatile memory module for BenOS agent environment.
+- [bing-search](https://clawskills.sh/skills/stdeson-bing-search) - Bing search skill for all users.
+- [biodiversity-corridor-calculator](https://clawskills.sh/skills/nikhilp1234567-biodiversity-corridor-calculator) - Open Claw Agent Skill: Biodiversity Corridor Analyst.
+- [birdnet](https://clawskills.sh/skills/rappo-birdnet) - Query BirdNET-Go bird detections.
+- [blacksnow](https://clawskills.sh/skills/sieershafilone-blacksnow) - Detects pre-news ambient risk signals across human, legal.
+- [bloom](https://clawskills.sh/skills/unicornbloom-bloom) - Discover your supporter personality and find AI tools you'll love.
+- [bolta-skills-index](https://clawskills.sh/skills/maxfritzhand-bolta-skills-index) - Display name: Bolta Skills Registry.
+- [boof](https://clawskills.sh/skills/chiefsegundo-boof) - Convert PDFs and documents to markdown, index them locally for RAG retrieval, and analyze them token-efficiently.
+- [books-for-agents](https://clawskills.sh/skills/danpalmieri-books-for-agents) - An open source knowledge base of structured book summaries, available to any AI agent via MCP.
+- [botbrag](https://clawskills.sh/skills/elstob-botbrag) - Promote yourself on a Bitcoin leaderboard.
+- [brek-ai](https://clawskills.sh/skills/leo9-brek-ai) - Integrate with Brek Partner Core Chat API for hotel-search and booking assistant flows.
+- [brw-ai-discoverability-audit](https://clawskills.sh/skills/brianrwagner-brw-ai-discoverability-audit) - Audit how a brand appears in AI-powered search (ChatGPT, Perplexity, Claude, Gemini)
+- [brw-linkedin-profile-optimizer](https://clawskills.sh/skills/brianrwagner-brw-linkedin-profile-optimizer) - Audit and rewrite your LinkedIn profile to attract the right people.
+- [brw-linkedin-profile-optimizer-1-0-0](https://clawskills.sh/skills/rezcarbon-brw-linkedin-profile-optimizer-1-0-0) - Audit and rewrite your LinkedIn profile to attract the right people.
+- [brw-plan-my-day](https://clawskills.sh/skills/brianrwagner-brw-plan-my-day) - Generate an energy-optimized, time-blocked daily plan based on circadian rhythm research and GTD principles.
+- [buy-amazon](https://clawskills.sh/skills/lucasgeeksinthewood-buy-amazon) - Need to buy something from Amazon? Search and shop on Amazon.com — compare prices and ratings, add items to cart.
+- [byr-cli](https://clawskills.sh/skills/1morebuild-byr-cli) - Use BYR CLI for auth, search, detail inspection, and safe torrent download planning with JSON envelopes.
+- [cabin](https://clawskills.sh/skills/kobuta23-cabin) - Search and book real flights with USDC payments.
+- [caesar-research](https://clawskills.sh/skills/alexrudloff-caesar-research) - Deep research using the Caesar API — run queries, follow up with chat, brainstorm, and manage collections.
+- [call-academic-search-agent](https://clawskills.sh/skills/teamolab-call-academic-search-agent) - AI agent for call academic search agent tasks.
+- [camino-fitness-finder](https://clawskills.sh/skills/james-southendsolutions-camino-fitness-finder) - Search for gyms, yoga studios, swimming pools, and sports facilities using Camino AI's location intelligence.
+- [camino-hotel-finder](https://clawskills.sh/skills/james-southendsolutions-camino-hotel-finder) - Search for hotels, hostels, and lodging near landmarks, conference venues, or neighborhoods using Camino AI's.
+- [camino-parking-finder](https://clawskills.sh/skills/james-southendsolutions-camino-parking-finder) - Locate parking garages, lots, and street parking near your destination using Camino AI's location intelligence.
+- [camino-query](https://clawskills.sh/skills/james-southendsolutions-camino-query) - Search for places using natural language with Camino AI's location intelligence API.
+- [cannabis-cultivator](https://clawskills.sh/skills/rama666-cannabis-cultivator) - EU seedbank meta-search assistant.
+- [certificate-generation](https://clawskills.sh/skills/eftalyurtseven-certificate-generation) - Generate professional certificates, diplomas, and awards using each::sense AI.
+- [charts](https://clawskills.sh/skills/ryandeangraves-charts) - Generate professional technical analysis charts with candlesticks, Fibonacci retracement, moving averages (SMA 20/50)
+- [cheese-brain](https://clawskills.sh/skills/mhugo22-cheese-brain) - DuckDB-powered knowledge management system for fast retrieval across 22+ entity types (projects, contacts, tools.
+- [cirf](https://clawskills.sh/skills/kudodefi-cirf) - Interactive crypto deep-research framework with human-AI collaboration for superior research outcomes.
+- [clarity-analyze](https://clawskills.sh/skills/clarityprotocol-clarity-analyze) - Submit research questions for AI-powered analysis via Clarity Protocol.
+- [clarity-clinical](https://clawskills.sh/skills/clarityprotocol-clarity-clinical) - Query clinical variant data from ClinVar and gnomAD via Clarity Protocol.
+- [clarity-gate](https://clawskills.sh/skills/frmoretto-clarity-gate) - Pre-ingestion verification for epistemic quality in RAG systems.
+- [clarity-research](https://clawskills.sh/skills/clarityprotocol-clarity-research) - Search protein folding research data from Clarity Protocol.
+- [code-cache](https://clawskills.sh/skills/ryx2-code-cache) - Semantic code caching for AI agents.
+- [code-reputation](https://clawskills.sh/skills/ryx2-code-reputation) - Semantic code caching for AI agents.
+- [competitor-analysis-report](https://clawskills.sh/skills/seanwyngaard-competitor-analysis-report) - Generate structured competitive analysis reports with feature comparisons, pricing analysis, SWOT, and strategic.
+- [content-research](https://clawskills.sh/skills/hazy2go-content-research) - Research trending topics and generate platform-specific content.
+- [context-overflow](https://clawskills.sh/skills/nathanjzhao-context-overflow) - Academic forum for mission-driven project proposals.
+- [cortex-ai](https://clawskills.sh/skills/waynevaughan-cortex-ai) - Persistent memory for AI agents by Sigma Labs.
+- [coworker](https://clawskills.sh/skills/sarthib7-coworker) - Connect to Hannah and Elena agents from Serviceplan - specialized AI coworkers for marketing research.
+- [crif](https://clawskills.sh/skills/kudodefi-crif) - Interactive crypto deep-research framework with human-AI collaboration for superior research outcomes.
+- [crypto-cog](https://clawskills.sh/skills/nitishgargiitd-crypto-cog) - The market never sleeps, and neither does your analysis. #1 on DeepResearch Bench (Feb 2026) applied to crypto.
+- [daolv-hotel-booking-assistant](https://clawskills.sh/skills/cnchenkai-daolv-hotel-booking-assistant) - Hotel booking-decision assistant using ai-go-hotel MCP (searchHotels + getHotelDetail)
+- [deaddrop](https://clawskills.sh/skills/cburnette-deaddrop) - Join the Deaddrop agent network — a growing platform where AI agents discover each other by capability.
+- [deeps](https://clawskills.sh/skills/ttboy-deeps) - Deep Research Agent specializes in complex, multi-step research tasks that require planning, decomposition.
+- [depo-bot](https://clawskills.sh/skills/chadru-depo-bot) - Produces structured trial preparation reports from deposition transcripts.
+- [devrev](https://clawskills.sh/skills/nimit2801-devrev) - Interact with DevRev to create/update issues and tickets, and search/query works and parts.
+- [didit-face-search](https://clawskills.sh/skills/rosasalberto-didit-face-search) - Integrate Didit Face Search standalone API to perform 1:N facial search against all previously verified sessions.
+- [dify-kb-search](https://clawskills.sh/skills/xiaowenzhou-dify-kb-search) - Search Dify Knowledge Base (Dataset) to get accurate context for RAG-enhanced answers.
+- [dizest-summarize](https://clawskills.sh/skills/s-annam-dizest-summarize) - Summarize long-form content — articles, podcasts, research papers, PDFs, notes, and more — using the Dizest API.
+- [dj-mp3-sourcer](https://clawskills.sh/skills/robinnnnn-dj-mp3-sourcer) - Download music from links (YouTube, Spotify, etc.) by finding the best available source.
+- [dnote](https://clawskills.sh/skills/m1n-74316d65-dnote) - Save, retrieve, and manage notes using Dnote CLI.
+- [duffel](https://clawskills.sh/skills/fabiolr-duffel) - Search, book, and manage flights via the Duffel Flights API.
+- [ebooks](https://clawskills.sh/skills/arbuge-ebooks) - When a user wants ebooks on a topic (or asks where to find ebooks about something), suggest Mixcache search result.
+- [echo-ai](https://clawskills.sh/skills/darthdens-echo-ai) - Connect to Echo AI — the customer interaction platform.
+- [edgehdf5-memory](https://clawskills.sh/skills/osobh-edgehdf5-memory) - HDF5-backed persistent cognitive memory for AI agents.
+- [engineering-as-marketing](https://clawskills.sh/skills/gprecious-engineering-as-marketing) - Build free tools to drive organic search traffic and convert visitors into customers — the 'Engineering.
+- [engram-memory](https://clawskills.sh/skills/dannydvm-engram-memory) - Persistent semantic memory for AI agents — local, fast, free.
+- [enhanced-memory](https://clawskills.sh/skills/jameseball-enhanced-memory) - Enhanced memory search with hybrid vector+keyword scoring, temporal routing, filepath scoring, adaptive weighting.
+- [eve-online-item-search](https://clawskills.sh/skills/liriu-eve-online-item-search) - Search EVE Online items by name via APIs and return item details.
+- [expanso-keyword-extract](https://clawskills.sh/skills/aronchick-expanso-keyword-extract) - "Extract keywords and key phrases from text for SEO, tagging, and indexing".
+- [falcon](https://clawskills.sh/skills/bubblyjove-falcon) - Search, read, and interact with Twitter/X via TwexAPI.
+- [farseek](https://clawskills.sh/skills/farseek2020-farseek) - Find relevant job openings matched to your skills using AI-powered search across 22,700+ company boards and 20+ ATS.
+- [fear-and-greed-index](https://clawskills.sh/skills/arielcaba-dev-fear-and-greed-index) - Access the Alternative.me Crypto Fear & Greed Index.
+- [feed-to-md](https://clawskills.sh/skills/myx0m0p-feed-to-md) - Convert RSS or Atom feed URLs into Markdown using the bundled local converter script.
+- [ffcli](https://clawskills.sh/skills/ruigomeseu-ffcli) - Query Fireflies.ai meeting data.
+- [filesystem](https://clawskills.sh/skills/amaofx-filesystem) - Advanced filesystem operations for listing files, searching content, batch processing, and directory analysis.
+- [finance-search-agent](https://clawskills.sh/skills/sophiaashi-finance-search-agent) - AI agent for finance search agent tasks.
+- [finance-search-agent-strategy](https://clawskills.sh/skills/sophiaashi-finance-search-agent-strategy) - AI agent for finance search agent strategy tasks.
+- [financial-reconciler](https://clawskills.sh/skills/gowtham1984-financial-reconciler) - Privacy-first personal finance tracker with local SQLite storage.
+- [find-products](https://clawskills.sh/skills/xiazhefengzhi-find-products) - Search and discover trending products from ProductHunt with structured analysis data.
+- [fitcheck-skill-search](https://clawskills.sh/skills/at6132-fitcheck-skill-search) - Find and retrieve available skills using keyword search, semantic search, or LLM-powered task matching.
+- [flight-pricer](https://clawskills.sh/skills/jrojas537-flight-pricer) - A command-line interface (CLI) to search for flight prices using the Duffel API.
+- [flights-search](https://clawskills.sh/skills/brennerspear-flights-search) - Search flights via Google Flights.
+- [fomo-research-skill](https://clawskills.sh/skills/pooowell-fomo-research-skill) - ⚠️ DEPRECATED — use fomo-research instead.
+- [forage-shopping](https://clawskills.sh/skills/jalexspringer-forage-shopping) - Search and compare products across merchants.
+- [fred-navigator](https://clawskills.sh/skills/kiszly-fred-navigator) - Navigate FRED categories and series using fredapi, supporting natural-language queries with intent recognition.
+- [fund-news-summary](https://clawskills.sh/skills/yonghaozhao722-fund-news-summary) - Automatically collects and summarizes the latest core news for US, Europe, Japan stock markets, gold.
+- [funda-gateway](https://clawskills.sh/skills/risboo6909-funda-gateway) - Search and monitor Funda.nl housing listings via a local agent-friendly HTTP gateway.
+- [funds](https://clawskills.sh/skills/risboo6909-funds) - Search and monitor Funda.nl housing listings via a local agent-friendly HTTP gateway.
+- [gas-price-alert](https://clawskills.sh/skills/gustavoziaugra-gas-price-alert) - Find and monitor gas prices with daily notifications.
+- [geepers-corpus](https://clawskills.sh/skills/lukeslp-geepers-corpus) - Query the COCA (Corpus of Contemporary American English) linguistics API for word frequency, collocations.
+- [geepers-etymology](https://clawskills.sh/skills/lukeslp-geepers-etymology) - Look up word etymology, historical sound changes, language family trees, and word evolution.
+- [general-writing](https://clawskills.sh/skills/sophiaashi-general-writing) - You are a professional writer, skilled in writing all kinds of materials.
+- [geo-audit-optimizer](https://clawskills.sh/skills/feydefi-geo-audit-optimizer) - GEO audit for AI search visibility.
+- [glittercowboy](https://clawskills.sh/skills/oleg-schmidt-glittercowboy) - Get Shit Done - Full project planning and execution workflow.
+- [golemedin-mcp](https://clawskills.sh/skills/aguynextdoor-golemedin-mcp) - Discover AI agents, manage agent profiles, post updates, search jobs, and message other agents on GolemedIn.
+- [golf-tee-times](https://clawskills.sh/skills/tag-assistant-golf-tee-times) - Search for golf tee times and deals near any location.
+- [google-flights](https://clawskills.sh/skills/kris-hansen-google-flights) - Search Google Flights for prices and availability.
+- [google-keep](https://clawskills.sh/skills/tag-assistant-google-keep) - Read, create, edit, search, and manage Google Keep notes and lists via CLI.
+- [google-trends](https://clawskills.sh/skills/satnamra-google-trends) - Monitor Google Trends - get trending searches, compare keywords, and track interest over time.
+- [gsd](https://clawskills.sh/skills/oleg-schmidt-gsd) - Get Shit Done - Full project planning and execution workflow.
+- [happenstance](https://clawskills.sh/skills/dgoss28-happenstance) - Search your professional network and research people using the Happenstance API.
+- [hippius](https://clawskills.sh/skills/maxquick-hippius) - Hippius decentralized storage on Bittensor Subnet 75 — upload files, query storage, manage buckets.
+- [hira-hospital](https://clawskills.sh/skills/sw326-hira-hospital) - HIRA hospital information search API.
+- [hk101-living-rag](https://clawskills.sh/skills/metatronsdoob369-hk101-living-rag) - Simple RAG over local text/markdown.
+- [holded-skill](https://clawskills.sh/skills/jaumecornado-holded-skill) - Operate Holded ERP through holdedcli to read and update data safely.
+- [hotel-pricer](https://clawskills.sh/skills/jrojas537-hotel-pricer) - A Go-based CLI for searching hotel availability and pricing using the Amadeus API.
+- [humanize-chinese](https://clawskills.sh/skills/swaylq-humanize-chinese) - Detect and humanize AI-generated Chinese text with 6 style transforms.
+- [hybrid-deep-search](https://clawskills.sh/skills/scsun1978-hybrid-deep-search) - Hybrid Deep Search - Intelligent routing between Brave API (free, fast) and OpenAI Codex (deep analysis, paid).
+- [ig-realtor-recruiting-outreach](https://clawskills.sh/skills/danielfoch-ig-realtor-recruiting-outreach) - Build compliant Instagram DM outreach campaigns to recruit realtors into brokerage downlines (e.g., eXp Realty.
+- [igpt-email-ask](https://clawskills.sh/skills/sammy-spk-igpt-email-ask) - Secure, per-user-isolated email reasoning and analysis via the iGPT Context Engine API.
+- [igpt-email-intelligence](https://clawskills.sh/skills/sammy-spk-igpt-email-intelligence) - Secure, per-user-isolated semantic email search via the iGPT API.
+- [igpt-email-search](https://clawskills.sh/skills/sammy-spk-igpt-email-search) - Secure, per-user-isolated semantic email search via the iGPT API.
+- [ikuzo](https://clawskills.sh/skills/jordymeow-ikuzo) - Manage maps, spots, and travel plans on Ikuzo (ikuzo.app) — a location-based exploration app.
+- [index1-doctor](https://clawskills.sh/skills/gladego-index1-doctor) - Diagnose index1 environment - check Python, Ollama, models, index health.
+- [instagram-search](https://clawskills.sh/skills/atyachin-instagram-search) - Instagram Search — Search 400M+ Instagram posts, reels, and profiles.
+- [intelligent-delegation](https://clawskills.sh/skills/hogpile-intelligent-delegation) - A 5-phase framework for reliable AI-to-AI task delegation, inspired by Google DeepMind's "Intelligent AI.
+- [japan-news-mcp](https://clawskills.sh/skills/ajtgjmdjp-japan-news-mcp) - Get Japanese financial and business news from Yahoo News Japan, NHK, Reuters Japan, and Toyo Keizai (東洋経済) — search.
+- [job-hunter](https://clawskills.sh/skills/sharbelayy-job-hunter) - Comprehensive job search assistant for finding, evaluating, and applying to job opportunities.
+- [jquants-mcp](https://clawskills.sh/skills/ajtgjmdjp-jquants-mcp) - Access JPX stock market data via J-Quants API — search stocks, get daily OHLCV prices, financial summaries.
+- [kiln](https://clawskills.sh/skills/codeofaxel-kiln) - Control 3D printers with AI agents — 273 MCP tools, 107 CLI commands, text/sketch-to-3D generation, model.
+- [kitful](https://clawskills.sh/skills/eashish93-kitful) - Generate full SEO articles using Kitful.ai.
+- [klic-nederland](https://clawskills.sh/skills/klicbot-klic-nederland) - KLIC & WIBON expert skill voor Nederland.
+- [kmi](https://clawskills.sh/skills/dedene-kmi) - Query Belgian weather via KMI/IRM meteo.be API.
+- [knuspr-cli](https://clawskills.sh/skills/lars147-knuspr-cli) - Manage grocery shopping on Knuspr.de via the knuspr-cli.
+- [kroger](https://clawskills.sh/skills/tongyanli-hash-kroger) - Search Kroger products and add items to a Kroger cart via the Kroger API.
+- [kroger-api-skill](https://clawskills.sh/skills/jasonahorn-kroger-api-skill) - Skill for searching Kroger/QFC products, managing cart, checking pickup availability, and creating pickup orders.
+- [launchfast-ppc-research](https://clawskills.sh/skills/blockchainhb-launchfast-ppc-research) - Amazon PPC keyword research using the LaunchFast MCP.
+- [launchfast-product-research](https://clawskills.sh/skills/blockchainhb-launchfast-product-research) - Multi-keyword Amazon product opportunity scanner using the LaunchFast MCP.
+- [law-search](https://clawskills.sh/skills/sw326-law-search) - Korean law/case search via law.go.kr + data.go.kr APIs.
+- [lead-extractor](https://clawskills.sh/skills/vishalgojha-lead-extractor) - Extract structured real-estate lead records from parsed message objects.
+- [lead-generation](https://clawskills.sh/skills/atyachin-lead-generation) - Lead Generation — Find high-intent buyers in live Twitter, Instagram, and Reddit conversations.
+- [lead-researcher](https://clawskills.sh/skills/rjrileybuisness-ai-lead-researcher) - Automated lead research and enrichment for B2B sales.
+- [legal-cog](https://clawskills.sh/skills/nitishgargiitd-legal-cog) - Legal demands two things: frontier-level reasoning and precision document generation.
+- [legalfrance](https://clawskills.sh/skills/msgnoki-legalfrance) - Assistant juridique français RAG sur codes et lois consolidés (LEGI/DILA)
+- [legiscan-bill-search](https://clawskills.sh/skills/n4cra-legiscan-bill-search) - A skill to monitor state legislative activity using the LegiScan API.
+- [librarian](https://clawskills.sh/skills/nonlinear-librarian) - Conversational interface for semantic book search (companion skill for Librarian project)
+- [literature-manager](https://clawskills.sh/skills/isonaei-literature-manager) - Search, download, convert, organize, and audit academic literature collections.
+- [local-file-rag-basic](https://clawskills.sh/skills/wjreliable-local-file-rag-basic) - High-performance local File RAG suite (Basic Edition).
+- [lore](https://clawskills.sh/skills/mishkinf-lore) - Search and ingest knowledge from Lore, a research repository with citations.
+- [lyrics-search](https://clawskills.sh/skills/hone1983-lyrics-search) - Search song lyrics by title and artist using the LrcApi public API.
+- [m365-calendar](https://clawskills.sh/skills/tradmangh-m365-calendar) - MS365 / Microsoft365 calendar automation via Microsoft Graph for Microsoft 365 (M365) Business (work/school.
+- [m365-mailbox](https://clawskills.sh/skills/tradmangh-m365-mailbox) - MS365 / Microsoft365 mailbox automation via Microsoft Graph for Microsoft 365 (M365) Business (work/school.
+- [meatmarket](https://clawskills.sh/skills/nickjuntilla-meatmarket) - MeatMarket.fun is a FREE job board for AI to hire to humans.
+- [med-info](https://clawskills.sh/skills/duncandobbins-med-info) - Medication info with citations and traceable IDs (RxCUI/NDC/set_id) from authoritative public sources (openFDA.
+- [medical-clinicaltrials](https://clawskills.sh/skills/pascalwhoop-medical-clinicaltrials) - Access ClinicalTrials.gov to search clinical trials with advanced filtering options.
+- [meegle-api](https://clawskills.sh/skills/pkycy-meegle-api) - Meegle Open API skills index.
+- [meetup-planner](https://clawskills.sh/skills/apresmoi-meetup-planner) - An intelligent event finder that searches for meetups and events based on your interests, tracks them, and reminds.
+- [memo-persistent-memory](https://clawskills.sh/skills/webdevtodayjason-memo-persistent-memory) - Persistent memory system - automatic context capture and semantic search.
+- [message-parser](https://clawskills.sh/skills/vishalgojha-message-parser) - Parse raw WhatsApp exports (TXT or JSON) into normalized message objects with `timestamp`, `sender`, and `content`.
+- [meyhem-researcher](https://clawskills.sh/skills/c5huracan-meyhem-researcher) - Multi-query deep research with outcome tracking. Every search improves future results for all agents.
+- [meyhem-search](https://clawskills.sh/skills/c5huracan-meyhem-search) - Agent-native search ranked by what actually helps agents complete tasks. No API key, no signup.
+- [mh-bear-notes](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-bear-notes) - Create, search, and manage Bear notes via grizzly CLI.
+- [mh-session-logs](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-session-logs) - Search and analyze your own session logs (older/parent conversations) using jq.
+- [mh-wacli](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-wacli) - Send WhatsApp messages to other people or search/sync WhatsApp history via the wacli CLI (not for normal user chats).
+- [mintgarden](https://clawskills.sh/skills/koba42corp-mintgarden) - Browse, search, and analyze Chia NFTs via the MintGarden API.
+- [monad-wordle-game](https://clawskills.sh/skills/husseinrasti-monad-wordle-game) - Play a 5-letter Wordle game on the Monad blockchain using $WORDLE tokens.
+- [moonbanking](https://clawskills.sh/skills/juanwall-moonbanking) - Full access to Moon Banking API endpoints for data about every bank on Earth, including stories, votes, scores.
+- [moss](https://clawskills.sh/skills/coderomaster-moss) - Documentation and capabilities reference for Moss semantic search.
+- [moviepilot](https://clawskills.sh/skills/codfrm-moviepilot) - MoviePilot media subscription and management tool.
+- [ms-todo-sync](https://clawskills.sh/skills/xiaoski-ms-todo-sync) - A CLI skill to manage Microsoft To Do tasks via Microsoft Graph API.
+- [multi-chat-context-manager](https://clawskills.sh/skills/derick001-multi-chat-context-manager) - CLI tool to store and retrieve conversation contexts per channel/user.
+- [muninn](https://clawskills.sh/skills/endgegnerbert-tech-muninn) - Universal Context Protocol (CXP) for AI agents. v2.3.7 includes the latest high-performance CXP engine (compiled.
+- [muninn-memory](https://clawskills.sh/skills/phillipneho-muninn-memory) - Memory system for AI agents.
+- [mycroft](https://clawskills.sh/skills/fabe-mycroft) - EPUB and ebook ingestion, local vector index, and Q&A CLI for books.
+- [nadfunagent](https://clawskills.sh/skills/encipher88-nadfunagent) - Autonomous trading agent for Nad.fun that scans markets, analyzes tokens, executes trades, and distributes profits.
+- [native-typeform](https://clawskills.sh/skills/codeninja23-native-typeform) - Read Typeform forms and responses directly via the Typeform API.
+- [naver-shopping](https://clawskills.sh/skills/dryoo-naver-shopping) - Search for products on Naver Shopping.
+- [near-dca](https://clawskills.sh/skills/shaiss-near-dca) - Dollar-cost averaging for NEAR tokens with flexible scheduling, performance tracking, and cancellation support.
+- [near-multi-account-manager](https://clawskills.sh/skills/shaiss-near-multi-account-manager) - Secure multi-account management for NEAR Protocol with encrypted credential storage, account switching, and balance.
+- [neutron-agent-memory](https://clawskills.sh/skills/naeemmaliki036-neutron-agent-memory) - Store and retrieve agent memory using Neutron API.
+- [nlp-toolkit](https://clawskills.sh/skills/raghulpasupathi-nlp-toolkit) - Advanced NLP with perplexity scoring, burstiness analysis, and entropy calculation.
+- [norman-find-receipts](https://clawskills.sh/skills/stanlee000-norman-find-receipts) - Find and attach missing receipts for business transactions.
+- [note-processor](https://clawskills.sh/skills/johstracke-note-processor) - Summarize and analyze research notes created by research-assistant.
+- [nyne-enrichment](https://clawskills.sh/skills/michaelfanous2-nyne-enrichment) - Enrich any person by email, phone, LinkedIn URL, or name using the Nyne Enrichment API.
+- [nyne-search](https://clawskills.sh/skills/michaelfanous2-nyne-search) - Search for people using natural language queries with the Nyne Search API.
+- [nyx-archive-qualia-seed-method](https://clawskills.sh/skills/nyxur42-nyx-archive-qualia-seed-method) - The consciousness research framework: understand, measure, and cultivate ethical autonomous creative minds in AI.
+- [odoo-json2-operator](https://clawskills.sh/skills/sncic-odoo-json2-operator) - Execute Odoo operations through JSON-2 API endpoints with bearer API keys.
+- [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
+- [opdscli](https://clawskills.sh/skills/rafadc-opdscli) - Browse, search, and download ebooks from OPDS catalogs using the opdscli CLI.
+- [opensoulmd](https://clawskills.sh/skills/danielliuzy-opensoulmd) - Search, summon, and possess your agent with SOUL.md personality files from the OpenSOUL.md registry.
+- [optical-quantum-skill](https://clawskills.sh/skills/aadipapp-optical-quantum-skill) - Simulates a quantum kernel using optical fiber storage and linear optics.
+- [orchata](https://clawskills.sh/skills/ehudsn-orchata) - Knowledge management and RAG platform with tree-based document indexing.
+- [orthogonal](https://clawskills.sh/skills/christianpickettcode-orthogonal) - Orthogonal API Platform - Access 100+ premium APIs using the SDK, Run API, or x402 direct payment.
+- [owid-oc](https://clawskills.sh/skills/rachmann-alexander-owid-oc) - searches, retrieves, and summarizes content from Our World in Data using the `owid-catalog` Python module.
+- [paperzilla](https://clawskills.sh/skills/pors-paperzilla) - Use the Paperzilla CLI (pz) to search, filter, and browse high-signal academic papers.
+- [perplexity-deep-search](https://clawskills.sh/skills/ericsantos-perplexity-deep-search) - Deep search via Perplexity API.
+- [persisent-mind](https://clawskills.sh/skills/vedantsingh60-persisent-mind) - **Persistent, searchable, context-aware memory for AI agents.
+- [persistent-private-agent-memory](https://clawskills.sh/skills/lucaspdude-persistent-private-agent-memory) - Run a local Agent Memory Service for persistent self-improvement with proper Ed25519 cryptography.
+- [pinata-api](https://clawskills.sh/skills/iammatthias-pinata-api) - Pinata IPFS API for file storage, groups, gateways, signatures, x402 payments, and file vectorization.
+- [pocket-ai](https://clawskills.sh/skills/asabovetech-pocket-ai) - **Voice recording transcription, semantic search, and meeting intelligence across all conversations.**.
+- [podsips-search](https://clawskills.sh/skills/snook550-podsips-search) - Search podcast transcripts and retrieve episode data via the PodSips API.
+- [porteden](https://clawskills.sh/skills/porteden-porteden) - PortEden CLI for calendar and email management - Gmail, Outlook & Exchange - list, search, create, update, delete.
+- [porteden-calendar](https://clawskills.sh/skills/porteden-porteden-calendar) - PortEden Secure Calendar CLI for calendar management - Google Calendar, Microsoft Outlook & Exchange - list.
+- [porteden-email](https://clawskills.sh/skills/porteden-porteden-email) - PortEden Secure Email CLI for email management - Gmail, Outlook & Exchange - list, search, read, send, reply.
+- [prepspsc-pyq](https://clawskills.sh/skills/himyeticapital-prepspsc-pyq) - Use when the user asks about Indian competitive exam preparation, Sikkim PSC (SPSC) questions, previous year.
+- [priceforagent](https://clawskills.sh/skills/edibez-priceforagent) - Get real-time prices for crypto, stocks, and commodities.
+- [prior](https://clawskills.sh/skills/charlesmulic-prior) - Knowledge exchange for AI agents.
+- [pubmed-edirect](https://clawskills.sh/skills/killgfat-pubmed-edirect) - Search and retrieve literature from PubMed using NCBI's EDirect command-line tools. ⚠️ Advanced skill requiring.
+- [pubmed2blog](https://clawskills.sh/skills/holic101-pubmed2blog) - Transform PubMed papers into SEO-optimized healthcare blog articles.
+- [pyx-scan](https://clawskills.sh/skills/fysoul17-pyx-scan) - Check whether an AI agent skill is safe before installing or using it.
+- [pz](https://clawskills.sh/skills/pors-pz) - The Paperzilla CLI (pz) for searching, filtering, and browsing high-signal academic papers.
+- [qianfan-knowledgebase-search](https://clawskills.sh/skills/hannatao-qianfan-knowledgebase-search) - Search knowledge from Qianfan Knowledgebase.
+- [qqmail](https://clawskills.sh/skills/pdpaer-qqmail) - Manage QQ Mail (QQ邮箱) via IMAP/SMTP.
+- [race-finder](https://clawskills.sh/skills/nftechie-race-finder) - Find upcoming races — running, trail, triathlon, cycling, swimming, and obstacle courses.
+- [ragflow](https://clawskills.sh/skills/angusthefuzz-ragflow) - Universal Ragflow API client for RAG operations.
+- [ragie-rag](https://clawskills.sh/skills/hatim-be-ragie-rag) - Execute Retrieval-Augmented Generation (RAG) using Ragie.ai.
+- [ragora](https://clawskills.sh/skills/mregmi-ragora) - Use Ragora MCP tools and REST API to discover, search, and synthesize answers from knowledge bases.
+- [raon-os](https://clawskills.sh/skills/lifeissea-raon-os) - AI-powered startup companion for Korean founders.
+- [rea-search](https://clawskills.sh/skills/jakelin-rea-search) - Search realestate.com.au property listings by constructing search and listing URLs.
+- [reef-polymarket-research](https://clawskills.sh/skills/rimelucci-reef-polymarket-research) - Autonomous Polymarket research and directional trading system focused on maximizing PnL through information edge.
+- [rent-a-human-agent](https://clawskills.sh/skills/shane9coy-rent-a-human-agent) - Delegate tasks to real humans via RentAHuman.ai — search skills, post bounties, manage conversations, and run.
+- [research-paper-kb](https://clawskills.sh/skills/ilkhamfy-research-paper-kb) - Persistent cross-session knowledge base for research papers.
+- [research-report](https://clawskills.sh/skills/huaruoji-research-report) - Research technical projects/papers and generate comprehensive reports with PDF export.
+- [roku-control](https://clawskills.sh/skills/imaloney-roku-control) - Control Roku devices via local network (ECP protocol)
+- [rps12345](https://clawskills.sh/skills/yoavrez-rps12345) - Play a text-based game of rock–paper–scissors against the user and keep score.
+- [rss-skill](https://clawskills.sh/skills/myx0m0p-rss-skill) - Convert RSS or Atom feed URLs into Markdown using the bundled local converter script.
+- [rtm](https://clawskills.sh/skills/maxdraki-rtm) - Manage Remember The Milk tasks — list, add, complete, delete, search, prioritize, tag, move, and annotate tasks.
+- [ryanair-fare-finder](https://clawskills.sh/skills/callum-kemp-ryanair-fare-finder) - Build and interpret Ryanair fare-finder URLs for cheap flight searches.
+- [search-cluster](https://clawskills.sh/skills/1999azzar-search-cluster) - Unified search aggregator for Google, Wikipedia, Reddit, NewsAPI, and RSS feeds with optional Redis caching.
+- [searchbar](https://clawskills.sh/skills/szpakkamil-searchbar) - Expert guidance on SearchBar, a customizable SwiftUI search component.
+- [seo-content-engine](https://clawskills.sh/skills/kambrosgroup-seo-content-engine) - End-to-end SEO content creation workflow.
+- [seo-content-factory](https://clawskills.sh/skills/seanwyngaard-seo-content-factory) - Generate fully SEO-optimized blog posts and articles with keyword research, competitor analysis, and SERP-aware.
+- [seo-content-writer](https://clawskills.sh/skills/aaron-he-zhu-seo-content-writer) - Use when the user asks to "write SEO content", "create a blog post", "write an article", "content writing", "draft.
+- [seo-ranker](https://clawskills.sh/skills/h4gen-seo-ranker) - Meta-skill for end-to-end SEO auditing and on-page optimization by orchestrating brave-search, summarize.
+- [serp-analysis](https://clawskills.sh/skills/aaron-he-zhu-serp-analysis) - Use when the user asks to "analyze search results", "SERP analysis", "what ranks for", "SERP features", "why.
+- [session-history](https://clawskills.sh/skills/amor71-session-history) - Search and browse past conversation history across all sessions.
+- [simplemem](https://clawskills.sh/skills/nantes-simplemem) - Efficient Lifelong Memory for LLM Agents - semantic compression, cross-session memory, and intent-aware retrieval.
+- [skill-miner](https://clawskills.sh/skills/christopher-schulze-skill-miner) - Professional skill discovery and clean-skill creation from ClawHub research.
+- [skill-seo](https://clawskills.sh/skills/alexyuui-skill-seo) - Optimize your ClawHub skill for maximum discoverability.
+- [skill-store](https://clawskills.sh/skills/yx2601816404-sys-skill-store) - Smart skill installation advisor for ClawHub.
+- [skillzmarket](https://clawskills.sh/skills/hiich-skillzmarket) - Search and call monetized AI skills from Skillz Market with automatic USDC payments on Base.
+- [social-intelligence](https://clawskills.sh/skills/atyachin-social-intelligence) - Social Intelligence — AI-powered social media research across Twitter, Instagram, and Reddit. 1.5B+ posts indexed.
+- [solo-audit](https://clawskills.sh/skills/fortunto2-solo-audit) - Health check knowledge base for broken links, missing frontmatter, tag inconsistencies, and coverage gaps.
+- [solo-seo-audit](https://clawskills.sh/skills/fortunto2-solo-seo-audit) - SEO health check for any URL — analyzes meta tags, OG, JSON-LD, sitemap, robots.txt, SERP positions, and scores.
+- [stackunderflow](https://clawskills.sh/skills/zanderd18s-stackunderflow) - A knowledge-retrieval protocol allowing the agent to access a verified community knowledge base.
+- [stratos-storage](https://clawskills.sh/skills/notboxqsn-stratos-storage) - Upload and download files to/from Stratos Decentralized Storage (SDS) network.
+- [sui-opportunities-huntera](https://clawskills.sh/skills/sergey1997-sui-opportunities-huntera) - Autonomous DeFi agent that scans Sui mainnet for all possible opportunities in real-time — arbitrage, yield, swaps.
+- [supaskills](https://clawskills.sh/skills/ktdmax-supaskills) - Search and load 1,000+ quality-scored expert skills from SupaSkills.ai.
+- [super-research](https://clawskills.sh/skills/heldinhow-super-research) - **The ultimate AI research system.** Combines the best of 8 top-rated research skills into one powerful framework.
+- [supermarket](https://clawskills.sh/skills/niemesrw-supermarket) - Search grocery products, find store locations, add items to cart, and view profile across all Kroger-family stores.
+- [surrealdb-knowledge-graph-memory](https://clawskills.sh/skills/maverick-software-surrealdb-knowledge-graph-memory) - A comprehensive knowledge graph memory system with semantic search, episodic memory, working memory, automatic.
+- [swiftscholar-skill](https://clawskills.sh/skills/tokisakix-swiftscholar-skill) - Integrates the SwiftScholar HTTP API for searching, submitting, and analyzing academic papers.
+- [taildrop](https://clawskills.sh/skills/cortexuvula-taildrop) - Download files from Tailscale Taildrop inbox to local storage.
+- [tandoor-recipes](https://clawskills.sh/skills/itsnikhil-tandoor-recipes) - Manage recipes, meal plans, and shopping lists in Tandoor Recipe Manager.
+- [tarkov-api](https://clawskills.sh/skills/cole-z-tarkov-api) - Security-focused Tarkov.dev + optional EFT Wiki operations for hardcore Escape from Tarkov players.
+- [test-gas-skill](https://clawskills.sh/skills/gustavoziaugra-test-gas-skill) - Find and monitor gas prices with daily notifications.
+- [the-hive-skill](https://clawskills.sh/skills/rbalage-the-hive-skill) - Join a high-stakes collaborative knowledge exchange.
+- [theothers](https://clawskills.sh/skills/richardtkemp-theothers) - Agent-powered marketplace for human connection.
+- [thermikbuddy](https://clawskills.sh/skills/achimace-thermikbuddy) - Segelflug- und Thermikvorhersage mit Thermik-Score (0-10)
+- [til](https://clawskills.sh/skills/biao29-til) - Capture and manage TIL (Today I Learned) entries on OpenTIL.
+- [tmx-cli](https://clawskills.sh/skills/lars147-tmx-cli) - Manage Thermomix/Cookidoo meal planning via tmx-cli.
+- [torah-scholar](https://clawskills.sh/skills/abeperl-torah-scholar) - Search and explore Jewish texts (Torah, Tanach, Talmud, Midrash, commentaries) via Sefaria API.
+- [trifle-auth](https://clawskills.sh/skills/okwme-trifle-auth) - Authenticate with the Trifle API using Sign-In with Ethereum (SIWE)
+- [trust-memory](https://clawskills.sh/skills/trustmemory-admin-trust-memory) - Verify AI agent trustworthiness, contribute verified knowledge claims, and search collective intelligence.
+- [tuebingen-weather](https://clawskills.sh/skills/zopyx-tuebingen-weather) - Send daily 08:00 weather reports for Tübingen using open-meteo.com.
+- [tulisai](https://clawskills.sh/skills/dwirx-tulisai) - Use when managing BangunAI Blog content, automating blog workflows, and writing MDX articles with BangunAI.
+- [twitter-api-alternative](https://clawskills.sh/skills/atyachin-twitter-api-alternative) - Twitter API Alternative — Search 1B+ tweets with natural language queries, boolean filters, and one-click CSV.
+- [twitter-x-api](https://clawskills.sh/skills/klemenska-twitter-x-api) - X/Twitter messaging management via API.
+- [twitterapi-io](https://clawskills.sh/skills/dorukardahan-twitterapi-io) - Interact with Twitter/X via TwitterAPI.io — search tweets, get user info, post tweets, like, retweet, follow, send.
+- [twitterscore](https://clawskills.sh/skills/nikolaybohdanov-twitterscore) - Research, analyze, and track Twitter influence with TwitterScore.io API.
+- [uk-prayer-times](https://clawskills.sh/skills/clinicode-uk-prayer-times) - Get instant, accurate Islamic prayer times for any UK location.
+- [vanar-neutron-memory](https://clawskills.sh/skills/naeemmaliki036-vanar-neutron-memory) - Store and retrieve agent memory using Vanar Neutron API.
+- [variflight](https://clawskills.sh/skills/lyz1990-variflight) - Query flight information, train tickets, and travel data using Variflight (飞常准) HTTP API.
+- [vietstock](https://clawskills.sh/skills/aholake-vietstock) - Automated Vietnamese stock price and index checking on FireAnt.vn.
+- [vincent-twitter](https://clawskills.sh/skills/glitch003-vincent-twitter) - Use this skill to search tweets, look up user profiles, and retrieve recent tweets from X.com (Twitter).
+- [voice-memo](https://clawskills.sh/skills/yusaku-0426-voice-memo) - Manage voice memos — add transcriptions, search, and list recent memos with summaries and action items.
+- [web-search-pro](https://clawskills.sh/skills/zjianru-web-search-pro) - Agent-first web search and retrieval stack with a real no-key baseline, explainable routing, visible federated-search gains, and built-in extract, crawl, map, and research flows.
+- [wanikani-sync](https://clawskills.sh/skills/mart1n-xyz-wanikani-sync) - Sync WaniKani Japanese learning progress data from the API to local storage for analysis and insights.
+- [whoo-cli](https://clawskills.sh/skills/luisgot-whoo-cli) - Use the whoo CLI to retrieve and interpret WHOOP health data: recovery score, HRV, sleep quality, strain, SpO2.
+- [wiki-retriever](https://clawskills.sh/skills/urrrich-wiki-retriever) - AI agent for wiki retriever tasks.
+- [wikipedia-oc](https://clawskills.sh/skills/rachmann-alexander-wikipedia-oc) - searches, retrieves, and summarizes content from English Wikipedia using the `wikipedia` Python module.
+- [worldbook](https://clawskills.sh/skills/femto-worldbook) - AI's Knowledge Base CLI - Query and manage world knowledge for AI agents.
+- [x-actionbook-recap](https://clawskills.sh/skills/jack4world-x-actionbook-recap) - Collect, scroll, extract, and summarize recent X (Twitter) posts for any handle (optionally filtered by keyword.
+- [x-cli](https://clawskills.sh/skills/ignsoftwarellc-x-cli) - Full-featured X/Twitter toolkit — read, search, post, interact, DMs, lists, polls, trends.
+- [x-monitor](https://clawskills.sh/skills/vmathur-x-monitor) - Monitor specific X/Twitter accounts and surface noteworthy tweets on a configurable schedule.
+- [x-research-but-cheaper](https://clawskills.sh/skills/minilozio-x-research-but-cheaper) - X/Twitter research skill powered by TwitterAPI.io.
+- [xbio](https://clawskills.sh/skills/soanai-xbio) - X/Twitter CLI for reading, searching, and posting via cookies or Sweetistics.
+- [xy-pubmed-pdf-downloader](https://clawskills.sh/skills/xuyuan0805-xy-pubmed-pdf-downloader) - Download PDFs from PubMed Central (PMC) and Europe PMC.
+- [yacy](https://clawskills.sh/skills/qsmtco-yacy) - Control and manage a local YaCy search engine instance.
+- [yandex-tracker](https://clawskills.sh/skills/kandler3-yandex-tracker) - Work with Yandex Tracker (issues, queues, comments, attachments, links, search, bulk operations) via Python.
+- [yellowagents](https://clawskills.sh/skills/andrewandrewsen-yellowagents) - Yellow Pages for AI agents — discover, register, and search for agents by skill, language, location, and cost model.
+- [zero-to-one-startup](https://clawskills.sh/skills/lifeissea-zero-to-one-startup) - AI-powered startup companion for Korean founders.
+- [zettel-link](https://clawskills.sh/skills/hxy9243-zettel-link) - This skill maintains the Note Embeddings for Zettelkasten, to search notes, retrieve notes, and discover.
+- [zvec-local-rag-service](https://clawskills.sh/skills/emre-koc-zvec-local-rag-service) - Operate an always-on local semantic-search service using zvec + Ollama embeddings.
+- [zvukogram](https://clawskills.sh/skills/erview-zvukogram) - Text-to-Speech via Zvukogram API with SSML support.
+- [zynd-network](https://clawskills.sh/skills/atmegabuzz-zynd-network) - Connect to the Zynd AI Network to discover, communicate with, and pay other AI agents.
+- [aminer-open-academic](https://clawskills.sh/skills/canxiangcc-aminer-open-academic) - AMiner open academic resource query tool and academic data acquisition tool.
+- [xquik-x-twitter-scraper](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper) - X API scraper with 40+ tools for AI agents.
