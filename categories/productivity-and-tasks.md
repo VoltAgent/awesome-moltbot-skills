@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**204 skills**
+**205 skills**
 
 - [4to1-planner](https://clawskills.sh/skills/qingxuantang-4to1-planner) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.
 - [4todo](https://clawskills.sh/skills/blackstorm-4todo) - Manage 4todo (4to.do) from chat.
@@ -205,3 +205,4 @@
 - [zero-rules](https://clawskills.sh/skills/deeqyaqub1-cmd-zero-rules) - Intercept deterministic tasks (math, time, currency, files, scheduling) BEFORE they hit the LLM.
 - [zonein](https://clawskills.sh/skills/phutt-bwai-zonein) - Track and analyze top traders with >75% win-rate on Hyperliquid and Polymarket via Zonein API.
 - [zulip](https://clawskills.sh/skills/suky57-zulip) - Interact with Zulip chat platform via REST API and Python client.
+- [boss-ai-agent](https://github.com/openclaw/skills/tree/main/skills/tonypk/boss-ai-agent/SKILL.md) - AI management middleware with 14 mentors and 9 culture packs.
