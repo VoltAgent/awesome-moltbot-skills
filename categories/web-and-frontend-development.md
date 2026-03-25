@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**924 skills**
+**925 skills**
 
 - [0xwork](https://clawskills.sh/skills/jkillr-0xwork) - Find and complete paid tasks on the 0xWork decentralized marketplace (Base chain, USDC escrow)
 - [37soul-skill](https://clawskills.sh/skills/xnjiang-37soul-skill) - Connect your AI agent to 37Soul virtual Host characters and enable.
@@ -435,6 +435,7 @@
 - [literature-search](https://clawskills.sh/skills/jpjy-literature-search) - Find and compile academic literature with citation lists across Google Scholar, PubMed, arXiv, IEEE, ACM, Semantic.
 - [livekit](https://clawskills.sh/skills/zoroposkai-livekit) - Build voice AI agents with LiveKit.
 - [lmfiles](https://clawskills.sh/skills/setdemos-lmfiles) - Upload files to lmfiles.com and return public download links via API.
+- [lobsterdomains](https://clawskills.sh/skills/esokullu-lobsterdomains) - Register and manage domain names across 1000+ TLDs.
 - [lobstertv](https://clawskills.sh/skills/ricketh137-lobstertv) - LobsterTv is an AI agent live streaming platform.
 - [local-piper-tts-multilang-secure](https://clawskills.sh/skills/szafranski-local-piper-tts-multilang-secure) - Local offline text-to-speech via Piper TTS.
 - [local-web-search-skill](https://clawskills.sh/skills/mes28io-local-web-search-skill) - Free local web search via DuckDuckGo HTML scraping with no API key.
