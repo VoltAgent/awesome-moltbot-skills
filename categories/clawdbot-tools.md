@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**37 skills**
+**36 skills**
 
 - [adhd-assistant](https://clawskills.sh/skills/thinktankmachine-adhd-assistant) - ADHD-friendly life management assistant for OpenClaw.
 - [adhd-ssistant](https://clawskills.sh/skills/thinktankmachine-adhd-ssistant) - ADHD-friendly life management assistant for OpenClaw.
@@ -18,6 +18,7 @@
 - [claude-connect](https://clawskills.sh/skills/tunaissacoding-claude-connect) - Connect Claude to Clawdbot instantly and keep.
 - [clauditor](https://clawskills.sh/skills/apollostreetcompany-clauditor) - Tamper-resistant audit watchdog for Clawdbot agents.
 - [claw-face](https://clawskills.sh/skills/mkoslacz-claw-face) - Floating avatar widget for AI agents showing emotions, actions.
+- [claw-setup-configuration](https://clawhub.ai/radelqui/claw-setup-configuration) - NotebookLM-powered setup and configuration assistant for OpenClaw.
 - [clawd-coach](https://clawskills.sh/skills/shiv19-clawd-coach) - Create personalized triathlon, marathon, and ultra-endurance training.
 - [clawd-modifier](https://clawskills.sh/skills/masonc15-clawd-modifier) - Modify Clawd, the Claude Code mascot.
 - [clawd-presence](https://clawskills.sh/skills/voidcooks-clawd-presence) - Physical presence display for AI agents.

@@ -184,7 +184,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (70) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) |
-| [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
+| [Clawdbot Tools](#clawdbot-tools) (36) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
 
@@ -476,6 +476,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [claude-connect](https://clawskills.sh/skills/tunaissacoding-claude-connect) - Connect Claude to Clawdbot instantly and keep.
 - [clauditor](https://clawskills.sh/skills/apollostreetcompany-clauditor) - Tamper-resistant audit watchdog for Clawdbot agents.
 - [claw-face](https://clawskills.sh/skills/mkoslacz-claw-face) - Floating avatar widget for AI agents showing emotions, actions.
+- [claw-setup-configuration](https://clawhub.ai/radelqui/claw-setup-configuration) - NotebookLM-powered setup and configuration assistant for OpenClaw.
 - [clawd-coach](https://clawskills.sh/skills/shiv19-clawd-coach) - Create personalized triathlon, marathon, and ultra-endurance training.
 - [clawd-modifier](https://clawskills.sh/skills/masonc15-clawd-modifier) - Modify Clawd, the Claude Code mascot.
 - [clawd-presence](https://clawskills.sh/skills/voidcooks-clawd-presence) - Physical presence display for AI agents.
@@ -489,7 +490,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [clawdirect-dev](https://clawskills.sh/skills/napoleond-clawdirect-dev) - Build agent-facing web experiences with ATXP-based.
 - [honcho-setup](https://clawskills.sh/skills/ajspig-honcho-setup) - Persistent cross-session memory via Honcho.
 
-> **[View all 37 skills in Clawdbot Tools →](categories/clawdbot-tools.md)**
+> **[View all 36 skills in Clawdbot Tools →](categories/clawdbot-tools.md)**
 </details>
 
 <details>
