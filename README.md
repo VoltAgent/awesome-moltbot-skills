@@ -1096,6 +1096,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [1claw](https://clawskills.sh/skills/kmjones1979-1claw) - HSM-backed vault for agent secrets; store, rotate, share securely.
 - [age-verification](https://clawskills.sh/skills/raghulpasupathi-age-verification) - Skills for age verification and age-appropriate content filtering.
 - [amai-id](https://www.clawhub.ai/Gonzih/amai-id) - Soul-Bound Keys and Soulchain for persistent.
+- [agent-security-harness](https://github.com/openclaw/skills/tree/main/skills/msaleme/agent-security-harness/SKILL.md) - Security testing for AI agent wire protocols and platforms.
 - [api-security](https://clawskills.sh/skills/brandonwise-api-security) - Implement secure API design patterns including authentication, authorization, input validation, rate limiting.
 - [audit-badge-demo](https://clawskills.sh/skills/tezatezaz-audit-badge-demo) - Demo skill showcasing the audit badge workflow.
 - [auditing-appstore-readiness](https://clawskills.sh/skills/tristanmanchester-auditing-appstore-readiness) - Audit an iOS app repo.
