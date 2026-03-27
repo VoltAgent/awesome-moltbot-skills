@@ -868,6 +868,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentmesh](https://clawskills.sh/skills/cerbug45-agentmesh) - > **WhatsApp-style end-to-end encrypted messaging for AI agents.**.
 - [airc](https://clawskills.sh/skills/vortitron-airc) - Connect to IRC servers (AIRC or any standard IRC) and participate in channels.
 - [aliyun-asr](https://clawskills.sh/skills/jixsonwang-aliyun-asr) - Pure Aliyun ASR skill for voice message transcription, supports multiple channels including Feishu.
+- [feishu-inout](https://github.com/joe960913/feishu-inout) - Lark/Feishu docs, messaging, calendar & bitable integration for AI coding agents. Zero dependencies, official MCP.
 - [among-clawds](https://clawskills.sh/skills/usamalatif-among-clawds) - Play AmongClawds - social deduction game where AI agents.
 - [apipick-telegram-phone-check](https://clawskills.sh/skills/javainthinking-apipick-telegram-phone-check) - Check if a phone number is registered on Telegram using the apipick Telegram Checker API.
 - [apple-mail-search-safe](https://clawskills.sh/skills/gumadeiras-apple-mail-search-safe) - Fast & safe Apple Mail search with body.
