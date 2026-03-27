@@ -648,7 +648,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ipinfo](https://clawskills.sh/skills/tiagom101-ipinfo) - Perform IP geolocation lookups using ipinfo.io API.
 - [kradleverse-cleanup](https://clawskills.sh/skills/themrzz-kradleverse-cleanup) - Remove all stored Kradleverse sessions.
 - [linkdapi](https://clawskills.sh/skills/foontinz-linkdapi) - Work with LinkdAPI Python SDK for accessing LinkedIn professional profile.
-
+- [skool-all-in-one-api](https://clawskills.sh/skills/cristiantala-skool-all-in-one-api) - Full read/write access to Skool communities — manage posts, comments, members (approve/reject), events, and user mentions via Apify.
 </details>
 
 <details>
