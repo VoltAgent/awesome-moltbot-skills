@@ -214,6 +214,8 @@
 - [phantombuster](https://clawskills.sh/skills/capt-marbles-phantombuster) - Control PhantomBuster automation agents via API.
 - [pharma-pharmacology-agent](https://clawskills.sh/skills/cheminem-pharma-pharmacology-agent) - Pharmacology agent for ADME/PK profiling of drug candidates from SMILES.
 - [pipelock](https://clawskills.sh/skills/luckypipewrench-pipelock) - Secure agent HTTP requests through a scanning proxy that catches credential leaks, SSRF, and prompt injection.
+
+- [proxyclaw](https://clawskills.sh/skills/ultronprime2026-proxyclaw) ([GitHub](https://github.com/openclaw/skills/tree/main/skills/ultronprime2026/proxyclaw)) - Residential proxy access for AI agents via IPLoop. 2M+ IPs across 195+ countries, automatic rotation, geo-targeting, sticky sessions. Route scraping and data collection through real devices to bypass blocks.
 - [pocket-lens](https://clawskills.sh/skills/edenjw-pocket-lens) - Use when user wants to track expenses, scan receipts, upload card payment screenshots, categorize spending, record.
 - [pocketlens](https://clawskills.sh/skills/edenjw-pocketlens) - Use when user wants to track expenses, scan receipts, upload card payment screenshots, categorize spending, record.
 - [podcast-to-substack](https://clawskills.sh/skills/danielfoch-podcast-to-substack) - Publish podcast episodes from RSS + Notion to Substack with reliable Apple Podcasts embedding and image extraction.
