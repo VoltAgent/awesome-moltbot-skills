@@ -183,7 +183,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (65) | |
 | [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (70) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
-| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) |
+| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (55) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
@@ -1116,10 +1116,11 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [dotnet-expert](https://clawskills.sh/skills/jgarrison929-dotnet-expert) - Use when building .NET 8/9 applications, ASP.NET Core APIs.
 - [domain-trust-check](https://clawskills.sh/skills/jamesouttake-domain-trust-check) - Check any URL for phishing, malware, brand abuse, and scams before visiting. Powered by the Outtake Trust API.
 - [expanso-tls-inspect](https://clawskills.sh/skills/aronchick-expanso-tls-inspect) - Inspect TLS certificate (expiry, SANs, chain, cipher)
+- [innerwarden](https://github.com/InnerWarden/innerwarden) - Security agent that protects your server and your AI agents. Checks commands before they run, blocks dangerous ones, alerts you on Telegram. Installs in 10 seconds.
 - [facebook](https://clawskills.sh/skills/codedao12-facebook) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://clawskills.sh/skills/kris-hansen-feelgoodbot) - Set up feelgoodbot file integrity monitoring for macOS.
 
-> **[View all 54 skills in Security & Passwords →](categories/security-and-passwords.md)**
+> **[View all 55 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
 
 <details>

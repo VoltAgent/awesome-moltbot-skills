@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**54 skills**
+**55 skills**
 
 - [1password](https://clawskills.sh/skills/steipete-1password) - Set up and use 1Password CLI (op).
 - [1claw](https://clawskills.sh/skills/kmjones1979-1claw) - HSM-backed vault for agent secrets; store, rotate, share securely.
@@ -27,6 +27,7 @@
 - [dotnet-expert](https://clawskills.sh/skills/jgarrison929-dotnet-expert) - Use when building .NET 8/9 applications, ASP.NET Core APIs.
 - [domain-trust-check](https://clawskills.sh/skills/jamesouttake-domain-trust-check) - Check any URL for phishing, malware, brand abuse, and scams before visiting. Powered by the Outtake Trust API.
 - [expanso-tls-inspect](https://clawskills.sh/skills/aronchick-expanso-tls-inspect) - Inspect TLS certificate (expiry, SANs, chain, cipher)
+- [innerwarden](https://github.com/InnerWarden/innerwarden) - Security agent that protects your server and your AI agents. Checks commands before they run, blocks dangerous ones, alerts you on Telegram. Installs in 10 seconds.
 - [facebook](https://clawskills.sh/skills/codedao12-facebook) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://clawskills.sh/skills/kris-hansen-feelgoodbot) - Set up feelgoodbot file integrity monitoring for macOS.
 - [gandi-skill](https://clawskills.sh/skills/chrisagiddings-gandi-skill) - Manage Gandi domains, DNS, email, and SSL certificates.
