@@ -45,6 +45,8 @@
 
 # Awesome OpenClaw Skills
 
+[![SafeSkill 81/100](https://img.shields.io/badge/SafeSkill-81%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/voltagent-awesome-openclaw-skills)
+
 OpenClaw is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs. It can also serve as a source of inspiration for OpenClaw use cases.
 
 Skills in this list are sourced from ClawHub (OpenClaw's public skills registry) and categorized for easier discovery.
