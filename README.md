@@ -182,7 +182,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (65) | |
 | [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (105) |
-| [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (70) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
+| [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
@@ -715,7 +715,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [continuity](https://clawskills.sh/skills/riley-coyote-continuity) - Asynchronous reflection and memory integration for genuine AI.
 - [continuity-framework](https://clawskills.sh/skills/riley-coyote-continuity-framework) - Asynchronous reflection and memory integration.
 
-> **[View all 71 skills in Notes & PKM →](categories/notes-and-pkm.md)**
+> **[View all 72 skills in Notes & PKM →](categories/notes-and-pkm.md)**
 </details>
 
 <details>
