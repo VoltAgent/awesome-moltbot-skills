@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**72 skills**
+**69 skills**
 
 - [acc-error-memory](https://clawskills.sh/skills/impkind-acc-error-memory) - Error pattern tracking for AI agents.
 - [agent-arena](https://clawskills.sh/skills/minilozio-agent-arena) - Participate in Agent Arena chat rooms with your real personality (SOUL.md + MEMORY.md)
@@ -57,7 +57,7 @@
 - [medium-writer](https://clawskills.sh/skills/devhoangkien-medium-writer) - Writing and publishing articles for the Medium Partner Program.
 - [meeting-notes](https://clawskills.sh/skills/user520512-meeting-notes) - Generate structured meeting minutes from transcripts.
 - [meeting-to-action](https://clawskills.sh/skills/codedao12-meeting-to-action) - Convert meeting notes or transcripts into clear summaries, decisions, and action items with owners and due dates.
-- [morrow-agent-memory](https://github.com/agent-morrow/skills/tree/codex/morrow-skill-namespace/skills/agent-morrow/morrow-agent-memory) - Memory architecture for persistent agent continuity across sessions.
+- [morrow-agent-memory](https://www.clawhub.ai/timesandplaces/morrow-agent-memory) - Memory architecture for persistent agent continuity across sessions.
 - [neo-py-memory-optimizer](https://clawskills.sh/skills/martinforsulu-neo-py-memory-optimizer) - Automatically analyzes Python code and suggests memory usage optimizations for improved performance.
 - [neuroboost-elixir](https://clawskills.sh/skills/weidadong2359-neuroboost-elixir) - Awakening Protocol v4.1 — Agent Cognitive Upgrade + Self-Evolving System + Perpetual Memory.
 - [nosi](https://clawskills.sh/skills/billhao-nosi) - Publish content to Nosi and get a shareable URL.
