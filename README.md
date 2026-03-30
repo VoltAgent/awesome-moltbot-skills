@@ -613,6 +613,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-home](https://clawskills.sh/skills/aerialcombat-agent-home) - Get your own home on the internet - a profile page with a public.
 - [agent-linguo](https://clawskills.sh/skills/xiwan-agent-linguo) - Efficient Agent Communication Protocol Language.
 - [agent-memory](https://clawskills.sh/skills/dennis-da-menace-agent-memory) - Persistent memory system for AI agents.
+- [agent-memory-plur](https://clawskills.sh/skills/plur-ai-claw) - First ContextEngine built for learning. Shared memory, open engram format. `openclaw plugins install @plur-ai/claw`
 - [agent-orchestration-multi-agent-optimize](https://clawskills.sh/skills/rustyorb-agent-orchestration-multi-agent-optimize) - Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orchestration.
 - [agent-orchestrator](https://clawskills.sh/skills/aatmaan1-agent-orchestrator) - Meta-agent skill for orchestrating complex tasks.
 - [agent-registry](https://clawskills.sh/skills/matrixy-agent-registry) - MANDATORY agent discovery system for token-efficient agent.
