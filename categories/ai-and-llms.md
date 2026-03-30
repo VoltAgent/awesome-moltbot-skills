@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**184 skills**
+**185 skills**
 
 - [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - Agent Attestation Protocol - The Reverse Turing Test.
@@ -137,6 +137,7 @@
 - [smart-context](https://clawskills.sh/skills/joe3112-smart-context) - Token-efficient agent behavior — response sizing, context pruning, tool efficiency, and delegation.
 - [snipeit-skill](https://clawskills.sh/skills/bivex-snipeit-skill) - Interact with Snipe-IT asset management via REST API.
 - [social-media-extractor](https://clawskills.sh/skills/g4dr-social-media-extractor) - This skill enables Claude to extract public data from **Instagram**, **TikTok**, and **Reddit**.
+- [soulpass](https://github.com/soulpassai/soulpass-skill) - Hardware-secured Solana wallet, trading terminal, and agent identity layer.
 - [speakturbo-tts](https://clawskills.sh/skills/emzod-speakturbo-tts) - Give your agent the ability to speak to you real-time.
 - [staratheris-arya-model-router](https://clawskills.sh/skills/staratheris-staratheris-arya-model-router) - Token-saver router: elige modelo (cheap/default/pro) y usa sub-agentes para tareas pesadas.
 - [sui](https://clawskills.sh/skills/easonc13-sui) - Answer questions about Sui blockchain ecosystem, concepts, tokenomics, validators, staking, and general knowledge.
