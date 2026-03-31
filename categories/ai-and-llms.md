@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**185 skills**
+**159 skills**
 
 - [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - Agent Attestation Protocol - The Reverse Turing Test.
