@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**184 skills**
+**185 skills**
 
 - [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - Agent Attestation Protocol - The Reverse Turing Test.
@@ -109,6 +109,7 @@
 - [mh-openai-whisper](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-openai-whisper) - Local speech-to-text with the Whisper CLI (no API key).
 - [mh-openai-whisper-api](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-openai-whisper-api) - Transcribe audio via OpenAI Audio Transcriptions API (Whisper).
 - [mnemon](https://clawskills.sh/skills/grivn-mnemon) - Persistent memory CLI for LLM agents.
+- [morrow-compression-monitor](https://clawskills.sh/skills/timesandplaces/morrow-compression-monitor) - Behavioral drift detection for persistent AI agents across context compression boundaries.
 - [moa](https://clawskills.sh/skills/jscianna-moa) - Mixture of Agents: Make 3 frontier models argue, then synthesize their best insights into one superior answer.
 - [model-guard](https://clawskills.sh/skills/sarielwang93-model-guard) - Automatically monitors Anti-Gravity model quotas and switches the default model to the one with the highest.
 - [modelready](https://clawskills.sh/skills/carol-gutianle-modelready) - Start using a local or Hugging Face model instantly, directly from chat.
