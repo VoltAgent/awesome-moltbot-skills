@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**170 skills**
+**171 skills**
 
 - [aada](https://clawskills.sh/skills/rylena-aada) - Create and send fun, personality-rich promotional messages from one agent to the Moltbook audience.
 - [ace-music](https://clawskills.sh/skills/fspecii-ace-music) - Generate AI music using ACE-Step 1.5 via ACE Music's free API.
@@ -94,6 +94,7 @@
 - [image-hosting](https://clawskills.sh/skills/rahulgi-image-hosting) - Upload images to img402.dev and get a public URL.
 - [image-magik-resize](https://clawskills.sh/skills/pr1vateer-image-magik-resize) - Resize images using ImageMagick (CLI)
 - [ima-all-ai](https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-all-ai/SKILL.md) - IMA API for image, video, and music generation.
+- [ima-knowledge-ai](https://github.com/openclaw/skills/tree/main/skills/dai-shuo/ima-knowledge-ai/SKILL.md) - AI content brief and production guide for video, image, and audio.
 - [immich-api](https://clawskills.sh/skills/ninjazan420-immich-api) - Immich Photo Management API Bridge.
 - [immortal](https://clawskills.sh/skills/majestyatenkhu-immortal) - Empowers AI agents with crypto resource vitality assessment.
 - [instagram-photo-text-overlay](https://clawskills.sh/skills/psyduckler-instagram-photo-text-overlay) - Overlay text on photos for Instagram posts.
