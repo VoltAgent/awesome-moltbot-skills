@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**65 skills**
+**66 skills**
 
 - [accli](https://clawskills.sh/skills/joargp-accli) - This skill should be used when interacting with Apple Calendar on macOS.
 - [advanced-calendar](https://clawskills.sh/skills/toughworm-advanced-calendar) - Advanced calendar skill with natural language.
@@ -16,6 +16,7 @@
 - [calcurse](https://clawskills.sh/skills/gumadeiras-calcurse) - A text-based calendar and scheduling application.
 - [calendar-scheduling](https://clawskills.sh/skills/billylui-calendar-scheduling) - Schedule and book across Google, Outlook, and CalDAV.
 - [caldav-calendar](https://clawskills.sh/skills/asleep123-caldav-calendar) - Sync and query CalDAV calendars.
+- [chairsync](https://clawskills.sh/skills/jakeaaronson-chairsync) - Find and book hair stylists, barbers, and salon appointments.
 - [clippy](https://clawskills.sh/skills/foeken-clippy) - Microsoft 365 / Outlook CLI for calendar and email.
 - [creative-thought-partner](https://clawskills.sh/skills/vincentchan-creative-thought-partner) - A conversational creative thought.
 - [cron-optimizer](https://clawskills.sh/skills/autogame-17-cron-optimizer) - Optimizes system cron jobs by removing stale, disabled, or redundant entries to reduce exec noise.
