@@ -15,7 +15,7 @@
 </div>
   
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Skills Count](https://img.shields.io/badge/skills-5198-blue?style=flat-square)](#table-of-contents)
+[![Skills Count](https://img.shields.io/badge/skills-5212-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
@@ -76,7 +76,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 ### Why This List Exists?
 
-OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as of February 28, 2026. This awesome list has **5,211 skills**. Here's what we filtered out:
+OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as of February 28, 2026. This awesome list has **5,225 skills**. Here's what we filtered out:
 
 | Filter | Excluded |
 |--------|----------|
@@ -179,7 +179,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (102) | [Communication](#communication) (146) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (205) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (322) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
-| [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
+| [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (42) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (65) | |
 | [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (70) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
@@ -648,6 +648,20 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ipinfo](https://clawskills.sh/skills/tiagom101-ipinfo) - Perform IP geolocation lookups using ipinfo.io API.
 - [kradleverse-cleanup](https://clawskills.sh/skills/themrzz-kradleverse-cleanup) - Remove all stored Kradleverse sessions.
 - [linkdapi](https://clawskills.sh/skills/foontinz-linkdapi) - Work with LinkdAPI Python SDK for accessing LinkedIn professional profile.
+- [oraclaw-anomaly](https://clawskills.sh/skills/whatsonyourmind-oraclaw-anomaly) - Z-score, IQR, and streaming anomaly detection.
+- [oraclaw-bandit](https://clawskills.sh/skills/whatsonyourmind-oraclaw-bandit) - A/B testing via Multi-Armed Bandits (UCB1, Thompson, LinUCB).
+- [oraclaw-bayesian](https://clawskills.sh/skills/whatsonyourmind-oraclaw-bayesian) - Bayesian inference and belief updating.
+- [oraclaw-calibrate](https://clawskills.sh/skills/whatsonyourmind-oraclaw-calibrate) - Brier score, log score, and convergence analysis.
+- [oraclaw-cmaes](https://clawskills.sh/skills/whatsonyourmind-oraclaw-cmaes) - CMA-ES continuous optimization.
+- [oraclaw-decide](https://clawskills.sh/skills/whatsonyourmind-oraclaw-decide) - Decision intelligence with dependency mapping.
+- [oraclaw-ensemble](https://clawskills.sh/skills/whatsonyourmind-oraclaw-ensemble) - Multi-model consensus via voting, stacking, and BMA.
+- [oraclaw-evolve](https://clawskills.sh/skills/whatsonyourmind-oraclaw-evolve) - Genetic algorithm multi-objective Pareto optimization.
+- [oraclaw-forecast](https://clawskills.sh/skills/whatsonyourmind-oraclaw-forecast) - ARIMA and Holt-Winters time series forecasting.
+- [oraclaw-graph](https://clawskills.sh/skills/whatsonyourmind-oraclaw-graph) - PageRank, Louvain communities, and critical path analysis.
+- [oraclaw-pathfind](https://clawskills.sh/skills/whatsonyourmind-oraclaw-pathfind) - A* and K-shortest paths via Yen's algorithm.
+- [oraclaw-risk](https://clawskills.sh/skills/whatsonyourmind-oraclaw-risk) - VaR, CVaR, stress testing, and multi-factor risk scoring.
+- [oraclaw-simulate](https://clawskills.sh/skills/whatsonyourmind-oraclaw-simulate) - Monte Carlo simulation with six distribution types.
+- [oraclaw-solver](https://clawskills.sh/skills/whatsonyourmind-oraclaw-solver) - LP/MIP scheduling and resource optimization.
 
 </details>
 
