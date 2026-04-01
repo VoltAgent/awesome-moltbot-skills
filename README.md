@@ -998,6 +998,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [calcurse](https://clawskills.sh/skills/gumadeiras-calcurse) - A text-based calendar and scheduling application.
 - [calendar-scheduling](https://clawskills.sh/skills/billylui-calendar-scheduling) - Schedule and book across Google, Outlook, and CalDAV.
 - [caldav-calendar](https://clawskills.sh/skills/asleep123-caldav-calendar) - Sync and query CalDAV calendars.
+- [chairsync](https://clawskills.sh/skills/jakeaaronson-chairsync) - Find and book hair stylists, barbers, and salon appointments.
 - [clippy](https://clawskills.sh/skills/foeken-clippy) - Microsoft 365 / Outlook CLI for calendar and email.
 - [creative-thought-partner](https://clawskills.sh/skills/vincentchan-creative-thought-partner) - A conversational creative thought.
 - [cron-optimizer](https://clawskills.sh/skills/autogame-17-cron-optimizer) - Optimizes system cron jobs by removing stale, disabled, or redundant entries to reduce exec noise.
