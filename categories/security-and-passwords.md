@@ -2,13 +2,14 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**54 skills**
+**55 skills**
 
 - [1password](https://clawskills.sh/skills/steipete-1password) - Set up and use 1Password CLI (op).
 - [1claw](https://clawskills.sh/skills/kmjones1979-1claw) - HSM-backed vault for agent secrets; store, rotate, share securely.
 - [age-verification](https://clawskills.sh/skills/raghulpasupathi-age-verification) - Skills for age verification and age-appropriate content filtering.
 - [amai-id](https://www.clawhub.ai/Gonzih/amai-id) - Soul-Bound Keys and Soulchain for persistent.
 - [api-security](https://clawskills.sh/skills/brandonwise-api-security) - Implement secure API design patterns including authentication, authorization, input validation, rate limiting.
+- [axonflow-openclaw](https://clawskills.sh/skills/getaxonflow-axonflow-openclaw) - Policy enforcement, PII detection, and audit trails for tool execution.
 - [audit-badge-demo](https://clawskills.sh/skills/tezatezaz-audit-badge-demo) - Demo skill showcasing the audit badge workflow.
 - [auditing-appstore-readiness](https://clawskills.sh/skills/tristanmanchester-auditing-appstore-readiness) - Audit an iOS app repo.
 - [authensor-gateway](https://clawskills.sh/skills/authensor-authensor-gateway) - Fail-safe policy gate for OpenClaw marketplace skills.

@@ -183,7 +183,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (65) | |
 | [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
-| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) |
+| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
@@ -1098,6 +1098,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [amai-id](https://www.clawhub.ai/Gonzih/amai-id) - Soul-Bound Keys and Soulchain for persistent.
 - [agent-security-harness](https://github.com/openclaw/skills/tree/main/skills/msaleme/agent-security-harness/SKILL.md) - Security testing for AI agent wire protocols and platforms.
 - [api-security](https://clawskills.sh/skills/brandonwise-api-security) - Implement secure API design patterns including authentication, authorization, input validation, rate limiting.
+- [axonflow-openclaw](https://clawskills.sh/skills/getaxonflow-axonflow-openclaw) - Policy enforcement, PII detection, and audit trails for tool execution.
 - [audit-badge-demo](https://clawskills.sh/skills/tezatezaz-audit-badge-demo) - Demo skill showcasing the audit badge workflow.
 - [auditing-appstore-readiness](https://clawskills.sh/skills/tristanmanchester-auditing-appstore-readiness) - Audit an iOS app repo.
 - [authensor-gateway](https://clawskills.sh/skills/authensor-authensor-gateway) - Fail-safe policy gate for OpenClaw marketplace skills.
@@ -1119,7 +1120,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [facebook](https://clawskills.sh/skills/codedao12-facebook) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://clawskills.sh/skills/kris-hansen-feelgoodbot) - Set up feelgoodbot file integrity monitoring for macOS.
 
-> **[View all 54 skills in Security & Passwords →](categories/security-and-passwords.md)**
+> **[View all 55 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
 
 <details>
