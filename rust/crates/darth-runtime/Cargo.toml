@@ -1,0 +1,20 @@
+[package]
+name = "darth-runtime"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+sha2 = "0.10"
+glob = "0.3"
+darth-lsp = { path = "../darth-lsp" }
+darth-plugins = { path = "../darth-plugins" }
+regex = "1"
+serde = { version = "1", features = ["derive"] }
+serde_json.workspace = true
+tokio = { version = "1", features = ["io-util", "macros", "process", "rt", "rt-multi-thread", "time"] }
+walkdir = "2"
+
+[lints]
+workspace = true

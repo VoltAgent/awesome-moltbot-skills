@@ -1,0 +1,27 @@
+[package]
+name = "darth-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[[bin]]
+name = "darth"
+path = "src/main.rs"
+
+[dependencies]
+darth-api = { path = "../darth-api" }
+darth-commands = { path = "../darth-commands" }
+darth-compat = { path = "../darth-compat" }
+crossterm = "0.28"
+pulldown-cmark = "0.13"
+rustyline = "15"
+darth-runtime = { path = "../darth-runtime" }
+darth-plugins = { path = "../darth-plugins" }
+serde_json.workspace = true
+syntect = "5"
+tokio = { version = "1", features = ["rt-multi-thread", "time"] }
+darth-tools = { path = "../darth-tools" }
+
+[lints]
+workspace = true
