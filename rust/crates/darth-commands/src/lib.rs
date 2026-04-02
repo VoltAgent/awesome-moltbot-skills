@@ -292,8 +292,8 @@ const SLASH_COMMAND_SPECS: &[SlashCommandSpec] = &[
     SlashCommandSpec {
         name: "skills",
         aliases: &[],
-        summary: "List available skills",
-        argument_hint: None,
+        summary: "List and search skills (local + registry)",
+        argument_hint: Some("[list|search|browse|categories|info|install]"),
         resume_supported: true,
         category: SlashCommandCategory::Automation,
     },
@@ -686,6 +686,308 @@ struct SkillRoot {
     origin: SkillOrigin,
 }
 
+// ---------------------------------------------------------------------------
+// Skill Registry (community markdown registry)
+// ---------------------------------------------------------------------------
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+struct RegistrySkill {
+    slug: String,
+    author: String,
+    url: String,
+    description: String,
+    category: String,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+struct RegistryCategory {
+    name: String,
+    slug: String,
+    skill_count: usize,
+    skills: Vec<RegistrySkill>,
+}
+
+struct SkillRegistry {
+    categories: Vec<RegistryCategory>,
+}
+
+impl SkillRegistry {
+    fn total_skills(&self) -> usize {
+        self.categories.iter().map(|c| c.skills.len()).sum()
+    }
+
+    fn search(&self, query: &str, limit: usize) -> Vec<&RegistrySkill> {
+        let q = query.to_ascii_lowercase();
+        let mut results = Vec::new();
+        for cat in &self.categories {
+            for skill in &cat.skills {
+                if skill.slug.to_ascii_lowercase().contains(&q)
+                    || skill.description.to_ascii_lowercase().contains(&q)
+                {
+                    results.push(skill);
+                    if results.len() >= limit {
+                        return results;
+                    }
+                }
+            }
+        }
+        results
+    }
+
+    fn find_skill(&self, name: &str) -> Option<&RegistrySkill> {
+        let n = name.to_ascii_lowercase();
+        self.categories
+            .iter()
+            .flat_map(|c| &c.skills)
+            .find(|s| s.slug.to_ascii_lowercase() == n)
+    }
+
+    fn find_category(&self, slug_or_name: &str) -> Option<&RegistryCategory> {
+        let q = slug_or_name.to_ascii_lowercase();
+        self.categories
+            .iter()
+            .find(|c| c.slug == q || c.name.to_ascii_lowercase() == q)
+    }
+}
+
+fn parse_registry_skill_line(line: &str, category: &str) -> Option<RegistrySkill> {
+    let rest = line.strip_prefix("- [")?;
+    let (slug, rest) = rest.split_once("](")? ;
+    let (url, rest) = rest.split_once(") - ")?;
+    let description = rest.trim().to_string();
+    let author = url
+        .rsplit("/skills/")
+        .next()
+        .and_then(|s| s.split('/').next())
+        .unwrap_or("unknown")
+        .to_string();
+    Some(RegistrySkill {
+        slug: slug.to_string(),
+        author,
+        url: url.to_string(),
+        description,
+        category: category.to_string(),
+    })
+}
+
+fn parse_category_file(path: &Path) -> io::Result<RegistryCategory> {
+    let content = fs::read_to_string(path)?;
+    let slug = path
+        .file_stem()
+        .and_then(|s| s.to_str())
+        .unwrap_or("unknown")
+        .to_string();
+    let mut name = slug.clone();
+    let mut skill_count = 0;
+    let mut skills = Vec::new();
+
+    for line in content.lines() {
+        if let Some(heading) = line.strip_prefix("# ") {
+            name = heading.trim().to_string();
+        } else if line.starts_with("**") && line.ends_with("skills**") {
+            if let Some(count_str) = line.strip_prefix("**").and_then(|s| s.strip_suffix(" skills**")) {
+                skill_count = count_str.replace(',', "").parse().unwrap_or(0);
+            }
+        } else if line.starts_with("- [") {
+            if let Some(skill) = parse_registry_skill_line(line, &name) {
+                skills.push(skill);
+            }
+        }
+    }
+
+    Ok(RegistryCategory {
+        name,
+        slug,
+        skill_count: if skill_count > 0 { skill_count } else { skills.len() },
+        skills,
+    })
+}
+
+fn discover_registry_dir(cwd: &Path) -> Option<PathBuf> {
+    if let Ok(path) = env::var("DARTH_REGISTRY_PATH") {
+        let p = PathBuf::from(path);
+        if p.is_dir() {
+            return Some(p);
+        }
+    }
+    let mut dir = cwd;
+    loop {
+        let candidate = dir.join("categories");
+        if candidate.is_dir()
+            && fs::read_dir(&candidate)
+                .ok()
+                .map_or(false, |mut entries| {
+                    entries.any(|e| {
+                        e.ok()
+                            .map_or(false, |e| e.path().extension().is_some_and(|ext| ext == "md"))
+                    })
+                })
+        {
+            return Some(candidate);
+        }
+        dir = dir.parent()?;
+    }
+}
+
+fn load_registry(categories_dir: &Path) -> io::Result<SkillRegistry> {
+    let mut categories = Vec::new();
+    let mut entries: Vec<_> = fs::read_dir(categories_dir)?
+        .filter_map(Result::ok)
+        .filter(|e| e.path().extension().is_some_and(|ext| ext == "md"))
+        .collect();
+    entries.sort_by_key(|e| e.path());
+    for entry in entries {
+        match parse_category_file(&entry.path()) {
+            Ok(cat) => categories.push(cat),
+            Err(_) => continue,
+        }
+    }
+    Ok(SkillRegistry { categories })
+}
+
+static REGISTRY_CACHE: std::sync::OnceLock<Option<SkillRegistry>> = std::sync::OnceLock::new();
+
+fn get_or_load_registry(cwd: &Path) -> io::Result<&'static SkillRegistry> {
+    let cached = REGISTRY_CACHE.get_or_init(|| {
+        discover_registry_dir(cwd).and_then(|dir| load_registry(&dir).ok())
+    });
+    cached.as_ref().ok_or_else(|| {
+        io::Error::new(
+            io::ErrorKind::NotFound,
+            "Registry categories/ directory not found. Set DARTH_REGISTRY_PATH to override.",
+        )
+    })
+}
+
+fn render_registry_summary(registry: &SkillRegistry) -> String {
+    let total = registry.total_skills();
+    let cat_count = registry.categories.len();
+    [
+        "Registry".to_string(),
+        format!("  {total} skills across {cat_count} categories"),
+        "  /skills search <query>     Search by keyword".to_string(),
+        "  /skills browse <category>  Explore a category".to_string(),
+        "  /skills categories         List all categories".to_string(),
+    ]
+    .join("\n")
+}
+
+fn render_registry_search(registry: &SkillRegistry, query: &str) -> String {
+    let results = registry.search(query, 25);
+    if results.is_empty() {
+        return format!("No skills found matching \"{query}\".");
+    }
+    let mut lines = vec![format!(
+        "Registry Search: \"{query}\" ({} match{})",
+        results.len(),
+        if results.len() == 1 { "" } else { "es" }
+    )];
+    for skill in &results {
+        lines.push(format!(
+            "  {:<30} {} · {}",
+            skill.slug, skill.description, skill.category
+        ));
+    }
+    if results.len() == 25 {
+        lines.push("  ... (showing first 25 results)".to_string());
+    }
+    lines.join("\n")
+}
+
+fn render_registry_browse(registry: &SkillRegistry, category_slug: &str) -> String {
+    match registry.find_category(category_slug) {
+        Some(cat) => {
+            let mut lines = vec![format!("{} ({} skills)", cat.name, cat.skills.len())];
+            for skill in &cat.skills {
+                lines.push(format!("  {:<30} {}", skill.slug, skill.description));
+            }
+            lines.join("\n")
+        }
+        None => {
+            let mut lines = vec![format!(
+                "Category \"{category_slug}\" not found. Available categories:"
+            )];
+            for cat in &registry.categories {
+                lines.push(format!("  {:<35} {}", cat.slug, cat.name));
+            }
+            lines.join("\n")
+        }
+    }
+}
+
+fn render_registry_info(registry: &SkillRegistry, name: &str) -> String {
+    match registry.find_skill(name) {
+        Some(skill) => [
+            format!("Skill: {}", skill.slug),
+            format!("  Author           {}", skill.author),
+            format!("  Category         {}", skill.category),
+            format!("  Description      {}", skill.description),
+            format!("  URL              {}", skill.url),
+            format!("  Install          /skills install {}", skill.slug),
+        ]
+        .join("\n"),
+        None => format!("Skill \"{name}\" not found in the registry. Use /skills search {name} to find similar skills."),
+    }
+}
+
+fn render_registry_categories(registry: &SkillRegistry) -> String {
+    let mut lines = vec![format!(
+        "Registry Categories ({} total)",
+        registry.categories.len()
+    )];
+    for cat in &registry.categories {
+        lines.push(format!(
+            "  {:<35} {} ({} skills)",
+            cat.slug, cat.name, cat.skills.len()
+        ));
+    }
+    lines.join("\n")
+}
+
+fn handle_registry_install(
+    registry: &SkillRegistry,
+    name: &str,
+    cwd: &Path,
+) -> io::Result<String> {
+    let skill = match registry.find_skill(name) {
+        Some(s) => s,
+        None => {
+            return Ok(format!(
+                "Skill \"{name}\" not found. Use /skills search {name} to find similar skills."
+            ))
+        }
+    };
+
+    let install_dir = cwd.join(".darth").join("skills").join(&skill.slug);
+    fs::create_dir_all(&install_dir)?;
+
+    let raw_url = skill
+        .url
+        .replace("github.com", "raw.githubusercontent.com")
+        .replace("/tree/main/", "/main/");
+
+    let output = Command::new("curl")
+        .args(["-sL", "-o"])
+        .arg(install_dir.join("SKILL.md"))
+        .arg(&raw_url)
+        .output()?;
+
+    if output.status.success() {
+        Ok(format!(
+            "Installed \"{}\" to {}\n  Source: {}",
+            skill.slug,
+            install_dir.display(),
+            skill.url
+        ))
+    } else {
+        Ok(format!(
+            "Failed to download skill \"{}\": {}",
+            skill.slug,
+            String::from_utf8_lossy(&output.stderr)
+        ))
+    }
+}
+
 #[allow(clippy::too_many_lines)]
 pub fn handle_plugins_slash_command(
     action: Option<&str>,
@@ -815,7 +1117,48 @@ pub fn handle_skills_slash_command(args: Option<&str>, cwd: &Path) -> std::io::R
         None | Some("list") => {
             let roots = discover_skill_roots(cwd);
             let skills = load_skills_from_roots(&roots)?;
-            Ok(render_skills_report(&skills))
+            let local_report = render_skills_report(&skills);
+            let registry_section = match get_or_load_registry(cwd) {
+                Ok(reg) => format!("\n\n{}", render_registry_summary(reg)),
+                Err(_) => String::new(),
+            };
+            Ok(format!("{local_report}{registry_section}"))
+        }
+        Some(sub) if sub.starts_with("search ") => {
+            let query = sub.strip_prefix("search ").unwrap_or("").trim();
+            if query.is_empty() {
+                return Ok("Usage: /skills search <query>".to_string());
+            }
+            let registry = get_or_load_registry(cwd)?;
+            Ok(render_registry_search(registry, query))
+        }
+        Some(sub) if sub.starts_with("browse ") => {
+            let category = sub.strip_prefix("browse ").unwrap_or("").trim();
+            if category.is_empty() {
+                return Ok("Usage: /skills browse <category>".to_string());
+            }
+            let registry = get_or_load_registry(cwd)?;
+            Ok(render_registry_browse(registry, category))
+        }
+        Some(sub) if sub.starts_with("info ") => {
+            let name = sub.strip_prefix("info ").unwrap_or("").trim();
+            if name.is_empty() {
+                return Ok("Usage: /skills info <name>".to_string());
+            }
+            let registry = get_or_load_registry(cwd)?;
+            Ok(render_registry_info(registry, name))
+        }
+        Some(sub) if sub.starts_with("install ") => {
+            let name = sub.strip_prefix("install ").unwrap_or("").trim();
+            if name.is_empty() {
+                return Ok("Usage: /skills install <name>".to_string());
+            }
+            let registry = get_or_load_registry(cwd)?;
+            handle_registry_install(registry, name, cwd)
+        }
+        Some("categories") => {
+            let registry = get_or_load_registry(cwd)?;
+            Ok(render_registry_categories(registry))
         }
         Some("-h" | "--help" | "help") => Ok(render_skills_usage(None)),
         Some(args) => Ok(render_skills_usage(Some(args))),
@@ -1721,9 +2064,18 @@ fn render_agents_usage(unexpected: Option<&str>) -> String {
 fn render_skills_usage(unexpected: Option<&str>) -> String {
     let mut lines = vec![
         "Skills".to_string(),
-        "  Usage            /skills".to_string(),
+        "  Usage            /skills [subcommand]".to_string(),
         "  Direct CLI       darth skills".to_string(),
-        "  Sources          .codex/skills, .darth/skills, legacy /commands".to_string(),
+        String::new(),
+        "  Subcommands:".to_string(),
+        "    list             Show installed skills + registry summary (default)".to_string(),
+        "    search <query>   Search the skill registry by keyword".to_string(),
+        "    browse <cat>     List skills in a category".to_string(),
+        "    categories       List all registry categories".to_string(),
+        "    info <name>      Show details about a specific skill".to_string(),
+        "    install <name>   Install a skill from the registry".to_string(),
+        String::new(),
+        "  Sources          .codex/skills, .darth/skills, community registry".to_string(),
     ];
     if let Some(args) = unexpected {
         lines.push(format!("  Unexpected       {args}"));
@@ -2417,7 +2769,7 @@ mod tests {
         let skills_help =
             super::handle_skills_slash_command(Some("--help"), &cwd).expect("skills help");
         assert!(skills_help.contains("Usage            /skills"));
-        assert!(skills_help.contains("legacy /commands"));
+        assert!(skills_help.contains("community registry"));
 
         let skills_unexpected =
             super::handle_skills_slash_command(Some("show help"), &cwd).expect("skills usage");
@@ -2663,5 +3015,131 @@ mod tests {
         let _ = fs::remove_dir_all(repo);
         let _ = fs::remove_dir_all(remote);
         let _ = fs::remove_dir_all(fake_bin);
+    }
+
+    #[test]
+    fn parses_registry_skill_line() {
+        let line = "- [agent-memory](https://github.com/openclaw/skills/tree/main/skills/dennis/agent-memory/SKILL.md) - Persistent memory system for AI agents.";
+        let skill = super::parse_registry_skill_line(line, "AI & LLMs").unwrap();
+        assert_eq!(skill.slug, "agent-memory");
+        assert_eq!(skill.author, "dennis");
+        assert_eq!(skill.description, "Persistent memory system for AI agents.");
+        assert_eq!(skill.category, "AI & LLMs");
+        assert!(skill.url.contains("openclaw/skills"));
+    }
+
+    #[test]
+    fn parses_registry_skill_line_rejects_invalid() {
+        assert!(super::parse_registry_skill_line("not a skill", "cat").is_none());
+        assert!(super::parse_registry_skill_line("- plain bullet", "cat").is_none());
+        assert!(super::parse_registry_skill_line("[← Back](../README.md)", "cat").is_none());
+    }
+
+    #[test]
+    fn parses_category_file() {
+        let root = std::env::temp_dir().join(format!(
+            "darth-cat-test-{}",
+            SystemTime::now()
+                .duration_since(UNIX_EPOCH)
+                .unwrap()
+                .as_nanos()
+        ));
+        fs::create_dir_all(&root).unwrap();
+        let path = root.join("test-category.md");
+        fs::write(
+            &path,
+            "\
+# Test Category
+
+[← Back to main list](../README.md)
+
+**3 skills**
+
+- [skill-a](https://github.com/openclaw/skills/tree/main/skills/author1/skill-a/SKILL.md) - First skill.
+- [skill-b](https://github.com/openclaw/skills/tree/main/skills/author2/skill-b/SKILL.md) - Second skill.
+- [skill-c](https://github.com/openclaw/skills/tree/main/skills/author3/skill-c/SKILL.md) - Third skill.
+",
+        )
+        .unwrap();
+
+        let cat = super::parse_category_file(&path).unwrap();
+        assert_eq!(cat.name, "Test Category");
+        assert_eq!(cat.slug, "test-category");
+        assert_eq!(cat.skill_count, 3);
+        assert_eq!(cat.skills.len(), 3);
+        assert_eq!(cat.skills[0].slug, "skill-a");
+        assert_eq!(cat.skills[1].author, "author2");
+        assert_eq!(cat.skills[2].description, "Third skill.");
+
+        let _ = fs::remove_dir_all(root);
+    }
+
+    #[test]
+    fn registry_search_finds_matching_skills() {
+        let registry = super::SkillRegistry {
+            categories: vec![super::RegistryCategory {
+                name: "Test".to_string(),
+                slug: "test".to_string(),
+                skill_count: 3,
+                skills: vec![
+                    super::RegistrySkill {
+                        slug: "agent-memory".to_string(),
+                        author: "a".to_string(),
+                        url: String::new(),
+                        description: "Persistent memory for agents".to_string(),
+                        category: "Test".to_string(),
+                    },
+                    super::RegistrySkill {
+                        slug: "web-search".to_string(),
+                        author: "b".to_string(),
+                        url: String::new(),
+                        description: "Search the web".to_string(),
+                        category: "Test".to_string(),
+                    },
+                    super::RegistrySkill {
+                        slug: "code-review".to_string(),
+                        author: "c".to_string(),
+                        url: String::new(),
+                        description: "Review code changes".to_string(),
+                        category: "Test".to_string(),
+                    },
+                ],
+            }],
+        };
+
+        let results = registry.search("memory", 25);
+        assert_eq!(results.len(), 1);
+        assert_eq!(results[0].slug, "agent-memory");
+
+        let results = registry.search("search", 25);
+        assert_eq!(results.len(), 1);
+        assert_eq!(results[0].slug, "web-search");
+
+        assert!(registry.search("nonexistent", 25).is_empty());
+    }
+
+    #[test]
+    fn registry_find_skill_and_category() {
+        let registry = super::SkillRegistry {
+            categories: vec![super::RegistryCategory {
+                name: "AI & LLMs".to_string(),
+                slug: "ai-and-llms".to_string(),
+                skill_count: 1,
+                skills: vec![super::RegistrySkill {
+                    slug: "agent-memory".to_string(),
+                    author: "a".to_string(),
+                    url: String::new(),
+                    description: "Memory".to_string(),
+                    category: "AI & LLMs".to_string(),
+                }],
+            }],
+        };
+
+        assert!(registry.find_skill("agent-memory").is_some());
+        assert!(registry.find_skill("Agent-Memory").is_some());
+        assert!(registry.find_skill("nonexistent").is_none());
+        assert!(registry.find_category("ai-and-llms").is_some());
+        assert!(registry.find_category("AI & LLMs").is_some());
+        assert!(registry.find_category("nonexistent").is_none());
     }
 }
