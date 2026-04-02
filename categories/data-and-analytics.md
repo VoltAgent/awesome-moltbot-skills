@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**39 skills**
+**49 skills**
 
 - [add-analytics](https://clawskills.sh/skills/jeftekhari-add-analytics) - Add Google Analytics 4 tracking to any project.
 - [amplitude-automation](https://clawskills.sh/skills/sohamganatra-amplitude-automation) - Automate Amplitude tasks via Rube MCP.
@@ -28,6 +28,20 @@
 - [linkdapi](https://clawskills.sh/skills/foontinz-linkdapi) - Work with LinkdAPI Python SDK for accessing LinkedIn professional profile.
 - [netlify](https://clawskills.sh/skills/ajmwagar-netlify) - Use the Netlify CLI (netlify) to create/link Netlify sites and set up CI/CD.
 - [nocodb](https://clawskills.sh/skills/nickian-nocodb) - Access and manage NocoDB databases, tables, and records via REST API.
+- [oraclaw-anomaly](https://clawskills.sh/skills/whatsonyourmind-oraclaw-anomaly) - Anomaly detection via Z-score, IQR, and streaming.
+- [oraclaw-bandit](https://clawskills.sh/skills/whatsonyourmind-oraclaw-bandit) - A/B testing with multi-armed bandits (UCB1, Thompson, LinUCB).
+- [oraclaw-bayesian](https://clawskills.sh/skills/whatsonyourmind-oraclaw-bayesian) - Bayesian inference and belief updating.
+- [oraclaw-calibrate](https://clawskills.sh/skills/whatsonyourmind-oraclaw-calibrate) - Prediction quality scoring (Brier, log, convergence).
+- [oraclaw-cmaes](https://clawskills.sh/skills/whatsonyourmind-oraclaw-cmaes) - CMA-ES continuous optimization.
+- [oraclaw-decide](https://clawskills.sh/skills/whatsonyourmind-oraclaw-decide) - Decision intelligence with dependency mapping.
+- [oraclaw-ensemble](https://clawskills.sh/skills/whatsonyourmind-oraclaw-ensemble) - Multi-model consensus via voting, stacking, BMA.
+- [oraclaw-evolve](https://clawskills.sh/skills/whatsonyourmind-oraclaw-evolve) - Genetic algorithm multi-objective Pareto optimization.
+- [oraclaw-forecast](https://clawskills.sh/skills/whatsonyourmind-oraclaw-forecast) - ARIMA and Holt-Winters time series forecasting.
+- [oraclaw-graph](https://clawskills.sh/skills/whatsonyourmind-oraclaw-graph) - PageRank, Louvain communities, critical path analysis.
+- [oraclaw-pathfind](https://clawskills.sh/skills/whatsonyourmind-oraclaw-pathfind) - A* and K-shortest paths via Yen's algorithm.
+- [oraclaw-risk](https://clawskills.sh/skills/whatsonyourmind-oraclaw-risk) - VaR, CVaR, stress testing, multi-factor risk scoring.
+- [oraclaw-simulate](https://clawskills.sh/skills/whatsonyourmind-oraclaw-simulate) - Monte Carlo simulation with six distributions.
+- [oraclaw-solver](https://clawskills.sh/skills/whatsonyourmind-oraclaw-solver) - LP/MIP scheduling and resource optimization.
 - [osint-graph-analyzer](https://clawskills.sh/skills/orosha-ai-osint-graph-analyzer) - Build knowledge graphs from OSINT data.
 - [remove-analytics](https://clawskills.sh/skills/jeftekhari-remove-analytics) - Safely remove Google Analytics from a project.
 - [senior-data-engineer](https://clawskills.sh/skills/alirezarezvani-senior-data-engineer) - Data engineering skill for building scalable.
