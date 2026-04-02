@@ -345,7 +345,10 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentkeys](https://clawskills.sh/skills/alexandr-belogubov-agentkeys) - Secure credential proxy for AI agents.
 - [agentmemory](https://clawskills.sh/skills/badaramoni-agentmemory) - End-to-end encrypted cloud memory for AI agents.
 
-> **[View all 392 skills in DevOps & Cloud →](categories/devops-and-cloud.md)**
+- [power-automate-build](https://clawskills.sh/skills/ninihen1-power-automate-build) - Build and deploy Power Automate flows from scratch.
+- [power-automate-debug](https://clawskills.sh/skills/ninihen1-power-automate-debug) - Step-by-step debugging for failing Power Automate flows.
+- [power-automate-mcp](https://clawskills.sh/skills/ninihen1-power-automate-mcp) - Read, debug, and modify Power Automate flows via MCP.
+> **[View all 395 skills in DevOps & Cloud →](categories/devops-and-cloud.md)**
 </details>
 
 <details>
