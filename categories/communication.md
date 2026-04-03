@@ -13,6 +13,7 @@
 - [agenthc-market-intelligence](https://clawskills.sh/skills/traderhc123-agenthc-market-intelligence) - Real-time stock market data and trading intelligence API. 85 intelligence modules, 40 encoded intelligence skills.
 - [agentmanager](https://clawskills.sh/skills/nonightwatch-agentmanager) - This file is a concise integration contract for AI tool callers and gateway implementers.
 - [agentmesh](https://clawskills.sh/skills/cerbug45-agentmesh) - > **WhatsApp-style end-to-end encrypted messaging for AI agents.**.
+- [agentphone](https://github.com/AgentPhone-AI/skills) - AI phone agents with voice calls, SMS, streaming webhooks, and real-time conversations.
 - [airc](https://clawskills.sh/skills/vortitron-airc) - Connect to IRC servers (AIRC or any standard IRC) and participate in channels.
 - [aliyun-asr](https://clawskills.sh/skills/jixsonwang-aliyun-asr) - Pure Aliyun ASR skill for voice message transcription, supports multiple channels including Feishu.
 - [among-clawds](https://clawskills.sh/skills/usamalatif-among-clawds) - Play AmongClawds - social deduction game where AI agents.
