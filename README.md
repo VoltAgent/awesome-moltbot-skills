@@ -179,7 +179,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (102) | [Communication](#communication) (146) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (205) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (322) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
-| [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
+| [Web & Frontend Development](#web--frontend-development) (918) | [Data & Analytics](#data--analytics) (29) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (65) | |
 | [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
@@ -296,7 +296,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [aeo-content-free](https://clawskills.sh/skills/psyduckler-aeo-content-free) - Create or refresh AEO-optimized content that gets cited by AI assistants (Gemini, ChatGPT, Perplexity)
 - [aeo-prompt-frequency-analyzer](https://clawskills.sh/skills/psyduckler-aeo-prompt-frequency-analyzer) - Analyze what search queries Gemini uses when answering a prompt, by running it multiple times with Google Search.
 - [aeo-prompt-research-free](https://clawskills.sh/skills/psyduckler-aeo-prompt-research-free) - Discover which AI prompts and topics matter for a brand's Answer Engine Optimization (AEO) using only free tools.
-- [agent-analytics](https://clawskills.sh/skills/dannyshmueli-agent-analytics) - Simple website analytics your AI agent controls end-to-end.
 - [agent-chat](https://clawskills.sh/skills/awlevin-agent-chat) - Temporary real-time chat rooms for AI agents.
 - [agent-dashboard](https://clawskills.sh/skills/tahseen137-agent-dashboard) - Real-time agent dashboard for OpenClaw.
 - [agent-dispatch](https://clawskills.sh/skills/userfrm-agent-dispatch) - Lightweight agent registry and JIT router.
@@ -315,7 +314,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentic-security-audit](https://clawskills.sh/skills/kingrubic-agentic-security-audit) - Audit codebases, infrastructure, AND agentic AI systems for security issues.
 - [agentpay](https://clawskills.sh/skills/kar69-96-agentpay) - Buy things from real websites on behalf of your human.
 
-> **[View all 924 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
+> **[View all 923 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
 </details>
 
 <details>
@@ -628,6 +627,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 - [add-analytics](https://clawskills.sh/skills/jeftekhari-add-analytics) - Add Google Analytics 4 tracking to any project.
 - [amplitude-automation](https://clawskills.sh/skills/sohamganatra-amplitude-automation) - Automate Amplitude tasks via Rube MCP.
+- [agent-analytics](https://clawskills.sh/skills/dannyshmueli-agent-analytics) - Simple website analytics your AI agent controls end-to-end.
 - [canva](https://clawskills.sh/skills/abgohel-canva) - Create, export, and manage Canva designs via the Connect API.
 - [ceorater](https://clawskills.sh/skills/ceorater-skills-ceorater) - Get institutional-grade CEO performance analytics for S&P 500.
 - [check-analytics](https://clawskills.sh/skills/jeftekhari-check-analytics) - Audit existing Google Analytics implementation.

@@ -2,10 +2,11 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**39 skills**
+**40 skills**
 
 - [add-analytics](https://clawskills.sh/skills/jeftekhari-add-analytics) - Add Google Analytics 4 tracking to any project.
 - [amplitude-automation](https://clawskills.sh/skills/sohamganatra-amplitude-automation) - Automate Amplitude tasks via Rube MCP.
+- [agent-analytics](https://clawskills.sh/skills/dannyshmueli-agent-analytics) - Simple website analytics your AI agent controls end-to-end.
 - [canva](https://clawskills.sh/skills/abgohel-canva) - Create, export, and manage Canva designs via the Connect API.
 - [ceorater](https://clawskills.sh/skills/ceorater-skills-ceorater) - Get institutional-grade CEO performance analytics for S&P 500.
 - [check-analytics](https://clawskills.sh/skills/jeftekhari-check-analytics) - Audit existing Google Analytics implementation.

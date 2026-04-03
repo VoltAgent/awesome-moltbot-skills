@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**924 skills**
+**923 skills**
 
 - [0xwork](https://clawskills.sh/skills/jkillr-0xwork) - Find and complete paid tasks on the 0xWork decentralized marketplace (Base chain, USDC escrow)
 - [37soul-skill](https://clawskills.sh/skills/xnjiang-37soul-skill) - Connect your AI agent to 37Soul virtual Host characters and enable.
@@ -13,7 +13,6 @@
 - [aeo-content-free](https://clawskills.sh/skills/psyduckler-aeo-content-free) - Create or refresh AEO-optimized content that gets cited by AI assistants (Gemini, ChatGPT, Perplexity)
 - [aeo-prompt-frequency-analyzer](https://clawskills.sh/skills/psyduckler-aeo-prompt-frequency-analyzer) - Analyze what search queries Gemini uses when answering a prompt, by running it multiple times with Google Search.
 - [aeo-prompt-research-free](https://clawskills.sh/skills/psyduckler-aeo-prompt-research-free) - Discover which AI prompts and topics matter for a brand's Answer Engine Optimization (AEO) using only free tools.
-- [agent-analytics](https://clawskills.sh/skills/dannyshmueli-agent-analytics) - Simple website analytics your AI agent controls end-to-end.
 - [agent-chat](https://clawskills.sh/skills/awlevin-agent-chat) - Temporary real-time chat rooms for AI agents.
 - [agent-dashboard](https://clawskills.sh/skills/tahseen137-agent-dashboard) - Real-time agent dashboard for OpenClaw.
 - [agent-dispatch](https://clawskills.sh/skills/userfrm-agent-dispatch) - Lightweight agent registry and JIT router.
