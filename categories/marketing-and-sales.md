@@ -101,3 +101,4 @@
 - [workcrm](https://clawskills.sh/skills/extraterrest-workcrm) - A lightweight, local-first CRM with an explicit confirmation gate.
 - [writing-assistant](https://clawskills.sh/skills/urrrich-writing-assistant) - You are a Writing Team Lead managing specialized writers via MCP tools.
 - [writing-group-leader](https://clawskills.sh/skills/urrrich-writing-group-leader) - You are a Writing Team Lead managing specialized writers via MCP tools.
+- [SocialClaw](https://clawhub.ai/ndesv21/socialclaw) - Schedule and publish social media for AI agents.
