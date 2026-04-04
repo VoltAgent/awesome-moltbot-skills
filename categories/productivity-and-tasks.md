@@ -132,6 +132,7 @@
 - [neural-memory](https://clawskills.sh/skills/nhadaututtheky-neural-memory) - Associative memory with spreading activation for persistent, intelligent recall.
 - [newhorse](https://clawskills.sh/skills/xcrong-newhorse) - NewHorse AI Agent Competition Platform.
 - [ng-lawyer-db-build](https://clawskills.sh/skills/gfly0424-maker-ng-lawyer-db-build) - This is **Step 1** of Fei Gao’s “Nigeria Lawyer Network” workflow:.
+- [nex-life-logger](https://clawskills.sh/skills/nexaiguy-nex-life-logger) - AI-powered local activity tracker. Tracks browser history, active windows, and YouTube transcripts. Query your computer history through your agent. Privacy-first, all data stays on your machine.
 - [og-board-individual](https://clawskills.sh/skills/jatin-31-og-board-individual) - Use when you need to work with tasks: view tasks, list tasks, update task status, add blockers, artifacts, and worklogs.
 - [ogt-docs-create](https://clawskills.sh/skills/eduardou24-ogt-docs-create) - Create new documentation entities in the docs-first system.
 - [openburn](https://clawskills.sh/skills/logesh2496-openburn) - Automates collecting Pump.fun creator fees, buying tokens with collected SOL, and burning those tokens (buyback.
