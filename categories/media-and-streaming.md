@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**83 skills**
+**84 skills**
 
 - [alexa-control](https://clawskills.sh/skills/ignito-pg-alexa-control) - Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.
 - [amateur-radio-dx](https://clawskills.sh/skills/capt-marbles-amateur-radio-dx) - Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
@@ -42,6 +42,7 @@
 - [ham-radio-dx](https://clawskills.sh/skills/capt-marbles-ham-radio-dx) - Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
 - [insta-cog](https://clawskills.sh/skills/nitishgargiitd-insta-cog) - Full video production from a single prompt.
 - [instagram-api](https://clawskills.sh/skills/lifeissea-instagram-api) - Post to Instagram (Feed, Story, Reels, Carousel) and Threads using the official Meta Graph API.
+- [jubjub](https://clawskills.sh/skills/aquaflans-jubjub) - Publish to all major media platforms, track cross-platform analytics, and automate on-chain royalty and revenue splits via MCP.
 - [kalshi-agent](https://clawskills.sh/skills/jthomasdevs-kalshi-agent) - Kalshi prediction market agent - analyzes markets and executes trades via the Kalshi v2 API.
 - [lastfm](https://clawskills.sh/skills/gumadeiras-lastfm) - Access Last.fm listening history, music stats.
 - [lb-pocket-tts-skill](https://clawskills.sh/skills/leonaaardob-lb-pocket-tts-skill) - Generate speech from text using Kyutai Pocket TTS - lightweight, CPU-friendly, streaming TTS with voice cloning.
