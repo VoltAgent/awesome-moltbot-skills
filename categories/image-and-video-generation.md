@@ -17,6 +17,7 @@
 - [ai-headshot-generation](https://clawskills.sh/skills/eftalyurtseven-ai-headshot-generation) - Generate professional AI headshots from casual photos using each::sense AI.
 - [ai-persona-engine](https://clawskills.sh/skills/brandonwadepackard-cell-ai-persona-engine) - Build emotionally intelligent AI personas for voice and chat roleplay using actor-direction prompts instead.
 - [ai-video-gen](https://clawskills.sh/skills/rhanbourinajd-ai-video-gen) - End-to-end AI video generation - create videos from text.
+- - [ai-video-remix](https://github.com/openclaw/skills/tree/main/skills/abu-shotai/ai-video-remix/SKILL.md) - AI-driven video remix from local library using ShotAI.
 - [aikek](https://clawskills.sh/skills/vvsotnikov-aikek) - Access AIKEK APIs for crypto/DeFi research and image generation.
 - [aiusd](https://clawskills.sh/skills/chaunceyliu-aiusd) - AIUSD trading and account management skill.
 - [aiusd-skills](https://clawskills.sh/skills/chaunceyliu-aiusd-skills) - AIUSD trading and account management skill.
