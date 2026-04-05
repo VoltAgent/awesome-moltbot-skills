@@ -1079,6 +1079,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [n8n-workflow-automation](https://clawskills.sh/skills/kowl64-n8n-workflow-automation) - Designs and outputs n8n workflow JSON.
 - [nas-master](https://clawskills.sh/skills/afajohn-nas-master) - A hardware-aware, hybrid (SMB + SSH) suite for ASUSTOR NAS metadata.
 - [nordvpn](https://clawskills.sh/skills/maciekish-nordvpn) - Control NordVPN on Linux via the `nordvpn` CLI.
+- [novel-writer-suite](https://clawhub.ai/Shine8592/novel-outliner) - Zero-cost Chinese web novel creation toolkit: outline parser, batch chapter generator (12K+ chars/chapter), 33-dimension quality checker. 70万字 at ¥0. [GitHub](https://github.com/Shine8592/novel-writer-skills)
 - [open-persona](https://clawskills.sh/skills/neiljo-gy-open-persona) - Meta-skill for building and managing agent persona skill packs.
 - [paperless](https://clawskills.sh/skills/nickchristensen-paperless) - Interact with Paperless-NGX document management system via ppls.
 - [paperless-ngx](https://clawskills.sh/skills/oskarstark-paperless-ngx) - Interact with Paperless-ngx document management system.
