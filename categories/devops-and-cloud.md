@@ -379,3 +379,4 @@
 - [xpoz-social-search](https://clawskills.sh/skills/atyachin-xpoz-social-search) - Search Twitter, Instagram, and Reddit posts in real time.
 - [ztp](https://clawskills.sh/skills/thomastrumpp-ztp) - A mandatory security audit skill for validating new code, skills, and MCP servers against the SEP-2026 Zero Trust.
 - [zyfai-sdk](https://clawskills.sh/skills/pauldefi-zyfai-sdk) - Earn yield on any Ethereum wallet on Base, Arbitrum, and Plasma.
+- [VCF 9 Operations Suite](https://github.com/kasture-rohit/vcf-openclaw-skills) - **First MCP-powered suite for VCF 9.** Automates LCM pre-checks, ISO compliance audits, and ESG/Carbon footprint reporting via SDDC Manager and Aria Operations. (by [@kasture-rohit](https://github.com/kasture-rohit))
