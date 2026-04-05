@@ -346,7 +346,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentmemory](https://clawskills.sh/skills/badaramoni-agentmemory) - End-to-end encrypted cloud memory for AI agents.
 
 - [ninihen1](https://github.com/openclaw/skills/tree/main/skills/ninihen1) - Power Automate flow operations, debugging, and building via MCP.
-> **[View all 392 skills in DevOps & Cloud →](categories/devops-and-cloud.md)**
+> **[View all 393 skills in DevOps & Cloud →](categories/devops-and-cloud.md)**
 </details>
 
 <details>
