@@ -43,7 +43,9 @@
 
 </div>
 
-# Awesome OpenClaw Skills
+# Awesome OpenClaw Skills — Burgess Edition
+
+> **This fork includes the Burgess Principle as an optional human-review upgrade layer across the skills collection.**
 
 OpenClaw is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs. It can also serve as a source of inspiration for OpenClaw use cases.
 
@@ -170,6 +172,44 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 
 If you believe a skill in this list should be flagged or has a security concern, please [open an issue](https://github.com/VoltAgent/awesome-clawdbot-skills/issues) so we can review it.
+
+
+## ✦ The Burgess Principle — Human-Review Upgrade Layer
+
+This fork integrates the full [Advocate Companion](https://github.com/ljbudgie/advocate-companion) toolkit as an optional upgrade layer, grounded in the Burgess Principle.
+
+> **"Was a human member of the team able to personally review the specific facts of my specific case?"**
+
+If the answer is **no** — or there is any doubt — the matter is flagged for human review. That is the whole point: **see the human first**.
+
+The Burgess-enhanced skills live in the [`burgess/`](burgess/) directory and are entirely optional. They do not modify any of the original skills in this collection. You can enable or disable them individually at any time.
+
+### Burgess-Enhanced Skills
+
+| Skill | Description |
+|-------|-------------|
+| [Contract Review](burgess/skills/contract-review/) | Clause-by-clause contract review with human-review flagging for high-risk or unclear clauses. |
+| [Reasonable Adjustments](burgess/skills/reasonable-adjustments/) | Templates for requesting reasonable adjustments from employers and service providers, referencing country-specific legislation. |
+| [DSAR Request](burgess/skills/dsar-request/) | Data Subject Access Request generation with human-review checkpoints. |
+| [Human Review Request](burgess/skills/human-review-request/) | A general-purpose skill for requesting that any decision be reconsidered by a real person. |
+
+### Quick Start
+
+```bash
+# Enable all Burgess skills
+cp -r burgess/skills/* ~/.openclaw/skills/
+
+# Or enable just one
+cp -r burgess/skills/contract-review ~/.openclaw/skills/
+```
+
+All Burgess skills are calm, respectful, minimalist, and zero-energy in spirit. They are designed for people — especially those with hidden disabilities — who want confident, informed interactions without confrontation or excessive effort.
+
+For full documentation, see [`burgess/README.md`](burgess/README.md). For configuration, see [`burgess/skills/burgess-config.md`](burgess/skills/burgess-config.md).
+
+> **Attribution:** This fork integrates the [Advocate Companion](https://github.com/ljbudgie/advocate-companion) by Lewis James Burgess. The Burgess Principle framework and Certification Mark (UK #UK00004343685) are protected intellectual property. The code is MIT-licensed for personal and educational use. For commercial use, contact [lewisburgess_1987@hotmail.co.uk](mailto:lewisburgess_1987@hotmail.co.uk).
+
+---
 
 
 ## Table of Contents
