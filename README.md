@@ -51,23 +51,11 @@ OpenClaw is a locally-running AI assistant that operates directly on your machin
 
 Skills in this list are sourced from ClawHub (OpenClaw's public skills registry) and categorized for easier discovery.
 
-### Burgess Principle Layer
-
-This fork adds the **Burgess Principle** as a lightweight, optional upgrade layer across the skills collection.
-
-**What is it?** One simple binary question:
-
-> *"Was a human member of the team able to personally review the specific facts of my specific case?"*
-
-If the answer is **no** — or there is any doubt — the matter is flagged for human review. That is the entire check.
-
-**Why is it here?** Many skills handle situations where a purely automated or templated response is not enough — accessibility requests, reasonable adjustments, contract review, and other edge cases where the person deserves to be treated as an individual. The Burgess Principle adds a zero-energy human-review gate so the default on those edge cases becomes *"see the human first"* rather than *"process and move on."*
-
-**How does it work?** The Burgess layer activates only on genuine edge cases. It keeps all original skills intact and unmodified — the upgrade lives entirely in the [`burgess/`](burgess/) directory and is fully optional. Enable it by copying a skill folder; disable it by removing it. No other configuration is needed.
-
-**What tone does it set?** Calm, respectful, and human-first. No pressure, no rush, no aggressive language. Especially useful for people with hidden disabilities or limited energy, where being heard as an individual — not processed as a ticket — makes all the difference.
-
-For the full framework: [github.com/ljbudgie/burgess-principle](https://github.com/ljbudgie/burgess-principle)
+> [!IMPORTANT]
+> ### Why the Burgess Layer?
+> Some skills handle high-stakes situations — accessibility requests, contract review, reasonable adjustments — where a purely automated response is not enough. The **Burgess Principle** adds a single human-review gate: *"Was a human able to personally review the specific facts of my case?"* If the answer is **no**, the matter is flagged for a real person before proceeding. This keeps the default on edge cases *"see the human first"* rather than *"process and move on."*
+>
+> The upgrade is **fully optional** and lives entirely in the [`burgess/`](burgess/) directory. Original skills stay untouched — enable a Burgess skill by copying its folder, disable it by removing it. No other configuration is needed. → [Full framework & details](https://github.com/ljbudgie/burgess-principle)
 
 ### Installation
 
