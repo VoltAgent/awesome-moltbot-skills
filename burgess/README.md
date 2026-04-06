@@ -9,6 +9,7 @@ This directory contains the full [Advocate Companion](https://github.com/ljbudgi
 ## Table of Contents
 
 - [What Is the Burgess Principle?](#what-is-the-burgess-principle)
+- [Which Burgess Skill Should I Use?](#which-burgess-skill-should-i-use)
 - [Available Burgess-Enhanced Skills](#available-burgess-enhanced-skills)
 - [How to Enable / Disable](#how-to-enable--disable)
 - [Design Principles](#design-principles)
@@ -26,6 +27,31 @@ The Burgess Principle is a framework created by Lewis James Burgess (UK Certific
 If the answer is **no** — or there is any doubt — the matter is flagged for human review. That is the whole point: **see the human first**.
 
 For the full framework: [github.com/ljbudgie/burgess-principle](https://github.com/ljbudgie/burgess-principle)
+
+---
+
+## Which Burgess Skill Should I Use?
+
+Not sure which skill fits your situation? Use this quick guide:
+
+```
+Is someone asking you to sign or agree to a document?
+  └─ Yes → Contract Review
+
+Do you need workplace or service adjustments for a disability or condition?
+  └─ Yes → Reasonable Adjustments
+
+Do you want to know what personal data an organisation holds about you?
+  └─ Yes → DSAR Request
+
+Has a decision been made about you that feels wrong, automated, or impersonal?
+  └─ Yes → Human Review Request
+
+None of the above, but you want a human to look at your specific case?
+  └─ Yes → Human Review Request (it works for any situation)
+```
+
+> **Tip:** You can enable multiple skills at once. They work independently and never conflict.
 
 ---
 

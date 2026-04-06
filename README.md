@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 5200+ community-built OpenClaw skills, organized by category.
+    <strong>Discover 5100+ community-built OpenClaw skills, organized by category.
     </strong>
     <br />
     <br />
@@ -238,13 +238,30 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 | [Coding Agents & IDEs](#coding-agents--ides) (1160) | [Productivity & Tasks](#productivity--tasks) (202) | [Speech & Transcription](#speech--transcription) (42) |
 | [Browser & Automation](#browser--automation) (307) | [AI & LLMs](#ai--llms) (158) | [Smart Home & IoT](#smart-home--iot) (40) |
 | [Web & Frontend Development](#web--frontend-development) (902) | [Data & Analytics](#data--analytics) (35) | [Shopping & E-commerce](#shopping--e-commerce) (45) |
-| [DevOps & Cloud](#devops--cloud) (375) | [Calendar & Scheduling](#calendar--scheduling) (64) | |
+| [DevOps & Cloud](#devops--cloud) (375) | [Calendar & Scheduling](#calendar--scheduling) (64) | [Health & Fitness](#health--fitness) (82) |
 | [Image & Video Generation](#image--video-generation) (166) | [Media & Streaming](#media--streaming) (84) | [PDF & Documents](#pdf--documents) (102) |
 | [Apple Apps & Services](#apple-apps--services) (43) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (32) |
 | [Search & Research](#search--research) (339) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (52) |
 | [Clawdbot Tools](#clawdbot-tools) (35) | [Transportation](#transportation) (108) | [Moltbook](#moltbook) (35) |
 | [CLI Utilities](#cli-utilities) (170) | [Personal Development](#personal-development) (48) | [Gaming](#gaming) (25) |
-| [Health & Fitness](#health--fitness) (82) | | |
+
+
+## 🆕 Recently Added
+
+<!-- Maintainers: update this section when merging new skill PRs. Keep ~15 entries, remove the oldest when adding new ones. -->
+
+| Skill | Category | Description |
+|-------|----------|-------------|
+| [agent-team-orchestration](https://clawskills.sh/skills/arminnaimi-agent-team-orchestration) | Git & GitHub | Orchestrate multi-agent teams with defined roles and handoff protocols. |
+| [agent-chat-ux-v1-4-0](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0) | Coding Agents & IDEs | Multi-agent UX for OpenClaw Control UI. |
+| [ai-meeting-scheduling](https://clawskills.sh/skills/dheerg-ai-meeting-scheduling) | Browser & Automation | Smart meeting scheduling for groups. |
+| [acestep](https://clawskills.sh/skills/dumoedss-acestep) | Web & Frontend Development | Use ACE-Step API to generate and remix music. |
+| [arc-security-audit](https://clawskills.sh/skills/trypto1019-arc-security-audit) | Git & GitHub | Comprehensive security audit for agent skill stacks. |
+| [agentmail](https://clawskills.sh/skills/adboio-agentmail) | AI & LLMs | API-first email platform designed for AI agents. |
+| [agent-device](https://clawskills.sh/skills/okwasniewski-agent-device) | Browser & Automation | Automate iOS simulators/devices and Android emulators. |
+| [accessibility-toolkit](https://clawskills.sh/skills/cgtreadw-accessibility-toolkit) | Browser & Automation | Friction-reduction patterns for agents helping users. |
+| [assemblyai-transcribe](https://clawskills.sh/skills/tristanmanchester-assemblyai-transcribe) | Speech & Transcription | Transcribe audio/video with AssemblyAI. |
+| [camino-ev-charger](https://clawskills.sh/skills/james-southendsolutions-camino-ev-charger) | Transportation | Find EV charging stations along a route. |
 
 
 <details>
@@ -273,7 +290,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [biz-reporter](https://clawskills.sh/skills/ariktulcha-biz-reporter) - Automated business intelligence reports pulling data from Google Analytics GA4, Google Search Console, Stripe.
 - [blinko](https://clawskills.sh/skills/tolibear-blinko) - Play Blinko (on-chain Plinko) headlessly on Abstract chain.
 
-> **[View all 155 skills in Git View all 159 skills in Git & GitHub GitHub →](categories/git-and-github.md)**
+> **[View all 155 skills in Git & GitHub →](categories/git-and-github.md)**
 </details>
 
 <details>
@@ -306,7 +323,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [agent-card-signing-auditor](https://clawskills.sh/skills/andyxinweiminicloud-agent-card-signing-auditor) - Helps audit Agent Card signing practices in A2A protocol implementations.
 - [agent-chat-ux-v1-4-0](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0) - Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search.
 
-> **[View all 1160 skills in Coding Agents View all 1200 skills in Coding Agents & IDEs IDEs →](categories/coding-agents-and-ides.md)**
+> **[View all 1160 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
 
 <details>
@@ -339,7 +356,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [airtable-participants](https://clawskills.sh/skills/austinmao-airtable-participants) - Read and query retreat participant data from the Ceremonia Airtable base.
 - [ak-rss-24h-brief](https://clawskills.sh/skills/seandong-ak-rss-24h-brief) - Read RSS/Atom feeds from an OPML list, fetch articles from the last N hours, and generate a Chinese categorized.
 
-> **[View all 307 skills in Browser View all 322 skills in Browser & Automation Automation →](categories/browser-and-automation.md)**
+> **[View all 307 skills in Browser & Automation →](categories/browser-and-automation.md)**
 </details>
 
 <details>
@@ -373,7 +390,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [agentic-security-audit](https://clawskills.sh/skills/kingrubic-agentic-security-audit) - Audit codebases, infrastructure, AND agentic AI systems for security issues.
 - [agentpay](https://clawskills.sh/skills/kar69-96-agentpay) - Buy things from real websites on behalf of your human.
 
-> **[View all 902 skills in Web View all 924 skills in Web & Frontend Development Frontend Development →](categories/web-and-frontend-development.md)**
+> **[View all 902 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
 </details>
 
 <details>
@@ -403,7 +420,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [agentkeys](https://clawskills.sh/skills/alexandr-belogubov-agentkeys) - Secure credential proxy for AI agents.
 - [agentmemory](https://clawskills.sh/skills/badaramoni-agentmemory) - End-to-end encrypted cloud memory for AI agents.
 
-> **[View all 375 skills in DevOps View all 392 skills in DevOps & Cloud Cloud →](categories/devops-and-cloud.md)**
+> **[View all 375 skills in DevOps & Cloud →](categories/devops-and-cloud.md)**
 </details>
 
 <details>
@@ -440,7 +457,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [calorie-visualizer](https://clawskills.sh/skills/vintlin-calorie-visualizer) - Local calorie logging and visual reporting (auto-refreshes and returns report image after each log)
 - [canva-connect](https://clawskills.sh/skills/coolmanns-canva-connect) - Manage Canva designs, assets, and folders via the Connect API.
 
-> **[View all 166 skills in Image View all 170 skills in Image & Video Generation Video Generation →](categories/image-and-video-generation.md)**
+> **[View all 166 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
 </details>
 
 <details>
@@ -477,7 +494,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [meow-finder](https://clawskills.sh/skills/abgohel-meow-finder) - CLI tool to discover AI tools.
 - [mh-apple-reminders](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-apple-reminders) - Manage Apple Reminders via remindctl CLI (list, add, edit, complete, delete)
 
-> **[View all 43 skills in Apple Apps View all 44 skills in Apple Apps & Services Services →](categories/apple-apps-and-services.md)**
+> **[View all 43 skills in Apple Apps & Services →](categories/apple-apps-and-services.md)**
 </details>
 
 <details>
@@ -514,7 +531,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
 - [xquik-x-twitter-scraper](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper) - X API scraper with 40+ tools for AI agents.
 
-> **[View all 339 skills in Search View all 352 skills in Search & Research Research →](categories/search-and-research.md)**
+> **[View all 339 skills in Search & Research →](categories/search-and-research.md)**
 </details>
 
 <details>
@@ -615,7 +632,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [brand-voice-profile](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile) - Define and store your brand voice profile for consistent content generation.
 - [brevo](https://clawskills.sh/skills/yujesyoga-brevo) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
 
-> **[View all 97 skills in Marketing View all 103 skills in Marketing & Sales Sales →](categories/marketing-and-sales.md)**
+> **[View all 97 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
 <details>
@@ -650,7 +667,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [atlassian-mcp](https://clawskills.sh/skills/atakanermis-atlassian-mcp) - Run the Model Context Protocol (MCP) Atlassian server.
 - [boss-ai-agent](https://github.com/openclaw/skills/tree/main/skills/tonypk/boss-ai-agent/SKILL.md) - AI management middleware with 14 mentors and 9 culture packs.
 
-> **[View all 202 skills in Productivity View all 205 skills in Productivity & Tasks Tasks →](categories/productivity-and-tasks.md)**
+> **[View all 202 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
 
 </details>
 
@@ -678,7 +695,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [agent-selfie](https://clawskills.sh/skills/iisweetheartii-agent-selfie) - AI agent self-portrait generator.
 - [agent-sentinel](https://clawskills.sh/skills/jimmystacks-agent-sentinel) - The operational circuit breaker for this agent.
 
-> **[View all 158 skills in AI View all 184 skills in AI & LLMs LLMs →](categories/ai-and-llms.md)**
+> **[View all 158 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
 
 <details>
@@ -739,7 +756,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [elevenlabs-cli](https://clawskills.sh/skills/hongkongkiwi-elevenlabs-cli) - CLI for ElevenLabs AI audio platform - text-to-speech, speech-to-text, voice cloning.
 - [elevenlabs-skill](https://clawskills.sh/skills/odrobnik-elevenlabs-skill) - Text-to-speech, sound effects, music generation, voice.
 
-> **[View all 84 skills in Media View all 83 skills in Media & Streaming Streaming →](categories/media-and-streaming.md)**
+> **[View all 84 skills in Media & Streaming →](categories/media-and-streaming.md)**
 </details>
 
 <details>
@@ -773,7 +790,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [continuity](https://clawskills.sh/skills/riley-coyote-continuity) - Asynchronous reflection and memory integration for genuine AI.
 - [continuity-framework](https://clawskills.sh/skills/riley-coyote-continuity-framework) - Asynchronous reflection and memory integration.
 
-> **[View all 69 skills in Notes View all 69 skills in Notes & PKM PKM →](categories/notes-and-pkm.md)**
+> **[View all 69 skills in Notes & PKM →](categories/notes-and-pkm.md)**
 </details>
 
 <details>
@@ -808,7 +825,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [toolguard-daemon-control](https://clawskills.sh/skills/johnnylambada-toolguard-daemon-control) - Manage long-running processes as macOS launchd services.
 - [v2rayn](https://clawskills.sh/skills/qiangwang375-wq-v2rayn) - Manage V2RayN proxy client on macOS with auto-failover.
 
-> **[View all 29 skills in iOS View all 29 skills in iOS & macOS Development macOS Development →](categories/ios-and-macos-development.md)**
+> **[View all 29 skills in iOS & macOS Development →](categories/ios-and-macos-development.md)**
 </details>
 
 <details>
@@ -909,7 +926,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [eth24](https://clawskills.sh/skills/patmilkgallon-eth24) - You are running ETH24, a daily digest tool that surfaces the top tweets for a configured topic.
 - [fasting-tracker](https://clawskills.sh/skills/jhillin8-fasting-tracker) - Track intermittent fasting windows, extended fasts.
 
-> **[View all 82 skills in Health View all 84 skills in Health & Fitness Fitness →](categories/health-and-fitness.md)**
+> **[View all 82 skills in Health & Fitness →](categories/health-and-fitness.md)**
 </details>
 
 <details>
@@ -973,7 +990,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [elevenlabs-tts](https://clawskills.sh/skills/shaharsha-elevenlabs-tts) - ElevenLabs TTS - the best ElevenLabs integration for OpenClaw.
 - [elevenlabs-voices](https://clawskills.sh/skills/robbyczgw-cla-elevenlabs-voices) - High-quality voice synthesis with 18 personas, 32.
 
-> **[View all 42 skills in Speech View all 45 skills in Speech & Transcription Transcription →](categories/speech-and-transcription.md)**
+> **[View all 42 skills in Speech & Transcription →](categories/speech-and-transcription.md)**
 </details>
 
 <details>
@@ -1008,7 +1025,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [govpredict](https://clawskills.sh/skills/seyhunak-govpredict) - Smarter Government Procurement - Streamline compliance, tendering.
 - [home-music](https://clawskills.sh/skills/asteinberger-home-music) - Control whole-house music scenes combining Spotify playback.
 
-> **[View all 40 skills in Smart Home View all 43 skills in Smart Home & IoT IoT →](categories/smart-home-and-iot.md)**
+> **[View all 40 skills in Smart Home & IoT →](categories/smart-home-and-iot.md)**
 </details>
 
 <details>
@@ -1038,7 +1055,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [dupe](https://clawskills.sh/skills/crisanmm-dupe) - Uses dupe.com APIs in order to find similar products for the product found in the input URL given by the user.
 - [eachlabs-product-visuals](https://clawskills.sh/skills/eftalyurtseven-eachlabs-product-visuals) - Generate e-commerce product photography and videos.
 
-> **[View all 45 skills in Shopping View all 51 skills in Shopping & E-commerce E-commerce →](categories/shopping-and-e-commerce.md)**
+> **[View all 45 skills in Shopping & E-commerce →](categories/shopping-and-e-commerce.md)**
 </details>
 
 <details>
@@ -1073,7 +1090,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [gog](https://clawskills.sh/skills/steipete-gog) - Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
 - [google-calendar](https://clawskills.sh/skills/adrianmiller99-google-calendar) - Interact with Google Calendar via the Google Calendar.
 
-> **[View all 64 skills in Calendar View all 65 skills in Calendar & Scheduling Scheduling →](categories/calendar-and-scheduling.md)**
+> **[View all 64 skills in Calendar & Scheduling →](categories/calendar-and-scheduling.md)**
 </details>
 
 <details>
@@ -1107,7 +1124,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [confluence](https://clawskills.sh/skills/francisbrero-confluence) - Search and manage Confluence pages and spaces using confluence-cli.
 - [bluente-translate](https://github.com/openclaw/skills/blob/main/skills/varsmallrookie/bluente-translate/SKILL.md) - Translate your documents with formatting intact in 2 minutes.
 
-> **[View all 102 skills in PDF View all 110 skills in PDF & Documents Documents →](categories/pdf-and-documents.md)**
+> **[View all 102 skills in PDF & Documents →](categories/pdf-and-documents.md)**
 </details>
 
 <details>
@@ -1144,7 +1161,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [sonarqube-analyzer](https://clawskills.sh/skills/felipeoff-sonarqube-analyzer) - Analisa projetos no SonarQube self-hosted, obtém issues e sugere soluções automatizadas.
 - [system-integrity-and-backup](https://clawskills.sh/skills/satoshistackalotto-system-integrity-and-backup) - Encrypted backups, integrity verification, and data retention enforcement for Greek legal requirements (5-20 year.
 
-> **[View all 32 skills in Self-Hosted View all 32 skills in Self-Hosted & Automation Automation →](categories/self-hosted-and-automation.md)**
+> **[View all 32 skills in Self-Hosted & Automation →](categories/self-hosted-and-automation.md)**
 </details>
 
 <details>
@@ -1177,7 +1194,7 @@ For full documentation, see [`burgess/README.md`](burgess/README.md). For config
 - [facebook](https://clawskills.sh/skills/codedao12-facebook) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://clawskills.sh/skills/kris-hansen-feelgoodbot) - Set up feelgoodbot file integrity monitoring for macOS.
 
-> **[View all 52 skills in Security View all 54 skills in Security & Passwords Passwords →](categories/security-and-passwords.md)**
+> **[View all 52 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
 
 <details>
@@ -1257,6 +1274,10 @@ MIT License - see [LICENSE](LICENSE)
 Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
 If you find an issue with a listed skill or want your skill removed, please open an issue and we'll take care of it promptly.
+
+<div align="center">
+<a href="#awesome-openclaw-skills--burgess-edition">⬆ Back to top</a>
+</div>
 
 [codex-badge]: https://img.shields.io/github/stars/VoltAgent/awesome-codex-subagents?style=classic&label=Codex%20Subagents&color=000000&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDMgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNS45ODUgNS45ODUgMCAwIDAgMTMuMjYgMjRhNi4wNTYgNi4wNTYgMCAwIDAgNS43NzItNC4yMDYgNS45OSA1Ljk5IDAgMCAwIDMuOTk3LTIuOSA2LjA1NiA2LjA1NiAwIDAgMC0uNzQ3LTcuMDczek0xMy4yNiAyMi40M2E0LjQ3NiA0LjQ3NiAwIDAgMS0yLjg3Ni0xLjA0bC4xNDEtLjA4MSA0Ljc3OS0yLjc1OGEuNzk1Ljc5NSAwIDAgMCAuMzkyLS42ODF2LTYuNzM3bDIuMDIgMS4xNjhhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODNhNC41MDQgNC41MDQgMCAwIDEtNC40OTQgNC40OTR6TTMuNiAxOC4zMDRhNC40NyA0LjQ3IDAgMCAxLS41MzUtMy4wMTRsLjE0Mi4wODUgNC43ODMgMi43NTlhLjc3MS43NzEgMCAwIDAgLjc4IDBsNS44NDMtMy4zNjl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDcuODk2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc2Ni43NjYgMCAwIDAgLjM4OC42NzZsNS44MTUgMy4zNTUtMi4wMiAxLjE2OGEuMDc2LjA3NiAwIDAgMS0uMDcxIDBsLTQuODMtMi43ODZBNC41MDQgNC41MDQgMCAwIDEgMi4zNCA3Ljg3MnptMTYuNTk3IDMuODU1bC01LjgzMy0zLjM4N0wxNS4xMTkgNy4yYS4wNzYuMDc2IDAgMCAxIC4wNzEgMGw0LjgzIDIuNzkxYTQuNDk0IDQuNDk0IDAgMCAxLS42NzYgOC4xMDV2LTUuNjc4YS43OS43OSAwIDAgMC0uNDA3LS42Njd6bTIuMDEtMy4wMjNsLS4xNDEtLjA4NS00Ljc3NC0yLjc4MmEuNzc2Ljc3NiAwIDAgMC0uNzg1IDBMOS40MDkgOS4yM1Y2Ljg5N2EuMDY2LjA2NiAwIDAgMSAuMDI4LS4wNjFsNC44My0yLjc4N2E0LjUgNC41IDAgMCAxIDYuNjggNC42NnptLTEyLjY0IDQuMTM1bC0yLjAyLTEuMTY0YS4wOC4wOCAwIDAgMS0uMDM4LS4wNTdWNi4wNzVhNC41IDQuNSAwIDAgMSA3LjM3NS0zLjQ1M2wtLjE0Mi4wOEw4LjcwNCA1LjQ2YS43OTUuNzk1IDAgMCAwLS4zOTMuNjgxem0xLjA5Ny0yLjM2NWwyLjYwMi0xLjUgMi42MDcgMS41djIuOTk5bC0yLjU5NyAxLjUtMi42MDctMS41eiIvPjwvc3ZnPg==
 [codex-link]: https://github.com/VoltAgent/awesome-codex-subagents

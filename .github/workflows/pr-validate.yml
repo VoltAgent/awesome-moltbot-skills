@@ -1,0 +1,93 @@
+name: PR Validation
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize]
+    paths:
+      - "README.md"
+      - "categories/**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate skill entry format
+        shell: bash
+        run: |
+          errors=()
+
+          # Check that all skill entries match the expected format:
+          #   - [name](url) - Description.
+          # Allow entries inside <details> blocks and category files.
+          for file in README.md categories/*.md; do
+            while IFS= read -r line; do
+              lineno=$(echo "$line" | cut -d: -f1)
+              text=$(echo "$line" | cut -d: -f2-)
+              # Each skill line must be: - [name](url) - Description
+              if ! echo "$text" | grep -qP '^\- \[.+\]\(https?://.+\) - .+'; then
+                errors+=("$file:$lineno — malformed entry: $text")
+              fi
+            done < <(grep -n "^- \[" "$file" 2>/dev/null || true)
+          done
+
+          if [ ${#errors[@]} -gt 0 ]; then
+            echo "::warning::Found ${#errors[@]} malformed skill entries:"
+            printf '  %s\n' "${errors[@]}" | head -20
+          fi
+
+      - name: Check for duplicate skills
+        shell: bash
+        run: |
+          # Extract all skill names from README.md and check for duplicates
+          duplicates=$(grep -oP '^\- \[\K[^\]]+' README.md | sort | uniq -d)
+
+          if [ -n "$duplicates" ]; then
+            echo "::warning::Possible duplicate skill names found in README.md:"
+            echo "$duplicates"
+          fi
+
+      - name: Verify alphabetical sort order
+        shell: bash
+        run: |
+          unsorted=()
+
+          for file in categories/*.md; do
+            # Extract skill names from the file
+            names=$(grep -oP '^\- \[\K[^\]]+' "$file" 2>/dev/null || true)
+            if [ -z "$names" ]; then
+              continue
+            fi
+
+            sorted=$(echo "$names" | LC_ALL=C sort -f)
+            if [ "$names" != "$sorted" ]; then
+              unsorted+=("$(basename "$file")")
+            fi
+          done
+
+          if [ ${#unsorted[@]} -gt 0 ]; then
+            echo "::warning::The following category files have skills not in alphabetical order:"
+            printf '  %s\n' "${unsorted[@]}"
+          fi
+
+      - name: Verify skill counts are in sync
+        shell: bash
+        run: |
+          mismatch=false
+
+          for file in categories/*.md; do
+            actual=$(grep -c "^- \[" "$file" || echo 0)
+            header=$(grep -oP '^\*\*\K[0-9]+(?= skills\*\*)' "$file" || echo "?")
+            if [ "$actual" != "$header" ]; then
+              echo "::warning::$(basename "$file"): header says $header skills but found $actual"
+              mismatch=true
+            fi
+          done
+
+          if [ "$mismatch" = true ]; then
+            echo ""
+            echo "Run 'bash scripts/sync-skill-counts.sh' to fix counts."
+          fi
