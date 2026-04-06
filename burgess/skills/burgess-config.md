@@ -10,12 +10,20 @@ Copy the skill folder(s) you want into your OpenClaw skills directory:
 
 ```bash
 # Enable a specific skill
+cp -r burgess/skills/benefits-claim-assistance ~/.openclaw/skills/
 cp -r burgess/skills/coding-agent-review ~/.openclaw/skills/
 cp -r burgess/skills/contract-review ~/.openclaw/skills/
-cp -r burgess/skills/reasonable-adjustments ~/.openclaw/skills/
+cp -r burgess/skills/copyright-dmca-counter-notice ~/.openclaw/skills/
+cp -r burgess/skills/council-tax-pcn-dispute ~/.openclaw/skills/
+cp -r burgess/skills/direct-debit-refund ~/.openclaw/skills/
 cp -r burgess/skills/dsar-request ~/.openclaw/skills/
+cp -r burgess/skills/enforcement-agent-response ~/.openclaw/skills/
 cp -r burgess/skills/foi-request ~/.openclaw/skills/
 cp -r burgess/skills/human-review-request ~/.openclaw/skills/
+cp -r burgess/skills/media-libel-review ~/.openclaw/skills/
+cp -r burgess/skills/medical-device-review ~/.openclaw/skills/
+cp -r burgess/skills/music-copyright-dispute ~/.openclaw/skills/
+cp -r burgess/skills/reasonable-adjustments ~/.openclaw/skills/
 
 # Enable all Burgess skills at once
 cp -r burgess/skills/* ~/.openclaw/skills/
