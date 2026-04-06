@@ -52,7 +52,7 @@ Include both the ClawHub and GitHub links for your skill in the PR description, 
 
 We only include skills whose security status on [ClawHub](https://www.clawhub.ai/) is **not flagged as suspicious**. Skills that are marked as suspicious on ClawHub will not be accepted into this list.
 
-If you believe a skill currently in this list has a security concern or should be flagged, please [open an issue](https://github.com/VoltAgent/awesome-clawdbot-skills/issues) so we can review and remove it.
+If you believe a skill currently in this list has a security concern or should be flagged, please [open an issue](https://github.com/ljbudgie/awesome-openclaw-skills/issues) so we can review and remove it.
 
 ## Important
 
@@ -63,6 +63,6 @@ If you believe a skill currently in this list has a security concern or should b
 
 ## Help
 
-- Check existing [issues](https://github.com/VoltAgent/awesome-openclaw-skills/issues) and PRs first
+- Check existing [issues](https://github.com/ljbudgie/awesome-openclaw-skills/issues) and PRs first
 - Open a new issue for questions
 - Visit the skill's SKILL.md for skill-specific help

@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**51 skills**
+**45 skills**
 
 - [add-wish](https://clawskills.sh/skills/leebellon-add-wish) - Save any product to a universal wishlist.
 - [allstock-data](https://clawskills.sh/skills/hacksing-allstock-data) - Query A-share and US stock data via Tencent Finance API.

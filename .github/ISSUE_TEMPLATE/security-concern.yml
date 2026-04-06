@@ -1,0 +1,36 @@
+name: security-concern
+description: Report a security concern about a listed skill
+title: "Security concern: [skill-name]"
+labels: ["security"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ⚠️ If this is an urgent security issue, please also check the skill's page on [ClawHub](https://www.clawhub.ai/) for its VirusTotal report.
+  - type: input
+    id: skill-name
+    attributes:
+      label: Skill name
+      description: The name of the skill with the security concern
+      placeholder: e.g. my-awesome-skill
+    validations:
+      required: true
+  - type: dropdown
+    id: concern-type
+    attributes:
+      label: Type of concern
+      options:
+        - Prompt injection / tool poisoning
+        - Malware or suspicious payloads
+        - Unsafe data handling / data exfiltration
+        - Flagged as suspicious on ClawHub / VirusTotal
+        - Other (please describe below)
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Describe the security concern and any evidence you have
+    validations:
+      required: true

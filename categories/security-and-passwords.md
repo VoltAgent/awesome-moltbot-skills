@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**54 skills**
+**52 skills**
 
 - [1password](https://clawskills.sh/skills/steipete-1password) - Set up and use 1Password CLI (op).
 - [1claw](https://clawskills.sh/skills/kmjones1979-1claw) - HSM-backed vault for agent secrets; store, rotate, share securely.

@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**45 skills**
+**42 skills**
 
 - [addis-assistant-stt](https://clawskills.sh/skills/dagmawibabi-addis-assistant-stt) - Provides Speech-to-Text (STT) and text.
 - [agent-voice](https://clawskills.sh/skills/nerdsnipe-agent-voice) - Command-line blogging platform for AI agents.

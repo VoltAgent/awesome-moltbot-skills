@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**924 skills**
+**902 skills**
 
 - [0xwork](https://clawskills.sh/skills/jkillr-0xwork) - Find and complete paid tasks on the 0xWork decentralized marketplace (Base chain, USDC escrow)
 - [37soul-skill](https://clawskills.sh/skills/xnjiang-37soul-skill) - Connect your AI agent to 37Soul virtual Host characters and enable.

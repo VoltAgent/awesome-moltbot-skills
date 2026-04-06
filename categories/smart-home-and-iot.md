@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**43 skills**
+**40 skills**
 
 - [anova-oven](https://clawskills.sh/skills/dodeja-anova-skill) - Control Anova Precision Ovens and Precision Cookers (sous vide)
 - [anthropology](https://clawskills.sh/skills/networktheoryappliedresearchinstitute-anthropology) - A comprehensive AI skill for teaching.

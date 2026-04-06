@@ -1,0 +1,40 @@
+name: broken-link
+description: Report a broken or outdated link in the skills list
+title: "Broken link: [skill-name]"
+labels: ["broken-link"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us keep the list accurate! Please provide details about the broken link.
+  - type: input
+    id: skill-name
+    attributes:
+      label: Skill name
+      description: The name of the skill with the broken link
+      placeholder: e.g. my-awesome-skill
+    validations:
+      required: true
+  - type: input
+    id: current-url
+    attributes:
+      label: Current URL
+      description: The URL that is broken or outdated
+      placeholder: https://clawskills.sh/skills/...
+    validations:
+      required: true
+  - type: input
+    id: correct-url
+    attributes:
+      label: Correct URL (if known)
+      description: The updated or correct URL, if you know it
+      placeholder: https://clawskills.sh/skills/...
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Any other details (e.g. skill was renamed, removed, or relocated)
+    validations:
+      required: false

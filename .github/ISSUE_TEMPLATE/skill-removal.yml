@@ -1,0 +1,36 @@
+name: skill-removal
+description: Request removal of a skill from the list
+title: "Remove skill: [skill-name]"
+labels: ["removal-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please explain why this skill should be removed from the list.
+  - type: input
+    id: skill-name
+    attributes:
+      label: Skill name
+      description: The name of the skill to remove
+      placeholder: e.g. my-awesome-skill
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: Reason for removal
+      options:
+        - Skill has been deprecated or removed from OpenClaw registry
+        - Skill is a duplicate of another entry
+        - Security concern (please provide details below)
+        - Skill no longer meets quality standards
+        - Other (please explain below)
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Provide any additional context for the removal request
+    validations:
+      required: false

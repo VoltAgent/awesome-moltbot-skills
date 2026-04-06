@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**44 skills**
+**43 skills**
 
 - [alter-actions](https://clawskills.sh/skills/olivieralter-alter-actions) - Trigger Alter macOS app actions via x-callback-urls.
 - [apple-contacts](https://clawskills.sh/skills/tyler6204-apple-contacts) - Look up contacts from macOS Contacts.app.
