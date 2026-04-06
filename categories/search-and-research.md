@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**352 skills**
+**339 skills**
 
 - [1](https://clawskills.sh/skills/nastrology-1) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [academic-deep-research](https://clawskills.sh/skills/kesslerio-academic-deep-research) - Transparent, rigorous research with full.

@@ -1,0 +1,34 @@
+name: new-category
+description: Suggest a new category for the skills list
+title: "New category: [category-name]"
+labels: ["new-category"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest a new category to organise skills that don't fit existing categories.
+  - type: input
+    id: category-name
+    attributes:
+      label: Category name
+      description: The proposed name for the new category
+      placeholder: e.g. Databases & Storage
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What types of skills would belong in this category?
+    validations:
+      required: true
+  - type: textarea
+    id: example-skills
+    attributes:
+      label: Example skills
+      description: List 3-5 skills that would fit in this category (existing or new)
+      placeholder: |
+        - skill-name-1 — description
+        - skill-name-2 — description
+    validations:
+      required: true

@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**171 skills**
+**166 skills**
 
 - [aada](https://clawskills.sh/skills/rylena-aada) - Create and send fun, personality-rich promotional messages from one agent to the Moltbook audience.
 - [ace-music](https://clawskills.sh/skills/fspecii-ace-music) - Generate AI music using ACE-Step 1.5 via ACE Music's free API.

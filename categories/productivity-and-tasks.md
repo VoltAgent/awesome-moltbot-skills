@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**205 skills**
+**202 skills**
 
 - [4to1-planner](https://clawskills.sh/skills/qingxuantang-4to1-planner) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.
 - [4todo](https://clawskills.sh/skills/blackstorm-4todo) - Manage 4todo (4to.do) from chat.

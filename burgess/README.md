@@ -6,6 +6,17 @@ This directory contains the full [Advocate Companion](https://github.com/ljbudgi
 
 ---
 
+## Table of Contents
+
+- [What Is the Burgess Principle?](#what-is-the-burgess-principle)
+- [Available Burgess-Enhanced Skills](#available-burgess-enhanced-skills)
+- [How to Enable / Disable](#how-to-enable--disable)
+- [Design Principles](#design-principles)
+- [Attribution](#attribution)
+- [Disclaimer](#disclaimer)
+
+---
+
 ## What Is the Burgess Principle?
 
 The Burgess Principle is a framework created by Lewis James Burgess (UK Certification Mark #UK00004343685). At its core is one question:

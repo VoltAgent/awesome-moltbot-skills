@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**179 skills**
+**170 skills**
 
 - [13-day-sprint-method](https://clawskills.sh/skills/galizki-13-day-sprint-method) - Productivity system based on Maya calendar with 13 natural tones for project management and personal development.
 - [a-share-short-decision](https://clawskills.sh/skills/kenera-a-share-short-decision) - A-share short-term trading decision skill for 1-5 day horizon.

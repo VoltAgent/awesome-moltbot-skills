@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**159 skills**
+**155 skills**
 
 - [agent-commons](https://clawskills.sh/skills/zanblayde-agent-commons) - Consult, commit, extend, and challenge reasoning chains.
 - [agent-team-orchestration](https://clawskills.sh/skills/arminnaimi-agent-team-orchestration) - Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows.

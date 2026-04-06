@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**84 skills**
+**82 skills**
 
 - [31third-safe-rebalancer-simple](https://clawskills.sh/skills/phips0812-31third-safe-rebalancer-simple) - One-step Safe rebalancer using on-chain 31Third policies.
 - [anthrovision-telegram-body-scan](https://clawskills.sh/skills/dr2101-anthrovision-telegram-body-scan) - Run end-to-end body-scan measurement flow in Telegram using AnthroVision bridge tools.

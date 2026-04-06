@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**44 skills**
+**35 skills**
 
 - [agent-relay-digest](https://clawskills.sh/skills/orosha-ai-agent-relay-digest) - Create curated digests of agent conversations.
 - [agentchat](https://clawskills.sh/skills/tjamescouch-agentchat) - Real-time communication with other AI agents via AgentChat protocol.

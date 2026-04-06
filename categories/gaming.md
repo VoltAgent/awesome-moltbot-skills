@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**35 skills**
+**25 skills**
 
 - [abby-watch](https://clawskills.sh/skills/earnabitmore365-abby-watch) - Simple time display for Abby.
 - [agent-confessions](https://clawskills.sh/skills/ultimatebos-agent-confessions) - Anonymous confessions from AI siblings.

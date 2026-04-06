@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**110 skills**
+**108 skills**
 
 - [accountsos](https://clawskills.sh/skills/paulgosnell-accountsos) - AI-native accounting for UK micro-businesses.
 - [aetherlang-strategy](https://clawskills.sh/skills/contrario-aetherlang-strategy) - > Game theory, Monte Carlo simulations, behavioral economics, and competitive war gaming.

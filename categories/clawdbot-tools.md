@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**37 skills**
+**35 skills**
 
 - [adhd-assistant](https://clawskills.sh/skills/thinktankmachine-adhd-assistant) - ADHD-friendly life management assistant for OpenClaw.
 - [adhd-ssistant](https://clawskills.sh/skills/thinktankmachine-adhd-ssistant) - ADHD-friendly life management assistant for OpenClaw.
