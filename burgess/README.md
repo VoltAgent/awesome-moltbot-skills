@@ -125,9 +125,15 @@ See [context/why-this-liberates-the-ai.md](context/why-this-liberates-the-ai.md)
 
 ---
 
-## Attribution
+## Attribution & Licensing
 
-This toolkit is a fork integration of the [Advocate Companion](https://github.com/ljbudgie/advocate-companion) by Lewis James Burgess. The Burgess Principle framework, templates, and Certification Mark are protected intellectual property. The code is MIT-licensed for personal and educational use. For commercial, professional, or organisational use, please contact [lewisburgess_1987@hotmail.co.uk](mailto:lewisburgess_1987@hotmail.co.uk).
+This toolkit is a fork integration of the [Advocate Companion](https://github.com/ljbudgie/advocate-companion) by Lewis James Burgess.
+
+**The code is free.** All code, templates, and skill definitions in this directory are MIT-licensed — free to use, modify, and redistribute for any purpose, including commercial use.
+
+**The name is not.** "Burgess Principle" and its UK Certification Mark (#UK00004343685) are protected intellectual property belonging to Lewis James Burgess. You may not use the name or mark to brand, market, or certify your own products or services without permission.
+
+For full details, see [TRADEMARKS.md](../TRADEMARKS.md). For trademark enquiries, contact [lewisburgess_1987@hotmail.co.uk](mailto:lewisburgess_1987@hotmail.co.uk).
 
 ---
 

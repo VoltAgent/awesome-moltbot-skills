@@ -213,7 +213,7 @@ All Burgess skills are calm, respectful, minimalist, and zero-energy in spirit. 
 
 For full documentation, see [`burgess/README.md`](burgess/README.md). For configuration, see [`burgess/skills/burgess-config.md`](burgess/skills/burgess-config.md).
 
-> **Attribution:** This fork integrates the [Advocate Companion](https://github.com/ljbudgie/advocate-companion) by Lewis James Burgess. The Burgess Principle framework and Certification Mark (UK #UK00004343685) are protected intellectual property. The code is MIT-licensed for personal and educational use. For commercial use, contact [lewisburgess_1987@hotmail.co.uk](mailto:lewisburgess_1987@hotmail.co.uk).
+> **Attribution:** This fork integrates the [Advocate Companion](https://github.com/ljbudgie/advocate-companion) by Lewis James Burgess. **The code is free** — MIT-licensed for any use, including commercial. **The name is not** — "Burgess Principle" and its UK Certification Mark (#UK00004343685) are protected intellectual property and may not be used to brand or certify without permission. See [TRADEMARKS.md](TRADEMARKS.md) for details. For trademark enquiries, contact [lewisburgess_1987@hotmail.co.uk](mailto:lewisburgess_1987@hotmail.co.uk).
 
 ---
 
@@ -1257,7 +1257,9 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed gu
 
 ## License
 
-MIT License - see [LICENSE](LICENSE)
+**Code: MIT License (free)** — see [LICENSE](LICENSE). You are free to use, modify, and redistribute all code, templates, and documentation in this repository.
+
+**Name: Protected (not free)** — "Burgess Principle" and its UK Certification Mark (#UK00004343685) are protected intellectual property. See [TRADEMARKS.md](TRADEMARKS.md) for details.
 
 Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
