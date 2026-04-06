@@ -14,6 +14,7 @@ cp -r burgess/skills/coding-agent-review ~/.openclaw/skills/
 cp -r burgess/skills/contract-review ~/.openclaw/skills/
 cp -r burgess/skills/reasonable-adjustments ~/.openclaw/skills/
 cp -r burgess/skills/dsar-request ~/.openclaw/skills/
+cp -r burgess/skills/foi-request ~/.openclaw/skills/
 cp -r burgess/skills/human-review-request ~/.openclaw/skills/
 
 # Enable all Burgess skills at once
