@@ -51,6 +51,30 @@ Do you want information held by a public body (government, council, NHS, police)
 Has an AI coding agent made changes that affect real people?
   └─ Yes → Coding Agent Review
 
+Have bailiffs or enforcement agents contacted you about a debt?
+  └─ Yes → Enforcement Agent Response
+
+Has a media outlet published something inaccurate about you?
+  └─ Yes → Media & Libel Review
+
+Has your content been wrongfully taken down by a copyright or DMCA claim?
+  └─ Yes → Copyright & DMCA Counter-Notice
+
+Has your original music been wrongfully claimed by Content ID or a rights holder?
+  └─ Yes → Music Copyright Dispute
+
+Has a benefits decision (PIP, Universal Credit, ESA) not reflected your circumstances?
+  └─ Yes → Benefits Claim Assistance
+
+Is a medical device making automated decisions about your care?
+  └─ Yes → Medical Device Review
+
+Have you received a council tax demand or parking fine that feels wrong?
+  └─ Yes → Council Tax & PCN Dispute
+
+Has a Direct Debit been taken wrongfully and the bank refused a refund?
+  └─ Yes → Direct Debit Refund
+
 Has a decision been made about you that feels wrong, automated, or impersonal?
   └─ Yes → Human Review Request
 
@@ -66,12 +90,20 @@ None of the above, but you want a human to look at your specific case?
 
 | Skill | Description |
 |-------|-------------|
+| [Benefits Claim Assistance](skills/benefits-claim-assistance/) | Challenge benefits decisions (PIP, Universal Credit, ESA) with human-review checkpoints. |
 | [Coding Agent Review](skills/coding-agent-review/) | Human-review gate for AI coding agent outputs — flags changes affecting accessibility, privacy, security, and more. |
 | [Contract Review](skills/contract-review/) | Clause-by-clause contract review with Burgess binary flagging for clauses needing human attention. |
-| [Reasonable Adjustments](skills/reasonable-adjustments/) | Templates and guided prompts for requesting reasonable adjustments from employers and service providers. |
+| [Copyright & DMCA Counter-Notice](skills/copyright-dmca-counter-notice/) | Respond to wrongful copyright takedowns and DMCA notices with human-review requests. |
+| [Council Tax & PCN Dispute](skills/council-tax-pcn-dispute/) | Challenge council tax demands and parking fines with human-review checkpoints. |
+| [Direct Debit Refund](skills/direct-debit-refund/) | Challenge wrongful Direct Debit payments and bank refund decisions. |
 | [DSAR Request](skills/dsar-request/) | Structured Data Subject Access Request generation with human-review checkpoints. |
+| [Enforcement Agent Response](skills/enforcement-agent-response/) | Respond to bailiffs and enforcement agents with human-review requests and enforcement pause. |
 | [FOI Request](skills/foi-request/) | Freedom of Information request generation for public bodies with human-review checkpoints. |
 | [Human Review Request](skills/human-review-request/) | A general-purpose skill for requesting that a decision be reconsidered by a real person. |
+| [Media & Libel Review](skills/media-libel-review/) | Respond to inaccurate media coverage with human-review requests for editorial accountability. |
+| [Medical Device Review](skills/medical-device-review/) | Request human clinician review of algorithmic decisions in medical devices. |
+| [Music Copyright Dispute](skills/music-copyright-dispute/) | Dispute wrongful Content ID claims, blocked monetisation, and royalty allocation errors. |
+| [Reasonable Adjustments](skills/reasonable-adjustments/) | Templates and guided prompts for requesting reasonable adjustments from employers and service providers. |
 
 ---
 
