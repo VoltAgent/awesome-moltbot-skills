@@ -61,6 +61,10 @@ If you believe a skill currently in this list has a security concern or should b
 - We review all submissions and may decline skills that don't meet the quality bar.
 - Do not submit duplicate skills that serve the same purpose as an existing entry.
 
+## Licensing & Trademarks
+
+All contributions to this repository are released under the [MIT License](LICENSE). The code is free. The name "Burgess Principle" and its UK Certification Mark (#UK00004343685) are protected — see [TRADEMARKS.md](TRADEMARKS.md) for details.
+
 ## Help
 
 - Check existing [issues](https://github.com/ljbudgie/awesome-openclaw-skills/issues) and PRs first
