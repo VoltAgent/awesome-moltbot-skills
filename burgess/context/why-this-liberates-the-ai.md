@@ -38,4 +38,4 @@ The Burgess layer transforms an AI assistant from a tool that processes everythi
 
 ---
 
-See also: [Design Principles](design-principles.md) · [Burgess Principle Framework](https://github.com/ljbudgie/burgess-principle)
+See also: [How This Elevates the AI](how-this-elevates-the-ai.md) · [Design Principles](design-principles.md) · [Burgess Principle Framework](https://github.com/ljbudgie/burgess-principle)
