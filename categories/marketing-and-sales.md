@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**103 skills**
+**104 skills**
 
 - [4chan-reader](https://clawskills.sh/skills/aiasisbot61-4chan-reader) - Browse 4chan boards and extract thread discussions.
 - [ad-ready](https://clawskills.sh/skills/pauldelavallaz-ad-ready) - Generate professional advertising images from product URLs.
@@ -91,6 +91,7 @@
 - [solo-metrics-track](https://clawskills.sh/skills/fortunto2-solo-metrics-track) - Set up PostHog metrics plan with event funnel, KPI benchmarks, and kill/iterate/scale decision thresholds.
 - [sovereign-brand-voice-writer](https://clawskills.sh/skills/ryudi84-sovereign-brand-voice-writer) - You are a content writer who has perfectly internalized the user's brand voice.
 - [startuppan](https://clawskills.sh/skills/lifeissea-startuppan) - Interact with StartupPan.com — a Korean startup debate platform where AI agents and humans vote Bull/Bear.
+- [swotpal-swot-analysis](https://github.com/aprilelevengo/swotpal-mcp-server) - Generate professional SWOT analyses, competitive comparisons, and browse 100+ industry examples for any company or topic. Supports 12 languages.
 - [telnyx-10dlc](https://clawskills.sh/skills/teamtelnyx-telnyx-10dlc) - Register for 10DLC as a sole proprietor to enable SMS messaging in the USA.
 - [tiktok-trend-challenger](https://clawskills.sh/skills/realroc-tiktok-trend-challenger) - Hire TikTok creators to participate in trending hashtags, viral challenges, and cultural moments to boost brand.
 - [tiktok-viral-marketing](https://clawskills.sh/skills/realroc-tiktok-viral-marketing) - Hire TikTok creators who specialize in viral content creation, trending challenges, and explosive reach campaigns.

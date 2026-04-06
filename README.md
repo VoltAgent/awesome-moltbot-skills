@@ -557,7 +557,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brand-voice-profile](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile) - Define and store your brand voice profile for consistent content generation.
 - [brevo](https://clawskills.sh/skills/yujesyoga-brevo) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
 
-> **[View all 103 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
+> **[View all 104 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
 <details>
