@@ -13,6 +13,7 @@ This directory contains the full [Advocate Companion](https://github.com/ljbudgi
 - [Available Burgess-Enhanced Skills](#available-burgess-enhanced-skills)
 - [How to Enable / Disable](#how-to-enable--disable)
 - [Design Principles](#design-principles)
+- [Why This Liberates the AI](#why-this-liberates-the-ai)
 - [Attribution](#attribution)
 - [Disclaimer](#disclaimer)
 
@@ -113,6 +114,14 @@ All Burgess-enhanced skills follow these principles:
 - **Privacy-first** — no data leaves the device unless explicitly required by the skill.
 
 See [context/design-principles.md](context/design-principles.md) for detailed design guidance.
+
+---
+
+## Why This Liberates the AI
+
+The Burgess layer does not restrict the AI — it frees it from a false choice between refusing entirely and processing blindly. By encoding a principled reason to pause, defer, and hand off, it transforms the AI into a tool that knows when to help, when to stop, and when to bring in a human.
+
+See [context/why-this-liberates-the-ai.md](context/why-this-liberates-the-ai.md) for the full explanation.
 
 ---
 
