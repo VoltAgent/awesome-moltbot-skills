@@ -44,6 +44,9 @@ Do you need workplace or service adjustments for a disability or condition?
 Do you want to know what personal data an organisation holds about you?
   └─ Yes → DSAR Request
 
+Has an AI coding agent made changes that affect real people?
+  └─ Yes → Coding Agent Review
+
 Has a decision been made about you that feels wrong, automated, or impersonal?
   └─ Yes → Human Review Request
 
@@ -59,6 +62,7 @@ None of the above, but you want a human to look at your specific case?
 
 | Skill | Description |
 |-------|-------------|
+| [Coding Agent Review](skills/coding-agent-review/) | Human-review gate for AI coding agent outputs — flags changes affecting accessibility, privacy, security, and more. |
 | [Contract Review](skills/contract-review/) | Clause-by-clause contract review with Burgess binary flagging for clauses needing human attention. |
 | [Reasonable Adjustments](skills/reasonable-adjustments/) | Templates and guided prompts for requesting reasonable adjustments from employers and service providers. |
 | [DSAR Request](skills/dsar-request/) | Structured Data Subject Access Request generation with human-review checkpoints. |

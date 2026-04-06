@@ -10,6 +10,7 @@ Copy the skill folder(s) you want into your OpenClaw skills directory:
 
 ```bash
 # Enable a specific skill
+cp -r burgess/skills/coding-agent-review ~/.openclaw/skills/
 cp -r burgess/skills/contract-review ~/.openclaw/skills/
 cp -r burgess/skills/reasonable-adjustments ~/.openclaw/skills/
 cp -r burgess/skills/dsar-request ~/.openclaw/skills/
