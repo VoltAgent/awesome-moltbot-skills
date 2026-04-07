@@ -345,7 +345,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentkeys](https://clawskills.sh/skills/alexandr-belogubov-agentkeys) - Secure credential proxy for AI agents.
 - [agentmemory](https://clawskills.sh/skills/badaramoni-agentmemory) - End-to-end encrypted cloud memory for AI agents.
 
-> **[View all 392 skills in DevOps & Cloud →](categories/devops-and-cloud.md)**
+> **[View all 393 skills in DevOps & Cloud →](categories/devops-and-cloud.md)**
 </details>
 
 <details>

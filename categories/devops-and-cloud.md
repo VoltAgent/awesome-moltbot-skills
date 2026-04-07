@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**392 skills**
+**393 skills**
 
 - [0x0-messenger](https://clawskills.sh/skills/eijiac24-0x0-messenger) - Send and receive P2P messages using disposable numbers and PINs.
 - [12306](https://clawskills.sh/skills/kirorab-12306) - Query China Railway 12306 for train schedules, remaining tickets, and station info.
@@ -135,6 +135,7 @@
 - [devvit-publishing-auditor](https://clawskills.sh/skills/asifdotpy-devvit-publishing-auditor) - A specialized auditor for Reddit Devvit developers to verify app readiness before uploading to the Reddit servers.
 - [didit-aml-screening](https://clawskills.sh/skills/rosasalberto-didit-aml-screening) - Integrate Didit AML Screening standalone API to screen individuals or companies against global watchlists.
 - [docker-skill](https://clawskills.sh/skills/runeweaverstudios-docker-skill) - Installs and uses Docker reliably with official docs.
+- [drpc-agent-skills](https://clawhub.ai/drpcorg/drpc-agent-skills) - RPC developer tools for querying EVM and Solana networks.
 - [duo](https://clawskills.sh/skills/rkdud007-duo) - Build relationship-focused matchmaking rooms on NDAI Zone by collecting user criteria, compiling detailed private.
 - [duplicati-skill](https://clawskills.sh/skills/robnew-duplicati-skill) - Manage Duplicati backups on the server using secure Bearer tokens.
 - [elasticsearch-skill](https://clawskills.sh/skills/davidgeorgehope-elasticsearch-skill) - Interact with Elasticsearch and Kibana via REST API using curl.
