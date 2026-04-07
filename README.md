@@ -652,7 +652,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ipinfo](https://clawskills.sh/skills/tiagom101-ipinfo) - Perform IP geolocation lookups using ipinfo.io API.
 - [kradleverse-cleanup](https://clawskills.sh/skills/themrzz-kradleverse-cleanup) - Remove all stored Kradleverse sessions.
 - [linkdapi](https://clawskills.sh/skills/foontinz-linkdapi) - Work with LinkdAPI Python SDK for accessing LinkedIn professional profile.
-- [skywork-excel](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-excel/SKILL.md) - AI-powered spreadsheet operations for create, analyze and generate reports.
+- [skywork-excel](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-excel/SKILL.md) - AI-powered spreadsheet operations for creating, analyzing and generating reports.
 
 </details>
 
