@@ -1118,6 +1118,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [expanso-tls-inspect](https://clawskills.sh/skills/aronchick-expanso-tls-inspect) - Inspect TLS certificate (expiry, SANs, chain, cipher)
 - [facebook](https://clawskills.sh/skills/codedao12-facebook) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://clawskills.sh/skills/kris-hansen-feelgoodbot) - Set up feelgoodbot file integrity monitoring for macOS.
+- [skill-provenance](https://github.com/openclaw/skills/tree/main/skills/snapsynapse/skill-provenance/SKILL.md) - Version tracking and integrity verification for skill bundles
 
 > **[View all 54 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
