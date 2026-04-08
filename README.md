@@ -186,7 +186,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
-| [Health & Fitness](#health--fitness) (87) | [Finance / Crypto](#finance--crypto) (1) | |
+| [Health & Fitness](#health--fitness) (87) | [Finance & Crypto](#finance--crypto) (1) | |
 
 
 <details open>
@@ -1178,7 +1178,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details open>
-<summary><h3 style="display:inline">Finance / Crypto</h3></summary>
+<summary><h3 style="display:inline">Finance & Crypto</h3></summary>
 
 - [cross-asset-intelligence](https://x402.bankr.bot/0x98ee945dfa6bb8e9ed9f9b6ae56eb82bcc82f0aa/) - Cross-asset financial analysis (BTC vs equities correlation, risk scores, token safety, macro reports) with AI insights via x402 micropayments. 22 endpoints, 4 pricing tiers.
 
