@@ -818,6 +818,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ezbookkeeping](https://clawskills.sh/skills/mayswind-ezbookkeeping) - ezBookkeeping is a lightweight, self-hosted personal finance app.
 - [fix-life-in-1-day](https://clawskills.sh/skills/evgyur-fix-life-in-1-day) - Fix your entire life in 1 day.
 - [founder-coach](https://clawskills.sh/skills/goforu-founder-coach) - AI-powered startup mindset coach that helps founders upgrade.
+- [midas](https://clawhub.ai/realteamprinz/midas) - Self-learning wealth extraction engine. Feed it anyone — it extracts their wealth operating system across 6 dimensions. Open source, self-learning.
 
 > **[View all 51 skills in Personal Development →](categories/personal-development.md)**
 </details>
