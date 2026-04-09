@@ -1085,7 +1085,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [pinme](https://clawskills.sh/skills/ntlx-pinme) - Deploy static websites to IPFS with a single command using PinMe CLI.
 - [sonarqube-analyzer](https://clawskills.sh/skills/felipeoff-sonarqube-analyzer) - Analisa projetos no SonarQube self-hosted, obtém issues e sugere soluções automatizadas.
 - [system-integrity-and-backup](https://clawskills.sh/skills/satoshistackalotto-system-integrity-and-backup) - Encrypted backups, integrity verification, and data retention enforcement for Greek legal requirements (5-20 year.
-
+- [trent-openclaw-security-assessment](https://github.com/openclaw/skills/blob/main/skills/trent-ai-release/trentclaw/SKILL.md) - Identify misconfigurations, chained attack paths, and get severity-rated findings with fixes. Powered by the Trent AI API.
 > **[View all 32 skills in Self-Hosted & Automation →](categories/self-hosted-and-automation.md)**
 </details>
 
@@ -1118,6 +1118,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [expanso-tls-inspect](https://clawskills.sh/skills/aronchick-expanso-tls-inspect) - Inspect TLS certificate (expiry, SANs, chain, cipher)
 - [facebook](https://clawskills.sh/skills/codedao12-facebook) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://clawskills.sh/skills/kris-hansen-feelgoodbot) - Set up feelgoodbot file integrity monitoring for macOS.
+- 
 
 > **[View all 54 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
