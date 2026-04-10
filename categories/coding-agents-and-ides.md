@@ -884,6 +884,7 @@
 - [skill-factory](https://clawskills.sh/skills/jeremysommerfeld8910-cpu-skill-factory) - Create, evaluate, improve, benchmark, and publish OpenClaw skills.
 - [skill-factory-pipeline](https://clawskills.sh/skills/martinforsulu-skill-factory-pipeline) - Multi-Agent Pipeline Orchestrator that builds new skills from scratch.
 - [skill-father](https://clawskills.sh/skills/moodykong-skill-father) - Authoritative skill-creation standards (Boss)
+- [skill-graphify](https://clawskills.sh/skills/flobo3-skill-graphify) - Turn any folder into a queryable knowledge graph via graphify.
 - [skill-hub](https://clawskills.sh/skills/phenixstar-skill-hub) - OpenClaw skill discovery, security vetting & install.
 - [skill-hunter](https://clawskills.sh/skills/kenoodl-synthesis-skill-hunter) - Find, evaluate, and install ClawHub skills.
 - [skill-installer](https://clawskills.sh/skills/sreejith77-skill-installer) - Install, search, update, and manage skills from ClawHub (the public OpenClaw skill registry)
