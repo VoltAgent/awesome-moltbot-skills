@@ -101,3 +101,6 @@
 - [workcrm](https://clawskills.sh/skills/extraterrest-workcrm) - A lightweight, local-first CRM with an explicit confirmation gate.
 - [writing-assistant](https://clawskills.sh/skills/urrrich-writing-assistant) - You are a Writing Team Lead managing specialized writers via MCP tools.
 - [writing-group-leader](https://clawskills.sh/skills/urrrich-writing-group-leader) - You are a Writing Team Lead managing specialized writers via MCP tools.
+- [zero-human-audit](https://github.com/iwearyourshirt/zero-human-skills/tree/main/zero-human-audit) - Run a structured automation audit on any business. Scores each function for AI potential, recommends specific tools with real pricing, maps automation workflows, and builds a phased roadmap with ROI math.
+- [ai-stack-builder](https://github.com/iwearyourshirt/zero-human-skills/tree/main/ai-stack-builder) - Build a complete AI tool stack for any business type and budget. Decision trees, integration flows, and day-by-day setup plans for solopreneur, SaaS, e-commerce, agency, and local businesses.
+- [zero-human-content-engine](https://github.com/iwearyourshirt/zero-human-skills/tree/main/zero-human-content-engine) - Set up autonomous content publishing with topic discovery, AI writing, SEO optimization, and GitHub Actions deployment. Runs a daily blog for $5-15/month.
