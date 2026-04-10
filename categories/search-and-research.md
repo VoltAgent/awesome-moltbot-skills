@@ -240,6 +240,7 @@
 - [orthogonal](https://clawskills.sh/skills/christianpickettcode-orthogonal) - Orthogonal API Platform - Access 100+ premium APIs using the SDK, Run API, or x402 direct payment.
 - [owid-oc](https://clawskills.sh/skills/rachmann-alexander-owid-oc) - searches, retrieves, and summarizes content from Our World in Data using the `owid-catalog` Python module.
 - [paperzilla](https://clawskills.sh/skills/pors-paperzilla) - Use the Paperzilla CLI (pz) to search, filter, and browse high-signal academic papers.
+- [paperzilla-research-monitor](https://clawskills.sh/skills/pors-paperzilla-research-monitor) - Monitor project feeds, summarize papers, and draft research briefs.
 - [perplexity-deep-search](https://clawskills.sh/skills/ericsantos-perplexity-deep-search) - Deep search via Perplexity API.
 - [persisent-mind](https://clawskills.sh/skills/vedantsingh60-persisent-mind) - **Persistent, searchable, context-aware memory for AI agents.
 - [persistent-private-agent-memory](https://clawskills.sh/skills/lucaspdude-persistent-private-agent-memory) - Run a local Agent Memory Service for persistent self-improvement with proper Ed25519 cryptography.
