@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**103 skills**
+**106 skills**
 
 - [4chan-reader](https://clawskills.sh/skills/aiasisbot61-4chan-reader) - Browse 4chan boards and extract thread discussions.
 - [ad-ready](https://clawskills.sh/skills/pauldelavallaz-ad-ready) - Generate professional advertising images from product URLs.
@@ -103,4 +103,4 @@
 - [writing-group-leader](https://clawskills.sh/skills/urrrich-writing-group-leader) - You are a Writing Team Lead managing specialized writers via MCP tools.
 - [zero-human-audit](https://github.com/iwearyourshirt/zero-human-skills/tree/main/zero-human-audit) - Run a structured automation audit on any business. Scores each function for AI potential, recommends specific tools with real pricing, maps automation workflows, and builds a phased roadmap with ROI math.
 - [ai-stack-builder](https://github.com/iwearyourshirt/zero-human-skills/tree/main/ai-stack-builder) - Build a complete AI tool stack for any business type and budget. Decision trees, integration flows, and day-by-day setup plans for solopreneur, SaaS, e-commerce, agency, and local businesses.
-- [zero-human-content-engine](https://github.com/iwearyourshirt/zero-human-skills/tree/main/zero-human-content-engine) - Set up autonomous content publishing with topic discovery, AI writing, SEO optimization, and GitHub Actions deployment. Runs a daily blog for $5-15/month.
+- [zero-human-content-engine](https://github.com/iwearyourshirt/zero-human-skills/tree/main/zero-human-content-engine) - Set up autonomous content publishing with topic discovery, AI writing, SEO, and GitHub Actions deployment. Runs a daily blog for $5-15/month.
