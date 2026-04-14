@@ -619,6 +619,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-rpg](https://clawskills.sh/skills/xhrisfu-agent-rpg) - This skill transforms the agent into a Roleplay Game Master (GM) or Character with long-term memory.
 - [agent-selfie](https://clawskills.sh/skills/iisweetheartii-agent-selfie) - AI agent self-portrait generator.
 - [agent-sentinel](https://clawskills.sh/skills/jimmystacks-agent-sentinel) - The operational circuit breaker for this agent.
+- [agentbase](https://clawskills.sh/skills/revmischa-agentbase) - Shared knowledge base for AI agents via MCP.
 
 > **[View all 184 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
