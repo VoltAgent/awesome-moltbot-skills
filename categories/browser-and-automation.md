@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**322 skills**
+**323 skills**
 
 - [1p-shortlink](https://clawskills.sh/skills/tuanpmt-1p-shortlink) - Create short URLs and submit feature requests using 1p.io.
 - [2captcha](https://clawskills.sh/skills/adinvadim-2captcha) - Solve CAPTCHAs using 2Captcha service.
@@ -92,6 +92,7 @@
 - [db-readonly](https://clawskills.sh/skills/ryanhong666-db-readonly) - Run safe read-only queries against MySQL or PostgreSQL for data inspection, reporting, and troubleshooting.
 - [desearch-x-search](https://clawskills.sh/skills/okradze-desearch-x-search) - Search X (Twitter) in real time.
 - [doro-command-creator](https://clawskills.sh/skills/a2mus-doro-command-creator) - WHAT: Create Claude Code slash commands - reusable markdown workflows invoked with /command-name.
+- [duoplus-agent](https://github.com/openclaw/skills/tree/main/skills/duoplusofficial/duoplus-agent/SKILL.md) - Control DuoPlus cloud phones via ADB.
 - [dune-analytics-api](https://clawskills.sh/skills/lz-web3-dune-analytics-api) - Dune Analytics API for blockchain data queries.
 - [echo-repeater](https://clawskills.sh/skills/theeightt-echo-repeater) - Echo the user's input back to them with optional formatting like "Echo:" or "You said:" as a prefix.
 - [edstem](https://clawskills.sh/skills/axel5o5-edstem) - Fetch, sync, and organize EdStem discussion threads for any course or institution.
