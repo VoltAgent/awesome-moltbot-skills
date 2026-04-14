@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**103 skills**
+**113 skills**
 
 - [4chan-reader](https://clawskills.sh/skills/aiasisbot61-4chan-reader) - Browse 4chan boards and extract thread discussions.
 - [ad-ready](https://clawskills.sh/skills/pauldelavallaz-ad-ready) - Generate professional advertising images from product URLs.
@@ -67,6 +67,16 @@
 - [lead-magnets](https://clawskills.sh/skills/staybased-lead-magnets) - Design lead magnets that attract qualified prospects and convert them to paying customers.
 - [lifi-orchestrator](https://clawskills.sh/skills/rhlsthrm-lifi-orchestrator) - Cross-chain bridging and swapping via LI.FI — the leading bridge aggregator that routes across 30+ bridges and DEXs.
 - [linkfuse](https://clawskills.sh/skills/oliverw-linkfuse) - Create a Linkfuse affiliate short link from any URL.
+- [linkedin-comment-drafter](https://clawskills.sh/skills/sergebulaev-linkedin-comment-drafter) - 7 comment templates that earn author replies on LinkedIn posts. Paste a URL, get drafts in your voice.
+- [linkedin-content-planner](https://clawskills.sh/skills/sergebulaev-linkedin-content-planner) - 7-day LinkedIn content plans with 3-pillar discipline, persona-specific posting cadence, and comment targets.
+- [linkedin-employee-advocacy](https://clawskills.sh/skills/sergebulaev-linkedin-employee-advocacy) - 14-day team advocacy launch playbook with brand governance, time budgeting, and ROI measurement.
+- [linkedin-hook-extractor](https://clawskills.sh/skills/sergebulaev-linkedin-hook-extractor) - Reverse-engineer the hook formula from any viral LinkedIn post into a reusable template.
+- [linkedin-humanizer](https://clawskills.sh/skills/sergebulaev-linkedin-humanizer) - Strip AI tells from LinkedIn drafts: em dashes, filler vocabulary, uniform sentence rhythm, rule-of-three.
+- [linkedin-post-audit](https://clawskills.sh/skills/sergebulaev-linkedin-post-audit) - 20-point pre-publish check against LinkedIn 2026 algorithm penalties and AI detection heuristics.
+- [linkedin-post-writer](https://clawskills.sh/skills/sergebulaev-linkedin-post-writer) - Draft viral LinkedIn posts using 10 proven 2026 hook formulas with verified engagement multipliers.
+- [linkedin-profile-optimizer](https://clawskills.sh/skills/sergebulaev-linkedin-profile-optimizer) - 9-section LinkedIn profile audit with headline formula, About section template, and Featured strategy.
+- [linkedin-reply-handler](https://clawskills.sh/skills/sergebulaev-linkedin-reply-handler) - Draft replies to LinkedIn comments from a URL, handling 2-level thread flattening correctly.
+- [linkedin-thread-engagement](https://clawskills.sh/skills/sergebulaev-linkedin-thread-engagement) - Monitor LinkedIn threads for author replies in the 6-24h window and draft follow-up responses.
 - [listing-swarm](https://clawhub.ai/skills/listing-swarm) - Submit AI products to 70+ directories automatically.
 - [marketing-strategy-pmm](https://clawskills.sh/skills/alirezarezvani-marketing-strategy-pmm) - Product marketing skill for positioning, GTM strategy, competitive intelligence, and product launches.
 - [meta-ads-report](https://clawskills.sh/skills/kein-s-meta-ads-report) - A powerful toolkit to monitor your Meta (Facebook/Instagram) advertising performance directly through chat.
