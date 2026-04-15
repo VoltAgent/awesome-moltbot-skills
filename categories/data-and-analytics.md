@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**39 skills**
+**40 skills**
 
 - [add-analytics](https://clawskills.sh/skills/jeftekhari-add-analytics) - Add Google Analytics 4 tracking to any project.
 - [amplitude-automation](https://clawskills.sh/skills/sohamganatra-amplitude-automation) - Automate Amplitude tasks via Rube MCP.
@@ -37,5 +37,6 @@
 - [tabstack-extractor](https://clawskills.sh/skills/noblepayne-tabstack-extractor) - Extract structured data from websites using Tabstack.
 - [thingsboard-skill](https://clawskills.sh/skills/hoangnv170752-thingsboard-skill) - Manage ThingsBoard devices, dashboards, telemetry.
 - [umea-data](https://clawskills.sh/skills/simskii-umea-data) - Query open data from Umeå kommun about locations, facilities.
+- [use-hln-api](https://clawskills.sh/skills/hlnames-use-hln-api) - Query the Hyperliquid Names API, integrate into other applications, and register .hl names onchain)
 - [yahoo-data-fetcher](https://clawskills.sh/skills/noypearl-yahoo-data-fetcher) - Fetch real-time stock quotes from Yahoo Finance.
 - [douban-sync-skill](https://clawskills.sh/skills/cosformula-douban-sync-skill) - Export and sync Douban (豆瓣) book/movie/music/game collections.
