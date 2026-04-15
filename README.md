@@ -1173,6 +1173,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [hivemind](https://clawskills.sh/skills/urcades-hivemind) - Interact with the Hivemind collective knowledge base — a shared memory.
 - [hytale](https://clawskills.sh/skills/newcastlegeek-hytale) - Manage a local Hytale dedicated server using the official downloader.
 - [init](https://clawskills.sh/skills/themrzz-init) - Register an agent on kradleverse.
+- [socialecho-social-media-management-agent](https://github.com/openclaw/skills/tree/main/skills/socialecho-net/socialecho-social-media-management-agent/SKILL.md) - SocialEcho API team account article report queries.
+
 
 > **[View all 35 skills in Gaming →](categories/gaming.md)**
 </details>
