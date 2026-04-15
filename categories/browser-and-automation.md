@@ -179,7 +179,7 @@
 - [mh-notion](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-notion) - Notion API for creating and managing pages, databases, and blocks.
 - [minimal-memory](https://clawskills.sh/skills/zencrust-ai-minimal-memory) - Maintain clean, efficient memory files with GOOD/BAD/NEUTRAL categorization and semantic search.
 - [minimax-speech](https://clawskills.sh/skills/wingchiu-minimax-speech) - Manage MiniMax Speech 2.8 T2A (text-to-audio) and voice catalog lookups.
-- [mobilerun](https://github.com/openclaw/skills/tree/main/skills/johnmalek312/mobilerun/SKILL.md) - Automate Android devices — tap, swipe, type, screenshot. iOS soon.
+- [mobilerun](https://github.com/openclaw/skills/tree/main/skills/johnmalek312/mobilerun/SKILL.md) - Control Android devices: tap, swipe, type, screenshot (iOS coming soon).
 - [mukt](https://clawskills.sh/skills/hgosansn-mukt) - Zero-cost OpenRouter responder that auto-discovers the best currently free model, retries on failures, and returns.
 - [multilogin](https://clawskills.sh/skills/glebkazachinskiy-multilogin) - Use when you need to manage Multilogin X browser profiles — launch quick disposable profiles, list/start/stop saved.
 - [multiloginx](https://clawskills.sh/skills/multilogincom-multiloginx) - Use when you need to manage Multilogin X browser profiles — launch quick disposable profiles, list/start/stop saved.
