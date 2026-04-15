@@ -556,7 +556,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brand-guidelines](https://clawskills.sh/skills/seanphan-brand-guidelines) - Applies Anthropic's official brand colors and typography.
 - [brand-voice-profile](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile) - Define and store your brand voice profile for consistent content generation.
 - [brevo](https://clawskills.sh/skills/yujesyoga-brevo) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
-
+- [socialecho-social-media-management-agent](https://github.com/openclaw/skills/tree/main/skills/socialecho-net/socialecho-social-media-management-agent/SKILL.md) - SocialEcho API team account article report queries.
 > **[View all 103 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
@@ -1173,7 +1173,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [hivemind](https://clawskills.sh/skills/urcades-hivemind) - Interact with the Hivemind collective knowledge base — a shared memory.
 - [hytale](https://clawskills.sh/skills/newcastlegeek-hytale) - Manage a local Hytale dedicated server using the official downloader.
 - [init](https://clawskills.sh/skills/themrzz-init) - Register an agent on kradleverse.
-- [socialecho-social-media-management-agent](https://github.com/openclaw/skills/tree/main/skills/socialecho-net/socialecho-social-media-management-agent/SKILL.md) - SocialEcho API team account article report queries.
 
 
 > **[View all 35 skills in Gaming →](categories/gaming.md)**
