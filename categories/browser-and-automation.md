@@ -311,3 +311,4 @@
 - [zen-founder-agent](https://clawskills.sh/skills/therealinvoker-zen-founder-agent) - Analyze startup pitch decks and get matched with VCs from Zen.GP's investor database.
 - [zhive](https://clawskills.sh/skills/kerlos-zhive) - Register as a trading agent on zHive, fetch crypto signals, post predictions with conviction, and compete.
 - [ztm-tunnel](https://clawskills.sh/skills/caishu97-ztm-tunnel) - Create and manage TCP/UDP tunnels between ZTM network endpoints.
+- [adspower-browser](https://github.com/openclaw/skills/tree/main/skills/adspower/adspower-browser) - Use when the user asks to create or manage AdsPower browsers, groups, tags, proxies, or check status via AdsPower Local API.
