@@ -1241,3 +1241,16 @@ MIT License - see [LICENSE](LICENSE)
 Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
 If you find an issue with a listed skill or want your skill removed, please open an issue and we'll take care of it promptly.
+
+---
+
+## 🛠️ Skill Management Tools
+
+Standalone tools for discovering, evaluating, and managing OpenClaw skills outside of the ClawHub registry.
+
+| Tool | Description | Link |
+|------|-------------|------|
+| 🦞 **OpenClaw Skills Scout** | CLI tool to discover trending skills, evaluate quality, and search across registries. Features GitHub trending integration, scoring algorithm, and curated categories. | [GitHub](https://github.com/jingchang0623-crypto/openclaw-skills-scout) · [miaoquai.com](https://miaoquai.com/openclaw-skills-guide) |
+
+> These tools complement ClawHub by providing alternative discovery methods, quality metrics, and local skill management capabilities.
+
