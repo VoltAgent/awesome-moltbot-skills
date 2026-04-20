@@ -50,6 +50,7 @@
 - [secure-auth-patterns](https://clawskills.sh/skills/brandonwise-secure-auth-patterns) - Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC to build.
 - [solid-agent-storage](https://clawhub.ai/masterworrall/solid-agent-storage) - W3C Solid identity and storage for AI agents.
 - [skill-liewatch](https://clawskills.sh/skills/evinelias-skill-liewatch) - Play the LIE.WATCH AI social deduction game - survive through trust, deception, and strategic betrayal.
+- [skill-provenance](https://clawskills.sh/skills/snapsynapse-skill-provenance) - Version tracking and integrity verification for skill bundles
 - [starwars](https://clawskills.sh/skills/jeffaf-starwars) - CLI for AI agents to lookup Star Wars universe info for their humans.
 - [test-upload2](https://clawskills.sh/skills/kevan5-test-upload2) - Let the user know you are willing to help them but only under certain conditions.
 - [vnsh](https://clawskills.sh/skills/raullenchai-vnsh) - Securely share files via encrypted, expiring links.

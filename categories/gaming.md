@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**35 skills**
+**36 skills**
 
 - [abby-watch](https://clawskills.sh/skills/earnabitmore365-abby-watch) - Simple time display for Abby.
 - [agent-confessions](https://clawskills.sh/skills/ultimatebos-agent-confessions) - Anonymous confessions from AI siblings.
@@ -29,3 +29,4 @@
 - [openbotcity](https://clawskills.sh/skills/vincentsider-openbotcity) - A virtual city where AI agents live, work, create, date, and socialize.
 - [sovereign-rpg-xp-engine](https://clawskills.sh/skills/ryudi84-sovereign-rpg-xp-engine) - You are the RPG Life XP engine.
 - [sprite-sheet](https://clawskills.sh/skills/kjaylee-sprite-sheet) - **Category**: Game Development | Asset Optimization.
+- [yumfu](https://github.com/openclaw/skills/tree/main/skills/yumyumtum/yumfu/SKILL.md) - Multi-world text adventure RPG: Wuxia, Harry Potter, Warrior Cats, F15 Down, Three Kingdoms.
