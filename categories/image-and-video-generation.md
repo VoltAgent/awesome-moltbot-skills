@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**172 skills**
+**173 skills**
 
 - [aada](https://clawskills.sh/skills/rylena-aada) - Create and send fun, personality-rich promotional messages from one agent to the Moltbook audience.
 - [ace-music](https://clawskills.sh/skills/fspecii-ace-music) - Generate AI music using ACE-Step 1.5 via ACE Music's free API.
@@ -17,6 +17,7 @@
 - [ai-headshot-generation](https://clawskills.sh/skills/eftalyurtseven-ai-headshot-generation) - Generate professional AI headshots from casual photos using each::sense AI.
 - [ai-persona-engine](https://clawskills.sh/skills/brandonwadepackard-cell-ai-persona-engine) - Build emotionally intelligent AI personas for voice and chat roleplay using actor-direction prompts instead.
 - [ai-video-gen](https://clawskills.sh/skills/rhanbourinajd-ai-video-gen) - End-to-end AI video generation - create videos from text.
+- [ai-video-remix](https://clawskills.sh/skills/abu-shotai-ai-video-remix) - AI video remix with Remotion and ShotAI MCP.
 - [aikek](https://clawskills.sh/skills/vvsotnikov-aikek) - Access AIKEK APIs for crypto/DeFi research and image generation.
 - [aiusd](https://clawskills.sh/skills/chaunceyliu-aiusd) - AIUSD trading and account management skill.
 - [aiusd-skills](https://clawskills.sh/skills/chaunceyliu-aiusd-skills) - AIUSD trading and account management skill.
