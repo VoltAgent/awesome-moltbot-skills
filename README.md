@@ -381,7 +381,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [cad-agent](https://github.com/clawdbot/skills/tree/main/skills/clawd-maf/cad-agent/SKILL.md) - Rendering server for AI agents doing CAD work.
 - [calorie-visualizer](https://clawskills.sh/skills/vintlin-calorie-visualizer) - Local calorie logging and visual reporting (auto-refreshes and returns report image after each log)
 - [canva-connect](https://clawskills.sh/skills/coolmanns-canva-connect) - Manage Canva designs, assets, and folders via the Connect API.
-
+- [ai-video-remix](https://github.com/openclaw/skills/tree/main/skills/abu-shotai/ai-video-remix/SKILL.md) - AI-driven video remix from local library using ShotAI.
 > **[View all 170 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
 </details>
 
