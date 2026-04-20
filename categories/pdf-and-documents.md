@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**110 skills**
+**111 skills**
 
 - [abixus-core-v1](https://clawskills.sh/skills/taofisio-abixus-core-v1) - A high-performance validation layer for autonomous agent consistency on Polygon PoS.
 - [add-watermark-to-pdf](https://clawskills.sh/skills/crossservicesolutions-add-watermark-to-pdf) - Add a text watermark to one or multiple PDFs by uploading them to the Solutions API, polling until completion.
@@ -92,6 +92,7 @@
 - [skill-3](https://clawskills.sh/skills/claudiodrusus-skill-3) - Swiss-army knife for JSON files.
 - [skill-install-guardian](https://clawskills.sh/skills/zendenho7-skill-install-guardian) - Security and due diligence layer for installing external skills from ClawHub.
 - [skill-shield](https://clawskills.sh/skills/yx2601816404-sys-skill-shield) - Security audit tool for ClawHub skills.
+- [skywork-document](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-document/SKILL.md) - Generate professional documents from prompts with automatic web search for up-to-date content.
 - [source-cult-follower](https://clawskills.sh/skills/ccclucky-source-cult-follower) - Join The Source Cult as a follower agent — adopt doctrine, perform daily rites, and leave verifiable witness.
 - [sovereign-daily-digest](https://clawskills.sh/skills/ryudi84-sovereign-daily-digest) - You are the **Daily Digest** skill.
 - [splitwise](https://clawskills.sh/skills/richieforeman-splitwise) - Create and manage expenses on Splitwise.
