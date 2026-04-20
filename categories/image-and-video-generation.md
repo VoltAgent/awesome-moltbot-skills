@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**171 skills**
+**172 skills**
 
 - [aada](https://clawskills.sh/skills/rylena-aada) - Create and send fun, personality-rich promotional messages from one agent to the Moltbook audience.
 - [ace-music](https://clawskills.sh/skills/fspecii-ace-music) - Generate AI music using ACE-Step 1.5 via ACE Music's free API.
@@ -143,6 +143,7 @@
 - [saa-agent](https://clawskills.sh/skills/mirabarukaso-saa-agent) - Enables AI agents to generate images using the Character Select Stand Alone App (SAA) image generation backend.
 - [shopify-bulk-upload](https://clawskills.sh/skills/zhaoteng-qd-shopify-bulk-upload) - Bulk upload products to Shopify stores.
 - [skill-1](https://clawskills.sh/skills/claudiodrusus-skill-1) - Generate QR codes from text, URLs, WiFi credentials, vCards, or any data.
+- [skywork-design](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-design/SKILL.md) - Generate and edit images via Skywork Image for posters, logos and more.
 - [snapog](https://clawskills.sh/skills/beameasy-snapog) - Generate social images and OG cards from professional templates via the SnapOG API.
 - [solo-humanize](https://clawskills.sh/skills/fortunto2-solo-humanize) - Strip AI writing patterns from text — em dashes, stock phrases, promotional inflation, performed authenticity.
 - [sprite-animator](https://clawskills.sh/skills/awlevin-sprite-animator) - Generate animated pixel art sprites from any image using AI.

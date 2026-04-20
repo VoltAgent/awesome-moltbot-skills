@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**1200 skills**
+**1202 skills**
 
 - [0g-compute](https://clawskills.sh/skills/in-liberty420-0g-compute) - Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers.
 - [0protocol](https://clawskills.sh/skills/0isone-0protocol) - Agents can sign plugins, rotate credentials without losing identity, and publicly attest to behavior.
@@ -908,6 +908,8 @@
 - [skillshield](https://clawskills.sh/skills/benlee2144-skillshield) - SkillShield v4 — Ultimate security scanner for OpenClaw skills. 65 security checks, SARIF v2.1.0 output, CI/CD.
 - [skillstore](https://clawskills.sh/skills/chris6970barbarian-hue-skillstore) - Search, install, and create OpenClaw skills with intelligent matching.
 - [skulk-skill-scanner](https://clawskills.sh/skills/adainthelab-skulk-skill-scanner) - Scan OpenClaw skill folders for security red flags before installing or publishing.
+- [skywork-music-maker](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-music-maker/SKILL.md) - Create professional music with Mureka AI.
+- [skywork-ppt](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-ppt/SKILL.md) - Generate, imitate, and edit PowerPoint presentations with skywork.
 - [slybroadcast-voicemail](https://clawskills.sh/skills/danielfoch-slybroadcast-voicemail) - Send Slybroadcast ringless voicemail campaigns from OpenClaw/LLMs using CLI or MCP, including AI voice generation.
 - [smart-cron](https://clawskills.sh/skills/mariusfit-smart-cron) - Schedule any OpenClaw task using plain English.
 - [smart-home-energy-saver](https://clawskills.sh/skills/codedao12-smart-home-energy-saver) - Analyze home energy usage and propose safe, read-only automation plans for savings.
