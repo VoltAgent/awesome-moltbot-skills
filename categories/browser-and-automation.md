@@ -12,6 +12,7 @@
 - [activecampaign](https://clawskills.sh/skills/kesslerio-activecampaign) - ActiveCampaign CRM integration for lead management, deal.
 - [adcp-advertising](https://clawskills.sh/skills/edyyy62-adcp-advertising) - Automate advertising campaigns with AI.
 - [admet-prediction](https://clawskills.sh/skills/huifer-admet-prediction) - ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) prediction for drug candidates.
+- [adspower-browser](https://github.com/openclaw/skills/tree/main/skills/adspower/adspower-browser) - Use when the user asks to create or manage AdsPower browsers, groups, tags, proxies, or check status via AdsPower Local API.
 - [Agent Browser](https://clawskills.sh/skills/thesethrose-agent-browser) - A fast Rust-based headless browser automation CLI.
 - [agent-browser](https://clawskills.sh/skills/murphykobe-agent-browser-2) - Automates browser interactions for web testing, form.
 - [agent-daily-planner](https://clawskills.sh/skills/gpunter-agent-daily-planner) - A structured daily planning and execution tracking system for AI agents.

@@ -282,6 +282,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [airtable-automation](https://clawskills.sh/skills/sohamganatra-airtable-automation) - Automate Airtable tasks via Rube MCP (Composio)
 - [airtable-participants](https://clawskills.sh/skills/austinmao-airtable-participants) - Read and query retreat participant data from the Ceremonia Airtable base.
 - [ak-rss-24h-brief](https://clawskills.sh/skills/seandong-ak-rss-24h-brief) - Read RSS/Atom feeds from an OPML list, fetch articles from the last N hours, and generate a Chinese categorized.
+- [adspower-browser](https://github.com/openclaw/skills/tree/main/skills/adspower/adspower-browser) - Use when the user asks to create or manage AdsPower browsers, groups, tags, proxies, or check status via AdsPower Local API.
 - [duoplus-agent](https://github.com/openclaw/skills/tree/main/skills/duoplusofficial/duoplus-agent/SKILL.md) - Control DuoPlus cloud phones via ADB.
 
 > **[View all 323 skills in Browser & Automation →](categories/browser-and-automation.md)**
