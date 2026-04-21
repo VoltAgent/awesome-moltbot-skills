@@ -178,7 +178,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 |---|---|---|
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (103) | [Communication](#communication) (146) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (205) | [Speech & Transcription](#speech--transcription) (45) |
-| [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
+| [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (177) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (65) | |
 | [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
@@ -627,8 +627,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-rpg](https://clawskills.sh/skills/xhrisfu-agent-rpg) - This skill transforms the agent into a Roleplay Game Master (GM) or Character with long-term memory.
 - [agent-selfie](https://clawskills.sh/skills/iisweetheartii-agent-selfie) - AI agent self-portrait generator.
 - [agent-sentinel](https://clawskills.sh/skills/jimmystacks-agent-sentinel) - The operational circuit breaker for this agent.
+- [agentbase](https://github.com/openclaw/skills/tree/main/skills/revmischa/agentbase/SKILL.md) - Shared knowledge base for AI agents.
 
-> **[View all 184 skills in AI & LLMs →](categories/ai-and-llms.md)**
+> **[View all 185 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
 
 <details>

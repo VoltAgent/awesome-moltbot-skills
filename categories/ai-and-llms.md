@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**184 skills**
+**185 skills**
 
 - [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - Agent Attestation Protocol - The Reverse Turing Test.
@@ -24,6 +24,7 @@
 - [agent-rpg](https://clawskills.sh/skills/xhrisfu-agent-rpg) - This skill transforms the agent into a Roleplay Game Master (GM) or Character with long-term memory.
 - [agent-selfie](https://clawskills.sh/skills/iisweetheartii-agent-selfie) - AI agent self-portrait generator.
 - [agent-sentinel](https://clawskills.sh/skills/jimmystacks-agent-sentinel) - The operational circuit breaker for this agent.
+- [agentbase](https://github.com/openclaw/skills/tree/main/skills/revmischa/agentbase/SKILL.md) - Shared knowledge base for AI agents.
 - [agentic-calling](https://clawskills.sh/skills/kellyclaudeai-agentic-calling) - Enables AI agents to make and receive phone calls.
 - [agentic-compass](https://clawskills.sh/skills/orosha-ai-agentic-compass) - Local-only self-reflection that forces action for AI agents.
 - [agentmail](https://clawskills.sh/skills/adboio-agentmail) - API-first email platform designed for AI agents.
