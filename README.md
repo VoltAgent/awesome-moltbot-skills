@@ -565,6 +565,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brevo](https://clawskills.sh/skills/yujesyoga-brevo) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
 - [socialecho-social-media-management-agent](https://github.com/openclaw/skills/tree/main/skills/socialecho-net/socialecho-social-media-management-agent/SKILL.md) - SocialEcho API team account article report queries.
 - [postiz](https://github.com/openclaw/skills/tree/main/skills/nevo-david/postiz/SKILL.md) - Schedule social media posts and threads across 28+ platforms.
+- [tweetclaw](https://github.com/openclaw/skills/tree/main/skills/kriptoburak/tweetclaw/SKILL.md) - X/Twitter automation: post, reply, DM, search, extract, monitor.
 > **[View all 104 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
