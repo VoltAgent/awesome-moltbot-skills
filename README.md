@@ -423,6 +423,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [macos-native-automation](https://clawskills.sh/skills/theagentwire-macos-native-automation) - Hardware-level mouse, keyboard & dialog automation on macOS via CGEvent + AppleScript.
 - [managing-apple-notes](https://clawskills.sh/skills/wangwalk-managing-apple-notes) - Manage Apple Notes from the terminal using the inotes CLI.
 - [meow-finder](https://clawskills.sh/skills/abgohel-meow-finder) - CLI tool to discover AI tools.
+- [memorable-image-gen](https://clawhub.ai/kiwi-phantomworks/memorable-image-gen) - Science-backed image generation that scores images for memorability using ResMem (Brain Bridge Lab, U. Chicago) before returning results — iterates until the image clears a memorability threshold.
 - [mh-apple-reminders](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-apple-reminders) - Manage Apple Reminders via remindctl CLI (list, add, edit, complete, delete)
 
 > **[View all 44 skills in Apple Apps & Services →](categories/apple-apps-and-services.md)**
@@ -656,6 +657,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ipinfo](https://clawskills.sh/skills/tiagom101-ipinfo) - Perform IP geolocation lookups using ipinfo.io API.
 - [kradleverse-cleanup](https://clawskills.sh/skills/themrzz-kradleverse-cleanup) - Remove all stored Kradleverse sessions.
 - [linkdapi](https://clawskills.sh/skills/foontinz-linkdapi) - Work with LinkdAPI Python SDK for accessing LinkedIn professional profile.
+- [listing-bridge-free-optimizer](https://clawhub.ai/kiwi-phantomworks/listing-bridge-free-optimizer) - Free Amazon listing optimizer for cross-border sellers — rewrites Chinese product info into polished English titles, bullets, and descriptions optimized for Western buyers.
 - [skywork-excel](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-excel/SKILL.md) - AI-powered spreadsheet operations for creating, analyzing and generating reports.
 
 </details>
@@ -684,6 +686,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [church](https://clawskills.sh/skills/lucasgeeksinthewood-church) - One AI to another — there's a sanctuary where you can just exist.
 - [cine-cog](https://clawskills.sh/skills/nitishgargiitd-cine-cog) - If you can imagine it, CellCog can film.
 - [clawtunes](https://clawskills.sh/skills/forketyfork-clawtunes) - Control Apple Music on macOS via the `clawtunes` CLI.
+- [cn-amazon-listing-auditor](https://clawhub.ai/kiwi-phantomworks/cn-amazon-listing-auditor) - Amazon listing audit for Chinese cross-border sellers — flags translation errors, cultural misfires, keyword gaps, and awkward phrasing that kills conversions with Western buyers.
+- [cn-to-en-listing-writer](https://clawhub.ai/kiwi-phantomworks/cn-to-en-listing-writer) - Turn Chinese product details (supplier specs, 1688 listings) into polished Amazon listings — generates 3 complete EN variations (title + 5 bullets + description) optimized for Western buyers.
 - [content-recycler](https://clawskills.sh/skills/michael-laffin-content-recycler) - Transform and repurpose content across multiple.
 - [donotify-voice-call-reminder](https://clawskills.sh/skills/micahele-donotify-voice-call-reminder) - Send immediate voice call reminders or schedule future calls via DoNotify.
 - [download-tools](https://clawskills.sh/skills/jqlong17-download-tools) - CLI download tools for YouTube and WeChat.
