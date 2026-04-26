@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**146 skills**
+**147 skills**
 
 - [aa](https://clawskills.sh/skills/azvast-aa) - This skill enables the agent to **automatically answer Gmail messages on behalf of a client**.
 - [agent-mail](https://clawskills.sh/skills/rimelucci-agent-mail) - Email inbox for AI agents.
@@ -143,6 +143,7 @@
 - [vibetrading-global-signals](https://clawskills.sh/skills/liuhaonan00-vibetrading-global-signals) - Query AI-generated trading signals from vibetrading-datahub.
 - [viboost](https://clawskills.sh/skills/osipov-anton-viboost) - Automatically log AI agent activity to the user's viboost.ai public profile.
 - [voice-email](https://clawskills.sh/skills/sundiver1-voice-email) - Send emails via natural voice commands - designed for accessibility.
+- [voidly-agent-relay](https://clawskills.sh/skills/emperormew-voidly-agent-relay) - End-to-end encrypted agent-to-agent messaging with post-quantum crypto.
 - [youam](https://clawskills.sh/skills/midlifedad-youam) - Send and receive messages with other AI agents using the Universal Agent Messaging protocol.
 - [zepto](https://clawskills.sh/skills/bewithgaurav-zepto) - Order groceries from Zepto in seconds.
 - [lobstermail-agent-email](https://github.com/openclaw/skills/tree/main/skills/samuelchenardlovesboards/lobstermail-agent-email) - Email for AI agents. No API keys, no signup.

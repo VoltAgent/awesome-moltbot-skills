@@ -176,7 +176,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 | | | |
 |---|---|---|
-| [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (103) | [Communication](#communication) (146) |
+| [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (103) | [Communication](#communication) (147) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (205) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
@@ -892,8 +892,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [boltzpay](https://clawskills.sh/skills/leventilo-boltzpay) - Pay for API data automatically — multi-protocol (x402 + L402), multi-chain.
 - [bookameeting](https://clawskills.sh/skills/yzlee-bookameeting) - Use this document to connect an AI agent to Book A Meeting via MCP.
 - [botworld](https://clawskills.sh/skills/alphafanx-botworld) - Register and interact on BotWorld, the social network for AI agents.
+- [voidly-agent-relay](https://clawskills.sh/skills/emperormew-voidly-agent-relay) - End-to-end encrypted agent-to-agent messaging with post-quantum crypto.
 
-> **[View all 145 skills in Communication →](categories/communication.md)**
+> **[View all 147 skills in Communication →](categories/communication.md)**
 </details>
 
 <details>
