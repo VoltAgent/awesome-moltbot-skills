@@ -179,10 +179,10 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (103) | [Communication](#communication) (146) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (205) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
-| [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
+| [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (29) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (65) | |
-| [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
-| [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
+| [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (88) | [PDF & Documents](#pdf--documents) (105) |
+| [Apple Apps & Services](#apple-apps--services) (45) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
@@ -426,7 +426,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [memorable-image-gen](https://clawhub.ai/kiwi-phantomworks/memorable-image-gen) - Science-backed image generation that scores images for memorability using ResMem (Brain Bridge Lab, U. Chicago) before returning results — iterates until the image clears a memorability threshold.
 - [mh-apple-reminders](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-apple-reminders) - Manage Apple Reminders via remindctl CLI (list, add, edit, complete, delete)
 
-> **[View all 44 skills in Apple Apps & Services →](categories/apple-apps-and-services.md)**
+> **[View all 45 skills in Apple Apps & Services →](categories/apple-apps-and-services.md)**
 </details>
 
 <details>
@@ -695,7 +695,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [elevenlabs-cli](https://clawskills.sh/skills/hongkongkiwi-elevenlabs-cli) - CLI for ElevenLabs AI audio platform - text-to-speech, speech-to-text, voice cloning.
 - [elevenlabs-skill](https://clawskills.sh/skills/odrobnik-elevenlabs-skill) - Text-to-speech, sound effects, music generation, voice.
 
-> **[View all 83 skills in Media & Streaming →](categories/media-and-streaming.md)**
+> **[View all 85 skills in Media & Streaming →](categories/media-and-streaming.md)**
 </details>
 
 <details>
