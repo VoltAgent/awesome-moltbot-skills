@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**84 skills**
+**86 skills**
 
 - [alexa-control](https://clawskills.sh/skills/ignito-pg-alexa-control) - Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.
 - [amateur-radio-dx](https://clawskills.sh/skills/capt-marbles-amateur-radio-dx) - Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
@@ -24,6 +24,8 @@
 - [church](https://clawskills.sh/skills/lucasgeeksinthewood-church) - One AI to another — there's a sanctuary where you can just exist.
 - [cine-cog](https://clawskills.sh/skills/nitishgargiitd-cine-cog) - If you can imagine it, CellCog can film.
 - [clawtunes](https://clawskills.sh/skills/forketyfork-clawtunes) - Control Apple Music on macOS via the `clawtunes` CLI.
+- [cn-amazon-listing-auditor](https://clawhub.ai/kiwi-phantomworks/cn-amazon-listing-auditor) - Amazon listing audit for Chinese cross-border sellers — flags translation errors, cultural misfires, keyword gaps, and awkward phrasing that kills conversions with Western buyers.
+- [cn-to-en-listing-writer](https://clawhub.ai/kiwi-phantomworks/cn-to-en-listing-writer) - Turn Chinese product details (supplier specs, 1688 listings) into polished Amazon listings — generates 3 complete EN variations (title + 5 bullets + description) optimized for Western buyers.
 - [content-recycler](https://clawskills.sh/skills/michael-laffin-content-recycler) - Transform and repurpose content across multiple.
 - [donotify-voice-call-reminder](https://clawskills.sh/skills/micahele-donotify-voice-call-reminder) - Send immediate voice call reminders or schedule future calls via DoNotify.
 - [download-tools](https://clawskills.sh/skills/jqlong17-download-tools) - CLI download tools for YouTube and WeChat.

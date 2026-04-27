@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**40 skills**
+**41 skills**
 
 - [add-analytics](https://clawskills.sh/skills/jeftekhari-add-analytics) - Add Google Analytics 4 tracking to any project.
 - [amplitude-automation](https://clawskills.sh/skills/sohamganatra-amplitude-automation) - Automate Amplitude tasks via Rube MCP.
@@ -26,6 +26,7 @@
 - [ipinfo](https://clawskills.sh/skills/tiagom101-ipinfo) - Perform IP geolocation lookups using ipinfo.io API.
 - [kradleverse-cleanup](https://clawskills.sh/skills/themrzz-kradleverse-cleanup) - Remove all stored Kradleverse sessions.
 - [linkdapi](https://clawskills.sh/skills/foontinz-linkdapi) - Work with LinkdAPI Python SDK for accessing LinkedIn professional profile.
+- [listing-bridge-free-optimizer](https://clawhub.ai/kiwi-phantomworks/listing-bridge-free-optimizer) - Free Amazon listing optimizer for cross-border sellers — rewrites Chinese product info into polished English titles, bullets, and descriptions optimized for Western buyers.
 - [netlify](https://clawskills.sh/skills/ajmwagar-netlify) - Use the Netlify CLI (netlify) to create/link Netlify sites and set up CI/CD.
 - [nocodb](https://clawskills.sh/skills/nickian-nocodb) - Access and manage NocoDB databases, tables, and records via REST API.
 - [osint-graph-analyzer](https://clawskills.sh/skills/orosha-ai-osint-graph-analyzer) - Build knowledge graphs from OSINT data.

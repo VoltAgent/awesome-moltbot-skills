@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**44 skills**
+**45 skills**
 
 - [alter-actions](https://clawskills.sh/skills/olivieralter-alter-actions) - Trigger Alter macOS app actions via x-callback-urls.
 - [apple-contacts](https://clawskills.sh/skills/tyler6204-apple-contacts) - Look up contacts from macOS Contacts.app.
@@ -32,6 +32,7 @@
 - [mac-tts](https://clawskills.sh/skills/kalijason-mac-tts) - Text-to-speech using macOS built-in `say` command.
 - [macos-native-automation](https://clawskills.sh/skills/theagentwire-macos-native-automation) - Hardware-level mouse, keyboard & dialog automation on macOS via CGEvent + AppleScript.
 - [managing-apple-notes](https://clawskills.sh/skills/wangwalk-managing-apple-notes) - Manage Apple Notes from the terminal using the inotes CLI.
+- [memorable-image-gen](https://clawhub.ai/kiwi-phantomworks/memorable-image-gen) - Science-backed image generation that scores images for memorability using ResMem (Brain Bridge Lab, U. Chicago) before returning results — iterates until the image clears a memorability threshold.
 - [meow-finder](https://clawskills.sh/skills/abgohel-meow-finder) - CLI tool to discover AI tools.
 - [mh-apple-reminders](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-apple-reminders) - Manage Apple Reminders via remindctl CLI (list, add, edit, complete, delete)
 - [mlx-stt](https://clawskills.sh/skills/guoqiao-mlx-stt) - Speech-To-Text with MLX (Apple Silicon) and GLM-ASR-Nano-2512 locally.
