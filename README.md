@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/voltagent-awesome-openclaw-skills-badge.png)](https://mseep.ai/app/voltagent-awesome-openclaw-skills)
+
 <div align="center">
 
 <a href="https://clawskills.sh/">
