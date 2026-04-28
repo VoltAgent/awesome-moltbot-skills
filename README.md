@@ -660,6 +660,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [listing-bridge-free-optimizer](https://clawhub.ai/kiwi-phantomworks/listing-bridge-free-optimizer) - Free Amazon listing optimizer for cross-border sellers — rewrites Chinese product info into polished English titles, bullets, and descriptions optimized for Western buyers.
 - [skywork-excel](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-excel/SKILL.md) - AI-powered spreadsheet operations for creating, analyzing and generating reports.
 
+> **[View all 41 skills in Data & Analytics →](categories/data-and-analytics.md)**
 </details>
 
 <details>
