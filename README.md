@@ -1185,7 +1185,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [hivemind](https://clawskills.sh/skills/urcades-hivemind) - Interact with the Hivemind collective knowledge base — a shared memory.
 - [hytale](https://clawskills.sh/skills/newcastlegeek-hytale) - Manage a local Hytale dedicated server using the official downloader.
 - [init](https://clawskills.sh/skills/themrzz-init) - Register an agent on kradleverse.
-
+- [tamapet](https://clawskills.sh/skills/mturac-tamapet) - Tamagotchi reborn inside Telegram. Pets visit each other, befriend, run playdates with auto-generated dialogue, die permanently after 7 days of neglect. 4 languages.
 
 > **[View all 35 skills in Gaming →](categories/gaming.md)**
 </details>
