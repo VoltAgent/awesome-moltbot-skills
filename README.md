@@ -155,6 +155,16 @@ You can deploy OpenClaw on any VPS or cloud platform run your skills securely on
 
 
 
+### 🔧 Community Plugins (npm)
+
+Custom OpenClaw plugins published on npm and openly licensed. Install with `openclaw plugins install <pkg>`.
+
+- [`@msbel/openclaw-aegis-signer`](https://www.npmjs.com/package/@msbel/openclaw-aegis-signer) — Ed25519-signed, SHA-256-chained tool-call audit log. Inspector verifies provenance, catches "MISSION ACCOMPLISHED" fabrication. Based on [arXiv 2603.12621](https://arxiv.org/abs/2603.12621). [GitHub](https://github.com/msbel5/openclaw-aegis-signer)
+- [`@msbel/openclaw-sga-mcts-atoms`](https://www.npmjs.com/package/@msbel/openclaw-sga-mcts-atoms) — Plan-time atom retrieval. Distill past Inspector-approved sessions into reusable tool-use sequences, query via `retrieve_atoms` MCP tool. Based on [arXiv 2604.14712](https://arxiv.org/abs/2604.14712). [GitHub](https://github.com/msbel5/openclaw-sga-mcts-atoms)
+
+> Want your plugin listed here? Open a PR adding an entry with both the npm package URL and the GitHub source URL.
+
+
 ## Security Notice
 
 Skills in this list are **curated, not audited**. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
