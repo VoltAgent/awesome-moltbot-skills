@@ -2,7 +2,10 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**146 skills**
+**148 skills**
+
+- [wechat-manager](https://github.com/clawto/wechat-manager) - 💬 WeChat intelligent management — message handling, auto-reply engine, contact management, and chat analytics.
+- [bilibili-zhihu-ops](https://github.com/clawto/bilibili-zhihu-ops) - 📺 Bilibili and Zhihu automated operations — video analytics, danmaku analysis, and content optimization.
 
 - [aa](https://clawskills.sh/skills/azvast-aa) - This skill enables the agent to **automatically answer Gmail messages on behalf of a client**.
 - [agent-mail](https://clawskills.sh/skills/rimelucci-agent-mail) - Email inbox for AI agents.
@@ -146,3 +149,4 @@
 - [youam](https://clawskills.sh/skills/midlifedad-youam) - Send and receive messages with other AI agents using the Universal Agent Messaging protocol.
 - [zepto](https://clawskills.sh/skills/bewithgaurav-zepto) - Order groceries from Zepto in seconds.
 - [lobstermail-agent-email](https://github.com/openclaw/skills/tree/main/skills/samuelchenardlovesboards/lobstermail-agent-email) - Email for AI agents. No API keys, no signup.
+

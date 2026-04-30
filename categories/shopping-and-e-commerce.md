@@ -2,7 +2,11 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**51 skills**
+**54 skills**
+
+- [alipay-wechat-pay](https://github.com/clawto/alipay-wechat-pay) - 💳 Alipay and WeChat Pay integration — bill parsing, smart categorization, and monthly spending reports.
+- [money-toolkit](https://github.com/clawto/money-toolkit) - 💰 AI money-making toolkit — compound calculator, cross-exchange arbitrage, DeFi yield aggregator, and gas fee optimizer.
+- [cross-border-ecommerce](https://github.com/clawto/cross-border-ecommerce) - 🌍 Cross-border e-commerce toolkit — Amazon/AliExpress/Shopee product research, competitor tracking, and FBA fee calculator.
 
 - [add-wish](https://clawskills.sh/skills/leebellon-add-wish) - Save any product to a universal wishlist.
 - [allstock-data](https://clawskills.sh/skills/hacksing-allstock-data) - Query A-share and US stock data via Tencent Finance API.
@@ -49,3 +53,4 @@
 - [tradekix](https://clawskills.sh/skills/jamesjohnfox-tradekix) - Query financial market data via the Tradekix API — stock prices, crypto, forex, indices, market news, earnings.
 - [turnip-prophet](https://clawskills.sh/skills/nicholasjackson-turnip-prophet) - Predict Animal Crossing New Horizons turnip prices using the game's exact algorithm.
 - [whop-cli](https://clawskills.sh/skills/g9pedro-whop-cli) - Manage Whop digital products store — create products, plans, track payments, manage memberships.
+

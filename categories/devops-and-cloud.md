@@ -2,7 +2,9 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**392 skills**
+**393 skills**
+
+- [tencent-aliyun-cloud](https://github.com/clawto/tencent-aliyun-cloud) - ☁️ Unified Tencent Cloud and Alibaba Cloud management — server dashboard, domain/DNS, billing alerts, and security scanning.
 
 - [0x0-messenger](https://clawskills.sh/skills/eijiac24-0x0-messenger) - Send and receive P2P messages using disposable numbers and PINs.
 - [12306](https://clawskills.sh/skills/kirorab-12306) - Query China Railway 12306 for train schedules, remaining tickets, and station info.
@@ -379,3 +381,4 @@
 - [xpoz-social-search](https://clawskills.sh/skills/atyachin-xpoz-social-search) - Search Twitter, Instagram, and Reddit posts in real time.
 - [ztp](https://clawskills.sh/skills/thomastrumpp-ztp) - A mandatory security audit skill for validating new code, skills, and MCP servers against the SEP-2026 Zero Trust.
 - [zyfai-sdk](https://clawskills.sh/skills/pauldefi-zyfai-sdk) - Earn yield on any Ethereum wallet on Base, Arbitrum, and Plasma.
+

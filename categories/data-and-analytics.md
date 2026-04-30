@@ -2,7 +2,11 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**40 skills**
+**43 skills**
+
+- [crypto-monitor](https://github.com/clawto/crypto-monitor) - 🪙 Real-time cryptocurrency monitoring with price tracking, whale alerts, trending tokens, and airdrop radar.
+- [stock-trading](https://github.com/clawto/stock-trading) - 📈 Real-time A-share/HK/US stock market data with LHB (龙虎榜), northbound capital, and sector analysis.
+- [defi-yield](https://github.com/clawto/defi-yield) - 🌾 DeFi yield aggregator with cross-chain APY comparison, impermanent loss calculator, and lending rate tracking.
 
 - [add-analytics](https://clawskills.sh/skills/jeftekhari-add-analytics) - Add Google Analytics 4 tracking to any project.
 - [amplitude-automation](https://clawskills.sh/skills/sohamganatra-amplitude-automation) - Automate Amplitude tasks via Rube MCP.
@@ -40,3 +44,4 @@
 - [umea-data](https://clawskills.sh/skills/simskii-umea-data) - Query open data from Umeå kommun about locations, facilities.
 - [yahoo-data-fetcher](https://clawskills.sh/skills/noypearl-yahoo-data-fetcher) - Fetch real-time stock quotes from Yahoo Finance.
 - [douban-sync-skill](https://clawskills.sh/skills/cosformula-douban-sync-skill) - Export and sync Douban (豆瓣) book/movie/music/game collections.
+

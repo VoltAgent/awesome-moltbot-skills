@@ -2,7 +2,9 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**104 skills**
+**105 skills**
+
+- [content-creator](https://github.com/clawto/content-creator) - 🎨 Content creation assistant — multi-platform hotspot aggregator (Weibo/Zhihu), viral title generator, and optimal posting schedule for Douyin/Xiaohongshu/Bilibili.
 
 - [4chan-reader](https://clawskills.sh/skills/aiasisbot61-4chan-reader) - Browse 4chan boards and extract thread discussions.
 - [ad-ready](https://clawskills.sh/skills/pauldelavallaz-ad-ready) - Generate professional advertising images from product URLs.
@@ -102,3 +104,4 @@
 - [workcrm](https://clawskills.sh/skills/extraterrest-workcrm) - A lightweight, local-first CRM with an explicit confirmation gate.
 - [writing-assistant](https://clawskills.sh/skills/urrrich-writing-assistant) - You are a Writing Team Lead managing specialized writers via MCP tools.
 - [writing-group-leader](https://clawskills.sh/skills/urrrich-writing-group-leader) - You are a Writing Team Lead managing specialized writers via MCP tools.
+
