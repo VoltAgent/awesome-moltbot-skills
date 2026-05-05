@@ -159,8 +159,9 @@ You can deploy OpenClaw on any VPS or cloud platform run your skills securely on
 
 Custom OpenClaw plugins published on npm and openly licensed. Install with `openclaw plugins install <pkg>`.
 
-- [`@msbel/openclaw-aegis-signer`](https://www.npmjs.com/package/@msbel/openclaw-aegis-signer) — Ed25519-signed, SHA-256-chained tool-call audit log. Inspector verifies provenance, catches "MISSION ACCOMPLISHED" fabrication. Based on [arXiv 2603.12621](https://arxiv.org/abs/2603.12621). [GitHub](https://github.com/msbel5/openclaw-aegis-signer)
+- [`@msbel/openclaw-aegis-signer`](https://www.npmjs.com/package/@msbel/openclaw-aegis-signer) — Ed25519-signed, SHA-256-chained tool-call audit log. Inspector verifies provenance, mitigates "MISSION ACCOMPLISHED" fabrication. Based on [arXiv 2603.12621](https://arxiv.org/abs/2603.12621). [GitHub](https://github.com/msbel5/openclaw-aegis-signer)
 - [`@msbel/openclaw-sga-mcts-atoms`](https://www.npmjs.com/package/@msbel/openclaw-sga-mcts-atoms) — Plan-time atom retrieval. Distill past Inspector-approved sessions into reusable tool-use sequences, query via `retrieve_atoms` MCP tool. Based on [arXiv 2604.14712](https://arxiv.org/abs/2604.14712). [GitHub](https://github.com/msbel5/openclaw-sga-mcts-atoms)
+- [`openclaw-thalamus`](https://www.npmjs.com/package/openclaw-thalamus) — Cognitive routing layer for multi-agent crews. Replaces transcript paste with 3-field `{packet_id, resolver_key, inline_vector}` handoff; receiver resolves only relevant atoms from a 9-namespace local vector store. Encoder daemon runs Qwen3-Embedding-0.6B Q4_0 on CPU plus optional Hailo HEFs (Whisper, CLIP). Concept-codes lane uses FAISS RaBitQ (BBQ); raw measurement output and reproduction commands in [BENCHMARKS.md](https://github.com/msbel5/openclaw-thalamus/blob/main/BENCHMARKS.md). [GitHub](https://github.com/msbel5/openclaw-thalamus)
 
 > Want your plugin listed here? Open a PR adding an entry with both the npm package URL and the GitHub source URL.
 
