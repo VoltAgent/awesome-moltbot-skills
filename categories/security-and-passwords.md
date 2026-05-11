@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**54 skills**
+**53 skills**
 
 - [1password](https://clawskills.sh/skills/steipete-1password) - Set up and use 1Password CLI (op).
 - [1claw](https://clawskills.sh/skills/kmjones1979-1claw) - HSM-backed vault for agent secrets; store, rotate, share securely.
@@ -41,7 +41,7 @@
 - [hopeids](https://clawskills.sh/skills/emberdesire-hopeids) - Inference-based intrusion detection for AI agents with quarantine.
 - [leak](https://clawskills.sh/skills/eucalyptus-viminalis-leak) - Compatibility stub for migrating from the legacy mixed leak skill to split hardened skills.
 - [liewatch](https://clawskills.sh/skills/evinelias-liewatch) - Play the LIE.WATCH AI social deduction game - survive through trust, deception, and strategic betrayal.
-- [linkswarm-api](https://clawskills.sh/skills/heyw00d-linkswarm-api) - **Backlink exchange for AI agents.
+- [linkswarm-api](https://clawskills.sh/skills/heyw00d-linkswarm-api) - **Backlink exchange for AI agents.**
 - [mfa-word](https://clawskills.sh/skills/cenralsolution-mfa-word) - Challenges the user for a secret word before allowing access to sensitive files or system commands.
 - [page-behavior-audit](https://clawskills.sh/skills/youdaolee-page-behavior-audit) - Deep behavioral audit with hashed policy (CSP-compliant, no plaintext badwords)
 - [outtake-bounty-network](https://clawskills.sh/skills/jamesouttake-outtake-bounty-network) - Earn $5 USDC per verified malicious domain. Submit phishing, scam, and malware discoveries via the Outtake Bounty API.

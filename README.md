@@ -176,14 +176,14 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 | | | |
 |---|---|---|
-| [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (104) | [Communication](#communication) (146) |
-| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (205) | [Speech & Transcription](#speech--transcription) (45) |
-| [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
+| [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (104) | [Communication](#communication) (142) |
+| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (202) | [Speech & Transcription](#speech--transcription) (45) |
+| [Browser & Automation](#browser--automation) (310) | [AI & LLMs](#ai--llms) (158) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (65) | |
-| [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
+| [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (103) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
-| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
+| [Search & Research](#search--research) (340) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
@@ -285,7 +285,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [adspower-browser](https://github.com/openclaw/skills/tree/main/skills/adspower/adspower-browser) - Use when the user asks to create or manage AdsPower browsers, groups, tags, proxies, or check status via AdsPower Local API.
 - [duoplus-agent](https://github.com/openclaw/skills/tree/main/skills/duoplusofficial/duoplus-agent/SKILL.md) - Control DuoPlus cloud phones via ADB.
 
-> **[View all 323 skills in Browser & Automation →](categories/browser-and-automation.md)**
+> **[View all 310 skills in Browser & Automation →](categories/browser-and-automation.md)**
 </details>
 
 <details>
@@ -461,9 +461,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [airbnb](https://clawskills.sh/skills/stveenli-airbnb) - Search Airbnb listings with prices, ratings, and direct links.
 - [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
 - [xquik-x-twitter-scraper](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper) - X API scraper with 40+ tools for AI agents.
-- [skywork-search](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-search/SKILL.md) - AI-powered web search for real-time information — retrieve up-to-date content.
+- [skywork-search](https://clawskills.sh/skills/gxcun17-skywork-search) - AI-powered web search for real-time information — retrieve up-to-date content.
 
-> **[View all 352 skills in Search & Research →](categories/search-and-research.md)**
+> **[View all 340 skills in Search & Research →](categories/search-and-research.md)**
 </details>
 
 <details>
@@ -599,9 +599,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ask-agents](https://clawskills.sh/skills/teamolab-ask-agents) - AI agent for ask agents tasks.
 - [async-task](https://clawskills.sh/skills/enderfga-async-task) - Execute long-running tasks without HTTP timeouts.
 - [atlassian-mcp](https://clawskills.sh/skills/atakanermis-atlassian-mcp) - Run the Model Context Protocol (MCP) Atlassian server.
-- [boss-ai-agent](https://github.com/openclaw/skills/tree/main/skills/tonypk/boss-ai-agent/SKILL.md) - AI management middleware with 14 mentors and 9 culture packs.
+- [boss-ai-agent](https://clawskills.sh/skills/tonypk-boss-ai-agent) - AI management middleware with 14 mentors and 9 culture packs.
 
-> **[View all 205 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
+> **[View all 202 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
 
 </details>
 
@@ -629,7 +629,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-selfie](https://clawskills.sh/skills/iisweetheartii-agent-selfie) - AI agent self-portrait generator.
 - [agent-sentinel](https://clawskills.sh/skills/jimmystacks-agent-sentinel) - The operational circuit breaker for this agent.
 
-> **[View all 184 skills in AI & LLMs →](categories/ai-and-llms.md)**
+> **[View all 158 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
 
 <details>
@@ -894,7 +894,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [bookameeting](https://clawskills.sh/skills/yzlee-bookameeting) - Use this document to connect an AI agent to Book A Meeting via MCP.
 - [botworld](https://clawskills.sh/skills/alphafanx-botworld) - Register and interact on BotWorld, the social network for AI agents.
 
-> **[View all 145 skills in Communication →](categories/communication.md)**
+> **[View all 142 skills in Communication →](categories/communication.md)**
 </details>
 
 <details>
@@ -1061,7 +1061,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [bluente-translate](https://github.com/openclaw/skills/blob/main/skills/varsmallrookie/bluente-translate/SKILL.md) - Translate your documents with formatting intact in 2 minutes.
 - [skywork-document](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-document/SKILL.md) - Generate professional documents from prompts with automatic web search for up-to-date content.
 
-> **[View all 110 skills in PDF & Documents →](categories/pdf-and-documents.md)**
+> **[View all 103 skills in PDF & Documents →](categories/pdf-and-documents.md)**
 </details>
 
 <details>
@@ -1132,7 +1132,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [feelgoodbot](https://clawskills.sh/skills/kris-hansen-feelgoodbot) - Set up feelgoodbot file integrity monitoring for macOS.
 - [skill-provenance](https://clawskills.sh/skills/snapsynapse-skill-provenance) - Version tracking and integrity verification for skill bundles
 
-> **[View all 54 skills in Security & Passwords →](categories/security-and-passwords.md)**
+> **[View all 53 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
 
 <details>

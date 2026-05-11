@@ -32,4 +32,4 @@
 - [symbolpicker](https://clawskills.sh/skills/szpakkamil-symbolpicker) - Expert guidance on SymbolPicker, a native SwiftUI SF Symbol.
 - [toolguard-daemon-control](https://clawskills.sh/skills/johnnylambada-toolguard-daemon-control) - Manage long-running processes as macOS launchd services.
 - [v2rayn](https://clawskills.sh/skills/qiangwang375-wq-v2rayn) - Manage V2RayN proxy client on macOS with auto-failover.
-- [wopr-clock](https://clawskills.sh/skills/seanweiyi-wopr-clock) - A retro W.O.P.R. style countdown clock (WarGames inspired) for tracking the TACO event.
+- [wopr-clock](https://clawskills.sh/skills/seanweiyi-wopr-clock) - A retro W.O.P.R. style countdown clock (WarGames-inspired) for tracking the TACO event.

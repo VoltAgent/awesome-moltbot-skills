@@ -4,6 +4,11 @@ on:
   pull_request:
     types: [opened, edited, synchronize]
 
+permissions:
+  contents: read
+  issues: write
+  pull-requests: write
+
 jobs:
   check-links:
     runs-on: ubuntu-latest
@@ -26,14 +31,19 @@ jobs:
             }
 
             if (errors.length > 0) {
-              const message = `## ❌ PR Description Check Failed\n\nYour PR description must include both links:\n\n${errors.map(e => '- ' + e).join('\n')}\n\nSee [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md#pr-description) for details.`;
+              const contributingUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}/blob/main/CONTRIBUTING.md#pr-description`;
+              const message = `## ❌ PR Description Check Failed\n\nYour PR description must include both links:\n\n${errors.map(e => '- ' + e).join('\n')}\n\nSee [CONTRIBUTING.md](${contributingUrl}) for details.`;
 
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: message
-              });
+              try {
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  body: message
+                });
+              } catch (error) {
+                core.warning(`Could not post PR description comment: ${error.message}`);
+              }
 
               core.setFailed('PR description is missing required links.');
             }

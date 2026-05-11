@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**323 skills**
+**310 skills**
 
 - [1p-shortlink](https://clawskills.sh/skills/tuanpmt-1p-shortlink) - Create short URLs and submit feature requests using 1p.io.
 - [2captcha](https://clawskills.sh/skills/adinvadim-2captcha) - Solve CAPTCHAs using 2Captcha service.
@@ -39,7 +39,7 @@
 - [aoi-hackathon-scout-lite](https://clawskills.sh/skills/edmonddantesj-aoi-hackathon-scout-lite) - Public-safe hackathon source registry + filtering output (no crawling, no submissions).
 - [api-tester](https://clawskills.sh/skills/wanng-ide-api-tester) - Perform structured HTTP/HTTPS requests (GET, POST, PUT, DELETE) with custom headers and JSON body support.
 - [apify-lead-generation](https://clawskills.sh/skills/jirispilka-apify-lead-generation) - Generates B2B/B2C leads by scraping Google.
-- [apiosk](https://clawskills.sh/skills/obcraft-apiosk) - **Pay-per-request API access for agents.
+- [apiosk](https://clawskills.sh/skills/obcraft-apiosk) - **Pay-per-request API access for agents.**
 - [appstore-rating-pulse](https://clawskills.sh/skills/aligurelli-appstore-rating-pulse) - Monitor App Store ratings for any iOS app across multiple countries.
 - [arxiv-1-0-1](https://clawskills.sh/skills/tariqsumatri82-arxiv-1-0-1) - Search, fetch, and analyze academic papers from arXiv.org directly from your AI assistant.
 - [arxiv-skill-learning](https://clawskills.sh/skills/wanng-ide-arxiv-skill-learning) - Orchestrates the continuous learning of new skills from arXiv papers.
@@ -122,7 +122,7 @@
 - [goal-tracker](https://clawskills.sh/skills/alti-systems-goal-tracker) - Track long-term goals with milestones, daily logging, and accountability.
 - [goldenseed](https://clawskills.sh/skills/beanapologist-goldenseed) - Deterministic entropy streams for reproducible testing and procedural generation.
 - [goyfiles-epstein](https://clawskills.sh/skills/davfd-goyfiles-epstein) - Core GOYFILES external-bot contract (endpoint-first onboarding, strict agent behavior, direct tool mode.
-- [grago](https://clawskills.sh/skills/solsuk-grago) - **Delegate research and data-fetch tasks to a free local LLM.
+- [grago](https://clawskills.sh/skills/solsuk-grago) - **Delegate research and data-fetch tasks to a free local LLM.**
 - [grok-browser](https://clawskills.sh/skills/easonc13-grok-browser) - Query Grok AI via browser automation.
 - [guicountrol](https://clawskills.sh/skills/dreamtraveler13-guicountrol) - Control the Linux desktop GUI using xdotool, wmctrl, and dogtail.
 - [hfnews](https://clawskills.sh/skills/huberteff-hfnews) - Fetch and filter news from multiple sources with stopwords/blacklist support.

@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**111 skills**
+**103 skills**
 
 - [abixus-core-v1](https://clawskills.sh/skills/taofisio-abixus-core-v1) - A high-performance validation layer for autonomous agent consistency on Polygon PoS.
 - [add-watermark-to-pdf](https://clawskills.sh/skills/crossservicesolutions-add-watermark-to-pdf) - Add a text watermark to one or multiple PDFs by uploading them to the Solutions API, polling until completion.
@@ -84,8 +84,8 @@
 - [returns-reverse-logistics](https://clawskills.sh/skills/nocodemf-returns-reverse-logistics) - Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing.
 - [reva](https://clawskills.sh/skills/pax47-reva) - Complete Reva wallet management - passwordless authentication, PayID name claiming, multi-chain crypto transfers.
 - [rue-chialisp](https://clawskills.sh/skills/koba42corp-rue-chialisp) - Create Chia blockchain puzzles using Rue, a type-safe language that compiles to CLVM.
-- [scam-guards](https://clawskills.sh/skills/y01026350884-cyber-scam-guards) - testing / nformation removed.
-- [scam-guards-skill](https://clawskills.sh/skills/y01026350884-cyber-scam-guards-skill) - testing / nformation removed.
+- [scam-guards](https://clawskills.sh/skills/y01026350884-cyber-scam-guards) - testing / information removed.
+- [scam-guards-skill](https://clawskills.sh/skills/y01026350884-cyber-scam-guards-skill) - testing / information removed.
 - [scan-skill](https://clawskills.sh/skills/itsnishi-scan-skill) - Deep security analysis of an individual skill before installation.
 - [sharepoint-by-altf1be](https://clawskills.sh/skills/abdelkrim-sharepoint-by-altf1be) - Secure SharePoint file operations and Office document intelligence via Microsoft Graph API — certificate auth, Sites.
 - [shield-agent](https://clawskills.sh/skills/bowen31337-shield-agent) - Autonomous DeFi smart contract vulnerability scanner.
