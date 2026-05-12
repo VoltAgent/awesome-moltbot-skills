@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**184 skills**
+**185 skills**
 
 - [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - Agent Attestation Protocol - The Reverse Turing Test.
@@ -162,3 +162,4 @@
 - [zapper](https://clawskills.sh/skills/spirosrap-zapper) - Query DeFi portfolio data across 50+ chains via Zapper's GraphQL API.
 - [zapper-api](https://clawskills.sh/skills/zivhm-zapper-api) - Query DeFi portfolios, token holdings, NFTs, transactions, and prices via Zapper API.
 - [zhipu-asr](https://clawskills.sh/skills/franklu0819-lang-zhipu-asr) - Automatic Speech Recognition (ASR) using Zhipu AI (BigModel) GLM-ASR model.
+- [ai-usage-collector](https://clawskills.sh/skills/GMF515-ai-usage-collector) - Extract AI tool usage from WeChat group messages into CSV.
