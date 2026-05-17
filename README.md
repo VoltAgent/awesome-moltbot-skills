@@ -1195,6 +1195,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 <br/>
 
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Real-time monitoring dashboard for OpenClaw AI agents. Track token usage, session health, and message trends with live WebSocket updates.
+
 ## 🤝 Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
