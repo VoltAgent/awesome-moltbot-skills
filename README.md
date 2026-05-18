@@ -186,7 +186,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
-| [Health & Fitness](#health--fitness) (87) | | |
+| [Health & Fitness](#health--fitness) (87) | [Robotics](#robotics) (1) | |
 
 
 <details open>
@@ -1191,6 +1191,13 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 
 > **[View all 35 skills in Gaming →](categories/gaming.md)**
+</details>
+
+<details>
+<summary><h3 style="display:inline">Robotics</h3></summary>
+
+- [AgenticROS](https://agenticros.com) - Control ROS2 powered robots using OpenClaw for Physical AI
+
 </details>
 
 <br/>
