@@ -97,6 +97,8 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 
 ## OpenClaw Ecosystem Tools
 
+- [Suppr Skills](https://github.com/WildDataX/suppr-skills) - Claude Code skills for Suppr academic literature search and document translation APIs.
+
 ### 🔌 Connecting to External Services
 
 OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
