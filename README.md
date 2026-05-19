@@ -83,6 +83,14 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 
 ## OpenClaw Ecosystem Tools
 
+### 🔍 Skill Quality Tools
+
+<a href="https://github.com/jingchang0623-crypto/openclaw-skill-quality-scanner">
+<img src="https://raw.githubusercontent.com/jingchang0623-crypto/openclaw-skill-quality-scanner/main/assets/demo.png" alt="OpenClaw Skill Quality Scanner" />
+CLI tool for scanning and evaluating OpenClaw Agent Skills quality. Features multi-dimensional scoring (documentation 30%, code quality 25%, security 20%, usability 15%, community 10%), security detection for sensitive info/dangerous commands, and CI/CD integration with GitHub Actions.
+</a>
+
+
 ### 🔌 Connecting to External Services
 
 OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
