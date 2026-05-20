@@ -203,6 +203,13 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 > **[View all 159 skills in Git & GitHub →](categories/git-and-github.md)**
 </details>
+### 📦 Skill Development & Packaging
+
+Tools to help you create, validate, package, and distribute OpenClaw skills.
+
+- **[openclaw-skills-packager](https://github.com/jingchang0623-crypto/openclaw-skills-packager)** - 📦 Package, validate, and distribute OpenClaw skills like npm publish for Skills. Supports `init`, `validate`, `pack`, and `install` commands. Compatible with OpenClaw v2026.5.19+ `--global` flag.
+
+
 
 <details open>
 <summary><h3 style="display:inline">Coding Agents & IDEs</h3></summary>
