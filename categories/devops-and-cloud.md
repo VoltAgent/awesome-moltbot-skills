@@ -64,6 +64,7 @@
 - [autotask-mcp](https://clawskills.sh/skills/inlo-autotask-mcp) - Use when you need to interact with Datto/Kaseya Autotask PSA via an MCP server (tickets, companies, contacts.
 - [aws-agentcore-langgraph](https://clawskills.sh/skills/killerapp-aws-agentcore-langgraph) - Deploy production LangGraph agents on AWS.
 - [aws-ecs-monitor](https://clawskills.sh/skills/briancolinger-aws-ecs-monitor) - AWS ECS production health monitoring with CloudWatch.
+- [aws-patrol](https://github.com/chengcecho/aws-patrol) - Automated AWS infrastructure patrol — daily health reports with EC2/RDS/ELB metrics, security audit (IAM MFA, SG, EBS encryption), cost analysis (SP/RI coverage), and visual report card generation.
 - [aws-infra](https://clawskills.sh/skills/bmdhodl-aws-infra) - Chat-based AWS infrastructure assistance using AWS CLI and console.
 - [aws-security-scanner](https://clawskills.sh/skills/spclaudehome-aws-security-scanner) - Scan AWS accounts for security.
 - [aws-solution-architect](https://clawskills.sh/skills/alirezarezvani-aws-solution-architect) - Design AWS architectures for startups.
