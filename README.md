@@ -83,6 +83,16 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 
 ## OpenClaw Ecosystem Tools
 
+### 🔗 Code Knowledge & Analysis Tools
+
+| Tool | Description |
+|------|-------------|
+| [openclaw-code-knowledge-mapper](https://github.com/jingchang0623-crypto/openclaw-code-knowledge-mapper) | 🔗 Bridge OpenClaw agents with code knowledge graphs. Inspired by codegraph (4,222⭐/day) & Understand-Anything (854⭐/day). Multi-format export, OpenClaw-native SKILL.md generation. |
+| [openclaw-skill-security-scanner](https://github.com/jingchang0623-crypto/openclaw-skill-security-scanner) | 🔐 Security scan for Skills - detect secrets, dangerous commands, structural issues |
+| [openclaw-skill-quality-analyzer](https://github.com/jingchang0623-crypto/openclaw-skill-quality-analyzer) | 🔍 Skills质量分析器 — 从5400+个skills里淘到金子 |
+| [openclaw-skills-packager](https://github.com/jingchang0623-crypto/openclaw-skills-packager) | 📦 Package, validate, and distribute OpenClaw skills - like npm publish for Skills |
+| [openclaw-context-optimizer](https://github.com/jingchang0623-crypto/openclaw-context-optimizer) | 🧠 Context window optimizer — reduce waste 40-60% |
+
 ### 🔌 Connecting to External Services
 
 OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
