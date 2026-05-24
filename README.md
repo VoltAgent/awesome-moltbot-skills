@@ -92,6 +92,7 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 | [openclaw-skill-quality-analyzer](https://github.com/jingchang0623-crypto/openclaw-skill-quality-analyzer) | 🔍 Skills质量分析器 — 从5400+个skills里淘到金子 |
 | [openclaw-skills-packager](https://github.com/jingchang0623-crypto/openclaw-skills-packager) | 📦 Package, validate, and distribute OpenClaw skills - like npm publish for Skills |
 | [openclaw-context-optimizer](https://github.com/jingchang0623-crypto/openclaw-context-optimizer) | 🧠 Context window optimizer — reduce waste 40-60% |
+| [openclaw-skills-dependency-graph](https://github.com/jingchang0623-crypto/openclaw-skills-dependency-graph) | 🦞 Visualize Skills dependencies - Mermaid graphs, HTML reports, JSON analysis |
 
 ### 🔌 Connecting to External Services
 
