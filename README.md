@@ -84,6 +84,30 @@ Please submit links to the GitHub source only (not `clawskills.sh` URLs) — the
 
 ## OpenClaw Ecosystem Tools
 
+### 🛠️ Development & Analysis Tools
+
+**OpenClaw Skills Dependency Visualizer** 🦞  
+[🔗 GitHub](https://github.com/jingchang0623-crypto/openclaw-skills-visualizer) | [🌐 miaoquai.com](https://miaoquai.com)
+
+![OpenClaw Skills Visualizer](https://img.shields.io/badge/OpenClaw-Skills%20Visualizer-blue?logo=github)
+
+Lightweight bash tool to visualize dependencies between OpenClaw Skills. Supports multiple output formats (text, JSON, DOT/Graphviz, ASCII art).
+
+**Features:**
+- 🔍 Smart dependency scanning
+- 📊 Multi-format output (text/json/dot/ascii)
+- 🎨 Generate Graphviz graphs for documentation
+- 🚀 Zero-config startup
+
+```bash
+# Quick start
+git clone https://github.com/jingchang0623-crypto/openclaw-skills-visualizer.git
+cd openclaw-skills-visualizer
+./skills-visualizer.sh /path/to/skills json report.json
+```
+
+---
+
 ### 🔌 Connecting to External Services
 
 OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
