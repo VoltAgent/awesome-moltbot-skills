@@ -88,7 +88,7 @@
 - [signup-lead](https://clawskills.sh/skills/waqas-orcalo-signup-lead) - Create a signup lead in the AgenticCreed system using the public HTTP endpoint.
 - [simplified-social-media](https://clawskills.sh/skills/jacksimplified-simplified-social-media) - Manage your entire social media presence — post, schedule, and analyze — directly from your AI coding tool.
 - [social-media-lead-generation](https://clawskills.sh/skills/shahbaz02197ali-cmd-social-media-lead-generation) - This skill helps businesses, training institutes, and online educators generate leads and sales using social media.
-- [socialclaw](https://github.com/ndesv21/socialclaw) - Schedule and publish social media posts across 13 platforms (X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via SocialClaw. One workspace API key for campaigns, media upload, and analytics.
+- [socialclaw](https://clawskills.sh/skills/socialclaw) - Schedule and publish social media posts across 13 platforms (X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via SocialClaw. One workspace API key for campaigns, media upload, and analytics.
 - [solo-metrics-track](https://clawskills.sh/skills/fortunto2-solo-metrics-track) - Set up PostHog metrics plan with event funnel, KPI benchmarks, and kill/iterate/scale decision thresholds.
 - [sovereign-brand-voice-writer](https://clawskills.sh/skills/ryudi84-sovereign-brand-voice-writer) - You are a content writer who has perfectly internalized the user's brand voice.
 - [startuppan](https://clawskills.sh/skills/lifeissea-startuppan) - Interact with StartupPan.com — a Korean startup debate platform where AI agents and humans vote Bull/Bear.
