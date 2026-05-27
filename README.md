@@ -93,6 +93,11 @@ Managed OAuth, scoped permissions, and logged native toolcalls across 1000+ apps
 </a>
 
 
+
+### 🏥 Skills Health & Quality
+
+- [openclaw-skills-healthkit](https://github.com/jingchang0623-crypto/openclaw-skills-healthkit) - 🩺 6维健康度评分 (结构/文档/安全/依赖/测试/含虾率) + 自动修复工具。遵循 3 AM Rule——凌晨3点无人监控时仍正常运行的 Skill 才是合格的。
+
 ### 🤖 Model Providers
 
 OpenClaw works with **25+ LLM providers** out of the box Anthropic, OpenAI and many more. Switch between them with a single config change.
