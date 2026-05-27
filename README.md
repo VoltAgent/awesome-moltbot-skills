@@ -84,6 +84,8 @@ Please submit links to the GitHub source only (not `clawskills.sh` URLs) — the
 
 ## OpenClaw Ecosystem Tools
 
+- [Suppr](https://suppr.wilddata.cn/) - AI literature search, document translation, and deep-research workspace for researchers.
+
 ### 🔌 Connecting to External Services
 
 OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
