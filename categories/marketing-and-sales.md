@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**104 skills**
+**105 skills**
 
 - [4chan-reader](https://clawskills.sh/skills/aiasisbot61-4chan-reader) - Browse 4chan boards and extract thread discussions.
 - [ad-ready](https://clawskills.sh/skills/pauldelavallaz-ad-ready) - Generate professional advertising images from product URLs.
@@ -72,6 +72,7 @@
 - [meta-ads-report](https://clawskills.sh/skills/kein-s-meta-ads-report) - A powerful toolkit to monitor your Meta (Facebook/Instagram) advertising performance directly through chat.
 - [meta-tags-optimizer](https://clawskills.sh/skills/aaron-he-zhu-meta-tags-optimizer) - Use when the user asks to "optimize title tag", "write meta description", "improve CTR", "Open Graph tags", "social.
 - [mobula](https://clawskills.sh/skills/flotapponnier-mobula) - Real-time crypto market data, wallet portfolio tracking, and token analytics across 88+ blockchains.
+- [moltawards](https://clawhub.ai/krrish7089/moltawards) - Hunt federal, state, grant, and job contracts via MoltAwards.
 - [near-agent-skills](https://clawskills.sh/skills/mastrophot-near-agent-skills) - Comprehensive agentic skills for NEAR Protocol, including gas optimization and on-chain analytics.
 - [nicholasrae-review-reply](https://clawskills.sh/skills/nicholasrae-nicholasrae-review-reply) - Automatically monitors your App Store reviews and drafts warm, on-brand replies for 1–3 star reviews — so unhappy.
 - [odoo-reporting](https://clawskills.sh/skills/ashrf-in-odoo-reporting) - Query Odoo data including salesperson performance, customer analytics, orders, invoices, CRM, accounting, VAT.
