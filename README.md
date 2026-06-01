@@ -1208,6 +1208,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed gu
 MIT License - see [LICENSE](LICENSE)
 
 Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support. ![GitHub stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social)
 
 If you find an issue with a listed skill or want your skill removed, please open an issue and we'll take care of it promptly.
 
