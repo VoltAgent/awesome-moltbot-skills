@@ -380,6 +380,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [cad-agent](https://clawskills.sh/skills/clawd-maf-cad-agent) - Rendering server for AI agents doing CAD work.
 - [calorie-visualizer](https://clawskills.sh/skills/vintlin-calorie-visualizer) - Local calorie logging and visual reporting (auto-refreshes and returns report image after each log)
 - [canva-connect](https://clawskills.sh/skills/coolmanns-canva-connect) - Manage Canva designs, assets, and folders via the Connect API.
+- [runapi-mcp](https://github.com/runapi-ai/mcp) - 130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools: browse models, check pricing, create tasks, poll results, check balance, and call LLM endpoints. Free catalog tools work without API key. `npx @runapi.ai/mcp`
 - [skywork-design](https://clawskills.sh/skills/gxcun17-skywork-design) - Generate and edit images via Skywork Image for posters, logos and more.
 
 - [ai-video-remix](https://clawskills.sh/skills/abu-shotai-ai-video-remix) - AI-driven video remix from local library using ShotAI.
