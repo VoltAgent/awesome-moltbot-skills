@@ -1028,6 +1028,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [cron-scheduling](https://clawskills.sh/skills/gitgoodordietrying-cron-scheduling) - Schedule and manage recurring tasks with cron.
 - [dharma-ai](https://clawskills.sh/skills/jigaraero-dharma-ai) - Apply ancient Hindu ethical frameworks from the Ramayana and Mahabharata as behavioral principles for AI agents.
 - [doc-accurate-codegen](https://clawskills.sh/skills/tobisamaa-doc-accurate-codegen) - Generate code that references actual documentation, preventing hallucination bugs.
+- [tempguru-event-staffing-ordering](https://clawskills.sh/skills/kissmyabs32-tempguru-event-staffing-ordering) - Order W-2 compliant temporary event staff for conventions, trade shows, festivals, concerts, and brand activations across 300+ US/CA markets. Live MCP tools for city coverage, roles, rates, and compliance.
 - [event-watcher](https://clawskills.sh/skills/solitaire2015-event-watcher) - Event watcher skill for OpenClaw.
 - [farmos-equipment](https://clawskills.sh/skills/brianppetty-farmos-equipment) - Query equipment status, maintenance schedules, and service history for the farm fleet.
 - [fastmail](https://clawskills.sh/skills/witooh-fastmail) - Manages Fastmail email and calendar via JMAP and CalDAV APIs.
