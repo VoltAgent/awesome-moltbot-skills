@@ -1040,7 +1040,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [gog](https://clawskills.sh/skills/steipete-gog) - Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
 - [google-calendar](https://clawskills.sh/skills/adrianmiller99-google-calendar) - Interact with Google Calendar via the Google Calendar.
 
-> **[View all 66 skills in Calendar & Scheduling →](categories/calendar-and-scheduling.md)**
+> **[View all 67 skills in Calendar & Scheduling →](categories/calendar-and-scheduling.md)**
 </details>
 
 <details>
