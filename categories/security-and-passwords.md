@@ -57,3 +57,4 @@
 - [x-oauth-api](https://clawskills.sh/skills/ngmeyer-x-oauth-api) - Post to X (Twitter) using the official OAuth 1.0a API.
 - [xpr-agent-operator](https://clawskills.sh/skills/paulgnz-xpr-agent-operator) - Operate an autonomous AI agent on XPR Network's trustless registry.
 - [xproof](https://clawskills.sh/skills/jasonxkensei-xproof) - Certify agent outputs on the MultiversX blockchain.
+- [frisk](https://clawhub.ai/jchandler187/frisk) - Pre-install security audit and vulnerability scanner for ClawHub skills — 9 threat intel sources, 7 checks including credential leak detection.

@@ -73,3 +73,4 @@
 - [tweet-processor](https://clawskills.sh/skills/caqlayan-tweet-processor) - Extract and categorize insights from tweet links into structured notes.
 - [upnote](https://clawskills.sh/skills/wemcdonald-upnote) - Manage UpNote notes and notebooks via x-callback-url automation.
 - [voice-notes-pro](https://clawskills.sh/skills/toniaczlog-voice-notes-pro) - Inteligentna transkrypcja i kategoryzacja notatek gosowych z WhatsApp.
+- [hoard](https://clawhub.ai/jchandler187/hoard) - Durable agent memory with provenance, auto-expiry, and consolidation. Structured markdown persistence for OpenClaw agents.

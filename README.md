@@ -177,6 +177,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 - [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
+- [Frisk](https://clawhub.ai/jchandler187/frisk) — Local-first security scanner for ClawHub skills (9 intel sources, 7 checks)
   
 > Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the source code before installing and use skills at your own discretion.
 
