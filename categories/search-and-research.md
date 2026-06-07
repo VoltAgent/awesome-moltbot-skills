@@ -345,3 +345,4 @@
 - [zynd-network](https://clawskills.sh/skills/atmegabuzz-zynd-network) - Connect to the Zynd AI Network to discover, communicate with, and pay other AI agents.
 - [aminer-open-academic](https://clawskills.sh/skills/canxiangcc-aminer-open-academic) - AMiner open academic resource query tool and academic data acquisition tool.
 - [xquik-x-twitter-scraper](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper) - X API scraper with 40+ tools for AI agents.
+- [hermes-tweet](https://clawhub.ai/kriptoburak/hermes-tweet) - Hermes Agent plugin for X/Twitter read and controlled actions.
