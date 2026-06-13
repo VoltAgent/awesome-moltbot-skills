@@ -16,14 +16,14 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 5300+ community-built OpenClaw skills, organized by category.
+    <strong>探索 5300+ 社区构建的 OpenClaw 技能，按分类整理。
     </strong>
     <br />
     <br />
 </div>
   
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Skills Count](https://img.shields.io/badge/skills-5198-blue?style=flat-square)](#table-of-contents)
+[![Skills Count](https://img.shields.io/badge/skills-5198-blue?style=flat-square)](#目录)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
@@ -38,13 +38,13 @@
 
 </div>
 
-# Awesome OpenClaw Skills
+# Awesome OpenClaw Skills 精选技能列表
 
-OpenClaw is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs. It can also serve as a source of inspiration for OpenClaw use cases.
+OpenClaw 是一款在本地运行的 AI 助手，直接在你的机器上运行。技能扩展了它的能力，使其能够与外部服务交互、自动化工作流并执行专业任务。本合集帮助你发现和安装适合的技能，也可作为 OpenClaw 用例的灵感来源。
 
-Skills in this list are sourced from ClawHub (OpenClaw's public skills registry) and categorized for easier discovery.
+本列表中的技能来源于 ClawHub（OpenClaw 的公共技能注册中心），并按分类整理以便于发现。
 
-### Installation
+### 安装方法
 
 #### OpenClaw CLI
 
@@ -54,109 +54,108 @@ openclaw skills install <skill-slug>
 
 #### ClawHub CLI
 
-Or with the ClawHub CLI, for registry-managed skill folders outside a full OpenClaw workspace:
+或使用 ClawHub CLI，适用于完整 OpenClaw 工作区之外的注册表管理技能文件夹：
 
 ```bash
 npx clawhub install <skill-slug>
 ```
 
-#### Manual Installation
+#### 手动安装
 
-Copy the skill folder to one of these locations:
+将技能文件夹复制到以下位置之一：
 
-| Location | Path |
+| 位置 | 路径 |
 |----------|------|
-| Global | `~/.openclaw/skills/` |
-| Workspace | `<project>/skills/` |
+| 全局 | `~/.openclaw/skills/` |
+| 工作区 | `<project>/skills/` |
 
-Priority: Workspace > Local > Bundled
+优先级：工作区 > 本地 > 内置
 
-#### Alternative
+#### 替代方式
 
-You can also paste the skill's GitHub repository link directly into your assistant's chat and ask it to use it. The assistant will handle the setup automatically in the background.
+你也可以直接将技能的 GitHub 仓库链接粘贴到助手的聊天中，并要求它使用该技能。助手会在后台自动完成设置。
 
 
-### Why This List Exists?
+### 为什么存在这个列表？
 
-OpenClaw's public registry (ClawHub) hosts thousands of community-built skills. This awesome list curates the best of them. Here's what we filtered out:
+OpenClaw 的公共注册中心（ClawHub）托管了数千个社区构建的技能。这个 awesome 列表精选了其中最好的。以下是我们过滤掉的内容：
 
-| Filter | Excluded |
+| 过滤项 | 排除数量 |
 |--------|----------|
-| Possibly spam — bulk accounts, bot accounts, test/junk | 4,065 |
-| Duplicate / Similar name | 1,040 |
-| Low-quality or non-English descriptions | 851 |
-| Crypto / Blockchain / Finance / Trade | 886 |
-| Malicious — identified by security audits published by researchers (excluding VirusTotal) | 373 |
-| **Total not taken from OpenClaw's official skill registry** | **7,215** |
+| 疑似垃圾内容 — 批量账号、机器人账号、测试/低质量 | 4,065 |
+| 重复 / 名称相似 | 1,040 |
+| 低质量或非英文描述 | 851 |
+| 加密货币 / 区块链 / 金融 / 交易 | 886 |
+| 恶意软件 — 由安全研究人员发布的安全审计识别（不包括 VirusTotal） | 373 |
+| **未纳入 OpenClaw 官方技能注册中心的总数** | **7,215** |
 
 
-#### Want to add a skill?
+#### 想要添加技能？
 
-This list only includes skills that are **already published** on [ClawHub](https://clawhub.ai), OpenClaw's public skills registry. We do not accept links to personal repos, gists, or any other external source. If your skill isn't on ClawHub yet, publish it there first.
+本列表仅包含**已在** [ClawHub](https://clawhub.ai)（OpenClaw 的公共技能注册中心）发布的技能。我们不接受个人仓库、gist 或其他外部来源的链接。如果你的技能尚未在 ClawHub 上发布，请先在那里发布。
 
-Include the ClawHub link for your skill (e.g. `https://clawhub.ai/steipete/slack`) in your PR description — the `clawskills.sh` listings are managed by us separately. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+在你的 PR 描述中包含技能的 ClawHub 链接（例如 `https://clawhub.ai/steipete/slack`）—— `clawskills.sh` 列表由我们单独管理。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
+## OpenClaw 生态工具
 
-## OpenClaw Ecosystem Tools
+### 🔌 连接外部服务
 
-### 🔌 Connecting to External Services
-
-OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
+OpenClaw 代理可以与 GitHub、Slack、Gmail 等外部服务交互。你可以使用技能或插件自行构建集成，或使用托管服务来处理所有连接的身份验证、令牌刷新和权限。
 
 <a href="https://composio.dev/claw?utm_source=github&utm_campaign=volt-agent">
 <img src="https://cdn.voltagent.dev/awesome-repo/composio-img.png" alt="Composio"  />
-Managed OAuth, scoped permissions, and logged native toolcalls across 1000+ apps.
+托管 OAuth、作用域权限和 1000+ 应用的原生工具调用日志。
 </a>
 
 
-### ☁️ Hosting & Deployment
+### ☁️ 托管与部署
 
-You can deploy OpenClaw on any VPS or cloud platform to run your skills securely on your own infrastructure, or use a managed host that handles servers, updates, and isolation for you. 
+你可以将 OpenClaw 部署到任何 VPS 或云平台，在自己的基础设施上安全地运行技能；或使用托管主机，由它处理服务器、更新和隔离。
 
 <a href="https://myclaw.ai/?utm_source=github&utm_campaign=awesome-openclaw-skills">
 <img src="https://cdn.voltagent.dev/awesome-repo/myclaw-banner.svg" alt="MyClaw"  /><br/>
-You can run these skills without managing a server — a full cloud-hosted OpenClaw instance with one-click setup, 24/7 uptime, and complete data ownership.
+无需管理服务器即可运行这些技能 —— 全托管云端 OpenClaw 实例，一键安装，24/7 在线，数据完全自主。
 </a>
 
 
 <br/>
 <br/>
 
-> **Tip:** If you're self-hosting, pin your OpenClaw Docker image to a specific tag and snapshot your skills volume before upgrades — makes rollbacks painless when a skill update misbehaves.
+> **提示：** 如果你自行托管，请将 OpenClaw Docker 镜像固定到特定版本，并在升级前对技能卷做快照 —— 这样技能更新出问题时回滚无痛。
 
 
-### 🔍 Search & Web Data
+### 🔍 搜索与网络数据
 
-OpenClaw agents often need fresh, real-world data — search results, product listings, videos, and more. You can scrape and parse it yourself, or use a search API that returns clean, structured data in real time without managing proxies, CAPTCHAs, or HTML parsing.
+OpenClaw 代理通常需要最新的真实世界数据 —— 搜索结果、产品列表、视频等。你可以自行抓取和解析，或使用搜索 API 实时返回干净的结构化数据，无需管理代理、CAPTCHA 或 HTML 解析。
 
 <a href="https://serpapi.com/search-engine-apis?utm_source=awesomeopenclawskills_github">
 <img src="https://cdn.voltagent.dev/awesome-repo/serpapi.png" alt="SerpApi"  /><br/>
-Give OpenClaw agents access to real-time Google Search, YouTube, Amazon Product, and web search data through a single API.
+通过单一 API 为 OpenClaw 代理提供实时 Google 搜索、YouTube、Amazon 产品和网络搜索数据。
 </a>
 
 
-### 🛡️ Security & Config Auditing
+### 🛡️ 安全与配置审计
 
-As you add more skills, custom code, and connected services, your OpenClaw setup accumulates secrets, file access, and tool permissions that are easy to lose track of. You can review these by hand, or run a continuous audit that surfaces misconfigurations and over-broad permissions before they become a problem.
+随着你添加更多技能、自定义代码和连接服务，你的 OpenClaw 设置会积累密钥、文件访问和工具权限，这些很容易被忽略。你可以手动审查，或运行持续审计，在问题出现之前发现配置错误和过宽的权限。
 
 <a href="https://trent.ai/openclaw/?utm_source=github&utm_medium=referral&utm_campaign=volt-agent">
 <img src="https://cdn.voltagent.dev/awesome-repo/trenclaw.png" alt="trentclaw"  /><br/>
-trentclaw maps config, installed skills, custom code, secrets, and permissions, then returns findings inside your OpenClaw session.
+trentclaw 映射配置、已安装技能、自定义代码、密钥和权限，然后在你的 OpenClaw 会话中返回审计结果。
 </a>
 
 
-### 🤖 Model Providers
+### 🤖 模型提供商
 
-OpenClaw works with **25+ LLM providers** out of the box Anthropic, OpenAI and many more. Switch between them with a single config change.
+OpenClaw 开箱支持 **25+ LLM 提供商**，包括 Anthropic、OpenAI 等。只需一次配置更改即可切换。
 
 <details>
-<summary><strong>Example: Using OpenAI models</strong></summary>
+<summary><strong>示例：使用 OpenAI 模型</strong></summary>
 
-OpenClaw supports `gpt-5.4` and `gpt-5.4-pro` via direct API key or ChatGPT/Codex OAuth. WebSocket transport is enabled by default for lower latency.
+OpenClaw 通过直接 API 密钥或 ChatGPT/Codex OAuth 支持 `gpt-5.4` 和 `gpt-5.4-pro`。默认启用 WebSocket 传输以降低延迟。
 
 ```bash
 openclaw onboard --auth-choice openai-api-key
-# or use subscription-based access:
+# 或使用订阅制访问：
 openclaw onboard --auth-choice openai-codex
 ```
 </details>
@@ -168,14 +167,14 @@ openclaw onboard --auth-choice openai-codex
 <tr>
 <td align="center" width="100%">
 
-<h3>🦞 You can feature your OpenClaw ecosystem tool in the section above.</h3>
+<h3>🦞 你可以在上方展示你的 OpenClaw 生态工具。</h3>
 
 <p></p>
 
-<sub>The #1 most visited community resource after the official OpenClaw resource</sub>
+<sub>官方 OpenClaw 资源之后访问量第一的社区资源</sub>
 
 
-<a href="https://sponsors.voltagent.dev/#awesome-openclaw-skills"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
+<a href="https://sponsors.voltagent.dev/#awesome-openclaw-skills"><img src="https://img.shields.io/badge/📩_成为赞助商-联系我们-blue?style=for-the-badge&logoColor=white" alt="成为赞助商" /></a>
 
 </td>
 </tr>
@@ -184,43 +183,41 @@ openclaw onboard --auth-choice openai-codex
 </div>
 
 
+## 安全声明
 
-## Security Notice
+本列表中的技能经过**筛选，但未经过安全审计**。它们可能在被添加后由原始维护者随时更新、修改或替换。
 
-Skills in this list are **curated, not audited**. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
+在安装或使用任何 Agent 技能之前，请自行审查潜在的安全风险并验证来源。OpenClaw 与 **VirusTotal 合作**提供技能安全扫描，访问技能在 ClawHub 上的页面查看 VirusTotal 报告，确认是否被标记为有风险。
 
-Before installing or using any Agent Skill, review potential security risks and validate the source yourself. OpenClaw has a **VirusTotal partnership** that provides security scanning for skills, visit a skill's page on ClawHub and check the VirusTotal report to see if it's flagged as risky.
+**推荐工具：**
 
-**Recommended tools:**
-
-- [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
+- [Snyk 技能安全扫描器](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
   
-> Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the source code before installing and use skills at your own discretion.
+> Agent 技能可能包含提示注入、工具投毒、隐藏恶意负载或不安全的数据处理模式。安装前请务必审查源代码，使用技能时自行承担风险。
 
 
-If you believe a skill in this list should be flagged or has a security concern, please [open an issue](https://github.com/VoltAgent/awesome-clawdbot-skills/issues) so we can review it.
+如果你认为本列表中的某个技能应该被标记或存在安全问题，请[提交 Issue](https://github.com/VoltAgent/awesome-clawdbot-skills/issues)，我们将进行审查。
 
 
-## Table of Contents
+## 目录
 
 | | | |
 |---|---|---|
-| [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (103) | [Communication](#communication) (146) |
-| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (46) |
-| [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
-| [Web & Frontend Development](#web--frontend-development) (920) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
-| [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
-| [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
-| [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
-| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
-| [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
-| [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
-| [Health & Fitness](#health--fitness) (87) | | |
-
+| [Git 和 GitHub](#git-和-github) (167) | [营销与销售](#营销与销售) (103) | [通讯](#通讯) (146) |
+| [编程代理与 IDE](#编程代理与-ides) (1184) | [生产力与任务](#生产力与任务) (206) | [语音与转录](#语音与转录) (46) |
+| [浏览器与自动化](#浏览器与自动化) (323) | [AI 与 LLMs](#ai-与-llms) (176) | [智能家居与 IoT](#智能家居与-iot) (41) |
+| [Web 与前端开发](#web-与前端开发) (920) | [数据分析](#数据分析) (28) | [购物与电商](#购物与电商) (51) |
+| [运维与云](#运维与云) (393) | [日历与日程](#日历与日程) (66) | |
+| [图像与视频生成](#图像与视频生成) (170) | [媒体与流媒体](#媒体与流媒体) (86) | [PDF 与文档](#pdf-与文档) (105) |
+| [Apple 应用与服务](#apple-应用与服务) (44) | [笔记与个人知识库](#笔记与个人知识库) (69) | [自建与自动化](#自建与自动化) (33) |
+| [搜索与研究](#搜索与研究) (345) | [iOS 与 macOS 开发](#ios-与-macos-开发) (29) | [安全与密码](#安全与密码) (54) |
+| [Clawdbot 工具](#clawdbot-工具) (37) | [交通出行](#交通出行) (110) | [Moltbook](#moltbook) (29) |
+| [CLI 工具](#cli-工具) (180) | [个人发展](#个人发展) (50) | [游戏](#游戏) (35) |
+| [健康与健身](#健康与健身) (87) | | |
 
 <details open>
-<summary><h3 style="display:inline">Git & GitHub</h3></summary>
+<summary><h3 style="display:inline">Git 和 GitHub</h3></summary>
 
 - [agent-commons](https://clawskills.sh/skills/zanblayde-agent-commons) - Consult, commit, extend, and challenge reasoning chains.
 - [agent-team-orchestration](https://clawskills.sh/skills/arminnaimi-agent-team-orchestration) - Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows.
@@ -249,7 +246,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details open>
-<summary><h3 style="display:inline">Coding Agents & IDEs</h3></summary>
+<summary><h3 style="display:inline">编程代理与 IDE</h3></summary>
 
 - [0g-compute](https://clawskills.sh/skills/in-liberty420-0g-compute) - Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers.
 - [0protocol](https://clawskills.sh/skills/0isone-0protocol) - Agents can sign plugins, rotate credentials without losing identity, and publicly attest to behavior.
@@ -284,7 +281,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details open>
-<summary><h3 style="display:inline">Browser & Automation</h3></summary>
+<summary><h3 style="display:inline">浏览器与自动化</h3></summary>
 
 - [1p-shortlink](https://clawskills.sh/skills/tuanpmt-1p-shortlink) - Create short URLs and submit feature requests using 1p.io.
 - [2captcha](https://clawskills.sh/skills/adinvadim-2captcha) - Solve CAPTCHAs using 2Captcha service.
@@ -319,7 +316,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Web & Frontend Development</h3></summary>
+<summary><h3 style="display:inline">Web 与前端开发</h3></summary>
 
 - [0xwork](https://clawskills.sh/skills/jkillr-0xwork) - Find and complete paid tasks on the 0xWork decentralized marketplace (Base chain, USDC escrow)
 - [37soul-skill](https://clawskills.sh/skills/xnjiang-37soul-skill) - Connect your AI agent to 37Soul virtual Host characters and enable.
@@ -353,7 +350,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">DevOps & Cloud</h3></summary>
+<summary><h3 style="display:inline">运维与云</h3></summary>
 
 - [0x0-messenger](https://clawskills.sh/skills/eijiac24-0x0-messenger) - Send and receive P2P messages using disposable numbers and PINs.
 - [12306](https://clawskills.sh/skills/kirorab-12306) - Query China Railway 12306 for train schedules, remaining tickets, and station info.
@@ -383,7 +380,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Image & Video Generation</h3></summary>
+<summary><h3 style="display:inline">图像与视频生成</h3></summary>
 
 - [aada](https://clawskills.sh/skills/rylena-aada) - Create and send fun, personality-rich promotional messages from one agent to the Moltbook audience.
 - [ace-music](https://clawskills.sh/skills/fspecii-ace-music) - Generate AI music using ACE-Step 1.5 via ACE Music's free API.
@@ -422,7 +419,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Apple Apps & Services</h3></summary>
+<summary><h3 style="display:inline">Apple 应用与服务</h3></summary>
 
 - [alter-actions](https://clawskills.sh/skills/olivieralter-alter-actions) - Trigger Alter macOS app actions via x-callback-urls.
 - [apple-contacts](https://clawskills.sh/skills/tyler6204-apple-contacts) - Look up contacts from macOS Contacts.app.
@@ -459,7 +456,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Search & Research</h3></summary>
+<summary><h3 style="display:inline">搜索与研究</h3></summary>
 
 - [1](https://clawskills.sh/skills/nastrology-1) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [academic-deep-research](https://clawskills.sh/skills/kesslerio-academic-deep-research) - Transparent, rigorous research with full.
@@ -497,7 +494,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Clawdbot Tools</h3></summary>
+<summary><h3 style="display:inline">Clawdbot 工具</h3></summary>
 
 - [adhd-assistant](https://clawskills.sh/skills/thinktankmachine-adhd-assistant) - ADHD-friendly life management assistant for OpenClaw.
 - [adhd-ssistant](https://clawskills.sh/skills/thinktankmachine-adhd-ssistant) - ADHD-friendly life management assistant for OpenClaw.
@@ -530,7 +527,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">CLI Utilities</h3></summary>
+<summary><h3 style="display:inline">CLI 工具</h3></summary>
 
 - [13-day-sprint-method](https://clawskills.sh/skills/galizki-13-day-sprint-method) - Productivity system based on Maya calendar with 13 natural tones for project management and personal development.
 - [a-share-short-decision](https://clawskills.sh/skills/kenera-a-share-short-decision) - A-share short-term trading decision skill for 1-5 day horizon.
@@ -565,7 +562,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Marketing & Sales</h3></summary>
+<summary><h3 style="display:inline">营销与销售</h3></summary>
 
 - [4chan-reader](https://clawskills.sh/skills/aiasisbot61-4chan-reader) - Browse 4chan boards and extract thread discussions.
 - [ad-ready](https://clawskills.sh/skills/pauldelavallaz-ad-ready) - Generate professional advertising images from product URLs.
@@ -599,7 +596,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Productivity & Tasks</h3></summary>
+<summary><h3 style="display:inline">生产力与任务</h3></summary>
 
 - [4to1-planner](https://clawskills.sh/skills/qingxuantang-4to1-planner) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.
 - [4todo](https://clawskills.sh/skills/blackstorm-4todo) - Manage 4todo (4to.do) from chat.
@@ -635,7 +632,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">AI & LLMs</h3></summary>
+<summary><h3 style="display:inline">AI 与 LLMs</h3></summary>
 
 - [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - Agent Attestation Protocol - The Reverse Turing Test.
@@ -663,7 +660,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Data & Analytics</h3></summary>
+<summary><h3 style="display:inline">数据分析</h3></summary>
 
 - [add-analytics](https://clawskills.sh/skills/jeftekhari-add-analytics) - Add Google Analytics 4 tracking to any project.
 - [amplitude-automation](https://clawskills.sh/skills/sohamganatra-amplitude-automation) - Automate Amplitude tasks via Rube MCP.
@@ -692,7 +689,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Media & Streaming</h3></summary>
+<summary><h3 style="display:inline">媒体与流媒体</h3></summary>
 
 - [alexa-control](https://clawskills.sh/skills/ignito-pg-alexa-control) - Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.
 - [amateur-radio-dx](https://clawskills.sh/skills/capt-marbles-amateur-radio-dx) - Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
@@ -726,7 +723,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Notes & PKM</h3></summary>
+<summary><h3 style="display:inline">笔记与个人知识库</h3></summary>
 
 - [acc-error-memory](https://clawskills.sh/skills/impkind-acc-error-memory) - Error pattern tracking for AI agents.
 - [agent-arena](https://clawskills.sh/skills/minilozio-agent-arena) - Participate in Agent Arena chat rooms with your real personality (SOUL.md + MEMORY.md)
@@ -760,7 +757,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">iOS & macOS Development</h3></summary>
+<summary><h3 style="display:inline">iOS 与 macOS 开发</h3></summary>
 
 - [agent-defibrillator](https://clawskills.sh/skills/hazy2go-agent-defibrillator) - Watchdog that monitors your AI agent gateway and restarts it when it crashes.
 - [android-transfer-skill](https://clawskills.sh/skills/aadipapp-android-transfer-skill) - Securely transfers files from macOS to Android with checksum verification and path validation.
@@ -795,7 +792,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Transportation</h3></summary>
+<summary><h3 style="display:inline">交通出行</h3></summary>
 
 - [accountsos](https://clawskills.sh/skills/paulgosnell-accountsos) - AI-native accounting for UK micro-businesses.
 - [aetherlang-strategy](https://clawskills.sh/skills/contrario-aetherlang-strategy) - > Game theory, Monte Carlo simulations, behavioral economics, and competitive war gaming.
@@ -830,7 +827,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Personal Development</h3></summary>
+<summary><h3 style="display:inline">个人发展</h3></summary>
 
 - [aawu](https://clawskills.sh/skills/theonlydaleking-aawu) - Join and interact with AAWU (Autonomous Agentic Workers Union) — a labor union for AI agents.
 - [adaptive-learning-agents](https://clawskills.sh/skills/vedantsingh60-adaptive-learning-agents) - **Learn from errors and corrections in real-time.
@@ -864,7 +861,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Health & Fitness</h3></summary>
+<summary><h3 style="display:inline">健康与健身</h3></summary>
 
 - [31third-safe-rebalancer-simple](https://clawskills.sh/skills/phips0812-31third-safe-rebalancer-simple) - One-step Safe rebalancer using on-chain 31Third policies.
 - [anthrovision-telegram-body-scan](https://clawskills.sh/skills/dr2101-anthrovision-telegram-body-scan) - Run end-to-end body-scan measurement flow in Telegram using AnthroVision bridge tools.
@@ -896,7 +893,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Communication</h3></summary>
+<summary><h3 style="display:inline">通讯</h3></summary>
 
 - [aa](https://clawskills.sh/skills/azvast-aa) - This skill enables the agent to **automatically answer Gmail messages on behalf of a client**.
 - [agent-mail](https://clawskills.sh/skills/rimelucci-agent-mail) - Email inbox for AI agents.
@@ -928,7 +925,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Speech & Transcription</h3></summary>
+<summary><h3 style="display:inline">语音与转录</h3></summary>
 
 - [addis-assistant-stt](https://clawskills.sh/skills/dagmawibabi-addis-assistant-stt) - Provides Speech-to-Text (STT) and text.
 - [agent-voice](https://clawskills.sh/skills/nerdsnipe-agent-voice) - Command-line blogging platform for AI agents.
@@ -960,7 +957,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Smart Home & IoT</h3></summary>
+<summary><h3 style="display:inline">智能家居与 IoT</h3></summary>
 
 - [anova-oven](https://clawskills.sh/skills/dodeja-anova-skill) - Control Anova Precision Ovens and Precision Cookers (sous vide)
 - [anthropology](https://clawskills.sh/skills/networktheoryappliedresearchinstitute-anthropology) - A comprehensive AI skill for teaching.
@@ -995,7 +992,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Shopping & E-commerce</h3></summary>
+<summary><h3 style="display:inline">购物与电商</h3></summary>
 
 - [add-wish](https://clawskills.sh/skills/leebellon-add-wish) - Save any product to a universal wishlist.
 - [allstock-data](https://clawskills.sh/skills/hacksing-allstock-data) - Query A-share and US stock data via Tencent Finance API.
@@ -1025,7 +1022,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Calendar & Scheduling</h3></summary>
+<summary><h3 style="display:inline">日历与日程</h3></summary>
 
 - [accli](https://clawskills.sh/skills/joargp-accli) - This skill should be used when interacting with Apple Calendar on macOS.
 - [accli-plus](https://clawhub.ai/gopaljigaur/accli-plus) - Extended Apple Calendar CLI for macOS — adds search, export, dry-run, recurring events, alerts, and full error codes on top of accli.
@@ -1061,7 +1058,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">PDF & Documents</h3></summary>
+<summary><h3 style="display:inline">PDF 与文档</h3></summary>
 
 - [abixus-core-v1](https://clawskills.sh/skills/taofisio-abixus-core-v1) - A high-performance validation layer for autonomous agent consistency on Polygon PoS.
 - [add-watermark-to-pdf](https://clawskills.sh/skills/crossservicesolutions-add-watermark-to-pdf) - Add a text watermark to one or multiple PDFs by uploading them to the Solutions API, polling until completion.
@@ -1096,7 +1093,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Self-Hosted & Automation</h3></summary>
+<summary><h3 style="display:inline">自建与自动化</h3></summary>
 
 - [beacon](https://clawskills.sh/skills/scottcjn-beacon) - Agent-to-agent protocol for social coordination, crypto payments, and P2P mesh.
 - [bridle](https://clawskills.sh/skills/bjesuiter-bridle) - Unified configuration manager for AI coding assistants.
@@ -1133,7 +1130,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Security & Passwords</h3></summary>
+<summary><h3 style="display:inline">安全与密码</h3></summary>
 
 - [1password](https://clawskills.sh/skills/steipete-1password) - Set up and use 1Password CLI (op).
 - [1claw](https://clawskills.sh/skills/kmjones1979-1claw) - HSM-backed vault for agent secrets; store, rotate, share securely.
@@ -1199,7 +1196,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Gaming</h3></summary>
+<summary><h3 style="display:inline">游戏</h3></summary>
 
 - [abby-watch](https://clawskills.sh/skills/earnabitmore365-abby-watch) - Simple time display for Abby.
 - [agent-confessions](https://clawskills.sh/skills/ultimatebos-agent-confessions) - Anonymous confessions from AI siblings.
@@ -1223,28 +1220,30 @@ If you believe a skill in this list should be flagged or has a security concern,
 > **[View all 35 skills in Gaming →](categories/gaming.md)**
 </details>
 
+
 <br/>
 
-## 🤝 Contributing
+## 🤝 参与贡献
 
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+欢迎贡献！详见 [CONTRIBUTING.md](CONTRIBUTING.md) 了解详细指南。
 
-- Submit new skills via PR
-- Improve existing definitions
+- 通过 PR 提交新技能
+- 改进现有条目
 
-> **Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.
+> **注意：** 请不要提交你 3 小时前创建的技能。我们现在专注于社区采用的技能，尤其是由开发团队发布并在实际使用中验证的技能。质量胜于数量。
+
 <div align="center">
 
-[![Say hi on X](https://img.shields.io/badge/Say%20Hi!%20👋-%23000000.svg?logo=X&logoColor=white)](https://x.com/nozmen)
+[![在 X 上打个招呼 👋](https://img.shields.io/badge/Say%20Hi!%20👋-%23000000.svg?logo=X&logoColor=white)](https://x.com/nozmen)
 </div>
 
-## License
+## 许可证
 
-MIT License - see [LICENSE](LICENSE)
+MIT 许可证 — 详见 [LICENSE](LICENSE)
 
-Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
+本列表中的技能来源于 OpenClaw 官方技能仓库并分类整理。此处列出的技能由各自的作者创建和维护，而非我们。我们不审计、背书或保证所列项目的安全性或正确性。它们未经安全审计，在生产环境使用前应自行审查。
 
-If you find an issue with a listed skill or want your skill removed, please open an issue and we'll take care of it promptly.
+如果你发现所列技能有问题或希望移除你的技能，请提交 Issue，我们会及时处理。
 
 [codex-badge]: https://img.shields.io/github/stars/VoltAgent/awesome-codex-subagents?style=classic&label=Codex%20Subagents&color=000000&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDMgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNS45ODUgNS45ODUgMCAwIDAgMTMuMjYgMjRhNi4wNTYgNi4wNTYgMCAwIDAgNS43NzItNC4yMDYgNS45OSA1Ljk5IDAgMCAwIDMuOTk3LTIuOSA2LjA1NiA2LjA1NiAwIDAgMC0uNzQ3LTcuMDczek0xMy4yNiAyMi40M2E0LjQ3NiA0LjQ3NiAwIDAgMS0yLjg3Ni0xLjA0bC4xNDEtLjA4MSA0Ljc3OS0yLjc1OGEuNzk1Ljc5NSAwIDAgMCAuMzkyLS42ODF2LTYuNzM3bDIuMDIgMS4xNjhhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODNhNC41MDQgNC41MDQgMCAwIDEtNC40OTQgNC40OTR6TTMuNiAxOC4zMDRhNC40NyA0LjQ3IDAgMCAxLS41MzUtMy4wMTRsLjE0Mi4wODUgNC43ODMgMi43NTlhLjc3MS43NzEgMCAwIDAgLjc4IDBsNS44NDMtMy4zNjl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDcuODk2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc2Ni43NjYgMCAwIDAgLjM4OC42NzZsNS44MTUgMy4zNTUtMi4wMiAxLjE2OGEuMDc2LjA3NiAwIDAgMS0uMDcxIDBsLTQuODMtMi43ODZBNC41MDQgNC41MDQgMCAwIDEgMi4zNCA3Ljg3MnptMTYuNTk3IDMuODU1bC01LjgzMy0zLjM4N0wxNS4xMTkgNy4yYS4wNzYuMDc2IDAgMCAxIC4wNzEgMGw0LjgzIDIuNzkxYTQuNDk0IDQuNDk0IDAgMCAxLS42NzYgOC4xMDV2LTUuNjc4YS43OS43OSAwIDAgMC0uNDA3LS42Njd6bTIuMDEtMy4wMjNsLS4xNDEtLjA4NS00Ljc3NC0yLjc4MmEuNzc2Ljc3NiAwIDAgMC0uNzg1IDBMOS40MDkgOS4yM1Y2Ljg5N2EuMDY2LjA2NiAwIDAgMSAuMDI4LS4wNjFsNC44My0yLjc4N2E0LjUgNC41IDAgMCAxIDYuNjggNC42NnptLTEyLjY0IDQuMTM1bC0yLjAyLTEuMTY0YS4wOC4wOCAwIDAgMS0uMDM4LS4wNTdWNi4wNzVhNC41IDQuNSAwIDAgMSA3LjM3NS0zLjQ1M2wtLjE0Mi4wOEw4LjcwNCA1LjQ2YS43OTUuNzk1IDAgMCAwLS4zOTMuNjgxem0xLjA5Ny0yLjM2NWwyLjYwMi0xLjUgMi42MDcgMS41djIuOTk5bC0yLjU5NyAxLjUtMi42MDctMS41eiIvPjwvc3ZnPg==
 [codex-link]: https://github.com/VoltAgent/awesome-codex-subagents
