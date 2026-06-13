@@ -40,3 +40,4 @@
 - [umea-data](https://clawskills.sh/skills/simskii-umea-data) - Query open data from Umeå kommun about locations, facilities.
 - [yahoo-data-fetcher](https://clawskills.sh/skills/noypearl-yahoo-data-fetcher) - Fetch real-time stock quotes from Yahoo Finance.
 - [douban-sync-skill](https://clawskills.sh/skills/cosformula-douban-sync-skill) - Export and sync Douban (豆瓣) book/movie/music/game collections.
+- [btcvision-oracle](https://clawskills.sh/skills/welove111-btcvision-oracle) - Live BTC price, AI predictions 2027-2030, halving analysis. Free MCP+A2A server. [btcvision.org](https://btcvision.org)
