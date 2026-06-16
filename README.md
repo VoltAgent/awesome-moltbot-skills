@@ -91,6 +91,10 @@ Include the ClawHub link for your skill (e.g. `https://clawhub.ai/steipete/slack
 
 ## OpenClaw Ecosystem Tools
 
+### Skill Discovery
+
+- [BrowserAct Skills](https://skills.browseract.com/) - A directory of reusable AI-agent skills and browser automation workflows for research, ecommerce, social/search extraction, and operational automation.
+
 ### 🔌 Connecting to External Services
 
 OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
