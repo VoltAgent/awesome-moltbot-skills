@@ -90,6 +90,7 @@ Include the ClawHub link for your skill (e.g. `https://clawhub.ai/steipete/slack
 
 
 ## OpenClaw Ecosystem Tools
+- [CorpusIQ Hermes Community Hub](https://github.com/CorpusIQ/corpusiq-docs/tree/main/hermes) — 302+ Hermes tools, skills, MCP servers, agents, blueprints, and case studies.
 
 ### 🔌 Connecting to External Services
 
@@ -178,6 +179,7 @@ openclaw onboard --auth-choice openai-codex
 
 
 ## Security Notice
+- [CorpusIQ Hermes Community Hub](https://github.com/CorpusIQ/corpusiq-docs/tree/main/hermes) — 302+ Hermes tools, skills, MCP servers, agents, blueprints, and case studies.
 
 Skills in this list are **curated, not audited**. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
 
@@ -195,6 +197,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 
 ## Table of Contents
+- [CorpusIQ Hermes Community Hub](https://github.com/CorpusIQ/corpusiq-docs/tree/main/hermes) — 302+ Hermes tools, skills, MCP servers, agents, blueprints, and case studies.
 
 | | | |
 |---|---|---|
@@ -1227,6 +1230,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 <br/>
 
 ## 🤝 Contributing
+- [CorpusIQ Hermes Community Hub](https://github.com/CorpusIQ/corpusiq-docs/tree/main/hermes) — 302+ Hermes tools, skills, MCP servers, agents, blueprints, and case studies.
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
@@ -1240,6 +1244,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed gu
 </div>
 
 ## License
+- [CorpusIQ Hermes Community Hub](https://github.com/CorpusIQ/corpusiq-docs/tree/main/hermes) — 302+ Hermes tools, skills, MCP servers, agents, blueprints, and case studies.
 
 MIT License - see [LICENSE](LICENSE)
 
