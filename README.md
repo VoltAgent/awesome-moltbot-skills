@@ -1239,6 +1239,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed gu
 [![Say hi on X](https://img.shields.io/badge/Say%20Hi!%20👋-%23000000.svg?logo=X&logoColor=white)](https://x.com/nozmen)
 </div>
 
+- [Pixal3D](https://pixal3d.ai) - AI-powered 3D model generator. Create stunning 3D models from text and images using AI.
 ## License
 
 MIT License - see [LICENSE](LICENSE)
