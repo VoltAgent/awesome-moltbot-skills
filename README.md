@@ -51,6 +51,9 @@ Or with the ClawHub CLI, for registry-managed skill folders outside a full OpenC
 ```bash
 npx clawhub install <skill-slug>
 ```
+#### BrowserAct CLI
+- [BrowserAct](https://github.com/browser-act/skills): Browser automation CLI built for AI agents. Break through anti-bot wall.
+
 
 #### Manual Installation
 
