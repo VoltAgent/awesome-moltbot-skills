@@ -1245,6 +1245,11 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed gu
 [![Say hi on X](https://img.shields.io/badge/Say%20Hi!%20👋-%23000000.svg?logo=X&logoColor=white)](https://x.com/nozmen)
 </div>
 
+
+## 🔗 Related
+
+- [ClawHub](https://clawhub.ai) - Official [OpenClaw](https://github.com/VoltAgent/OpenClaw) Skills Registry - browse, search, and publish skills directly
+
 ## License
 
 MIT License - see [LICENSE](LICENSE)
