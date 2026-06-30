@@ -664,7 +664,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 - [agentbase](https://clawskills.sh/skills/revmischa-agentbase) - Shared knowledge base for AI agents via MCP.
 - [llm-box](https://github.com/alib8b8/llm-box/tree/main/contrib/openclaw) - Terminal-based AI workflow engine with YAML-driven pipelines. Expose llm-box workflows as callable tools. Supports 20+ LLM providers.
-> **[View all 185 skills in AI & LLMs →](categories/ai-and-llms.md)**
+> **[View all 186 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
 
 <details>
