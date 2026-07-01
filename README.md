@@ -153,6 +153,8 @@ openclaw onboard --auth-choice openai-codex
 ```
 </details>
 
+- [Atlas Cloud Media API](https://www.atlascloud.ai/models) provides OpenAI-compatible LLM endpoints and async image/video generation APIs that OpenClaw workflows can call from custom skills or provider integrations.
+
 
 <div align="center">
 
