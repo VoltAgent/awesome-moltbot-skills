@@ -126,6 +126,8 @@ OpenClaw agents often need fresh, real-world data — search results, product li
 Give OpenClaw agents access to real-time Google Search, YouTube, Amazon Product, and web search data through a single API.
 </a>
 
+**[BrowserAct](https://github.com/browser-act/skills)** - Browser automation CLI built for AI agents. Break through anti-bot wall.
+
 
 ### 🛡️ Security & Config Auditing
 
