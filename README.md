@@ -495,6 +495,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
 - [xquik-x-twitter-scraper](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper) - X API scraper with 40+ tools for AI agents.
 - [skywork-search](https://clawskills.sh/skills/gxcun17-skywork-search) - AI-powered web search for real-time information — retrieve up-to-date content.
+- [grounddata-ai-daily-news](https://clawhub.ai/finleyfu/grounddata-ai-daily-news) - Pre-processed global AI news, ready to use with zero setup.
 
 > **[View all 352 skills in Search & Research →](categories/search-and-research.md)**
 </details>
