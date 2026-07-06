@@ -1135,6 +1135,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [pinme](https://clawskills.sh/skills/ntlx-pinme) - Deploy static websites to IPFS with a single command using PinMe CLI.
 - [sonarqube-analyzer](https://clawskills.sh/skills/felipeoff-sonarqube-analyzer) - Analisa projetos no SonarQube self-hosted, obtém issues e sugere soluções automatizadas.
 - [system-integrity-and-backup](https://clawskills.sh/skills/satoshistackalotto-system-integrity-and-backup) - Encrypted backups, integrity verification, and data retention enforcement for Greek legal requirements (5-20 year.
+- [erpclaw](https://clawhub.ai/mailnike/erpclaw) - Self-hosted AI-native ERP for running business operations in plain English.
 
 > **[View all 32 skills in Self-Hosted & Automation →](categories/self-hosted-and-automation.md)**
 </details>
