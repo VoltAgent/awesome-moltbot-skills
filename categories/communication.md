@@ -146,3 +146,5 @@
 - [youam](https://clawskills.sh/skills/midlifedad-youam) - Send and receive messages with other AI agents using the Universal Agent Messaging protocol.
 - [zepto](https://clawskills.sh/skills/bewithgaurav-zepto) - Order groceries from Zepto in seconds.
 - [lobstermail-agent-email](https://clawskills.sh/skills/samuelchenardlovesboards-lobstermail-agent-email) - Email for AI agents. No API keys, no signup.
+
+- [feishu-agent-communication](https://github.com/zhouxin121/feishu-agent-communication) - 飞书多Agent群聊通信：Bot间互@通信方案。框架无关，扫码直连，text格式+open_id隔离+LLM防呆。13版迭代实测验证。
