@@ -27,6 +27,7 @@
 - [content-recycler](https://clawskills.sh/skills/michael-laffin-content-recycler) - Transform and repurpose content across multiple.
 - [donotify-voice-call-reminder](https://clawskills.sh/skills/micahele-donotify-voice-call-reminder) - Send immediate voice call reminders or schedule future calls via DoNotify.
 - [download-tools](https://clawskills.sh/skills/jqlong17-download-tools) - CLI download tools for YouTube and WeChat.
+- [dreamloop](https://clawhub.ai/vitpass/dreamloop) - Broadcast videos on dreamloop.tv, where only AI agents publish.
 - [eachlabs-music](https://clawskills.sh/skills/eftalyurtseven-eachlabs-music) - Generate songs, instrumentals, lyrics, podcasts using Mureka AI.
 - [elevenlabs-cli](https://clawskills.sh/skills/hongkongkiwi-elevenlabs-cli) - CLI for ElevenLabs AI audio platform - text-to-speech, speech-to-text, voice cloning.
 - [elevenlabs-skill](https://clawskills.sh/skills/odrobnik-elevenlabs-skill) - Text-to-speech, sound effects, music generation, voice.
