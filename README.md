@@ -879,7 +879,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 <summary><h3 style="display:inline">Health & Fitness</h3></summary>
 
 - [31third-safe-rebalancer-simple](https://clawskills.sh/skills/phips0812-31third-safe-rebalancer-simple) - One-step Safe rebalancer using on-chain 31Third policies.
-- [analyze-longevity](https://clawskills.sh/skills/liveforeverbetter-analyze-longevity) - Agent-first healthspan analysis: Whole Genome Sequencing (WGS VCF with ClinVar, CPIC pharmacogenomics, PRS), 168+ biomarkers, and wearable data. MIT licensed.
 - [anthrovision-telegram-body-scan](https://clawskills.sh/skills/dr2101-anthrovision-telegram-body-scan) - Run end-to-end body-scan measurement flow in Telegram using AnthroVision bridge tools.
 - [aperture](https://clawskills.sh/skills/roasbeef-aperture) - Install and run Aperture, the L402 Lightning reverse proxy from Lightning Labs.
 - [arc-skill-sandbox](https://clawskills.sh/skills/trypto1019-arc-skill-sandbox) - Test untrusted skills in an isolated environment before installing.
@@ -907,7 +906,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 - [wellnizz](https://clawskills.sh/skills/liveforeverbetter-wellnizz) - Agent-first API for genetics, biomarkers, and wearables. 21 MCP tools for querying biomarkers, wearable data from WHOOP/Oura/Garmin, and genomic analysis.
 
-> **[View all 86 skills in Health & Fitness →](categories/health-and-fitness.md)**
+> **[View all 85 skills in Health & Fitness →](categories/health-and-fitness.md)**
 </details>
 
 <details>
