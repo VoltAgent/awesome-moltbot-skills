@@ -5,7 +5,7 @@
 **86 skills**
 
 - [31third-safe-rebalancer-simple](https://clawskills.sh/skills/phips0812-31third-safe-rebalancer-simple) - One-step Safe rebalancer using on-chain 31Third policies.
-- [analyze-longevity](https://clawskills.sh/skills/liveforeverbetter-analyze-longevity) - Comprehensive healthspan analysis interpreting Whole Genome Sequencing (WGS VCF with ClinVar, CPIC pharmacogenomics, PRS), 168+ biomarkers across 6 panels, and wearable data. MIT licensed.
+- [analyze-longevity](https://clawskills.sh/skills/liveforeverbetter-analyze-longevity) - Agent-native healthspan analysis interpreting Whole Genome Sequencing (WGS VCF with ClinVar, CPIC pharmacogenomics, PRS), 168+ biomarkers across 6 panels, and wearable data. MIT licensed.
 - [anthrovision-telegram-body-scan](https://clawskills.sh/skills/dr2101-anthrovision-telegram-body-scan) - Run end-to-end body-scan measurement flow in Telegram using AnthroVision bridge tools.
 - [aperture](https://clawskills.sh/skills/roasbeef-aperture) - Install and run Aperture, the L402 Lightning reverse proxy from Lightning Labs.
 - [arc-skill-sandbox](https://clawskills.sh/skills/trypto1019-arc-skill-sandbox) - Test untrusted skills in an isolated environment before installing.
@@ -85,7 +85,7 @@
 - [usdc-hackathon](https://clawskills.sh/skills/swairshah-usdc-hackathon) - Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill.
 - [uv-priority](https://clawskills.sh/skills/marcoracer-uv-priority) - Prioritize uv over pip for all Python package management and execution.
 - [vynn-backtester](https://clawskills.sh/skills/beee003-vynn-backtester) - Run trading strategy backtests with natural language — powered by Vynn.
-- [wellnizz](https://clawskills.sh/skills/liveforeverbetter-wellnizz) - Connects agents to ForeverBetter hosted health API. 21 MCP tools for querying biomarkers, wearable data from WHOOP/Oura/Garmin, and genomic analysis. Self-hostable (Docker).
+- [wellnizz](https://clawskills.sh/skills/liveforeverbetter-wellnizz) - Agent-native health API connector with 21 MCP tools for querying biomarkers, wearable data from WHOOP/Oura/Garmin, and genomic analysis. Self-hostable (Docker).
 - [xrpl-tx-builder](https://clawskills.sh/skills/harleyscodes-xrpl-tx-builder) - Build and sign XRP Ledger transactions.
 - [yumstock](https://clawskills.sh/skills/yumyumtum-yumstock) - Macro-gated US stock analysis combining technical indicators, fundamentals, and macro environment with weighted.
 - [signet-guide](https://clawhub.ai/amrree/signet-guide) - Getting started with Signet Mind — local mental health companion with grounding exercises and mood tracking.
