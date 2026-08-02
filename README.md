@@ -148,6 +148,7 @@ OpenClaw supports `gpt-5.4` and `gpt-5.4-pro` via direct API key or ChatGPT/Code
 
 ```bash
 openclaw onboard --auth-choice openai-api-key
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
 # or use subscription-based access:
 openclaw onboard --auth-choice openai-codex
 ```
