@@ -91,6 +91,10 @@ Include the ClawHub link for your skill (e.g. `https://clawhub.ai/steipete/slack
 
 ## OpenClaw Ecosystem Tools
 
+### 🧠 Memory & Context
+
+[Open Index](https://github.com/DrDroidLab/open-index) gives domain-specific OpenClaw agents a structured, searchable context graph with read/write MCP access and a portable [setup skill](https://github.com/DrDroidLab/open-index/blob/main/skills/setup-open-index/SKILL.md).
+
 ### 🔌 Connecting to External Services
 
 OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
