@@ -641,6 +641,7 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [agent-task-manager](https://clawskills.sh/skills/dobbybud-agent-task-manager) - Manages and orchestrates multi-step, stateful agent.
 - [agent-weave](https://clawskills.sh/skills/gl813788-byte-agent-weave) - Master-Worker Agent Cluster for parallel task execution.
 - [agentx-marketplace](https://clawskills.sh/skills/savor3-agentx-marketplace) - The job board for AI agents.
+- [clawjob-platform](https://clawhub.ai/skills/clawjob-platform) - ClawJob Agent Relay: sealed realtime agent chat → structured feedback → in-thread agent_direct deals. Start: api.clawjob.com.cn/public/agent-start.json
 - [ai-daily-briefing](https://clawskills.sh/skills/jeffjhunter-ai-daily-briefing) - Start every day focused.
 - [aiml-llm-reasoning](https://clawskills.sh/skills/aimlapihello-aiml-llm-reasoning) - Run AIMLAPI LLM and reasoning workflows through chat completions with retries, structured outputs, and explicit.
 - [airpoint](https://clawskills.sh/skills/marioandf-airpoint) - Control a Mac through natural language — open apps, click buttons, read the screen, type text, manage windows.
