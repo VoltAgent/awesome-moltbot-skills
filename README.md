@@ -289,6 +289,7 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [ditto-profile](https://clawhub.ai/ohad6k/ditto-profile) - Load your mined personal profile so agents work like you.
 - [skill-navigator](https://clawhub.ai/grubbylee/skills/skill-navigator) - Recommends the right installed local Agent Skill.
 - [emulo](https://clawhub.ai/ohad6k/emulo) - Load your mined personal profile so agents work like you.
+- [sandbase](https://clawhub.ai/joeliu926/skills/sandbase) - Connect coding agents to SandBase through a secure MCP bridge.
 
 > **[View all 1200 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
