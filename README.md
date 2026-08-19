@@ -179,6 +179,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 - [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
+- [ViBo SkillQA](https://github.com/vnbochkarev-netizen/ViBo-SkillQA) — automated QA & certification for agent skills: 7 checks (structure, sandbox, secret leaks, compatibility, load, parallel), grade A–D, SHA-256-bound certificate
   
 > Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the source code before installing and use skills at your own discretion.
 
