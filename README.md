@@ -540,6 +540,7 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [clawdirect](https://clawskills.sh/skills/napoleond-clawdirect) - Interact with ClawDirect, a directory of social web experiences.
 - [clawdirect-dev](https://clawskills.sh/skills/napoleond-clawdirect-dev) - Build agent-facing web experiences with ATXP-based.
 - [honcho-setup](https://clawskills.sh/skills/ajspig-honcho-setup) - Persistent cross-session memory via Honcho.
+- [mnemosyne](https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes) - Zero-dependency cognitive memory engine for agents: compound-cue theory retrieval (5.2x benchmark gains), pure Markdown storage, zero API keys.
 
 > **[View all 37 skills in Clawdbot Tools →](categories/clawdbot-tools.md)**
 </details>
