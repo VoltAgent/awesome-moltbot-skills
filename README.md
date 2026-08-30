@@ -36,7 +36,7 @@ OpenClaw is a locally-running AI assistant that operates directly on your machin
 
 Skills in this list are sourced from ClawHub (OpenClaw's public skills registry) and categorized for easier discovery.
 
-- [memory-shield](https://github.com/vnbochkarev-netizen/memory-shield) - Defend agent memory against prompt-injection poisoning: snapshots before compaction, poisoned-content quarantine, masked secrets, diff audit (MIT, zero deps)
+- [memory-shield](https://clawhub.ai/vnbochkarev-netizen/memory-shield) - Defend agent memory against prompt-injection poisoning: snapshots before compaction, poisoned-content quarantine, masked secrets, diff audit (MIT, zero deps)
 ### Installation
 
 #### OpenClaw CLI
