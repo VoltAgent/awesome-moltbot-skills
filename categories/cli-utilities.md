@@ -174,3 +174,4 @@
 - [wind-site](https://clawskills.sh/skills/qrost-wind-site) - Wind rose, wind speed/direction at a site; supports site and urban wind assessment (data only; detailed CFD.
 - [wol-sleep-pc](https://clawskills.sh/skills/oblivisheee-wol-sleep-pc) - Send Wake-on-LAN (magic packet) and Sleep-on-LAN (inverted MAC) packets for a specific PC.
 - [xiaohongshu-automation](https://clawskills.sh/skills/dingkwang-xiaohongshu-automation) - A complete automation suite for Xiaohongshu (Little Red Book)
+- [muapi-platform](https://clawhub.ai/anil-matcha/muapi-platform) - Configure MuAPI keys, test connectivity, and poll async jobs.

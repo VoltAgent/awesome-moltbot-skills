@@ -551,6 +551,7 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [camsnap](https://clawskills.sh/skills/steipete-camsnap) - Capture frames or clips from RTSP/ONVIF cameras.
 - [canvas-lms](https://clawskills.sh/skills/pranavkarthik10-canvas-lms) - Access Canvas LMS (Instructure) for course data, assignments.
 - [captcha-ai](https://clawskills.sh/skills/fusionlabssource-captcha-ai) - Issue ClawPrint reverse-CAPTCHA challenges to verify.
+- [muapi-platform](https://clawhub.ai/anil-matcha/muapi-platform) - Configure MuAPI keys, test connectivity, and poll async jobs.
 
 > **[View all 180 skills in CLI Utilities →](categories/cli-utilities.md)**
 </details>
