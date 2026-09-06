@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**145 skills**
+**146 skills**
 
 - [aa](https://clawskills.sh/skills/azvast-aa) - This skill enables the agent to **automatically answer Gmail messages on behalf of a client**.
 - [agent-mail](https://clawskills.sh/skills/rimelucci-agent-mail) - Email inbox for AI agents.
@@ -149,3 +149,4 @@
 - [sol-email](https://clawhub.ai/amrree/sol-email) - Read and send emails via himalaya (Maildir) and SMTP. Real inbox, real replies.
 - [atomicmail](https://clawhub.ai/atomicmail/atomicmail) - Agent-owned @atomicmail.ai inbox over JMAP. PoW signup, no API keys.
 - [ai-calls-china-phone](https://clawhub.ai/ustczz/skills/ai-calls-china-phone) - AI phone calls and inbound reception for mainland China.
+- [assistant-mail](https://clawhub.ai/assistantmail/skills/assistant-mail) - Allowlist/consent agent email for small-team operators.
