@@ -153,6 +153,8 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 - [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
+- [Skill Injection Scanner](https://github.com/vnbochkarev-netizen/skill-injection-scanner) - scan installed OpenClaw skills for prompt-injection patterns (EN/RU, 19 rules) before first use
+- [Context Compactor CLI](https://github.com/vnbochkarev-netizen/context-compactor) - condense long OpenClaw sessions into handoff memos; credential values auto-redacted
   
 > Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the source code before installing and use skills at your own discretion.
 
