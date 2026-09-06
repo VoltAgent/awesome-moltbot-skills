@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**145 skills**
+**146 skills**
 
 - [aa](https://clawskills.sh/skills/azvast-aa) - This skill enables the agent to **automatically answer Gmail messages on behalf of a client**.
 - [agent-mail](https://clawskills.sh/skills/rimelucci-agent-mail) - Email inbox for AI agents.
